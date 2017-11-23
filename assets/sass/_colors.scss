@@ -23,7 +23,6 @@ $colors: (
 	opere: rgba(237, 105, 28, 1),
 	opere-light: rgba(237, 105, 28, 0.15)
 	);
-
 // function to get the colors
 @function color($key) {
 		@return map-get($colors, $key);

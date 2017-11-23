@@ -11,8 +11,8 @@
   <?php echo css('assets/sass/lightbox.css'); ?>
 
   <!-- js -->
+  <?php echo js('assets/js/nav.js'); ?>
   <?php echo js('assets/js/jquery.min.js'); ?>
-  <?php echo js('assets/js/main.js'); ?>
 
   <!-- facebook -->
 

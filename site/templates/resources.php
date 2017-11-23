@@ -11,7 +11,7 @@
 		<li>
 		
 			<!-- Experience -->
-			<?php if($resource->intendedTemplate() === "resource-experience"): ?>
+			<?php if($resource->intendedTemplate() === "resource-experience" || $resource->intendedTemplate() === "resource-experience-audio"): ?>
 				<article class="experience">
 					<h3 class="headline"><a href="<?php echo $resource->url() ?>" class="resource-link"><?php echo $resource->title()->html() ?></a></h3>
 					<!--

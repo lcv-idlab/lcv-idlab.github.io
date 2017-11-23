@@ -198,6 +198,10 @@ hr {
 
     border-top: 1px solid color(gray);
 
+    .headline {
+      margin-bottom: 1rem;
+    }
+
     //position: relative;
 
     //display: block;
@@ -339,6 +343,21 @@ hr {
   display: block;
   padding-top: .75 * $baseline;
   */
+}
+
+// general paragraph link
+
+p a:hover, p a:active {
+  color: color(brand);
+  text-decoration: none;
+  border-bottom: 1px solid color(brand);
+  @extend %bold-weight;
+}
+
+p a, p a:visited {
+  color: color(brand);
+  text-decoration: none;
+  border-bottom: 1px solid color(brand);
 }
 
 .link-back {

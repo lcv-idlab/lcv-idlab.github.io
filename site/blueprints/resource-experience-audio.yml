@@ -1,0 +1,116 @@
+// blueprint title (template title)
+title: resource-experience-audio
+
+// page settings
+options:
+  delete: true
+  preview: true
+  status: true
+  template: false
+  url: true
+
+// subpages settings
+pages: false
+
+// file settings
+files: true
+  fields: 
+    alt:
+      label: Alt text
+      type: text
+
+// fields with their fields types and options
+fields:
+  title:
+    label: Titolo dell'esperienza
+    type: text
+  location: 
+    label: Luogo
+    type: text
+  partner:
+    label: Partner
+    type: text
+  date:
+    label: Data
+    type: date
+  short:
+    label: Descrizione breve
+    type: textarea
+  long:
+    label: Descrizione completa
+    type: textarea
+  docs:
+    label: Documenti
+    type: structure
+    entry: >
+      <b>{{doc_title}}</b><br>
+      {{doc}}
+    fields:
+      doc_title:
+        label: Nome del documento
+        type: text
+      doc:
+        label: Scegli il docuento
+        type: selector
+        default: architecture
+        options: documents
+  main_image:
+    label: Immagine di copertina
+    type: image
+  recordings:
+    label: Registrazione delle opere
+    type: structure
+    fields:
+      title:
+        label: Titolo dell'opera
+        type: text
+      caption:
+        label: Didascalia (autore, anno, tecnica, dimensione, luogo)
+        type: textarea
+      picture:
+        label: Immagine dell'opera
+        type: image
+      copyright:
+        label: copyright
+        type: text
+      audio1:
+        label: Audio1
+        type: selector
+        mode: single
+        types:
+          - audio
+      audio2:
+        label: Audio2
+        type: selector
+        mode: single
+        types:
+          - audio
+      audio3:
+        label: Audio3
+        type: selector
+        mode: single
+        types:
+          - audio
+      audio4:
+        label: Audio4
+        type: selector
+        mode: single
+        types:
+          - audio
+  movie:
+    label: Video
+    type: text
+    placeholder: Inserici solo l'id del video, per esempio 54785974
+    help: "Inserire l'id del video che è l'ultima parte del link (https://vimeo.com/54785974)"
+  alt_video:
+    label: Alt video
+    type: textarea
+  gallery:
+    label: Galleria immagini
+    type: gallery
+  ext_link:
+    label: Link esterno della risorsa (mini sito, ecc)
+    type: url
+  ext_link_desc:
+    label: Titolo del bottone "Link esterno"
+    type: text

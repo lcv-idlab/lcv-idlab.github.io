@@ -46,22 +46,12 @@
           <!-- document download button -->
           <h3>Documenti scaricabili</h3>
 
-          <?php if(page()->pdf_it()->isNotEmpty()): ?>
-            <a href="<?php echo page()->document(page()->pdf_it())->url() ?>" target="_blank" title="<?php echo page()->pdf_it()->fileName() ?>" class="button button-download main-document">Documento completo</a>
+          <?php if(page()->docs()->isNotEmpty()): ?>
+          <?php foreach(page()->docs()->toStructure() as $doc): ?>
+            <a href="<?php echo page()->document($doc->file())->url() ?>" target="_blank" title="<?php echo $doc->button_label() ?>" class="button button-download<?php if($doc->main_doc()->bool()) { echo " main-document"; } ?>"><?php echo $doc->button_label() ?></a>
+          <?php endforeach ?>
           <?php endif ?>
 
-          <?php if(page()->pdf_de()->isNotEmpty()): ?>
-            <a href="<?php echo page()->document(page()->pdf_de())->url() ?>" target="_blank" title="<?php echo page()->pdf_de()->fileName() ?>" class="button button-download">Abstract auf Deutsch</a>
-          <?php endif ?>
-
-          <?php if(page()->pdf_fr()->isNotEmpty()): ?>
-            <a href="<?php echo page()->document(page()->pdf_fr())->url() ?>" target="_blank" title="<?php echo page()->pdf_fr()->fileName() ?>" class="button button-download">Abstract en Français</a>
-          <?php endif ?>
-
-          <?php if(page()->pdf_en()->isNotEmpty()): ?>
-            <a href="<?php echo page()->document(page()->pdf_en())->url() ?>" target="_blank" title="<?php echo page()->pdf_en()->fileName() ?>" class="button button-download">Abstract in English</a>
-          <?php endif ?>
-          <!-- end -->
         </div>
         <div id="article">
           <h2 class="subtitle"><?php echo page()->subtitle()->html() ?></h2>
