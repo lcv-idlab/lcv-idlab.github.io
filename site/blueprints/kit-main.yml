@@ -24,9 +24,6 @@ fields:
   title:
     label: Titolo
     type: text
-  subtitle:
-    label: Sottotitolo
-    type: text
   description:
     label: Descrizione
     type: textarea

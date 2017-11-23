@@ -54,8 +54,7 @@
 			<aside>
 				<div>
 					<h2>
-						<!-- <?php echo l::get('index') ?> -->
-						index	
+						<?php echo l::get('index') ?>
 					</h2>
 					<ul>
 					<?php foreach (page()->article()->toStructure() as $article): ?>

@@ -2,30 +2,27 @@
 
 <div id="kit">
 	<main>
-		<!--
 		<div id="title-bar">
 			<header>
-				<h1><?php echo page()->title()->html() ?></h1>
-				
-					<div>
-						<?php echo page()->description()->kt() ?>
-					</div>
-				
+				<h1 class="title"><?php echo page()->title()->html() ?></h1>
+
+				<div><?php echo page()->description()->kt() ?></div>
 			</header>
 		</div>
-		-->
-
-		<h1 class="title"><?php echo page()->title()->html() ?></h1>
 
 		<!-- SECOND NAV -->
+
+		<!--
 
 		<nav id="categories-nav">
 			<ul>
 				<?php foreach (page()->children() as $cat): ?>
-					<a href="#<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>" class="<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>"><li><span><?php echo ucfirst($cat->title()) ?><span></li></a>
+					<a href="#<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>" class="<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>"><li><span><?php echo ucfirst($cat->title()) ?></span></li></a>
 				<?php endforeach ?>
 			</ul>
 		</nav>
+
+		-->
 
 		<!-- CATEGORIES WITH SINGLE KITS -->
 
