@@ -6,10 +6,10 @@ Paragraphs:
 
 - 
   header: Ricerca e sperimentazione
-  content: "Attraverso una ricerca-azione il progetto intende individuare delle soluzioni facilmente scalabili e riproducibili, in grado di rendere accessibili alle persone con disabilità visive i principali musei d'arte della Svizzera italiana, promuovendo in questo modo il libero accesso al mondo culturale e artistico. Oltre alla ricerca teorica, completa di approfondimenti disciplinari, una mappatura delle buone pratiche Svizzere ed estere e un’indagine in profondità presso il pubblico cieco e ipovedente, il progetto prevede – nel corso del 2017 – un ampio percorso di sperimentazione pratica, sviluppato in particolare attraverso lo svolgimento di molteplici attività di mediazione culturale inclusive organizzate in collaborazione con i partner del progetto."
+  content: "Attraverso una ricerca-azione il progetto intende individuare delle soluzioni facilmente scalabili e riproducibili, in grado di rendere accessibili alle persone con disabilità visive i principali musei d'arte della Svizzera italiana, promuovendo in questo modo il libero accesso al mondo culturale e artistico. Oltre alla ricerca teorica, completa di approfondimenti disciplinari, una mappatura delle buone pratiche svizzere ed estere e un’indagine in profondità presso il pubblico cieco e ipovedente, il progetto prevede – nel corso del 2017 – un ampio percorso di sperimentazione pratica, sviluppato in particolare attraverso lo svolgimento di molteplici attività di mediazione culturale inclusive organizzate in collaborazione con i partner del progetto."
 - 
   header: "Musei d'arte"
-  content: "Al fine di sperimentare le soluzioni individuate, è necessario lavorare su luoghi e oggetti specifici, studiandoli nel dettaglio sia punto di vista artistico, che da quello concettuale e materiale. In questo senso risulta fondamentale la collaborazione dei nostri partner museali: m.a.x. museo di Chiasso, Museo Civico di Villa dei Cedri di Bellinzona, Museo Comunale d’Arte Moderna e Museo Castello San Materno di Ascona, Museo d'arte della Svizzera italiana (MASI Lugano), Museo Vincenzo Vela di Ligornetto, Pinacoteca cantonale Giovanni Züst di Rancate e Museo d’Arte di Mendrisio. Il coinvolgimento di più istituzioni permette di sperimentare delle soluzioni di mediazione specifiche e adatte non solo a una diversità di spazi, ma soprattutto a una molteplicità di forme d’arte, afferenti a vari periodi storici. Il progetto si appoggia su una ampia e prestigiosa rete museale, rappresentativa per apertura alla sperimentazione, qualità e varietà delle esperienze di mediazione culturale, diversità tipologica delle proprie collezioni d’arte e copertura territoriale della Svizzera italiana."
+  content: "Al fine di sperimentare le soluzioni individuate, è necessario lavorare su luoghi e oggetti specifici, studiandoli nel dettaglio sia dal punto di vista artistico, che da quello concettuale e materiale. In questo senso risulta fondamentale la collaborazione dei nostri partner museali: m.a.x. museo di Chiasso, Museo Civico Villa dei Cedri di Bellinzona, Museo Comunale d’Arte Moderna e Museo Castello San Materno di Ascona, Museo d'arte della Svizzera italiana (MASILugano), Museo Vincenzo Vela di Ligornetto, Pinacoteca cantonale Giovanni Züst di Rancate e Museo d’arte di Mendrisio. Il coinvolgimento di più istituzioni permette di sperimentare delle soluzioni di mediazione specifiche e adatte non solo a una diversità di spazi, ma soprattutto a una molteplicità di forme d’arte, afferenti a vari periodi storici. Il progetto si appoggia su una ampia e prestigiosa rete museale, rappresentativa per apertura alla sperimentazione, qualità e varietà delle esperienze di mediazione culturale, diversità tipologica delle proprie collezioni d’arte e copertura territoriale della Svizzera italiana."
 - 
   header: Persone con disabilità visive
   content: >
@@ -18,9 +18,9 @@ Paragraphs:
     necessità e le aspettative specifiche
     del pubblico cieco e ipovedente. Per
     questo motivo la collaborazione con
-    Unitas, l’Associazione ciechi e
-    ipovedenti della Svizzera italiana,
-    riveste un ruolo fondamentale per
+    l’Associazione ciechi e ipovedenti
+    della Svizzera italiana, Unitas, riveste
+    un ruolo fondamentale per
     l’elaborazione, la verifica e la
     promozione di soluzioni di intervento
     capaci di soddisfare i bisogni delle

@@ -1,0 +1,107 @@
+Title: Attività culturali e artistiche  della Svizzera italiana: esperienze e aspettative del pubblico cieco e ipovedente
+
+----
+
+Long: 
+
+L’obiettivo principale dell’indagine preliminare è stato indagare sull’interessamento generale delle persone cieche o ipovedenti rispetto all’offerta culturale e artistica. In particolare, l’indagine si è concentrata sulle esperienze pregresse e sulle aspettative del pubblico in relazione alle istituzioni museali.
+
+Solo in alcuni casi si è fatto un riferimento diretto all’offerta culturale delle istituzioni museali della Svizzera italiana. La prima parte dell’indagine si è concentrata sulle esperienze passate: si è inteso comprendere in che misura il pubblico cieco o ipovedente ha partecipato ad attività culturali e artistiche e, in particolare, a quelle offerte dalle istituzioni museali. Si è voluto poi conoscere quali siano state le modalità di partecipazione più sperimentate all’interno dei musei (visite organizzate, visite autonome ecc.).
+
+La seconda parte dell’indagine si è focalizzata sulle aspettative: in primo luogo si è voluto rilevare in che misura il pubblico cieco o ipovedente desideri partecipare maggiormente alle attività culturali e artistiche e, in particolare, a quelle offerte dalle istituzioni museali. In seguito si è voluto conoscere quali potessero essere le tipologie di museo (d’arte, di storia, ecc.) a stimolare maggiormente l’interesse nel pubblico con disabilità della vista e comprendere quali siano le modalità di visita ritenute più interessanti (visite organizzate, visite autonome ecc.).
+
+Infine, il pubblico cieco o ipovedente è stato invitato a esprimere la propria opinione rispetto al livello di accessibilità attuale dell’offerta museale della Svizzera italiana oltre che i propri auspici per il futuro.
+
+----
+
+Date: 2016-04-15
+
+----
+
+Authors: 
+
+- 
+  name: Jean-Pierre
+  surname: Candeloro
+- 
+  name: Valeria
+  surname: Donnarumma
+- 
+  name: Luca
+  surname: Morici
+- 
+  name: Gianluca
+  surname: Vignola
+
+----
+
+Info: 
+
+----
+
+Image: lcv_6749.jpg
+
+----
+
+Short: L’obiettivo principale dell’indagine preliminare è stato indagare sull’interessamento generale delle persone cieche o ipovedenti rispetto all’offerta culturale e artistica. In particolare, l’indagine si è concentrata sulle esperienze pregresse e sulle aspettative del pubblico in relazione alle istituzioni museali.
+
+----
+
+Subtitle: 
+
+----
+
+Pdf-it: attivita-culturali-e-artistiche-della-svizzera-italiana.pdf
+
+----
+
+Pdf-de: abstract-indagine-preliminare-ted.pdf
+
+----
+
+Pdf-fr: abstract-indagine-preliminare-fr.pdf
+
+----
+
+Pdf-en: abstract-indagine-preliminare-ingle.pdf
+
+----
+
+Main-image: indagine_preliminare_cover.jpg
+
+----
+
+Pdfs: 
+
+- 
+  button_label: Documento completo
+  file: >
+    attivita-culturali-e-artistiche-della-svizzera-italiana.pdf
+- 
+  button_label: Abstract auf Deutsch
+  file: abstract-indagine-preliminare-ted.pdf
+- 
+  button_label: Abstract en Français
+  file: abstract-indagine-preliminare-ted.pdf
+- 
+  button_label: Abstract in English
+  file: abstract-indagine-preliminare-ingle.pdf
+
+----
+
+Docs: 
+
+- 
+  button_label: Documento completo
+  file: >
+    attivita-culturali-e-artistiche-della-svizzera-italiana.pdf
+  main_doc: "1"
+- 
+  button_label: Abstract auf Deutsch
+  file: abstract-indagine-preliminare-ted.pdf
+- 
+  button_label: Abstract en Français
+  file: abstract-indagine-preliminare-fr.pdf
+- 
+  button_label: Abstract in English
+  file: abstract-indagine-preliminare-ingle.pdf

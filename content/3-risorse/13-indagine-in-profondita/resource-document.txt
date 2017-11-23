@@ -1,0 +1,71 @@
+Title: L’accessibilità dei musei d’arte della Svizzera italiana: situazioni, problematiche e suggerimenti da parte del pubblico cieco e ipovedente
+
+----
+
+Subtitle: 
+
+----
+
+Short: L’obiettivo principale dell’indagine in profondità è stato quello di indagare in maniera approfondita sulle modalità di accesso specifiche per il pubblico cieco e ipovedente rispetto alla fruizione dei musei d’arte della Svizzera italiana.
+
+----
+
+Long: 
+
+L’obiettivo principale dell’indagine in profondità è stato quello di indagare in maniera approfondita sulle modalità di accesso specifiche per il pubblico cieco e ipovedente rispetto alla fruizione dei musei d’arte della Svizzera italiana. 
+
+
+In particolare, l’indagine si è concentrata sull’accesso alle informazioni, sull’orientamento e la mobilità, l’accesso all’architettura, l’accesso alle opere d’arte e le modalità di visita. Per ognuno di questi capitoli, sono stati sondati tre aspetti principali: la situazione attuale, le problematiche riscontrate dagli intervistati e gli eventuali suggerimenti per implementare dei miglioramenti.
+
+
+Le interviste in profondità hanno permesso di evidenziare diversi aspetti interessanti legati alla fruizione dei musei d’arte della Svizzera italiana da parte del pubblico cieco e ipovedente. In sintesi, l’indagine pone le basi allo sviluppo delle attività. Per migliorare la propria accessibilità è dunque importante che i musei d'arte si concentrino sugli aspetti emersi dalle interviste.
+
+----
+
+Date: 2017-02-08
+
+----
+
+Authors: 
+
+----
+
+Main-image: indagine-in-profondita-cover2.jpg
+
+----
+
+Pdf-it: report-interviste-approfondite.pdf
+
+----
+
+Pdf-de: 
+
+----
+
+Pdf-fr: 
+
+----
+
+Pdf-en: 
+
+----
+
+Docs: 
+
+- 
+  button_label: Documento completo
+  file: >
+    attivita-culturali-e-artistiche-della-svizzera-italiana.pdf
+  main_doc: "1"
+- 
+  button_label: Abstract auf Deutsch
+  file: abstract-indagine-preliminare-ted.pdf
+  main_doc: "0"
+- 
+  button_label: Abstract en Français
+  file: abstract-indagine-preliminare-fr.pdf
+  main_doc: "0"
+- 
+  button_label: Abstract in English
+  file: abstract-indagine-preliminare-ingle.pdf
+  main_doc: "0"

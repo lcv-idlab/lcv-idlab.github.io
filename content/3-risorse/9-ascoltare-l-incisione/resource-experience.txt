@@ -1,0 +1,87 @@
+Title: Ascoltare l'incisione
+
+----
+
+Location: Bellinzona
+
+----
+
+Partner: Museo Civico Villa dei Cedri
+
+----
+
+Date: 2017-01-29
+
+----
+
+Short: In occasione del finissage della mostra “L’anima del segno: Hartung – Cavalli – Strazza”, che ha avuto luogo domenica 29 gennaio 2017 presso il Museo Civico Villa dei Cedri, il poeta ticinese Andrea Bianchetti ha letto pubblicamente alcuni testi da lui creati in relazione a cinque opere della collezione. L’artista ha proposto così sia al pubblico cieco e ipovedente che a quello vedente di percepire le opere attraverso l'ascolto delle sue parole, del suo sguardo personale, della sua sensibilità.
+
+----
+
+Long: 
+
+In occasione del finissage della mostra “L’anima del segno: Hartung – Cavalli – Strazza”, che ha avuto luogo domenica 29 gennaio 2017 presso il Museo Civico di Villa dei Cedri, il poeta ticinese Andrea Bianchetti ha letto pubblicamente alcuni testi da lui creati in relazione a cinque opere della collezione. L’artista ha proposto così sia al pubblico cieco e ipovedente che a quello vedente di percepire le opere attraverso l'ascolto delle sue parole, del suo sguardo personale, della sua sensibilità. Per vivere appieno l’esperienza, delle bende sono state messe a disposizione del pubblico vedente.
+
+L'attività era collegata alla mostra “L’anima del segno: Hartung – Cavalli – Strazza”. A cura di Carole Haensler Huguet, l’esposizione ha proposto un dialogo tra l’artista ticinese Massimo Cavalli (1930), l’italiano Guido Strazza (1922) e il franco-tedesco Hans Hartung (1904-1989). Una proposta impegnativa dove i tre artisti combinano l’intensità di un pensiero maggiormente interessato al gesto, con l’esplorazione sistematica dei fondamenti della pittura – superficie, spazio, colore, luce, pennellata e segno grafico. La mostra si è concentrata sulla nozione di incisore-pittore. 
+
+Questa attività ha permesso da una parte di far conoscere al pubblico le opere e gli artisti esposti offrendo un’attività di mediazione culturale accessibile e dall'altra di sperimentare allo stesso tempo l'interpretazione letteraria soggettiva come possibile traduzione dell'arte visiva e l'ascolto al buio come tipologia di attività di mediazione inclusiva.
+
+I riscontri da parte dei partecipanti si sono rivelati fondamentali per lo sviluppo delle altre attività di sperimentazione nel quadro del progetto MCI. Se per mediare opere d'arte di tipo astratto questo tipo di interpretazione risulta essere molto interessante, i partecipanti con problemi di vista sottolineano l'importanza fondamentale della descrizione oggettiva. Delle integrazioni di tipo interpretativo sono infatti molto interessanti ma da considerarsi a titolo integrativo, come approfondimento per fornire chiavi di lettura differenziate e integrate al pubblico con problemi di vista.
+
+Le immagini delle cinque opere della collezione del Museo Civico Villa dei Cedri e le relative interpretazioni letterarie di Andrea Bianchetti sono scaricabili direttamente dal sito MCI.
+
+----
+
+Main-image: 1_atelier_cedri.jpg
+
+----
+
+Movie: 
+
+----
+
+Alt-video: 
+
+----
+
+Gallery: 
+
+- 1_atelier_cedri.jpg
+- 2_atelier_cedri.jpg
+- 3_atelier_cedri_.jpg
+- 4_atelier_cedri.jpg
+- 5_atelier_cedri.jpg
+- 6_atelier_cedri.jpg
+- 7_atelier_cedri.jpg
+- 8_atelier_cedri.jpg
+- 9_atelier_cedri.jpg
+- a.jpg
+- b.jpg
+
+----
+
+Ext-link: 
+
+----
+
+Ext-link-desc: 
+
+----
+
+Docs: 
+
+- 
+  doc_title: Arco
+  doc: mci_supsi_ch-arco.pdf
+- 
+  doc_title: Arresti / Scontro I
+  doc: mci_supsi_ch-arresti.pdf
+- 
+  doc_title: Canneto
+  doc: mci_supsi_ch-canneto.pdf
+- 
+  doc_title: Segni e Trame
+  doc: segnietrame.pdf
+- 
+  doc_title: Senza Titolo
+  doc: mci_supsi_ch-senzatitolo.pdf

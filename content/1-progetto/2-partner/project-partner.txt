@@ -20,7 +20,7 @@ Partners:
     design, dell’architettura e della
     fotografia nonché della comunicazione
     visiva contemporanea. L’aspirazione
-    del Museo è quella di costituire un
+    del museo è quella di costituire un
     ponte tra il passato e le nuove
     generazioni di grafici e designer. Ad
     esclusione delle mostre che appartengono
@@ -51,7 +51,7 @@ Partners:
     operato dal tardo Ottocento fino ai
     nostri giorni. Nei ventotto anni
     trascorsi dalla sua inaugurazione il
-    Museo è riuscito con perseveranza e
+    museo è riuscito con perseveranza e
     coerenza a costituire una collezione di
     assoluto valore in ambito locale di
     oltre tremila opere. La raccolta da un
@@ -72,7 +72,7 @@ Partners:
     Castello San Materno
   place: Ascona
   url: http://www.museoascona.ch
-  description: 'Il Museo Comunale d’Arte Moderna di Ascona ospita la Collezione del Comune ed è sede di due fondazioni: la Fondazione Marianne Werefkin e la Fondazione Richard e Uli Seewald. La Collezione del Comune ha preso origine nel 1922, quando molti tra gli artisti giunti ad Ascona decisero di donare una loro opera, con lo scopo di creare il Museo Comunale di Ascona. Grazie al felice accordo tra il Comune di Ascona e la Fondazione per la cultura Kurt e Barbara Alten, il Castello San Materno, dopo un accurato restauro, ritorna a vivere nel suo splendore diventando un moderno spazio espositivo del Comune di Ascona. La collezione Alten conserva più di quaranta opere di artisti di area tedesca, tra i più significativi del periodo che va dalla fine dell’Ottocento al primo dopoguerra.'
+  description: 'Il Museo Comunale d’Arte Moderna di Ascona ospita la collezione del Comune ed è sede di due fondazioni: la Fondazione Marianne Werefkin e la Fondazione Richard e Uli Seewald. La collezione del Comune ha preso origine nel 1922, quando molti tra gli artisti giunti ad Ascona decisero di donare una loro opera, con lo scopo di creare il Museo Comunale di Ascona. Grazie al felice accordo tra il Comune di Ascona e la Fondazione per la cultura Kurt e Barbara Alten, il Castello San Materno, dopo un accurato restauro, ritorna a vivere nel suo splendore diventando un moderno spazio espositivo del Comune di Ascona. La collezione Alten conserva più di quaranta opere di artisti di area tedesca, tra i più significativi del periodo che va dalla fine dell’Ottocento al primo dopoguerra.'
   logo: logo_museo_ascona.jpg
   colophon: partner
   logo_footer: footer_logo_museo_ascona.jpg
@@ -80,7 +80,7 @@ Partners:
   name: Museo d’arte della Svizzera italiana
   place: Lugano
   url: http://www.masilugano.ch
-  description: 'L’attività del Museo d’arte della Svizzera italiana (MASI Lugano) si svolge in parallelo in due sedi: quella principale situata all’interno del nuovo edificio del LAC (Lugano Arte e Cultura) e quella storica di Palazzo Reali, in precedenza sede del Museo Cantonale d’Arte. Al LAC il MASI Lugano focalizza il suo interesse sull’arte del Novecento e contemporanea, nelle diverse forme e tecniche espressive, dedicando attenzione sia agli artisti giovani ed emergenti, sia a quelli già storicizzati, ai temi attuali e futuri delle arti e della società, proponendo esposizioni interdisciplinari in collaborazione con il settore del teatro e della musica. A Palazzo Reali, l’attività del MASI Lugano si concentra invece sulla storia dell’arte del territorio e sulla valorizzazione di nuclei specifici delle collezioni.'
+  description: 'L’attività del Museo d’arte della Svizzera italiana (MASILugano) si svolge in parallelo in due sedi: quella principale situata all’interno del nuovo edificio del LAC (Lugano Arte e Cultura) e quella storica di Palazzo Reali, in precedenza sede del Museo Cantonale d’Arte. Al LAC il MASILugano focalizza il suo interesse sull’arte del Novecento e contemporanea, nelle diverse forme e tecniche espressive, dedicando attenzione sia agli artisti giovani ed emergenti, sia a quelli già storicizzati, ai temi attuali e futuri delle arti e della società, proponendo esposizioni interdisciplinari in collaborazione con il settore del teatro e della musica. A Palazzo Reali, l’attività del MASILugano si concentra invece sulla storia dell’arte del territorio e sulla valorizzazione di nuclei specifici delle collezioni.'
   logo: logo_masi_lugano.jpg
   colophon: partner
   logo_footer: footer_logo_masi_lugano.jpg
@@ -127,13 +127,13 @@ Partners:
   name: Museo d’arte Mendrisio
   place: Mendrisio
   url: http://museo.mendrisio.ch
-  description: "Fondato nel 1982 negli spazi di un antico convento, il Museo d'arte di Mendrisio propone esposizioni dedicate a grandi maestri del '900. Alterna a questa attività esposizioni su figure e temi inerenti al territorio, approfondendo capitoli della storia locale e valorizzando artisti contemporanei locali. Il Museo d'arte di Mendrisio può vantare una notevole collezione di dipinti (tra cui un significativo gruppo di ex-voto), sculture e opere su carta che spaziano dal XVI al XX secolo e che documentano capillarmente la storia artistica locale."
+  description: "Fondato nel 1982 negli spazi di un antico convento, il Museo d'arte di Mendrisio propone esposizioni dedicate a grandi maestri del Novecento. Alterna a questa attività esposizioni su figure e temi inerenti al territorio, approfondendo capitoli della storia locale e valorizzando artisti contemporanei locali. Il Museo d'arte di Mendrisio può vantare una notevole collezione di dipinti (tra cui un significativo gruppo di ex-voto), sculture e opere su carta che spaziano dal XVI al XX secolo e che documentano capillarmente la storia artistica locale."
   logo: logo_mendrisio_museo_arte.jpg
   colophon: partner
   logo_footer: footer_logo_mendrisio_museo_arte.jpg
 - 
   name: Mediamus
-  place: CH
+  place: Svizzera
   url: http://mediamus.ch/web/
   description: >
     Associazione svizzera dei professionisti
@@ -153,7 +153,7 @@ Partners:
   name: Fondazione Diamante
   place: Manno
   url: http://www.f-diamante.ch
-  description: 'La storia della Fondazione Diamante  è profondamente legata all’affermazione dei diritti delle persone disabili, alla comprensione delle loro esigenze in rapporto al contesto sociale nel quale esse vivono e al promovimento della loro autonomia. Nell’ambito del suo mandato si rivolge a persone disabili adulte. Attualmente gestisce 13 laboratori, 4 unità abitative (foyer e appartamenti protetti) 4 servizi di sostegno abitativo e 5 servizi di inserimento lavorativo. Queste diverse attività coinvolgono circa 600 utenti accompagnati da 200 operatori sociali. Tra le diverse strutture, diffuse e decentralizzate sul territorio ticinese, il Canvetto Luganese (www.canvettoluganese.ch) è un ristorante che offre a persone disabili una possibilità formativa e lavorativa nel settore della ristorazione, con lo scopo di favorire la loro integrazione sociale e professionale. Come tutte le strutture ed i servizi della Fondazione Diamante anche il Canvetto Luganese è stato realizzato alfine di promuovere il dialogo con il tessuto sociale ed offrire ai propri clienti prestazioni di qualità in una cornice accogliente e pittoresca.'
+  description: 'La storia della Fondazione Diamante  è profondamente legata all’affermazione dei diritti delle persone disabili, alla comprensione delle loro esigenze in rapporto al contesto sociale nel quale esse vivono e al promovimento della loro autonomia. Nell’ambito del suo mandato si rivolge a persone disabili adulte. Attualmente gestisce tredici laboratori, quattro unità abitative (foyer e appartamenti protetti), quattro servizi di sostegno abitativo e cinque servizi di inserimento lavorativo. Queste diverse attività coinvolgono circa seicento utenti accompagnati da duecento operatori sociali. Tra le diverse strutture, diffuse e decentralizzate sul territorio ticinese, il Canvetto Luganese (www.canvettoluganese.ch) è un ristorante che offre a persone disabili una possibilità formativa e lavorativa nel settore della ristorazione, con lo scopo di favorire la loro integrazione sociale e professionale. Come tutte le strutture ed i servizi della Fondazione Diamante anche il Canvetto Luganese è stato realizzato al fine di promuovere il dialogo con il tessuto sociale ed offrire ai propri clienti prestazioni di qualità in una cornice accogliente e pittoresca.'
   logo: logo_fondazione_diamante.jpg
   logo_footer: footer_logo_fondazione_diamante.jpg
 - 
