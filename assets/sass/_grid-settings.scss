@@ -12,6 +12,12 @@ $tablet: new-breakpoint(min-width 601px max-width 840px 8);
 $desktop: new-breakpoint(min-width 769px 12);
 */
 
+$bp-x-small: 480px;
+$bp-small: 600px;
+$bp-medium: 840px;
+$bp-large: 960px;
+
+
 $mobile: new-breakpoint(max-width 840px 8);
 $no-mobile: new-breakpoint(min-width 841px 12);
 

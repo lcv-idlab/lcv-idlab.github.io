@@ -1,0 +1,57 @@
+Title: Descrivere le opere
+
+----
+
+Description: I primi passi che i musei d’arte possono intraprendere per abbattere le barriere e favorire l’accessibilità alle persone con problemi di vista sono l’apertura di un canale comunicativo attraverso lo sviluppo di relazioni regolari e l’adozione di un comportamento adeguato con il pubblico di riferimento.
+
+----
+
+Icon: descrivere-le-opere.png
+
+----
+
+Article: 
+
+- 
+  section_title: Cosa
+  content: |
+    La descrizione verbale è il primo e più importante strumento utile a trasmettere un’immagine al fruitore con problemi di vista, ad aiutarlo cioè a creare un’immagine mentale dell’opera attraverso l’ascolto della sua descrizione.
+    
+    Se già quando indirizzata ai visitatori vedenti la spiegazione di un’opera d’arte richiede a chi la attua una spiccata capacità di adattamento in base alla tipologia di pubblico, quando si tratta di pubblico con disabilità visiva il lavoro di analisi dell’immagine e l’impostazione della relativa descrizione devono essere particolarmente strutturate. Va ricordato che il fruitore con problemi di vista costruisce l’immagine mentalmente e troppi dettagli o lunghi periodi, rendono più complicata l’operazione.
+- 
+  section_title: Perché
+  content: >
+    La persona cieca o ipovedente può usare
+    le proprie risorse sensoriali per
+    orientarsi in una realtà dove il
+    riferimento visivo non sussiste; per
+    fare questo però è di fondamentale
+    importanza affidarsi ad una persona
+    vedente in grado di descrivere le
+    circostanze e i contesti in cui ci si
+    trova, soprattutto grazie alle
+    potenzialità descrittive, comunicative
+    ed evocative proprie del linguaggio
+    parlato che è peraltro da sempre
+    considerato un elemento immancabile
+    nell’incontro con l’arte.
+- 
+  section_title: Come
+  content: |
+    Dopo aver selezionato le opere di interesse (Selezione Opere) è necessario valutare alcuni aspetti per impostarne la descrizione verbale.
+    
+    **Il destinatario**: per chi viene elaborata la descrizione?
+    
+    * Cieco dalla nascita: non ha ricordi visivi
+    * Cieco nel corso della vita: ha una memoria visiva
+    *	Ipovedente dalla nascita: non ha ricordi visivi completi e vede in maniera parziale
+    *	Ipovedente nel corso della vita: ha una memoria visiva completa ma vede in maniera parziale
+    *	Gruppi con diverse tipologie di disabilità visiva
+    *	Gruppi inclusivi con persone vedenti e persone con disabilità visiva
+    
+    ### I registri, le figure retoriche
+    
+    Per essere compresa e recepita al meglio dal pubblico, la descrizione di un’opera deve necessariamente essere adattata al suo destinatario specifico, in particolar modo per quanto concerne i registri usati. Per questo motivo è pertanto auspicata un’elasticità mentale utile ad adattare il proprio intervento nell’ottica di comunicare l’opera nella maniera il più efficace possibile. Alcuni aspetti cardine di cui è bene tenere conto per impostare linguisticamente la descrizione verbale dell’opera sono:
+    
+    
+    * **Terminologia**:  è solitamente consigliato utilizzare un registro familiare-civile e, quando opportuno, anche termini specifici, tecnici, spiegandone sempre il significato. In tal caso è meglio menzionare in primis l’elemento in questione, dopodiché citarne la corretta definizione (es. “… il giallo, il rosso e il blu, che nella teoria dei colori sono definiti colori primari” piuttosto che “… i colori primari, ovvero il giallo, il rosso e il blu”)

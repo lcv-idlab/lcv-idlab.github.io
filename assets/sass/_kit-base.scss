@@ -20,7 +20,66 @@
 	}
 }
 
+
+//--- KIT BASIC STYLES --//
+
+
+
 //--- KIT FONT SIZE ---//
+
+%h1 {
+	line-height: 3rem;
+	@include media($x-small) {
+		font-size: 2.14rem;
+	}
+	@include media($small) {
+		font-size: 2.14rem;
+	}
+	@include media($medium) {
+		font-size: 2.5rem;
+	}
+	@include media($large) {
+		font-size: 2.5rem;
+	}
+	@include media($desktop) {
+		font-size: 2.5rem;
+	}
+}
+
+%main-description {
+	line-height: 1.75rem;
+
+	@include media($x-small) {
+		font-size: 1.28rem;
+	}
+	@include media($small) {
+		font-size: 1.28rem;
+	}
+	@include media($medium) {
+		font-size: 1.5rem;
+	}
+	@include media($large) {
+		font-size: 1.5rem;
+	}
+	@include media($desktop) {
+		font-size: 1.5rem;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 %nav-size {
 	font-size: 18px;

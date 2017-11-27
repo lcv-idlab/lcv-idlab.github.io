@@ -25,6 +25,3 @@ fields:
   title:
     label: Titolo
     type: text
-  description:
-    label: Descrizione
-    type: textarea

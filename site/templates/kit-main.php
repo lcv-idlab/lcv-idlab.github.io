@@ -2,17 +2,13 @@
 
 <div id="kit">
 	<main>
-		<div id="title-bar">
-			<header>
-				<h1 class="title"><?php echo page()->title()->html() ?></h1>
+		<header id="main-header">
+			<h1><?php echo page()->title()->html() ?></h1>
 
-				<div><?php echo page()->description()->kt() ?></div>
-			</header>
-		</div>
+			<div><?php echo page()->description()->kt() ?></div>
+		</header>
 
-		<!-- SECOND NAV -->
-
-		<!--
+		<!-- temp for reference ...
 
 		<nav id="categories-nav">
 			<ul>
@@ -30,39 +26,35 @@
 
 		<?php foreach ($page->children() as $cat): ?>
 
-			<section id="<?php echo $cat->title() ?>">
+			<section id="<?php echo $cat->title('it') ?>">
 
 				<!-- CATEGORY TITLE -->
 				<header>
 					<h2><?php echo ucfirst($cat->title()) ?></h2>
-					<!-- <?php echo $cat->description()->kt() ?> -->
+					<!--
 					<div class="cat-button-open">
 						<span class="cat-button-open-span"></span>
 						<span class="cat-button-open-span"></span>
 					</div>
+					-->
 				</header>
-				<!-- end: CATEGORY TITLE -->
 
 				<!-- SINGLE KITS -->
-				<div class="single-kits-container" id="<?php echo "cont_".$cat->title() ?>">
+				<div class="category-container">
 				<?php foreach ($cat->children()->visible() as $kit): ?>
-				<a href="<?php echo $kit->url() ?>">		
+				<a href="<?php echo $kit->url() ?>" class="single-kit">		
 					<article>
-						<div class="article-content-container">
-							<div>
-								<header>
-									<h3><?php echo ucfirst($kit->title()) ?></h3>
-								</header>
-								<?php echo $kit->description()->kt() ?>
-							</div>
-							<aside>
-								<?php if($kit->icon()->isNotEmpty()): ?>
-								<img src="<?php echo $kit->image($kit->icon())->url() ?>">
-								<?php else: ?>
-									<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
-								<?php endif ?>
-							</aside>
-						</div>
+						<header>
+							<h3><?php echo ucfirst($kit->title()) ?></h3>
+							<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
+						</header>
+						<aside>
+							<?php if($kit->icon()->isNotEmpty()): ?>
+							<img src="<?php echo $kit->image($kit->icon())->url() ?>">
+							<?php else: ?>
+								<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
+							<?php endif ?>
+						</aside>
 					</article>
 				</a>
 				<?php endforeach ?>
@@ -72,7 +64,6 @@
 
 		<?php endforeach ?>
 		</div>
-
 
 	</main>
 </div>

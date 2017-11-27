@@ -14,14 +14,13 @@ $colors: (
 	gray-light-bg: rgba(170, 170, 170, 0.1),
 	accent-dark: #AE112D,
 	accent-darker: #9F152E,
-	visita: rgba(184, 15, 126, 1),
-	visita-light: rgba(184, 15, 126, 0.15),
-	comunicazione: rgba(255, 220, 14, 1),
-	comunicazione-light: rgba(255, 220, 14, 0.15),
-	orientamento: rgba(184, 15, 126, 1),
-	orientamento-light: rgba(184, 15, 126, 0.15),
-	opere: rgba(237, 105, 28, 1),
-	opere-light: rgba(237, 105, 28, 0.15)
+	comunicazione: rgba(255, 0, 255, 1),
+	//comunicazione-light: rgba(255, 220, 14, 0.15),
+	opere: rgba(0, 0, 255, 1),
+	//opere-light: rgba(237, 105, 28, 0.15)
+	orientamento: rgba(0, 255, 0, 1),
+	//orientamento-light: rgba(184, 15, 126, 0.15),
+
 	);
 // function to get the colors
 @function color($key) {

@@ -1,75 +1,168 @@
 //--- KIT MAIN --//
 
 
+
+#kit {
+
+	#main-header {
+		@include outer-container();
+		h1 {
+			@extend %h1;
+			@include pads(6 2 8 2);
+
+			@include media($x-small) {
+				@include pads(5 2 2 2);
+			}
+		}
+		> div {
+			@include span-columns(12);
+			@extend %main-description;
+			@include pads(0 2 5 2);
+
+			@media screen and (min-width: $bp-medium){
+				@include span-columns(9);
+				@include pads(0 2 7 2);
+			}
+		}
+	}
+
+
+	#categories-container {
+
+		@include outer-container();
+		@include pads(0 2 0 2);
+
+		section {
+			border-top: 2px solid;
+		}
+
+		h2 {
+			@extend %h1;
+			margin-bottom: 5rem;
+
+			@media screen and (max-width: 420px) {
+				margin-bottom: 3rem;
+			}
+		}
+
+		.category-container {
+
+			display: block;
+			margin-right: auto;
+			margin-left: auto;
+			
+			max-width: 750px;
+
+			font-size: 1rem;
+			overflow: hidden;
+
+			a:link, a:hover, a:visited, a:active {
+				text-decoration: none;
+				color: color(black);
+			}
+
+			.single-kit {
+				@include span-columns(12);
+				margin-bottom: 7rem;
+
+				header {
+					@include span-columns(9 of 12);
+
+					h3 {
+						@extend %main-description;
+						margin-bottom: 1rem;
+					}
+				}
+
+				aside {
+					@include span-columns(3 of 12);
+
+					img {
+						width: 95%;
+						max-width: 230px;
+						max-height: 230px;
+					}
+				}
+
+				@media screen and (min-width: 421px) {
+					&:nth-child(even) {
+						header {
+							@include shift(3);
+						}
+						aside {
+							@include shift(-12);
+						}
+					}
+				}
+
+				// Responsive
+
+				@media screen and (max-width: 420px) {
+
+					margin-bottom: 5rem;
+
+					&:last-child {
+						margin-bottom: 9rem;
+					}
+
+					article {
+						display: inline-grid;
+
+						header {
+							@include span-columns(12 of 12);
+							order: 2;
+						}
+
+						aside {
+							@include span-columns(12 of 12);
+							text-align: center;
+							order: 1;
+
+							img {
+								max-width: 50%;
+							}
+						}
+					}
+				}
+			}
+
+
+
+		}
+
+		// Color specific items
+
+		section#comunicazione {
+			border-top-color: color(comunicazione);
+		}
+
+		section#opere {
+			border-top-color: color(opere);
+		}
+
+		section#orientamento {
+			border-top-color: color(orientamento);
+		}
+
+
+	}
+}
+
+
+
+
+
+
+/*
+
+
+
+
 $tablet: 720px;
 $mobile: 600px;
 $mobile-small: 400px;
 
-
-#kit {
-
-	#categories-nav {
-		@include outer-container();
-		@include pads(0 2 0 2);
-		@extend %nav-size;
-
-		margin-bottom: 3rem;
-
-		ul {
-			border-top: 1px solid color(gray);
-			border-bottom: 1px solid color(gray);
-			min-height: 4rem;
-
-			li {
-				/*
-				display: inline;
-				@include span-columns(3);
-				text-align: center;
-				//border-right: 1px solid color(black);
-				*/
-			}
-
-			a {
-				@extend %regular-weight;
-				@extend %baseline-size;
-				@include pads(1.3 2 1.3 0);
-				text-decoration: none;
-				display: inline-block;
-
-				&:hover {
-
-					span {
-						padding-bottom: 0.3333333rem;
-						border-bottom: 1px solid color(brand);
-						@extend %bold-weight;
-					}
-
-				}
-			}
-		}
-
-		/*
-		.visita {
-			@extend %visita;
-		}
-
-		.comunicazione {
-			@extend %comunicazione;
-		}
-		.opere {
-			@extend %opere;
-		}
-		.orientamento {
-			@extend %orientamento;
-		}
-		*/
-
-		@media screen and (max-width: $mobile) {
-			display: none;
-		}
-	}
-
-	#categories-container {
+	#old_categories-container {
 		@include outer-container();
 		@include pads(0 2 0 2);
 		margin-bottom: 7rem;
@@ -83,15 +176,7 @@ $mobile-small: 400px;
 			@include span-columns(12);
 			@include pads(1.5 0 8 0);
 
-			border-top: 0.25rem solid;
-
-			/*			
-			@media screen and (min-width: $mobile) {
-				&:first-child {
-					//border-top: none;
-				}
-			}
-			*/
+			border-top: 2px solid;
 			
 			&:last-child {
 				border-bottom: none;
@@ -161,7 +246,8 @@ $mobile-small: 400px;
 							@include transform-origin(center left);
 							@include transform(rotate(-45deg));
 						}
-						/*
+						
+						// NOT USED
 
 						&.open span:first-child() {
 							@include transform-origin(top right);
@@ -173,7 +259,8 @@ $mobile-small: 400px;
 							@include transform-origin(top left);
 							@include transform(rotate(45deg));
 						}
-						*/
+						
+						// -> NOT USED
 
 						&.open {
 							@include transform(rotate(180deg));
@@ -445,3 +532,5 @@ $mobile-small: 400px;
 		}
 	}
 }
+
+*/
