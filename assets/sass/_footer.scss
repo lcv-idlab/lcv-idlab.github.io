@@ -1,14 +1,22 @@
 //--- FOOTER ---//
 
 footer {
-	border-top: 1px solid color(grey);
+	//border-top: 1px solid color(grey);
+	@include outer-container();
+	@include pads(1 2 2 2);
+
 
 	.contacts {
-		@include outer-container();
-		@include pads(1 2 1 2);
+		@include span-columns(12);
+		border-top: 1px solid color(main-grey-light);
+		margin-top: 5rem;
 
 		div {
-			display: inline-block;
+			margin-top: 1rem;
+			//display: inline-block;
+			display: block;
+
+			/*
 
 			@include media($x-small) {
 				display: block;
@@ -40,6 +48,7 @@ footer {
 				float: none;
 				display: block;
 			}
+		*/
 		}
 		a:hover {
 			border-bottom: 1px solid color(brand);

@@ -2,9 +2,11 @@
 
   <main>
 
-    <a href="<?php echo page('risorse')->url() ?>" class="link link-back"><span>Torna indietro</span></a>
+    <a href="<?php echo page('risorse')->url() ?>" class="back-button"><?php echo "< ".l::get('back') ?></a>
     
-    <h1 class="title-article"><?php echo ucfirst( page()->title()->html() ) ?></h1>
+    <div class="title-article">
+      <h1><?php echo ucfirst( page()->title()->html() ) ?></h1>
+    </div>
 
     <div class="resource-document">
 
@@ -48,13 +50,15 @@
 
           <?php if(page()->docs()->isNotEmpty()): ?>
           <?php foreach(page()->docs()->toStructure() as $doc): ?>
-            <a href="<?php echo page()->document($doc->file())->url() ?>" target="_blank" title="<?php echo $doc->button_label() ?>" class="button button-download<?php if($doc->main_doc()->bool()) { echo " main-document"; } ?>"><?php echo $doc->button_label() ?></a>
+            <a href="<?php echo page()->document($doc->file())->url() ?>" target="_blank" title="<?php echo $doc->button_label() ?>" class="button button-download <?php if($doc->main_doc()->bool()) { echo " main-document"; } ?>"><?php echo $doc->button_label() ?></a>
           <?php endforeach ?>
           <?php endif ?>
 
         </div>
         <div id="article">
-          <h2 class="subtitle"><?php echo page()->subtitle()->html() ?></h2>
+          <?php if(page()->subtitle()->isNotEmpty()): ?>
+            <h2 class="subtitle"><?php echo page()->subtitle()->html() ?></h2>
+          <?php endif ?>
           <?php echo page()->long()->kt()->html() ?>
         </div>
       </div>

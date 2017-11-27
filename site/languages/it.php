@@ -1,6 +1,9 @@
 <?php
  	// Italian keywords for translation
 	
+	// general
+	l::set('back', 'indietro');
+
 	// home
 	l::set('resources', 'risorse');
 	l::set('project', 'progetto');
@@ -14,10 +17,13 @@
 	l::set('orientation', 'orientamento');
 	l::set('art_pieces', "opere d'arte");
 
-	// kit sheet
+	// kit single
 	l::set('index', 'indice');
-	l::set('recapSheet', 'scheda riassuntiva');
+	l::set('tools', 'Stumenti');
 	l::set('more', 'continua a leggere');
+	l::set('pdf-article', "Scarica l'articolo");
+	l::set('pdf-evaluation', 'Scarica la valutazione');
+
 
 	// footer
 

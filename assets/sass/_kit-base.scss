@@ -2,73 +2,86 @@
 
 #kit {
 
+	/*
 	// font baseline
-	@include media($x-small) {
+	@media screen and (max-width: $bp-medium) {
 		font-size: 14px;
 	}
-	@include media($small) {
-		font-size: 14px;
-	}
-	@include media($medium) {
-		font-size: 14px;
-	}
-	@include media($large) {
+	@media screen and (min-width: $bp-large) {
 		font-size: 16px;
 	}
-	@include media($desktop) {
-		font-size: 16px;
-	}
+	*/
 }
 
 
 //--- KIT BASIC STYLES --//
 
+#kit-title {
+	@include outer-container();
+	@include pads(0 2 0 2);
+	position: relative;
+
+	> div {
+		//@include outer-container();
+		@include span-columns(12);
+		background-color: lime;
+		height: 6rem;
+		position: absolute;
+		top: 0rem;
+		z-index: -1;
+		width: 95%;
+		/*
+		
+		//margin-left: 0;
+		
+		width: 100%;
+		
+		*/
+	}
+
+	h1 {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+}
 
 
 //--- KIT FONT SIZE ---//
 
 %h1 {
 	line-height: 3rem;
-	@include media($x-small) {
+
+	@media screen and (max-width: $bp-medium) {
 		font-size: 2.14rem;
 	}
-	@include media($small) {
-		font-size: 2.14rem;
-	}
-	@include media($medium) {
-		font-size: 2.5rem;
-	}
-	@include media($large) {
-		font-size: 2.5rem;
-	}
-	@include media($desktop) {
+	@media screen and (min-width: $bp-medium) {
 		font-size: 2.5rem;
 	}
 }
 
 %main-description {
-	line-height: 1.75rem;
+	@extend %medium-weight;
 
-	@include media($x-small) {
-		font-size: 1.28rem;
+	@media screen and (max-width: $bp-small) {
+		font-size: 1.3rem;
+		line-height: 2rem;
 	}
-	@include media($small) {
-		font-size: 1.28rem;
-	}
-	@include media($medium) {
-		font-size: 1.5rem;
-	}
-	@include media($large) {
-		font-size: 1.5rem;
-	}
-	@include media($desktop) {
-		font-size: 1.5rem;
+	@media screen and (min-width: $bp-small) {
+		font-size: 1.6rem;
+		line-height: 2.2rem;
 	}
 }
 
 
+//--- KIT ARTICLE STLYES --//
 
-
+%section-title {
+	@extend %regular-weight;
+	margin-bottom: 2rem;
+	font-size: 1.5rem;
+	color: color(black);
+}
 
 
 
@@ -86,7 +99,7 @@
 }
 
 %article-h3 {
-		@include media($x-small) {
+	@include media($x-small) {
 		font-size: 1.1rem;
 	}
 	@include media($small) {
@@ -207,7 +220,7 @@
 		font-size: 1.7rem;
 	}
 
-	@extend %medium-weight;
+	@extend %regular-weight;
 
 }
 
@@ -273,10 +286,6 @@
 		}
 		*/
 	}
-}
-
-#kit .button {
-	background-color: color(brand-kit);
 }
 
 %kit-menu-button {

@@ -1,7 +1,8 @@
 @import "neat/neat-helpers";
 
 //Change the grid settings
-$max-width: 1024px;
+$max-width: 1280px;
+$gutter: 5em;
 
 
 /*
@@ -16,6 +17,7 @@ $bp-x-small: 480px;
 $bp-small: 600px;
 $bp-medium: 840px;
 $bp-large: 960px;
+$bp-menu-mobile: 890px;
 
 
 $mobile: new-breakpoint(max-width 840px 8);

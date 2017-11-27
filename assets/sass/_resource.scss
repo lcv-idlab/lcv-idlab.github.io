@@ -50,7 +50,7 @@ a.resource-link {
 		@include span-columns(12);
 		display: block;
 
-		filter: blur(25px);
+		filter: blur(20px);
 		@include transition( filter .4s);
 
 		&:hover {
@@ -58,14 +58,19 @@ a.resource-link {
 			@include transition( filter .4s);
 		}
 	}
+
+	@media screen and (max-width: $bp-medium) {
+		padding-left: 0;
+		padding-right: 0;
+	}
 }
 
 .resource-document-text {
 	@include outer-container();
-	@include pads(0 2 5 2);
+	@include pads(0 2 0 2);
 	
 	.border-top {
-		border-top: 1px solid color(gray);
+		//border-top: 1px solid color(gray);
 		-ms-box-orient: horizontal;
 		display: -webkit-box;
 		display: -moz-box;
@@ -94,19 +99,23 @@ a.resource-link {
 			}
 
 			.button-download {
-				@include span-columns(3 of 4);
+				@include span-columns(4 of 4);
+				width: 85%;
 				margin-bottom: 1rem;
 
-				&.main-document {
-					margin-top: 1rem;
-					margin-bottom: 2rem;
+				@media screen and (max-width: 980px) {
+					width: 100%;
 				}
+			}
+
+			h3 + .button-download {
+				margin-top: 2rem;
 			}
 
 			@include media($mobile) {
 				@include span-columns(8);
 				order: 2;
-				border-top: 1px solid color(gray);
+				//border-top: 1px solid color(gray);
 
 				li {
 					display: inline;
@@ -156,30 +165,9 @@ a.resource-link {
 	@include outer-container();
 	@include pads(0 2 3 2);
 
-
-	/* object video
-
-	.video {
-		width: 100%;		
-		position: relative;
-		padding-bottom: 56.4%;
-		background-color: color(white);
-
-		object {
-			position: absolute;
-			left: 0;
-			top: 0;
-			height: 100%;
-			width: 100%;
-			background-color: color(white);
-
-			embed {
-				background-color: color(white);
-			}
-		}
+	@media screen and (max-width: $bp-medium) {
+		@include pads(0 0 3 0);
 	}
-
-	/*
 
 	/* for iframe video */
 
@@ -214,7 +202,11 @@ a.resource-link {
 	@include pads(0 2 3 2);
 
 	.border-top {
-		border-top: 1px solid color(gray);
+		//border-top: 1px solid color(gray);
+
+		@media screen and (max-width: $bp-medium) {
+			border: none;
+		}
 
 		.aside {
 			@include span-columns(4);
@@ -338,13 +330,15 @@ a.resource-link {
 
 .resource-experience-gallery {
 	@include outer-container();
-	@include pads(0 2 5 2);
+	@include pads(0 2 0 2);
 
 	h2 {
-		@include span-columns(12);
+		@extend .visuallyhidden;
+		/*@include span-columns(12);
 		@extend %bold-weight;
 		@include pads(1 0 1 0);
 		border-top: 1px solid color(gray);
+		*/
 	}
 
 	ul {

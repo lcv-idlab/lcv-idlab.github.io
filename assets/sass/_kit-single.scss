@@ -3,130 +3,41 @@
 #kit #kit-single {
 
 	//--- Categories colors specifications ---//
-	&.visita, &.visit, &.visite {
-		#title-bar {
-			// background-color: color(visita-light);
-
-			header {
-				border-bottom-color: color(visita);
-			}
-
-			div > p {
-				color: color(visita);
-			}
-		}
-		article aside h2, #more-articles > div li h3 {
-			color: color(visita);
-		}
-		#more-articles > div a {
-			//border: 1px solid color(visita);
-
-			li .box-image {
-				background-color: color(visita-light);
-			}
+	&.comunicazione {
+		article #single-article-container .section-h-line, #more-articles > div h2 {
+			border-color: color(comunicazione);
 		}
 	}
-	&.comunicazione, &.communication, &.comunication, &.kommunikation {
-		#title-bar {
-			// background-color: color(comunicazione-light);
 
-			header {
-				border-bottom-color: color(comunicazione);
-			}
-
-			div > p  {
-				color: color(comunicazione);
-			}
-		}
-		article aside h2, #more-articles > div li h3 {
-			color: color(comunicazione);
-		}
-		#more-articles > div a {
-			//border: 1px solid color(comunicazione);
-
-			li .box-image {
-				background-color: color(comunicazione-light);
-			}
+	&.opere {
+		article #single-article-container .section-h-line, #more-articles > div h2 {
+			border-color: color(opere);
 		}
 	}
-	&.opere, &.artpieces {
-		#title-bar {
-			// background-color: color(opere-light);
 
-			header {
-				border-bottom-color: color(opere);
-			}
+	&.orientamento {
+		article #single-article-container .section-h-line, #more-articles > div h2 {
+			border-color: color(orientamento);
+		}
 
-			div > p  {
-				color: color(opere);
-			}
-		}
-		article aside h2, #more-articles > div li h3 {
-			color: color(opere);
-		}
-		#more-articles > div a {
-			//border: 1px solid color(opere);
-
-			li .box-image {
-				background-color: color(opere-light);
-			}
-		}
-	}
-	&.orientamento, &.orientation, &.orientation {
-		#title-bar {
-			// background-color: color(orientamento-light);
-
-			header {
-				border-bottom-color: color(orientamento);
-			}
-
-			div > p  {
-				color: color(orientamento);
-			}
-		}
-		article aside h2, #more-articles > div li h3 {
-			color: color(orientamento);
-		}
-		#more-articles > div a {
-			//border: 1px solid color(orientamento);
-
-			li .box-image {
-				background-color: color(orientamento-light);
-			}
-		}
 	}
 
 	//--- end ---//
 
 
 	#title-bar header {
-
-		padding-top: 2rem;
-		padding-bottom: 2rem;
-
-		border-bottom: 0.25rem solid;
+		@include outer-container();
+		@include pads(0 0 7 2);
+		position: relative;
 
 
-		#back-icon {
-			@include span-columns(1);
-
-			svg {
-				width: 3.081923rem;
-				height: 2.39615rem;
-
-				max-width: 100%;
-			}
-
-
-
-		}
-
-		#center-titles {
+		#kit-title {
 			@include span-columns(8);
+			margin-bottom: 8rem;
 
 			h2 {
 				@extend %h2-title-size;
-				margin-bottom: 0.7rem;
+				margin-bottom: 1rem;
 				margin-top: 0.5rem;
 			}
 
@@ -136,10 +47,15 @@
 			}
 		}
 
+		#main-description {
+			@extend %main-description;
+			@include span-columns(8);
+		}
+
 		#kit-icon {
-			@include span-columns(3);
-			float: right;
-			text-align: right;
+			position: absolute;
+			right: 0;
+			top: 7rem;
 
 			img {
 				max-width: 100%;
@@ -166,83 +82,6 @@
 				}
 			}
 		}
-
-
-		/*
-
-		div#header-first-line {
-
-			margin-bottom: 2rem;
-
-			svg {
-				margin-left: 0;
-				margin-right: 1rem;
-				float: left;
-				width: 2.081923rem;
-				height: 1.39615rem;
-				
-			}
-
-			h2 {
-				@extend %p-title-size;
-				float: left;
-			}
-		}
-
-		h1 {
-			
-		}
-	
-
-		
-
-		> div {
-			float: none;
-			width: auto;
-			@include outer-container();
-
-			> div {
-				margin-top: 0;
-				@include span-columns(4);
-				margin-right: 0;
-				img {
-					max-width: 100%;
-					display: block;
-					margin-right: auto;
-					margin-left: auto;
-					padding-right: 1rem;
-					padding-left: 1rem;
-				}
-			}
-
-			p {
-				@include span-columns(6);
-			}
-
-			@media screen and (max-width: 720px) {
-				> div {
-					@include span-columns(12);
-					img {
-						transform: translate(45%);
-					}
-				}
-
-				p {
-					@include span-columns(12);
-					margin-top: 3rem;
-				}
-			}
-
-			@media screen and (max-width: 420px) {
-				> div {
-					img {
-						transform: translate(0);
-					}
-				}
-			}
-		}
-
-		*/
 	}
 
 	article {
@@ -255,7 +94,8 @@
 				@include span-columns(4);
 
 				h2 {
-					@extend %p-title-size;
+					@extend %back-button;
+					color: color(main-gray);
 					margin-bottom: 1rem;
 				}
 
@@ -272,39 +112,69 @@
 		#single-article-container {
 			@include span-columns(8);
 
-			> h2 {
-				@extend %p-title-size;
-				@extend %bold-weight;
-				margin-bottom: 2rem;
-				margin-top: 5rem;
-			}
-
-			> h2:first-child {
-				margin-top: 0;
-			}
-
-			> h3 {
-				@extend %article-h3;
-				@extend %bold-weight;
-				margin-top: 1rem;
+			.section-h-line {
+				border-top: 2px solid;
+				width: 5rem;
 				margin-bottom: 1rem;
 			}
 
-			p + h3 {
-				margin-top: 3rem;
+			.section-h-line + .section-container {
+				margin-bottom: 5rem;
 			}
 
-			p + p {
-				margin-top: 1rem;
+			.section-container {
+
+				> h2 {
+					@extend %section-title;		// kit-base.scss
+				}
+
+				> h2:first-child {
+					margin-top: 0;
+				}
+
+				> h3 {
+					@extend %article-h3;
+					@extend %bold-weight;
+					margin-top: 1rem;
+					margin-bottom: 1rem;
+				}
+
+				p + h3 {
+					margin-top: 3rem;
+				}
+
+				p + p {
+					margin-top: 1rem;
+				}
+
+				p + ul {
+					margin-top: 2rem;
+				}
+
+				ul {
+					list-style: inside circle;
+				}
+			}
+		}
+
+
+		#container-button-article-pdf {
+			@include clearfix;
+			margin-bottom: 5rem;
+		}
+
+		#evaluation-tools {
+			> h2 {
+				@extend %section-title;
 			}
 
-			p + ul {
+			.button {
 				margin-top: 2rem;
 			}
+		}
 
-			ul {
-				list-style: inside circle;
-			}
+		.button {
+			@include span-columns(4);
 		}
 
 		@media screen and (max-width: 720px) {
@@ -323,12 +193,15 @@
 					margin-top: 0;
 				}
 			}
+
+			.button {
+				@include span-columns(12);
+			}
 		}
 
 	}
 
 	#more-articles {
-		background-color: color(gray-light-bg);
 		
 		> div {
 			@include outer-container();
@@ -337,6 +210,8 @@
 			h2 {
 				@extend %p-title-size;
 				margin-bottom: 5rem;
+				padding-top: 1rem;
+				border-top: 2px solid;
 			}
 
 			a {
@@ -344,8 +219,6 @@
 				background-color: color(white);
 				text-decoration: none;
 				//padding: 1rem;
-
-				border: 1px solid color(grey);
 
 				
 				li {
@@ -365,8 +238,7 @@
 					.box-text {
 						padding: 1rem;
 						h3 {
-							@extend %kit-title-box;
-							@extend %bold-weight;
+							@extend %section-title;
 							margin-bottom: 1rem;
 						}
 

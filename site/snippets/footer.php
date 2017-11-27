@@ -5,8 +5,8 @@
     <div>
       <p>Mediazione Cultura Inclusione</p>
       <p>SUPSI Laboratorio cultura visiva</p>
-    </div>
-      <a href="mailto:info.mci@supsi.ch">info.mci@supsi.ch</a>
+      <a href="mailto:info.mci@supsi.ch" class="link">info.mci@supsi.ch</a>
+      </div>
   </div>
 </footer>
 

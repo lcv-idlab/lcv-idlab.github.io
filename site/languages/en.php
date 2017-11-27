@@ -1,5 +1,8 @@
 <?php
  	// Italian keywords for translation
+
+	// general
+	l::set('back', 'back');
 	
 	// home
 	l::set('resources', 'resources');

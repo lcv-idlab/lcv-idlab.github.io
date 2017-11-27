@@ -43,6 +43,8 @@
 
 .contacts-colophon {
 
+	margin-top: 5rem;
+
 	.colophon-container {
 		@include outer-container();
 		@include pads(0 2 3 2);

@@ -360,11 +360,16 @@ p a, p a:visited {
   border-bottom: 1px solid color(brand);
 }
 
-.link-back {
+.back-button {
+  @extend %back-button;
   @include outer-container();
-  @include pads(4 2 0 2);
+  @include pads(0 2 2 2);
   display: block;
   float: none;
+
+  @media screen and (max-width: $bp-medium) {
+    padding-bottom: 1rem;
+  }
 }
 
 .headline {
@@ -374,23 +379,35 @@ p a, p a:visited {
 
 .title {
   @include outer-container();
-  @include pads(6 2 5 2);
+  @include pads(0 2 5 2);
   @extend %title;
   display: block;
   float: none;
 
+  /*
   @include media($x-small) {
     @include pads(3.5714 2 4.2857 2);
     //margin-top: 4rem; // fot the fixed header menu
   }
+  */
 }
 
 .title-article {
   @include outer-container();
-  @include pads(1 2 5 2);
-  @extend %title;
-  display: block;
+  @include pads(0 2 5 2);
+  @extend %article-title;
   float: none;
+  display: block;
+
+  @media screen and (max-width: $bp-medium) {
+    padding-bottom: 3rem;
+  }
+
+  h1 {
+    @media screen and (min-width: $bp-large) {
+      @include span-columns(9);
+    }
+  }
 }
 
 .button {
@@ -402,13 +419,14 @@ p a, p a:visited {
   text-align: center;
   display: block;
   border: none;
-  background-color: color(brand);
-  color: color(white);
+  background-color: color(white);
+  color: color(black);
   height: 2.5rem;
   cursor: pointer;
+  border: 1px solid color(black);
 
   &:hover {
-    background-color: color(accent-dark);
+    background-color: color(main-gray);
     color: color(white);
   }
 }

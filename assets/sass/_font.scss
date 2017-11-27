@@ -7,27 +7,27 @@ html {
 	padding: 0;
 	border: 0;
 	vertical-align: baseline;
-	font-size: 16px;
+	font-size: 18px;
 
 	@include media($x-small) {
-		font-size: 14px;
+		font-size: 18px;
 	}
 	@include media($small) {
-		font-size: 14px;
+		font-size: 18px;
 	}
 	@include media($medium) {
-		font-size: 16px;
+		font-size: 22px;
 	}
 	@include media($large) {
-		font-size: 16px;
+		font-size: 22px;
 	}
 	@include media($desktop) {
-		font-size: 16px;
+		font-size: 22px;
 	}
 }
 
 @include font-face('roboto-bold', '../fonts/roboto_bold/Roboto-Bold-webfont', normal, $file-formats: eot svg ttf woff);
-//@include font-face('roboto-medium', '../fonts/roboto_medium/Roboto-Medium-webfont', normal, $file-formats: eot svg ttf woff);
+@include font-face('roboto-medium', '../fonts/roboto_medium/Roboto-Medium-webfont', normal, $file-formats: eot svg ttf woff);
 @include font-face('roboto-regular', '../fonts/roboto_regular/Roboto-Regular-webfont', normal, $file-formats: eot svg ttf woff);
 @include font-face('roboto-light', '../fonts/roboto_light/Roboto-Light-webfont', normal, $file-formats: eot svg ttf woff);
 
@@ -59,14 +59,15 @@ html {
 
 %large-size {
 	//font-size: rem($base-font-size * 3);
-	font-size: 3rem;
+	font-size: 2.5rem;
 	line-height: 3.625rem;
 	//margin-bottom: 1rem;
 	margin-top: 0;
 	color: color(black);
 
 	@include media($x-small) {
-		font-size: 1.714128rem; //24px with html font-size: 14px
+		//font-size: 1.714128rem; //24px with html font-size: 14px
+		font-size: 2.5rem;
 		line-height: 120%;
 	}
 }
@@ -119,19 +120,38 @@ html {
 
 %headline {
 	@extend %bold-weight;
-	@extend %medium-size;
+	font-size: 1.5rem;
+	line-height: 2rem;
 	color: color(black);
 }
 
 %paragraph-title {
 	@extend %bold-weight;
-	@extend %baseline-size;
+	font-size: 1.2rem;
 }
 
 %title {
 	@extend %bold-weight;
-	@extend %large-size;
+	font-size: 4.5rem;
+	line-height: 4.5rem;
 	color: color(black);
+
+	@media screen and (max-width: $bp-small) {
+		font-size: 3.2rem;
+	}
+}
+
+// h1 title for the single resources and kits 
+%article-title {
+	@extend %bold-weight;
+	font-size: 3rem;
+	line-height: 3.5rem;
+	color: color(black);
+
+	@media screen and (max-width: $bp-small) {
+		font-size: 2.2rem;
+		line-height: 2.7rem;
+	}
 }
 
 %title-secondary {
@@ -147,19 +167,20 @@ html {
 
 %main-logo {
 	@extend %bold-weight;
-	@extend %medium-size;
-	color: color(white);
+	font-size: 3.375rem;
+	font-size: 2.2rem;
+	color: color(black);
 
 	&:link, &:hover, &:visited, &:active {
-		color: color(white);
+		color: color(black);
 		text-decoration: none;
 	}
 }
 
-%main-nav-button {
-	@extend %light-weight;
+%menu-button {
+	@extend %medium-weight;
 	@extend %medium-size;
-	color: color(white);
+	color: color(black);
 	text-decoration: none;
 
 	@include media($x-small) {
@@ -167,10 +188,17 @@ html {
 	}
 }
 
-%sec-nav-button {
-	@extend %light-weight;
-	@extend %medium-size;
-	color: color(brand);
+%main-menu-first {
+	@extend %medium-weight;
+	font-size: 1.6rem;
+	color: color(main-gray);
+	text-decoration: none;
+}
+
+%main-menu-second {
+	@extend %medium-weight;
+	font-size: 1.6rem;
+	color: color(main-grey-light);
 	text-decoration: none;
 }
 
@@ -188,8 +216,29 @@ html {
 	@extend %baseline-size;
 }
 
+%back-button {
+	@extend %regular-weight;
+	@extend %medium-size;
+	text-decoration: none;
+
+	&:link, &:visited, &:active {
+		color: color(main-gray);
+		text-decoration: none;
+	}
+	&:hover {
+		color: color(black);
+	}
+
+	@media screen and (max-width: $bp-small) {
+		font-size: 1.1rem;
+	}
+
+}
+
 
 // same but classes to use @extend when nested inside a media query
+
+/*
 
 .class-main-nav-button {
 	@extend %main-nav-button;
@@ -198,3 +247,5 @@ html {
 .class-sec-nav-button {
 	@extend %sec-nav-button;
 }
+
+*/

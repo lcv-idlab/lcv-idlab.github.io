@@ -44,5 +44,18 @@ fields:
         label: Contenuto della sezione
         type: markdown
         header1: h2
-        header2: h3
+        header2: 
+  tools:
+    label: Strumenti di valutazione
+    type: textarea
+  pdf_article:
+    label: PDF dell'articolo
+    type: select
+    default: architecture
+    options: documents
+  pdf_evaluation:
+    label: PDF della valutazione
+    type: select
+    default: architecture
+    options: documents
 

@@ -6,14 +6,16 @@
 
 	#main-header {
 		@include outer-container();
+		/*
 		h1 {
 			@extend %h1;
-			@include pads(6 2 8 2);
+			@include pads(0 2 8 2);
 
 			@include media($x-small) {
 				@include pads(5 2 2 2);
 			}
 		}
+		*/
 		> div {
 			@include span-columns(12);
 			@extend %main-description;
@@ -32,17 +34,24 @@
 		@include outer-container();
 		@include pads(0 2 0 2);
 
-		section {
-			border-top: 2px solid;
+		.cat-title-h-line {
+			border-top: 0.5rem solid;
+			width: 7rem;
 		}
 
 		h2 {
 			@extend %h1;
+			@extend %bold-weight;
 			margin-bottom: 5rem;
+			margin-top: 1rem;
 
 			@media screen and (max-width: 420px) {
 				margin-bottom: 3rem;
 			}
+		}
+
+		.category-single + .category-single {
+			margin-top: 7rem;
 		}
 
 		.category-container {
@@ -51,7 +60,7 @@
 			margin-right: auto;
 			margin-left: auto;
 			
-			max-width: 750px;
+			//max-width: 1024px;
 
 			font-size: 1rem;
 			overflow: hidden;
@@ -63,10 +72,10 @@
 
 			.single-kit {
 				@include span-columns(12);
-				margin-bottom: 7rem;
+				margin-bottom: 3rem;
 
 				header {
-					@include span-columns(9 of 12);
+					@include span-columns(8 of 12);
 
 					h3 {
 						@extend %main-description;
@@ -75,7 +84,7 @@
 				}
 
 				aside {
-					@include span-columns(3 of 12);
+					@include span-columns(4 of 12);
 
 					img {
 						width: 95%;
@@ -85,6 +94,8 @@
 				}
 
 				@media screen and (min-width: 421px) {
+
+					/*
 					&:nth-child(even) {
 						header {
 							@include shift(3);
@@ -93,6 +104,7 @@
 							@include shift(-12);
 						}
 					}
+					*/
 				}
 
 				// Responsive
@@ -128,19 +140,21 @@
 
 
 
+
+
 		}
 
 		// Color specific items
 
-		section#comunicazione {
+		#comunicazione .cat-title-h-line {
 			border-top-color: color(comunicazione);
 		}
 
-		section#opere {
+		#opere .cat-title-h-line {
 			border-top-color: color(opere);
 		}
 
-		section#orientamento {
+		#orientamento .cat-title-h-line{
 			border-top-color: color(orientamento);
 		}
 

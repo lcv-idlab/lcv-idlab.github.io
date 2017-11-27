@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <main>
-
+	
 	<h1 class="title"><?php echo page()->title()->html() ?></h1>
 
 	<div class="contacts-contacts">

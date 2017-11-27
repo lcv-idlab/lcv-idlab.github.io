@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <main>  
-  <a href="<?php echo page('eventi')->url() ?>" class="link link-back"><span>Torna agli eventi</span></a>
+  <a href="<?php echo page('eventi')->url() ?>" class="link back-button"><span>Torna agli eventi</span></a>
 
   <article>
 

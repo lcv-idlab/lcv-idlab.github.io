@@ -2,9 +2,11 @@
 
 <div id="kit">
 	<main>
+		<div id="kit-title">
+			<h1 class="title"><?php echo page()->title()->html() ?></h1>
+			<!-- <div></div> -->
+		</div>
 		<header id="main-header">
-			<h1><?php echo page()->title()->html() ?></h1>
-
 			<div><?php echo page()->description()->kt() ?></div>
 		</header>
 
@@ -26,10 +28,11 @@
 
 		<?php foreach ($page->children() as $cat): ?>
 
-			<section id="<?php echo $cat->title('it') ?>">
+			<section id="<?php echo $cat->title('it') ?>" class="category-single">
 
 				<!-- CATEGORY TITLE -->
 				<header>
+					<div class="cat-title-h-line"></div>
 					<h2><?php echo ucfirst($cat->title()) ?></h2>
 					<!--
 					<div class="cat-button-open">
@@ -44,10 +47,6 @@
 				<?php foreach ($cat->children()->visible() as $kit): ?>
 				<a href="<?php echo $kit->url() ?>" class="single-kit">		
 					<article>
-						<header>
-							<h3><?php echo ucfirst($kit->title()) ?></h3>
-							<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
-						</header>
 						<aside>
 							<?php if($kit->icon()->isNotEmpty()): ?>
 							<img src="<?php echo $kit->image($kit->icon())->url() ?>">
@@ -55,6 +54,11 @@
 								<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
 							<?php endif ?>
 						</aside>
+						<header>
+							<h3><?php echo ucfirst($kit->title()) ?></h3>
+							<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
+						</header>
+
 					</article>
 				</a>
 				<?php endforeach ?>

@@ -2,9 +2,11 @@
 
   <main>
 
-    <a href="<?php echo page('risorse')->url() ?>" class="link link-back"><span>Torna indietro</span></a>
+    <a href="<?php echo page('risorse')->url() ?>" class="back-button"><?php echo "< ".l::get('back') ?></a>
 
-    <h1 class="title-article"><?php echo ucfirst( page()->title()->html() ) ?></h1>
+    <div class="title-article">
+      <h1><?php echo ucfirst( page()->title()->html() ) ?></h1>
+    </div>
 
     <div class="resource-experience">
 

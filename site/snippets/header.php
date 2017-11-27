@@ -5,7 +5,7 @@
 
 <header class="main-nav">
 	<nav>
-		<a href="<?php echo $site->url() ?>" class="main-logo"></a>
+		<a href="<?php echo $site->url() ?>" class="main-logo">MCI<span><?php echo " / ".$site->title() ?></span></a>
 		<span class="menu-button"><a href="" id="toggle"></a></span>
 		<ul>
 		<?php foreach ($site->pages()->visible() as $page): ?>

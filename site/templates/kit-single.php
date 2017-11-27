@@ -1,26 +1,19 @@
 <?php snippet('header') ?>
 
 <div id="kit">
-	<main id="kit-single" class="<?php echo page()->parent()->title() ?>">
+	<main id="kit-single" class="<?php echo page()->parent()->title('it') ?>">
 		<div id="title-bar">
-			<header>
-				<div id="back-icon">
-					<a href="/kit">
-						
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-						width="154.024px" height="100px" viewBox="-161.111 0 154.024 100" enable-background="new -161.111 0 154.024 100"
-						xml:space="preserve">
-							<line fill="none" stroke="#555555" stroke-width="13.3791" stroke-linecap="round" stroke-linejoin="round" x1="-18.367" y1="50.002" x2="-138.267" y2="50.002"/>
-							<polyline fill="none" stroke="#555555" stroke-width="13.3791" stroke-linecap="round" stroke-linejoin="round" points="-98.09,91.874 -149.83,50.002 -98.096,8.126 "/>
-						</svg>
+			
+			<a href="/<?php echo $site->language() ?>/kit" class="back-button"><?php echo "< ".l::get('back')?></a>
 
-					</a>
+			<header>
+				<div id="kit-title">
+					<h1 ><?php echo page()->title()->html() ?></h1>
+					<h2><?php echo page()->parent()->title() ?></h2>
 				</div>
 
-				<div id="center-titles">
-					<h2><?php echo page()->parent()->title() ?></h2>
-					<h1 ><?php echo page()->title()->html() ?></h1>
-					
+				<div id="main-description">
+					<?php echo $page->description()->kt()?>
 				</div>
 
 				<div id="kit-icon">
@@ -30,6 +23,7 @@
 						<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
 					<?php endif ?>
 				</div>
+
 
 				<!--
 				<div>
@@ -72,12 +66,31 @@
 			<!-- CONTENT -->
 			<div id="single-article-container">
 			<?php foreach (page()->article()->toStructure() as $article): ?>
-				<h2  id="<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></h2>
-				<?php echo $article->content()->kt()->html() ?>
+				<div class="section-h-line"></div>
+				<div class="section-container">
+					<h2  id="<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></h2>
+					<?php echo $article->content()->kt()->html() ?>
+				</div>
 			<?php endforeach ?>
 			<!-- end: CONTENT -->
-			</div>
 
+			<!-- PDF of the article -->
+			<?php if(page()->pdf_article()->isNotEmpty()): ?>
+				<div id="container-button-article-pdf">
+					<a href="<?php echo page()->document(page()->pdf_article())->url() ?>" target="_blank"><div class="button"><?php echo l::get('pdf-article') ?></div></a>
+				</div>
+			<?php endif ?>
+
+			<!-- Evaluation tools -->
+			<?php if(page()->pdf_evaluation()->isNotEmpty()): ?>
+				<div id="evaluation-tools">
+					<div class="section-h-line"></div>
+					<h2><?php echo l::get("tools") ?></h2>
+					<?php echo page()->tools()->kt() ?>
+						<a href="<?php echo page()->document(page()->pdf_evaluation())->url() ?>" target="_blank"><div class="button"><?php echo l::get('pdf-evaluation') ?></div></a>
+				</div>
+			<?php endif ?>
+			</div>
 		</article>
 
 		<!-- end: MAIN ARTICLE -->
@@ -103,7 +116,7 @@
 								<li>
 									<div class="box-text">
 										<h3><?php echo $kit->title() ?></h3>
-										<?php echo $kit->description()->kt() ?>
+										<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
 									</div>
 
 									<div class="box-image">
