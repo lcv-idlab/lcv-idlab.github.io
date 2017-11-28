@@ -1,0 +1,36 @@
+// blueprint title (template title)
+title: path-single
+
+// page settings
+options:
+  delete: true
+  status: true
+  url: false
+
+// subpages settings  
+pages: false
+
+// file settings  
+files: true
+
+// fields with their fields types and options
+fields:
+  title: 
+    label: Titolo del percorso
+    type: text
+  description:
+    label: Descrizione
+    type: textarea
+  article:
+    label: Contenuto
+    type: textarea
+  links_to_kit:
+    label: Lista schede kit da selezionare
+    type: select
+    options: query
+    query:
+      page: kit
+      fetch: pages
+      template: kit-single
+      text: '{{title}}'
+      value: '{{uid}}'

@@ -51,9 +51,14 @@
 		}
 
 		.category-single + .category-single {
-			margin-top: 7rem;
+			margin-top: 5rem;
+
+			@media screen and (min-width: $bp-medium) {
+				margin-top: 5rem;
+			}
 		}
 
+		/*
 		.category-container {
 
 			display: block;
@@ -64,85 +69,8 @@
 
 			font-size: 1rem;
 			overflow: hidden;
-
-			a:link, a:hover, a:visited, a:active {
-				text-decoration: none;
-				color: color(black);
-			}
-
-			.single-kit {
-				@include span-columns(12);
-				margin-bottom: 3rem;
-
-				header {
-					@include span-columns(8 of 12);
-
-					h3 {
-						@extend %main-description;
-						margin-bottom: 1rem;
-					}
-				}
-
-				aside {
-					@include span-columns(4 of 12);
-
-					img {
-						width: 95%;
-						max-width: 230px;
-						max-height: 230px;
-					}
-				}
-
-				@media screen and (min-width: 421px) {
-
-					/*
-					&:nth-child(even) {
-						header {
-							@include shift(3);
-						}
-						aside {
-							@include shift(-12);
-						}
-					}
-					*/
-				}
-
-				// Responsive
-
-				@media screen and (max-width: 420px) {
-
-					margin-bottom: 5rem;
-
-					&:last-child {
-						margin-bottom: 9rem;
-					}
-
-					article {
-						display: inline-grid;
-
-						header {
-							@include span-columns(12 of 12);
-							order: 2;
-						}
-
-						aside {
-							@include span-columns(12 of 12);
-							text-align: center;
-							order: 1;
-
-							img {
-								max-width: 50%;
-							}
-						}
-					}
-				}
-			}
-
-
-
-
-
 		}
+		*/
 
 		// Color specific items
 

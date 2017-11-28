@@ -22,7 +22,7 @@
 			}
 				
 
-			@media screen and (max-width: $bp-small) {
+			@media screen and (max-width: $bp-menu-mobile) {
 				span {
 					display: none;
 				}
@@ -146,15 +146,15 @@
 						color: color(black);
 					}
 
+					&.active {
+						color: color(black);
+					}
+
 
 					@include media($main-nav-mobile) {
 						@include pads(0.5 0 1 2);
 						display: list-item;
 						width: 100%;
-
-						&.after-secondmenu-li-menu-mobile {
-							margin-top: 9.5rem;
-						}
 
 						/*
 						&:hover {
@@ -171,10 +171,6 @@
 						}
 
 						*/
-
-						&.active {
-							color: color(black);
-						}
 					}
 
 				}
@@ -209,11 +205,14 @@
 
 			.second-level {
 				@include outer-container();
-				@include pads(0.2 0 0 2.5);
+				@include pads(0.2 0 0 2);
+
+				@media screen and (max-width: $bp-menu-mobile) {
+					padding-left: 2.5rem;
+				}
 
 				> li {
 					display: inline;
-
 					@extend %main-menu-second;
 
 					@media screen and (min-width: $bp-menu-mobile) {
@@ -227,9 +226,14 @@
 						}
 					}
 
+
 					@include media($main-nav-mobile) {
 						display: list-item;
 						text-align: left;
+
+						&:last-child {
+							margin-bottom: 1rem;
+						}
 
 						/*
 						&:last-child {

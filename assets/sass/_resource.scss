@@ -15,6 +15,18 @@ a.resource-link {
 	}
 }
 
+
+.button-download {
+	@include span-columns(4 of 4);
+	width: 85%;
+	margin-bottom: 1rem;
+
+	@media screen and (max-width: 980px) {
+		width: 100%;
+	}
+}
+
+
 //-- documents --//
 .resource-document {
 	@include outer-container();
@@ -96,16 +108,6 @@ a.resource-link {
 
 			li {
 				display: block;
-			}
-
-			.button-download {
-				@include span-columns(4 of 4);
-				width: 85%;
-				margin-bottom: 1rem;
-
-				@media screen and (max-width: 980px) {
-					width: 100%;
-				}
 			}
 
 			h3 + .button-download {
@@ -226,19 +228,16 @@ a.resource-link {
 			}
 
 			#ext_resource {
-				@include span-columns(3 of 4);
+				@include span-columns(4 of 4);
 				margin-top: 2rem;
 				margin-bottom: 1rem;
 
 				@include media($mobile) {
 					@include span-columns(8 of 8);
 				}
-
-
 			}
 
 			.button-download {
-				@include span-columns(3 of 4);
 				margin-top: 1rem;
 			}
 		}

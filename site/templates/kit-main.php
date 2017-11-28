@@ -22,11 +22,11 @@
 
 		-->
 
-		<!-- CATEGORIES WITH SINGLE KITS -->
-
 		<div id="categories-container">
 
 		<?php foreach ($page->children() as $cat): ?>
+
+			<?php if ($cat->intendedTemplate() == "kit-category"): ?>
 
 			<section id="<?php echo $cat->title('it') ?>" class="category-single">
 
@@ -44,27 +44,29 @@
 
 				<!-- SINGLE KITS -->
 				<div class="category-container">
-				<?php foreach ($cat->children()->visible() as $kit): ?>
-				<a href="<?php echo $kit->url() ?>" class="single-kit">		
-					<article>
-						<aside>
-							<?php if($kit->icon()->isNotEmpty()): ?>
-							<img src="<?php echo $kit->image($kit->icon())->url() ?>">
-							<?php else: ?>
-								<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
-							<?php endif ?>
-						</aside>
-						<header>
-							<h3><?php echo ucfirst($kit->title()) ?></h3>
-							<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
-						</header>
-
-					</article>
-				</a>
-				<?php endforeach ?>
+					<ul class="single-kit">
+					<?php foreach ($cat->children()->visible() as $kit): ?>
+						<li>
+							<a href="<?php echo $kit->url() ?>">	
+								<?php if($kit->icon()->isNotEmpty()): ?>
+								<div class="kit-icon">
+									<img src="<?php echo $kit->image($kit->icon())->url() ?>">
+									<?php else: ?>
+										<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
+									<?php endif ?>
+								</div>
+								
+								<h3><?php echo ucfirst($kit->title()) ?></h3>
+								<p class="kit-description"><?php echo shortstring($kit->description()->html(), 200) ?></p>
+							</a>
+						</li>
+					<?php endforeach ?>
+					</ul>
 				</div>
 				
 			</section>
+
+			<?php endif ?>
 
 		<?php endforeach ?>
 		</div>

@@ -4,22 +4,21 @@
 
 	//--- Categories colors specifications ---//
 	&.comunicazione {
-		article #single-article-container .section-h-line, #more-articles > div h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(comunicazione);
 		}
 	}
 
 	&.opere {
-		article #single-article-container .section-h-line, #more-articles > div h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(opere);
 		}
 	}
 
 	&.orientamento {
-		article #single-article-container .section-h-line, #more-articles > div h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(orientamento);
 		}
-
 	}
 
 	//--- end ---//
@@ -27,13 +26,11 @@
 
 	#title-bar header {
 		@include outer-container();
-		@include pads(0 0 7 2);
-		position: relative;
-
+		@include pads(0 2 7 2);
 
 		#kit-title {
 			@include span-columns(8);
-			margin-bottom: 8rem;
+			margin-bottom: 3rem;
 
 			h2 {
 				@extend %h2-title-size;
@@ -45,40 +42,40 @@
 				@extend %h1-title-size;
 				@extend %bold-weight;
 			}
+
+			@media screen and (max-width: $bp-large) {
+				@include span-columns(12);
+			}
+
+			@media screen and (max-width: $bp-small) {
+
+				h1, h2 {
+					text-align: center;
+				}
+			}
+		}
+
+		#kit-icon {
+			@include span-columns(12);
+			margin-bottom: 2rem;
+
+			img {
+				max-width: 230px;
+			}
+
+			@media screen and (max-width: $bp-small) {
+				text-align: center;
+			}
 		}
 
 		#main-description {
 			@extend %main-description;
-			@include span-columns(8);
-		}
 
-		#kit-icon {
-			position: absolute;
-			right: 0;
-			top: 7rem;
-
-			img {
-				max-width: 100%;
-			}
-		}
-
-		@media screen and (max-width: 420px) {
-
-			#back-icon {
-				display: none;
-			}
-
-			#center-titles {
+			> div {
 				@include span-columns(12);
-			}
 
-			#kit-icon {
-				@include span-columns(12);
-				text-align: center;
-				margin-top: 2rem;
-
-				img {
-					max-height: 13rem;
+				@media screen and (min-width: $bp-large) {
+					@include span-columns(8);
 				}
 			}
 		}
@@ -86,7 +83,7 @@
 
 	article {
 		@include outer-container();
-		@include pads(5 2 7 2);
+		@include pads(0 2 7 2);
 
 		aside {
 
@@ -174,7 +171,13 @@
 		}
 
 		.button {
-			@include span-columns(4);
+			@include span-columns(12);
+
+			@media screen and (min-width: $bp-medium) {
+				@include span-columns(6);
+			}
+
+
 		}
 
 		@media screen and (max-width: 720px) {
@@ -193,118 +196,21 @@
 					margin-top: 0;
 				}
 			}
-
-			.button {
-				@include span-columns(12);
-			}
+				
 		}
 
 	}
 
 	#more-articles {
-		
-		> div {
-			@include outer-container();
-			@include pads(3 2 7 2);
+		@include outer-container();
+		@include pads(0 2 0 2);
 
-			h2 {
-				@extend %p-title-size;
-				margin-bottom: 5rem;
-				padding-top: 1rem;
-				border-top: 2px solid;
-			}
-
-			a {
-				@include span-columns(4);
-				background-color: color(white);
-				text-decoration: none;
-				//padding: 1rem;
-
-				
-				li {
-
-					.box-image {
-						width: 100%;
-						text-align: center;
-						padding: 1rem;
-
-						img {
-							display: block;
-							margin: auto;
-							max-width: 100%;
-						}
-					}
-
-					.box-text {
-						padding: 1rem;
-						h3 {
-							@extend %section-title;
-							margin-bottom: 1rem;
-						}
-
-						p {
-							color: color(black);
-						}
-					}
-				}
-			}
-
-			@media screen and (max-width: 720px) and (min-width: 420px) {
-				a {
-					@include span-columns(12);
-
-					li {
-						min-height: 4rem;
-						
-						.box-image {
-							@include span-columns(4 of 12);
-							float: right;
-							margin-right: 0;
-
-							/*
-							position: absolute;
-							top: 0;
-							bottom: 0;
-							height: 100%;
-							right: 0;
-							*/
-
-							img {
-								max-height: 8rem;
-								max-width: 100%;
-							}
-						}
-						.box-text {
-							@include span-columns(8 of 12);
-							float: left;
-						}
-
-					}
-				}
-
-				a + a {
-					margin-top: 2rem;
-				}
-			}
-
-			@media screen and (max-width: 420px) {
-				a {
-					@include span-columns(12);
-
-					li .box-image img {
-						max-height: 12rem;
-					}
-
-					li .box-text p {
-						//display: none;
-					}
-
-				}
-
-				a + a {
-					margin-top: 2rem;
-				}
-			}
+			
+		h2 {
+			@extend %p-title-size;
+			margin-bottom: 5rem;
+			padding-top: 1rem;
+			border-top: 2px solid;
 		}
 	}
 }

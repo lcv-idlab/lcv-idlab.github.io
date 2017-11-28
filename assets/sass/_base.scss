@@ -370,6 +370,18 @@ p a, p a:visited {
   @media screen and (max-width: $bp-medium) {
     padding-bottom: 1rem;
   }
+
+  @media screen and (max-width: $bp-small) {
+    // visuallyhidden
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
 }
 
 .headline {
@@ -440,4 +452,30 @@ p a, p a:visited {
   padding: 0;
   position: absolute;
   width: 1px;
+}
+
+#page-not-found {
+
+  @include outer-container();
+  @include pads(0 2 0 2);
+
+  h1 {
+    @extend %article-title;
+    margin-bottom: 2rem;
+  }
+
+  a:before {
+    content: "<<< ";
+    display: inline;
+  }
+
+  a:link, a:visited, a:active, a:hover {
+    color: color(black);
+    text-decoration: none;
+  }
+
+  a:hover {
+    border-bottom: 1px solid color(black);
+  }
+
 }

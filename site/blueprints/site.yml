@@ -26,3 +26,6 @@ fields:
   subtitle:
     label: Sottotitolo
     type: textarea
+  page_not_found:
+    label: Testo pagina non trovata
+    type: textarea

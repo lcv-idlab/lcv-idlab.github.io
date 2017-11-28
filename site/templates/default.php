@@ -1,19 +1,13 @@
-<!--
+<!-- 404 -->
 
 <?php snippet('header') ?>
 
-<?php snippet('menu', ['showHome' => true]) ?>
+	<main id="page-not-found">
+		<h1><?php echo l::get('404') ?></h1>
 
-<?php snippet('statement', ['content' => $page->statement()]) ?>
+		<a href="<?php echo $site->url() ?>"><?php echo $site->page_not_found()->html()?></a>
+	</main>
 
-<div class="wrapper" id="content" role="main">
-  
-  <div class="page" id="content" role="main">
-    <?php echo $page->text()->kt() ?>
-  </div>
 
-</div>
 
 <?php snippet('footer') ?>
-
--->

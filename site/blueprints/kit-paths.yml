@@ -1,0 +1,29 @@
+// blueprint title (template title)
+title: paths
+
+// page settings
+options:
+  delete: false
+  status: true
+  url: false
+
+// subpages settings  
+pages:
+  template: kit-path-single
+
+// file settings
+files: false
+
+// fields with their fields types and options
+fields:
+  title: 
+    label: Titolo
+    type: text
+  description:
+    label: Descrizione dei percorsi
+    type: textarea
+  info:
+    label: Aggiungi una nuova risorsa
+    type: info
+    text: >
+      <p>Clicca su "Add" per inserire una nuova risorsa</p>

@@ -1,8 +1,8 @@
 <?php snippet('header') ?>
 
 	<main>
-		<h1 class="title home-main-title desktop"><?php echo $site->subtitle()->html() ?></h1>
-		<h1 class="title home-main-title mobile"><?php echo $site->second_title()->html() ?></h1>
+		<h1 class="home-main-title desktop"><?php echo $site->subtitle()->html() ?></h1>
+		<h1 class="home-main-title mobile"><?php echo $site->second_title()->kt() ?></h1>
 
 		<!-- RESOURCES -->
 

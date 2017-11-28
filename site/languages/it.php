@@ -3,6 +3,7 @@
 	
 	// general
 	l::set('back', 'indietro');
+	l::set('404', 'Pagina non trovata');
 
 	// home
 	l::set('resources', 'risorse');

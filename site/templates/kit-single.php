@@ -8,13 +8,10 @@
 
 			<header>
 				<div id="kit-title">
-					<h1 ><?php echo page()->title()->html() ?></h1>
-					<h2><?php echo page()->parent()->title() ?></h2>
+					<h1 ><?php echo page()->title()->html()->html() ?></h1>
+					<h2><?php echo page()->parent()->title()->html() ?></h2>
 				</div>
 
-				<div id="main-description">
-					<?php echo $page->description()->kt()?>
-				</div>
 
 				<div id="kit-icon">
 					<?php if (page()->icon()->isNotEmpty() ): ?>
@@ -24,19 +21,10 @@
 					<?php endif ?>
 				</div>
 
-
-				<!--
-				<div>
-					<div>
-					<?php if (page()->icon()->isNotEmpty() ): ?>
-						<img src="<?php echo page()->image(page()->icon())->url() ?>">
-					<?php else: ?>
-						<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
-					<?php endif ?>
-					</div>
-					<?php echo page()->description()->kt() ?>
+				<div id="main-description">
+					<div><?php echo $page->description()->kt()?></div>
 				</div>
-				-->
+
 			</header>
 		</div>
 
@@ -107,35 +95,31 @@
 		<?php if ($coll->count()): ?>
 				
 			<div id="more-articles">
-				<div>
 					<h2><?php echo l::get('more') ?></h2>
 					
-					<ul>
+					<ul class="single-kit">
 						<?php foreach( $coll as $kit): ?>
-							<a href="<?php echo $kit->url() ?>">
-								<li>
-									<div class="box-text">
-										<h3><?php echo $kit->title() ?></h3>
-										<p><?php echo shortstring($kit->description()->html(), 200) ?></p>
-									</div>
-
-									<div class="box-image">
-									<?php if ($kit->icon()->isNotEmpty() ): ?>
-										<img src="<?php echo $kit->image($kit->icon())->url() ?>">
+						<li>
+							<a href="<?php echo $kit->url() ?>" class="single-kit">	
+								<?php if($kit->icon()->isNotEmpty()): ?>
+								<div class="kit-icon">
+									<img src="<?php echo $kit->image($kit->icon())->url() ?>">
 									<?php else: ?>
 										<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
 									<?php endif ?>
-									</div>
-								</li>
+								</div>
+								
+								<h3><?php echo ucfirst($kit->title()) ?></h3>
+								<p class="kit-description"><?php echo shortstring($kit->description()->html(), 200) ?></p>
 							</a>
+						</li>
+
 						<?php endforeach ?>
 
 						<?php if (count($coll) < 3): ?>
 						
 						<?php endif ?>
 					</ul>
-				</div>
-
 			</div>
 
 		<?php endif ?>

@@ -1,0 +1,35 @@
+//-- KIT PATHS --/
+
+#kit {
+	#paths-container {
+		@include outer-container();
+		@include pads(0 2 0 2);
+
+		.path-single {
+
+			a:link, a:hover, a:visited, a:active {
+				color: color(black);
+				text-decoration: none;
+			}
+
+			h2 {
+				@extend %main-description;
+
+			}
+		}
+
+		.path-single + .path-single {
+			margin-top: 4rem;
+		}
+
+	}
+
+
+
+	//--- PATH SINGLE PAGE --//
+
+	#article-container {
+		@include outer-container();
+		@include pads(0 2 0 2);
+	}
+}
