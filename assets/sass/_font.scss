@@ -31,6 +31,7 @@ html {
 @include font-face('roboto-regular', '../fonts/roboto_regular/Roboto-Regular-webfont', normal, $file-formats: eot svg ttf woff);
 @include font-face('roboto-light', '../fonts/roboto_light/Roboto-Light-webfont', normal, $file-formats: eot svg ttf woff);
 
+
 //--- FONT SIZES --//
 %baseline-size  {
 	//font-size: calc(1rem + 1vw);
@@ -233,6 +234,12 @@ html {
 		font-size: 1.1rem;
 	}
 
+}
+
+%blockquote {
+	@extend %light-weight;
+	line-height: 150%;
+	font-size: 1rem;
 }
 
 

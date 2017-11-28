@@ -57,7 +57,7 @@
 				<div class="section-h-line"></div>
 				<div class="section-container">
 					<h2  id="<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></h2>
-					<?php echo $article->content()->kt()->html() ?>
+					<?php echo $article->content()->kt() ?>
 				</div>
 			<?php endforeach ?>
 			<!-- end: CONTENT -->

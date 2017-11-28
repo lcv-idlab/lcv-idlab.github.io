@@ -1,25 +1,5 @@
 //--- KIT BASE ---//
 
-#kit {
-
-	/*
-	// font baseline
-	@media screen and (max-width: $bp-medium) {
-		font-size: 14px;
-	}
-	@media screen and (min-width: $bp-large) {
-		font-size: 16px;
-	}
-	*/
-}
-
-
-//--- KIT BASIC STYLES --//
-
-
-
-//--- KIT FONT SIZE ---//
-
 %h1 {
 	line-height: 3rem;
 
@@ -31,7 +11,19 @@
 	}
 }
 
+%kit-main-page-description {
+	@extend %medium-weight;
+	font-size: 1.6rem;
+	line-height: 2.2rem;
+}
+
 %main-description {
+	@extend %medium-weight;
+	font-size: 1.3rem;
+	line-height: 140%;
+}
+
+%kits-title {
 	@extend %medium-weight;
 	font-size: 1.6rem;
 	line-height: 2.2rem;
@@ -43,88 +35,13 @@
 %section-title {
 	@extend %regular-weight;
 	margin-bottom: 2rem;
+	line-height: 120%;
 	font-size: 1.5rem;
 	color: color(black);
 }
 
 
-
-
-
 // --- KIT SINGLE VISUALISATION --//
-
-	/* ROWS STYLE */
-
-/*
-.single-kit {
-	@include span-columns(12);
-	margin-bottom: 3rem;
-
-	header {
-		@include span-columns(8 of 12);
-
-		h3 {
-			@extend %main-description;
-			margin-bottom: 1rem;
-		}
-	}
-
-	aside {
-		@include span-columns(3 of 12);
-
-		img {
-			width: 95%;
-			max-width: 230px;
-		}
-	}
-
-	// Responsive
-
-	@media screen and (max-width: $bp-medium) {
-		article {
-
-			header {
-				@include span-columns(8 of 12);
-			}
-
-			aside {
-				@include span-columns(4 of 12);
-			}
-		}
-	}
-
-	@media screen and (max-width: $bp-small) {
-
-		margin-bottom: 5rem;
-
-		&:last-child {
-			margin-bottom: 2rem;
-		}
-
-		article {
-			display: inline-grid;
-
-			header {
-				@include span-columns(12 of 12);
-				order: 2;
-			}
-
-			aside {
-				@include span-columns(12 of 12);
-				text-align: center;
-				order: 1;
-
-				img {
-					width: 100%;
-					max-width: 230px;
-				}
-			}
-		}
-	}
-}
-
-*/
-
 
 /* COLUMNS STYLE */
 
@@ -136,7 +53,7 @@
 		margin-bottom: 3rem;
 
 		h3 {
-			@extend %main-description;
+			@extend %kits-title;
 			margin-bottom: 1rem;
 		}
 
@@ -150,12 +67,14 @@
 
 		@media screen and (min-width: $bp-small) {
 			@include span-columns(6);
+			@include omega-reset(3n);
 			@include omega(2n);
 		}
 
 		@media screen and (min-width: $bp-large) {
 			@include span-columns(4);
 			@include omega-reset(2n);
+			@include omega(3n);
 		}
 	}
 
@@ -165,177 +84,6 @@
 		color: color(black);
 	}
 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-%nav-size {
-	font-size: 18px;
-}
-
-%article-h3 {
-	@include media($x-small) {
-		font-size: 1.1rem;
-	}
-	@include media($small) {
-		font-size: 1.1rem;
-	}
-	@include media($medium) {
-		font-size: 1.1rem;
-	}
-	@include media($large) {
-		font-size: 1.1rem;
-	}
-	@include media($desktop) {
-		font-size: 1.1rem;
-	}
-}
-
-%p-title-size {
-
-	@include media($x-small) {
-		font-size: 1.286rem;
-	}
-	@include media($small) {
-		font-size: 1.286rem;
-	}
-	@include media($medium) {
-		font-size: 1.714rem;
-	}
-	@include media($large) {
-		font-size: 1.5rem;
-	}
-	@include media($desktop) {
-		font-size: 1.5rem;
-	}
-}
-
-%kit-title-box {
-
-	@include media($x-small) {
-		font-size: 1.5rem;
-		line-height: 1.5rem;
-	}
-	@include media($small) {
-		font-size: 1.5rem;
-		line-height: 1.5rem;
-	}
-	@include media($medium) {
-		font-size: 1.5rem;
-		line-height: 1.75rem;
-	}
-	@include media($large) {
-		font-size: 1.5rem;
-		line-height: 1.75rem;
-	}
-	@include media($desktop) {
-		font-size: 1.5rem;
-		line-height: 1.75rem;
-	}
-}
-
-%kit-main-categories-title {
-
-	@include media($x-small) {
-		font-size: 2rem;
-	}
-	@include media($small) {
-		font-size: 2rem;
-	}
-	@include media($medium) {
-		font-size: 2.5rem;
-	}
-	@include media($large) {
-		font-size: 3rem;
-	}
-	@include media($desktop) {
-		font-size: 3rem;
-	}
-
-	@extend %medium-weight;
-}
-
-%h1-title-size {
-
-	@include media($x-small) {
-		font-size: 2.286rem;
-	}
-	@include media($small) {
-		font-size: 2.286rem;
-	}
-	@include media($medium) {
-		font-size: 2.286rem;
-	}
-	@include media($large) {
-		font-size: 3rem;
-	}
-	@include media($desktop) {
-		font-size: 3rem;
-	}
-
-	line-height: 3rem;
-}
-
-
-%h2-title-size {
-
-	@include media($x-small) {
-		font-size: 1.5rem;
-	}
-	@include media($small) {
-		font-size: 1.5rem;
-	}
-	@include media($medium) {
-		font-size: 1.5rem;
-	}
-	@include media($large) {
-		font-size: 1.7rem;
-	}
-	@include media($desktop) {
-		font-size: 1.7rem;
-	}
-
-	@extend %regular-weight;
-
-}
-
-//--- KIT BORDER SPECS ---//
-%border-heavy {
-	border-top: 4px solid color(brand-kit);
-}
-
-%border-light {
-	border-top: 0.05rem solid color(brand-kit);
 }
 
 
@@ -351,50 +99,4 @@
 }
 %orientamento {
 	color: color(orientamento);
-}
-
-//--- SHARED PARTS ---//
-
-#title-bar {
-	//background-color: color(brand-kit-header);
-	//color: color(white);
-
-	header {
-		@include outer-container();
-		@include pads(5 2 5 2);
-
-		h1 {
-			@extend %h1-title-size;
-			@extend %bold-weight;
-		}
-
-		/*
-		> div {
-			@include media($x-small) {
-				@include span-columns(4);
-			}
-			@include media($small) {
-				@include span-columns(4);
-			}
-			@include media($medium) {
-				@include span-columns(6);
-			}
-			@include media($large) {
-				@include span-columns(8);
-			}
-			@include media($desktop) {
-				@include span-columns(8);
-			}
-			
-
-			//margin-top: 5rem;
-		}
-		*/
-	}
-}
-
-%kit-menu-button {
-	color: color(white);
-	font-size: 1.286rem;
-	text-decoration: none;
 }

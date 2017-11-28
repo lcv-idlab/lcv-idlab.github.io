@@ -43,8 +43,8 @@ fields:
       content:
         label: Contenuto della sezione
         type: markdown
-        header1: h2
-        header2: 
+        header1: h3
+        header2: h4
   tools:
     label: Strumenti di valutazione
     type: textarea

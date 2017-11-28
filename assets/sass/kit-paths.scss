@@ -28,8 +28,20 @@
 
 	//--- PATH SINGLE PAGE --//
 
-	#article-container {
-		@include outer-container();
-		@include pads(0 2 0 2);
+	#path-single {
+		#article-container {
+			@include outer-container();
+			@include pads(0 2 0 2);
+			margin-bottom: 5rem;
+		}
+
+		#related-kits {
+			@include outer-container();
+			@include pads(0 2 0 2);
+			
+			h2 {
+				@extend %section-title;
+			}
+		}
 	}
 }

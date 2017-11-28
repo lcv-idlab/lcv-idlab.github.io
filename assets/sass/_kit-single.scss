@@ -7,17 +7,27 @@
 		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(comunicazione);
 		}
+
+		article blockquote p:after, article blockquote p:before {
+			color: color(comunicazione);
+		}
 	}
 
 	&.opere {
 		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(opere);
 		}
+		article blockquote p:after, article blockquote p:before {
+			color: color(opere);
+		}
 	}
 
 	&.orientamento {
 		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
 			border-color: color(orientamento);
+		}
+		article blockquote p:after, article blockquote p:before {
+			color: color(orientamento);
 		}
 	}
 
@@ -33,14 +43,25 @@
 			margin-bottom: 3rem;
 
 			h2 {
-				@extend %h2-title-size;
+				@extend %regular-weight;
 				margin-bottom: 1rem;
 				margin-top: 0.5rem;
+
+				font-size: 1.5rem;
+
+				@media screen and (min-width: $bp-large) {
+					font-size: 1.7rem;
+				}
 			}
 
 			h1 {
-				@extend %h1-title-size;
 				@extend %bold-weight;
+				line-height: 3rem;
+				font-size: 2.286rem;
+
+				@media screen and (min-width: $bp-large) {
+					font-size: 3rem;
+				}
 			}
 
 			@media screen and (max-width: $bp-large) {
@@ -97,11 +118,20 @@
 				}
 
 				li {
-					line-height: 160%;
-					a {
-						text-decoration: none;
-						color: color(black);
+					line-height: 130%;
+					font-size: 0.875rem;
+					
+					@extend .text-link;
+
+					a:link, a:visited {
+						border-bottom: none;
 					}
+
+					padding-right: 1.75rem;
+				}
+
+				li + li {
+					margin-top: 1rem;
 				}
 			}
 		}
@@ -130,14 +160,14 @@
 				}
 
 				> h3 {
-					@extend %article-h3;
-					@extend %bold-weight;
-					margin-top: 1rem;
-					margin-bottom: 1rem;
+					@extend %medium-weight;
+					font-size: 1.2rem;
+					margin-top: 3rem;
+					margin-bottom: 2rem;
 				}
 
-				p + h3 {
-					margin-top: 3rem;
+				strong {
+					@extend %bold-weight;
 				}
 
 				p + p {
@@ -148,9 +178,74 @@
 					margin-top: 2rem;
 				}
 
-				ul {
-					list-style: inside circle;
+				ul + p {
+					margin-top: 3rem;
 				}
+
+				ul {
+					list-style: square;
+
+					text-indent: -1rem;
+					padding-left: 1rem;
+
+					li + li {
+						margin-top: 3rem;
+					}
+
+					li {
+						strong {
+							//font-size: 1.2rem;
+							display: block;
+							padding-left: 1rem;
+							margin-bottom: 1rem;
+						}
+
+						img {
+							padding-left: 1rem;
+
+						}
+
+						@extend .text-link;
+					}
+				}
+
+				img {
+					margin-top: 3rem;
+					margin-bottom: 2rem;
+
+				}
+
+				blockquote {
+					@extend %blockquote;
+
+					margin-top: 3rem;
+					margin-bottom: 3rem;
+					text-align: center;
+					position: relative;
+
+					p {
+						width: 75%;
+						margin-right: auto;
+						margin-left: auto;
+
+						&:after {
+							content: '\201D';
+							font-size: 3rem;
+							position: absolute;
+							bottom: -1rem;
+							right: 2rem;
+						}
+
+						&:before {
+							content: "\201C";
+							font-size: 3rem;
+							position: absolute;
+							top: 0;
+							left: 2rem;
+						}
+					}
+				}
+
 			}
 		}
 
@@ -207,7 +302,7 @@
 
 			
 		h2 {
-			@extend %p-title-size;
+			@extend %section-title;
 			margin-bottom: 5rem;
 			padding-top: 1rem;
 			border-top: 2px solid;

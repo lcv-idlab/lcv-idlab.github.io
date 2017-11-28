@@ -18,7 +18,7 @@
 		*/
 		> div {
 			@include span-columns(12);
-			@extend %main-description;
+			@extend %kit-main-page-description;
 			@include pads(0 2 5 2);
 
 			@media screen and (min-width: $bp-medium){
@@ -473,6 +473,57 @@ $mobile-small: 400px;
 			color: color(black);
 		}
 	}
+
+	%kit-title-box {
+
+		@include media($x-small) {
+			font-size: 1.5rem;
+			line-height: 1.5rem;
+		}
+		@include media($small) {
+			font-size: 1.5rem;
+			line-height: 1.5rem;
+		}
+		@include media($medium) {
+			font-size: 1.5rem;
+			line-height: 1.75rem;
+		}
+		@include media($large) {
+			font-size: 1.5rem;
+			line-height: 1.75rem;
+		}
+		@include media($desktop) {
+			font-size: 1.5rem;
+			line-height: 1.75rem;
+		}
+	}
+
+	%h2-title-size {
+
+	@media screen and ($x-small) {
+		font-size: 1.5rem;
+	}
+	@include media($small) {
+		font-size: 1.5rem;
+	}
+	@include media($medium) {
+		font-size: 1.5rem;
+	}
+	@include media($large) {
+		font-size: 1.7rem;
+	}
+	@include media($desktop) {
+		font-size: 1.7rem;
+	}
+
+	@extend %regular-weight;
+
+}
+
+
+
+
+
 }
 
 */

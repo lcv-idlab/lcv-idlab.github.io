@@ -26,11 +26,15 @@ fields:
     type: textarea
   links_to_kit:
     label: Lista schede kit da selezionare
-    type: select
-    options: query
-    query:
-      page: kit
-      fetch: pages
-      template: kit-single
-      text: '{{title}}'
-      value: '{{uid}}'
+    type: structure
+    fields:
+      kit:
+        label: Lista schede kit da selezionare
+        type: select
+        options: query
+        query:
+          page: kit
+          fetch: pages
+          template: kit-single
+          text: '{{title}}'
+          value: '{{uid}}'

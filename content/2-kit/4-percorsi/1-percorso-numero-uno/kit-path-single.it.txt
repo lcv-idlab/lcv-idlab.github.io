@@ -22,4 +22,9 @@ Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. Hae
 
 ----
 
-Links-to-kit: adattare-il-museo
+Links-to-kit: 
+
+- 
+  kit: guidare-il-visitatore
+- 
+  kit: mediazione-multisenoriale

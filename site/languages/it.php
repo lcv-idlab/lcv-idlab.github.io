@@ -25,6 +25,9 @@
 	l::set('pdf-article', "Scarica l'articolo");
 	l::set('pdf-evaluation', 'Scarica la valutazione');
 
+	// kit path single
+	l::set('related-kits', 'Schede kit inerenti');
+
 
 	// footer
 
