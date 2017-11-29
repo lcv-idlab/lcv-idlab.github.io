@@ -68,22 +68,15 @@
 					<a href="<?php echo page()->document(page()->pdf_article())->url() ?>" target="_blank"><div class="button"><?php echo l::get('pdf-article') ?></div></a>
 				</div>
 			<?php endif ?>
-
-			<!-- Evaluation tools -->
-			<?php if(page()->pdf_evaluation()->isNotEmpty()): ?>
-				<div id="evaluation-tools">
-					<div class="section-h-line"></div>
-					<h2><?php echo l::get("tools") ?></h2>
-					<?php echo page()->tools()->kt() ?>
-						<a href="<?php echo page()->document(page()->pdf_evaluation())->url() ?>" target="_blank"><div class="button"><?php echo l::get('pdf-evaluation') ?></div></a>
-				</div>
-			<?php endif ?>
 			</div>
+
+
 		</article>
 
 		<!-- end: MAIN ARTICLE -->
 
-		<!-- MORE -->
+
+		<!-- MORE READING NEXT KITS -->
 		<?php 		
 			$offset = 1 + $page->siblings(false)->visible()->indexOf($page);
 			$coll = $page->siblings(false)->visible()->offset($offset)->limit(3);
@@ -100,7 +93,7 @@
 					<ul class="single-kit">
 						<?php foreach( $coll as $kit): ?>
 						<li>
-							<a href="<?php echo $kit->url() ?>" class="single-kit">	
+							<a href="<?php echo $kit->url() ?>">	
 								<?php if($kit->icon()->isNotEmpty()): ?>
 								<div class="kit-icon">
 									<img src="<?php echo $kit->image($kit->icon())->url() ?>">

@@ -78,3 +78,12 @@ Pdf-article: relazionarsi-def.pdf
 ----
 
 Pdf-evaluation: relazionarsi-def.pdf
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: ascoltare-l-incisione
+- 
+  kit: indagine-in-profondita

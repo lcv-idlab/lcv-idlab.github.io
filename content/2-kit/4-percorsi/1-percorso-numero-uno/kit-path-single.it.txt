@@ -28,3 +28,14 @@ Links-to-kit:
   kit: guidare-il-visitatore
 - 
   kit: mediazione-multisenoriale
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: ascoltare-l-incisione
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: un-workshop-di-street-art-al-lac

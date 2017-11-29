@@ -27,6 +27,7 @@
 
 	// kit path single
 	l::set('related-kits', 'Schede kit inerenti');
+	l::set('related-resources', 'Risorse inerenti');
 
 
 	// footer

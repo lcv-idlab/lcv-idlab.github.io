@@ -12,15 +12,12 @@
 }
 
 %kit-main-page-description {
-	@extend %medium-weight;
-	font-size: 1.6rem;
-	line-height: 2.2rem;
+	@extend %baseline-size;
+	@extend %regular-weight;
 }
 
 %main-description {
-	@extend %medium-weight;
-	font-size: 1.3rem;
-	line-height: 140%;
+	@extend %kit-main-page-description;
 }
 
 %kits-title {

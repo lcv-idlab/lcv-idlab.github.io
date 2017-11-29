@@ -14,7 +14,6 @@
 
 			h2 {
 				@extend %main-description;
-
 			}
 		}
 
@@ -35,12 +34,65 @@
 			margin-bottom: 5rem;
 		}
 
+		#related-resources {
+				@include outer-container();
+				@include pads(0 2 5 2);
+
+
+				h2 {
+					@extend %section-title;
+					padding-top: 1rem;
+					border-top: 2px solid color(black);
+				}
+
+			#single-resources {
+
+				li {
+					@include span-columns(12);
+					margin-bottom: 3rem;
+
+					h3 {
+						@extend %kits-title;
+						margin-bottom: 1rem;
+					}
+
+					.resource-image {
+						margin-top: 2rem;
+						width: 100%;
+
+						img {
+							max-width: 100%;
+						}
+					}
+
+					@media screen and (min-width: $bp-small) {
+						@include span-columns(6);
+						@include omega-reset(3n);
+						@include omega(2n);
+					}
+
+					@media screen and (min-width: $bp-large) {
+						@include span-columns(4);
+						@include omega-reset(2n);
+						@include omega(3n);
+					}
+				}
+
+				a:link, a:hover, a:visited, a:active {
+					text-decoration: none;
+					color: color(black);
+				}
+			}
+		}
+
 		#related-kits {
 			@include outer-container();
 			@include pads(0 2 0 2);
 			
 			h2 {
 				@extend %section-title;
+				padding-top: 1rem;
+				border-top: 2px solid color(black);
 			}
 		}
 	}

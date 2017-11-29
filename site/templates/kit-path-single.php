@@ -15,6 +15,39 @@
 			<div><?php echo page()->article()->kt() ?></div>
 		</article>
 
+
+		<!-- RESOURCES CONNECTED TO THE PATH -->
+
+		<?php if(page()->links_to_resources()->isNotEmpty()): ?>
+		<section id="related-resources">
+
+			<h2><?php echo l::get('related-resources') ?></h2>
+				<?php
+					//--- SORT THE LINKED KITS of the path ---//
+
+					echo "<ul id='single-resources'>";
+					foreach (page()->links_to_resources()->toStructure() as $uid) {
+
+						foreach (page('risorse')->children()->visible() as $item) {
+
+							if($item->uid() == $uid) {
+								echo "<li><a href='".$item->url()."'>";
+								echo "<div class='resource-image'><img src='".$item->image($item->main_image())->url()."'></div>";
+								echo "<h3>".$item->title()."</h3>";
+								echo "<p class='resource-description'>".shortstring($item->short()->html(), 100)."</p></a></li>";
+							}
+						}
+					}
+					echo "</ul>";
+				?>
+		</section>
+		<?php endif ?>
+
+		<!-- end -->
+
+
+
+		<!-- KIT CONNECTED TO THE PATH -->
 		<?php if(page()->links_to_kit()->isNotEmpty()): ?>
 		<section id="related-kits">
 
@@ -41,6 +74,8 @@
 				?>
 		</section>
 		<?php endif ?>
+		<!-- end -->
+
 	</main>
 </div>
 
