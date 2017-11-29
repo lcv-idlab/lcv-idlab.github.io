@@ -10,46 +10,42 @@ footer {
 		@include span-columns(12);
 		border-top: 1px solid color(main-grey-light);
 		margin-top: 5rem;
+		padding-top: 1rem;
+		position: relative;
+		
+		#author p {
 
-		div {
-			margin-top: 1rem;
-			//display: inline-block;
 			display: block;
 
-			/*
-
-			@include media($x-small) {
-				display: block;
-			}
-
-			p {
-				display: inline-block;
-
-				@include media(max-width 720px 8) {
-					display: block;
-				}
-			}
-
-			p:first-child::after {
-				content: " - ";
-
-				@include media(max-width 720px 8) {
-					content: "";
-				}
+			@media screen and (min-width: $bp-medium) {
+				display: inline;
 			}
 		}
 
-		a {
-			color: color(brand);
-			text-decoration: none;
-			float: right;
+		#contact-email {
 
-			@include media($x-small) {
-				float: none;
-				display: block;
+			display: block;
+
+			@media screen and (min-width: $bp-large) {
+				position: absolute;
+				right: 0;
+				top: 1rem;
 			}
-		*/
 		}
+
+		#license {
+			margin-top: 2rem;
+			font-size: 0.75rem;
+			max-width: 67%;
+
+			img {
+				margin-top: 1rem;
+				display: block;
+				max-width: 120px;
+			}
+
+		}
+
 		a:hover {
 			border-bottom: 1px solid color(brand);
 		}
