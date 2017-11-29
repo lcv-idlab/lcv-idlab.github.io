@@ -118,6 +118,9 @@
 		<?php endif ?>
 		<!-- end: MORE -->
 
+		<!-- load the lightbox script -->
+		<?php echo js('assets/js/lightbox.js'); ?>
+
 	</main>
 </div>
 

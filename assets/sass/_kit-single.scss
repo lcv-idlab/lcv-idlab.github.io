@@ -151,6 +151,8 @@
 
 			.section-container {
 
+				overflow: hidden;
+
 				> h2 {
 					@extend %section-title;		// kit-base.scss
 				}
@@ -243,6 +245,62 @@
 							top: 0;
 							left: 2rem;
 						}
+					}
+				}
+
+
+				// make everything flot to stay in the flow
+
+				p, ul, blockquote, h3 {
+					display: block;
+					float: left;
+					width: 100%;
+				}
+
+
+
+				// lightbox gallery
+
+				figure {
+					margin: 0;
+					margin-top: 2rem;
+
+					a {
+						display: block;
+					}
+				}
+
+				.two-columns {
+					@include span-columns(4 of 8);
+					margin-bottom: 1rem;
+
+					&:nth-child(even) {
+						margin-right: 0;
+					}
+
+					img {
+						max-width: 100%;
+						margin: 0;
+					}
+				}
+
+
+				.gallery {
+					img {
+						max-width: 100%;
+						margin: 0;
+						height: auto;
+						padding: 0;
+						display: block;
+					}
+
+					a {
+						display: block;
+					}
+
+					a:link, a:hover, a:visited, a:active {
+						text-decoration: none;
+						border: none;
 					}
 				}
 

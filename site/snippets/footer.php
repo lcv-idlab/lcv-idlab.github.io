@@ -6,6 +6,9 @@
       <p>Mediazione Cultura Inclusione</p>
       <p>SUPSI Laboratorio cultura visiva</p>
       <a href="mailto:info.mci@supsi.ch" class="link">info.mci@supsi.ch</a>
+      <br>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><?php echo l::get('license') ?>
+
       </div>
   </div>
 </footer>

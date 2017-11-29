@@ -102,6 +102,16 @@ window.onload = function() {
 
 	}
 
+	//--- KIT SINGLE LIGHTBOX GALLERIES ---//
+
+    $('figure.gallery').each(function() {
+    	$gallery_name = $(this).attr('class').replace('gallery', '').replace(' ', '');
+    	$link = $(this).children().attr('src');
+
+    	$(this).children().wrap("<a href=" + $link + " data-lightbox=" + $gallery_name + " data-title=' '></a>");
+
+    })
+
 
 
 };

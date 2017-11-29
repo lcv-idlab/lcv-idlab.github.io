@@ -3,6 +3,7 @@
 
 	// general
 	l::set('back', 'back');
+	l::set('license', "The whole documentatio of Mediazione cultura e inclusione is distribuita con Licenza <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/''>Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>");
 	
 	// home
 	l::set('resources', 'resources');

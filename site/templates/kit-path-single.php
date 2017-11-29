@@ -32,9 +32,10 @@
 
 							if($item->uid() == $uid) {
 								echo "<li><a href='".$item->url()."'>";
-								echo "<div class='resource-image'><img src='".$item->image($item->main_image())->url()."'></div>";
 								echo "<h3>".$item->title()."</h3>";
-								echo "<p class='resource-description'>".shortstring($item->short()->html(), 100)."</p></a></li>";
+								echo "<p class='resource-description'>".shortstring($item->short()->html(), 300)."</p>";
+								echo "<div class='resource-image'><img src='".$item->image($item->main_image())->url()."'></div>";
+								echo "</a></li>";
 							}
 						}
 					}
@@ -65,7 +66,7 @@
 									echo "<li><a href='".$item->url()."'>";
 									echo "<div class='kit-icon'><img src='".$item->image($item->icon())->url()."'></div>";
 									echo "<h3>".$item->title()."</h3>";
-									echo "<p class='kit-description'>".shortstring($item->description()->html(), 100)."</p></a></li>";
+									echo "<p class='kit-description'>".shortstring($item->description()->html(), 200)."</p></a></li>";
 								}
 							}
 						}

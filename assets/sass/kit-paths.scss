@@ -53,11 +53,14 @@
 
 					h3 {
 						@extend %kits-title;
-						margin-bottom: 1rem;
+					}
+
+					.resource-description {
+						margin-top: 1rem;
 					}
 
 					.resource-image {
-						margin-top: 2rem;
+						margin-top: 1rem;
 						width: 100%;
 
 						img {

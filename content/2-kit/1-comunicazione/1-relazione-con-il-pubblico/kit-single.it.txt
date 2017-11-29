@@ -19,7 +19,12 @@ Article:
     
     A livello svizzero, l’organizzazione a cui è possibile fare riferimento è la FSC, Federazione svizzera dei ciechi e deboli di vista, che conta 16 sezioni in tutto il Paese. L’unica sezione a sud delle Alpi è UNITAS, Associazione ciechi e ipovedenti della Svizzera italiana. Si consiglia di riferirsi alle organizzazioni regionali anche per entrare in contatto diretto con le persone che hanno problemi di vista. A tale proposito UNITAS organizza regolarmente momenti di sensibilizzazione mirati. Parteciparvi, come anche organizzare attività specifiche presso il proprio museo, permette di attivare arricchenti scambi interpersonali tra mediatori e pubblico in grado di favorire ulteriormente il coinvolgimento di entrambe le parti in maniera duratura. Una volta coinvolto, comunicare anche direttamente al pubblico la propria offerta di mediazione culturale accessibile, ad esempio telefonicamente oppure tramite posta elettronica, risulta essere uno dei metodi migliori per una comunicazione efficace. È inoltre possibile segnalare gli eventi culturali e le attività potenzialmente interessanti per le persone con disabilità visive a INFOUNITAS, rivista accessibile gestita dall’associazione stessa.
     
-    In Svizzera esistono molte altre organizzazioni a cui è possibile fare riferimento.
+    In Svizzera esistono (link: https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd/link/organizzazioni-svizzere-per-le-persone-disabili.html target: _blank text: molte altre organizzazioni) a cui è possibile fare riferimento.
+    
+    
+    (image: unitas-logo.jpg link: http://www.unitas.ch target: _blank alt: Logo Unitas class: two-columns)
+    
+    (image: sbv-fsa-logo.jpg link: http://www.sbv-fsa.ch target: _blank alt: Logo SBV-FSA class: two-columns)
 - 
   section_title: Conoscere le necessità e le aspettative
   content: |
@@ -27,6 +32,10 @@ Article:
     
     
     Per informazioni riguardo alle pari opportunità per le persone disabili si consiglia di fare riferimento all’Ufficio federale per le pari opportunità delle persone con disabilità ((link:  https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd.html text: UFPD)). Per approfondimenti specifici riguardo alle disabilità visive si consiglia di prendere contatto con la sezione regionale di riferimento della Federazione svizzera dei ciechi e deboli di vista FSC (UNITAS per la Svizzera italiana), oltre che con l’UCBC, Unione centrale svizzera per il bene dei ciechi, di consultare la documentazione disponibile (molta è anche online) e di partecipare a momenti di sensibilizzazione mirati, periodicamente implementati dalle organizzazioni.
+    
+    (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns)
+    
+    (image: unione-centrale-svizzera-per-il-bene-dei-ciechi.jpg  alt: Logo unione centrale svizzera per il bene dei ciechi class: two-columns)
     
     Per le istituzioni museali è fondamentale conoscere innanzitutto alcuni aspetti preliminari che caratterizzano il pubblico con disabilità della vista:
     
@@ -36,6 +45,11 @@ Article:
     * **Principali mezzi ausiliari** In un mondo dove la vista ha il monopolio, le persone con disabilità visiva utilizzano degli ausili in grado di guidarle e permetter loro di utilizzare i sensi a disposizione per percepire le informazioni. Che si tratti di sostegni all’orientamento e alla mobilità (es. accompagnatore vedente, cane guida, bastone bianco), (ev. link a guidare) di ausili informatici per accedere alle informazioni in rete (es. lettori vocali) (ev. link a sito web accessibile) o di soluzioni in grado di sfruttare il proprio residuo visivo (es. macrolettori, ingrandimenti attraverso lenti o fotografie scattate con il proprio telefonino, pile elettriche in grado di aumentare l’intensità luminosa, possibilità di avvicinarsi molto all’oggetto da vedere) (ev.link a favorire l’incontro diretto), essi devono poter essere utilizzati senza limitazioni per fruire del museo e delle sue opere come previsto dalla legge federale sull’eliminazione di svantaggi nei confronti dei disabili ((link: https://www.admin.ch/opc/it/classified-compilation/20002658/index.html text: LDis)).
     
     Per ciò che concerne l’ambito culturale e artistico, e in particolare quello dei musei d’arte in Ticino, le necessità e le aspettative del pubblico di riferimento sono state indagate nel quadro del progetto MCI e sintetizzate in due rapporti liberamente accessibili (link alle due risorse con anteprime).
+    
+    
+    (image: esperienze-museali-01.jpg  alt: Esperienza museale class: two-columns gallery)
+    
+    (image: esperienze-museali-02.jpg  alt: Esperienza museale class: two-columns gallery)
 - 
   section_title: Adattare l’accoglienza
   content: |
