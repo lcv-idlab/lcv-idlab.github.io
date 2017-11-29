@@ -13,7 +13,7 @@
 			}
 
 			h2 {
-				@extend %main-description;
+				@extend %kits-title;
 			}
 		}
 
@@ -27,11 +27,17 @@
 
 	//--- PATH SINGLE PAGE --//
 
-	#path-single {
-		#article-container {
-			@include outer-container();
-			@include pads(0 2 0 2);
-			margin-bottom: 5rem;
+	.path-single {
+
+		#main-header {
+			> div {
+
+			}
+		}
+		#single-article-container {
+			@media screen and (max-width: $bp-menu-mobile) {
+				width: 100% !important;
+			}
 		}
 
 		#related-resources {

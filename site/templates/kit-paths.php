@@ -18,7 +18,6 @@
 				<li id="<?php echo $path->title('it') ?>" class="path-single">
 					<a href="<?php echo $path->url() ?>">
 						<h2><?php echo ucfirst($path->title()) ?></h2>
-						<p class="path-description"><?php echo shortstring($path->description()->html(), 200) ?></p>
 					</a>
 				</li>
 

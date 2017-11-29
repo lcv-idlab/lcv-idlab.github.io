@@ -4,7 +4,7 @@
 	// general
 	l::set('back', 'indietro');
 	l::set('404', 'Pagina non trovata');
-	l::set('license', "Tutta la documentazione di Mediazione cultura e inclusione è distribuita con Licenza <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/''>Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>");
+	l::set('license', "Tutta la documentazione di Mediazione Cultura Inclusione è distribuita con Licenza <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/''>Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>");
 
 	// home
 	l::set('resources', 'risorse');

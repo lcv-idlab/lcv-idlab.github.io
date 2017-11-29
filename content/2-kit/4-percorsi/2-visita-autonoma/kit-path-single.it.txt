@@ -1,0 +1,34 @@
+Title: Visita autonoma
+
+----
+
+Description: 
+
+----
+
+Article: 
+
+- 
+  section_title: ""
+  content: 'Se proporre delle visite guidate multisensoriali (vedi percorso 1) è prioritario, attraverso lo sviluppo di accorgimenti specifici è possibile favorire notevolmente l’autonomia di visita del pubblico ipovedente. Anche se un accompagnamento fisico da parte del personale museale è sempre auspicato (vedi accompagnare), sviluppare gli accorgimenti suggeriti permetterà al pubblico cieco e ipovedente di visitare il museo senza dover ricorrere forzatamente al personale del museo quando accompagnato da una persona vedente di fiducia. Per una fruizione autonoma, adattare il museo (link) e sviluppare un design inclusivo per la comunicazione visiva (link) è essenziale. Per favorire l’accesso alle opere è particolarmente importante disporre di audioguide descrittive (descrizione). Per far fronte all’esigenza di un’audioguida adatta, si consiglia pertanto di disporre o di uno strumento specifico dotato di pulsanti con numeri in rilievo e con alto contrasto cromatico, i cui numeri corrispondenti siano affissi alle pareti accanto alle opere selezionate, anch’essi in grandi caratteri a forte contrasto cromatico, o di un’applicazione scaricabile e fruibile attraverso il proprio smartphone, in maniera da poter ascoltare le tracce sonore descrittive anche a distanza (design inclusivo e web). Le audioguide adattate non devono obbligatoriamente descrivere tutte le opere presenti in mostra: è possibile offrire al pubblico una selezione. Ricordiamo che per anche se lo strumento è adattato, questa soluzione è utile per il pubblico ipovedente, ma non risolve completamente il problema per le persone cieche, che necessitano in ogni caso di un accompagnamento da parte di una persona vedente, non fosse che per sapere dove si trova l’opera che l’audioguida sta descrivendo.'
+
+----
+
+Links-to-kit: 
+
+- 
+  kit: relazione-con-il-pubblico
+- 
+  kit: design
+- 
+  kit: website
+- 
+  kit: descrizione
+- 
+  kit: guidare-il-visitatore
+- 
+  kit: adattare-il-museo
+
+----
+
+Links-to-resources: 

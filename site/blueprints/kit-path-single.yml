@@ -18,12 +18,21 @@ fields:
   title: 
     label: Titolo del percorso
     type: text
-  description:
-    label: Descrizione
-    type: textarea
   article:
-    label: Contenuto
-    type: textarea
+    label: Articolo
+    type: structure
+    entry:  >
+      <b>{{section_title}}</b>
+      <p>{{content}}</p>
+    fields:
+      section_title:
+        label: Titolo della sezione
+        type: text
+      content:
+        label: Contenuto della sezione
+        type: markdown
+        header1: h3
+        header2: h4
   links_to_kit:
     label: Lista schede kit da selezionare
     type: structure
