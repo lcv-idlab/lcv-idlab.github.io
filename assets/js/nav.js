@@ -103,8 +103,10 @@ window.onload = function() {
 	}
 
 	//--- KIT SINGLE LIGHTBOX GALLERIES ---//
+	// 
+	var gallery_array = $('figure.gallery');
 
-    $('figure.gallery').each(function() {
+    $.each(gallery_array, function() {
     	$gallery_name = $(this).attr('class').replace('gallery', '').replace(' ', '');
     	$link = $(this).children().attr('src');
 
@@ -112,6 +114,20 @@ window.onload = function() {
 
     })
 
+    //--- KIT INLINE GALLERY MANAGER ---//
 
+    var classNames = [];
+
+    // select the groups of the same gallery and wrap them all with a div for css layouting
+    $.each(gallery_array, function() {
+    	classNames.push($(this).attr('class').replace('gallery', '').replace('two-columns', '').replace(' ', ''));
+    })
+
+    classNames = jQuery.uniqueSort(classNames);
+
+    $.each(classNames, function(i, e) {
+    	$('figure.gallery.' + e).wrapAll("<div class='gallery-group' />");
+    })
 
 };
+
