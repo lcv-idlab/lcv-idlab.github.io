@@ -27,8 +27,9 @@ Article:
     * **Opere di artisti viventi** Se tra le opere a disposizione alcune sono realizzate da artisti viventi che il pubblico con problemi di vista potrebbe potenzialmente incontrare di persona in occasione di un’attività di mediazione, si consiglia di integrarle nella selezione. (vedi favorire l’incontro diretto – l’incontro con l’artista)
     * **Opere interpretabili per una fruizione multisensoriale** Alcune opere prettamente visive, si prestano meglio di altre a essere interpretate per offrire al pubblico una fruizione multisensoriale. Si consiglia dunque di descrivere le opere che meglio si prestano alla “traduzione” multisensoriale, in vista della realizzazione di attività di mediazione specifiche. (vedi interpretazione multisensoriale)
     * **Ubicazione nello spazio espositivo**Se l’ascolto delle descrizioni è previsto nelle sale espositive, è consigliabile selezionare le opere da descrivere anche in base alla loro collocazione nello spazio. È preferibile che l’opera oggetto di analisi sia circondata da spazio libero, sia a parete – per favorire la visibilità dell’opera e l’orientamento – sia nello spazio di sosta e osservazione previsto per i visitatori – per favorire lo stazionamento e la mobilità. Nel caso delle visite guidate, si consiglia inoltre di predisporre sedie per far accomodare il pubblico di fronte all’opera, oltre che altri supporti (tavoli, leggii, ecc.) per disporre il materiale nel caso di attività multisensoriali. (vedi favorire l’incontro diretto e mediazione multisensoriale).
-    (image: esempio-di-attivita-01.jpg class: gallery selezione  two-columns)
-    (image: esempio-di-attivita-02.jpg class: gallery selezione two-columns)
+    
+    (image: esempio-di-attivita-01.jpg class: two-columns gallery)
+    (image: esempio-di-attivita-02.jpg class: two-columns gallery)
 - 
   section_title: Usare la lingua in maniera adeguata
   content: |
@@ -57,8 +58,9 @@ Article:
     * **Soggetto primario** Per descrivere il soggetto primario dell’opera è importante individuarlo: nel caso di opere figurative ci si riferisce solitamente a ciò che è rappresentato, mentre nel caso di opere astratte è possibile che sia prettamente di natura formale o concettuale. Una volta individuato, la sua descrizione dovrebbe essere breve e seguire un ordine di massima: quello tradizionale si sviluppa dall’alto verso il basso e dalla sinistra del fruitore alla sua destra. È possibile inoltre descrivere dall’esterno verso l’interno. Gli aspetti formali (es. colori, stile) a cominciare dai limiti fisici dell’opera (es. cornici) sono importanti per iniziare la descrizione, focalizzandosi in seguito sui dettagli (es. “È un quadro rettangolare poggiato sulla base maggiore. Al centro è raffigurato…” o “È una scultura che si sviluppa verticalmente e rappresenta… ”).
     * **Tecnica, forma e composizione** Descrivere forme, luce, colori, proporzioni, dimensioni, gestione dello spazio (pittorico per l’arte figurativa bidimensionale), matericità e tecnica utilizzata. A meno che non siano particolarmente enfatizzati e rilevanti nell’impatto generale dell’opera, è preferibile sintetizzare la descrizione degli aspetti compositivi e tecnici.
     * **Commento simbolico ed evocativo** È particolarmente apprezzato un commento di natura simbolica ed evocativa che anche se di natura soggettiva è in grado di trasmettere ai visitatori gli intenti dell’artista, i possibili effetti psico-emotivi dell’opera sullo spettatore vedente, il carattere artistico dell’opera e la sua unicità.
-    (image: selezionare-gli-elementi-01.jpg class: gallery two-columns contenuto)
-    (image: selezionare-gli-elementi-02.jpg class:  gallery two-columns contenuto)
+    
+    (image: selezionare-gli-elementi-01.jpg class: two-columns gallery)
+    (image: selezionare-gli-elementi-02.jpg class: two-columns gallery)
 - 
   section_title: Scegliere il supporto
   content: |
@@ -71,20 +73,12 @@ Article:
     * **Scritta in formato digitale** Trasmettere la descrizione scritta in un formato digitale permette a tutte le persone con problemi di vista di poterne fruire grazie al prezioso ausilio dei lettori vocali, presenti su ogni computer o telefono cellulare. Inoltre, i testi digitali possono essere visivamente amplificati attraverso i dispositivi di ingrandimento disponibili, assecondando così le esigenze personali. Le voci dei lettori vocali, seppur sempre più simili a quelle umane, restano ancora voci elettroniche, piuttosto fredde e impersonali.
     * **Orale di persona** In occasione di una visita guidata, fornire la descrizione a voce è considerata una delle soluzioni migliori: oltre all’ascolto di una genuina voce umana, il pubblico può infatti interrogare il mediatore, chiedere informazioni complementari o chiarimenti, alimentando uno scambio interpersonale capace di favorire la comprensione reciproca.
     * **Orale tramite traccia audio** Seppure in difetto di uno scambio relazionale diretto, la descrizione letta da un mediatore e registrata per essere trasmessa tramite traccia audio è interessante perché permette di essere fruita anche a distanza (es. web) oltre che presso il museo (es. audioguida, applicazioni per smartphone). Se organizzata in diversi livelli di approfondimento, favorisce inoltre un certo livello di autonomia nella gestione dei contenuti: è possibile bloccare la registrazione, ascoltare più volte i passaggi che interessano o selezionare quelli che si desidera ascoltare. Nel caso di registrazioni audio organizzate in più livelli, sono possibili anche maggiori approfondimenti sulle opere. Le audioguide adattate non devono però obbligatoriamente descrivere tutte le opere presenti in mostra: è possibile offrire al pubblico una selezione (vedi descrizione).
-    (image: scegliere-il-supporto-01.jpg class:  gallery two-columns scelta)
-    (image: scegliere-il-supporto-02.jpg class: gallery two-columns scelta)
+    
+    (image: scegliere-il-supporto-01.jpg class: two-columns gallery)
+    (image: scegliere-il-supporto-02.jpg class: two-columns gallery)
 - 
-  section_title: Valutare l’efficacia
-  content: |
-    **Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi prefissati. In generale si suggerisce di trovare sempre un modo per tenere traccia dei riscontri del pubblico (registrazioni sonore, questionari, ecc.). Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere utile e opportuno prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo. **
-    
-    Scopo della valutazione consiste nella possibilità di esprimere un giudizio di validità in vista di una convalida o di un miglioramento in funzione di una ripetibilità o di una trasferibilità. L’esigenza più sentita quando si sperimentano attività nuove o più in generale dei cambiamenti o delle innovazioni è di valutarne l’efficacia, cioè i risultati ottenuti in relazione agli obiettivi prefissati. L’efficacia si può esprimere nella qualità di un’azione, nella descrizione degli effetti sui partecipanti o dei risultati per un’organizzazione. Nella valutazione dell’efficacia di un’azione o un intervento rivolto al pubblico cieco e ipovedente ci si confronta con la capacità di considerare bisogni e aspettative specifici, proponendo soluzioni adeguate, accessibili e non basate esclusivamente sulla vista.
-    
-    L’efficacia viene valutata attraverso degli indicatori identificati per esprimere delle previsioni, osservare degli effetti, comprendere il senso di un risultato, estrapolare delle generalizzazioni, spiegare l’emergere di criticità, ecc.
-    
-    Per la scelta degli indicatori è importante tenere in considerazione la rilevanza assegnata dai partecipanti, la forza di sintesi nell’esprimere un fenomeno e, non ultimo, la relazione causale tra indicatore e obiettivi prefissati.
-    
-    Oltre all’efficacia risulta opportuno valutare anche l’efficienza prendendo in considerazione il rapporto tra mezzi investiti, risorse impiegate e risultati raggiunti. (link alla risorsa)
+  section_title: Valutare
+  content: '**Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi che si intendeva raggiungere in vista di una convalida e di un miglioramento. In generale si suggerisce di trovare sempre un modo per registrare (audio, testo, ecc.) i riscontri del pubblico. Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere opportuno e utile prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo. **'
 
 ----
 

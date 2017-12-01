@@ -41,7 +41,7 @@ Promotori:
   url: http://www.unitas.ch
   description: >
     L’Associazione ciechi e ipovedenti
-    della Svizzera italiana (Unitas),
+    della Svizzera italiana (UNITAS),
     sezione unica per la Svizzera italiana
     della Federazione svizzera dei ciechi e
     deboli di vista (FSC), si occupa della
