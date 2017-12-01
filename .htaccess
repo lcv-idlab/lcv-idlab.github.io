@@ -51,12 +51,12 @@ ExpiresByType text/css "access plus 1 day"
 
 
 # redirect http://mci.supsi.ch to http://www.mci.supsi.ch
-RewriteCond %{HTTP_HOST} !^www.mci.supsi.ch$ [NC]
-RewriteRule ^(.*)$ http://www.mci.supsi.ch/$1 [L,R=301]
+# RewriteCond %{HTTP_HOST} !^www.mci.supsi.ch$ [NC]
+# RewriteRule ^(.*)$ http://www.mci.supsi.ch/$1 [L,R=301]
 
 # redirect the site ip to the url
-RewriteCond %{HTTP_HOST} ^195\.176\.55\.56
-RewriteRule (.*) http://www.mci.supsi.ch/$1 [R=301,L]
+# RewriteCond %{HTTP_HOST} ^195\.176\.55\.56
+# RewriteRule (.*) http://www.mci.supsi.ch/$1 [R=301,L]
 
 # deny the accexx from libwww-perl access
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 

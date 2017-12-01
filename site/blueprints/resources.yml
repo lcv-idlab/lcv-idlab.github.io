@@ -9,7 +9,7 @@ options:
 
 // subpages settings  
 pages:
-  template: [resource-experience, resource-document]
+  template: [resource-experience, resource-document, resource-tool]
 
 // file settings  
 files: false

@@ -1,0 +1,60 @@
+// blueprint title (template title)
+title: resource-tool
+
+// page settings
+options:
+  delete: true
+  preview: true
+  status: true
+  template: false
+  url: true
+
+// subpages settings
+pages: false
+
+// file settings
+files: true
+  fields: 
+    alt:
+      label: Alt text
+      type: text
+
+// fields with their fields types and options
+fields:
+  title:
+    label: Titolo dello strumento
+    type: text
+  short:
+    label: Descrizione breve
+    type: textarea
+  long:
+    label: Descrizione completa
+    type: textarea
+  docs:
+    label: Documenti
+    type: structure
+    entry: >
+      <b>{{doc_title}}</b><br>
+      {{doc}}
+    fields:
+      doc_title:
+        label: Nome del documento
+        type: text
+      doc:
+        label: Scegli il docuento
+        type: select
+        default: architecture
+        options: documents
+  main_image:
+    label: Immagine di copertina
+    type: image
+  gallery:
+    label: Galleria immagini
+    type: gallery
+  ext_link:
+    label: Link esterno della risorsa (mini sito, ecc)
+    type: url
+  ext_link_desc:
+    label: Titolo del bottone "Link esterno"
+    type: text
+    
