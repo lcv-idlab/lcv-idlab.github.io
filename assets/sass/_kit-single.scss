@@ -164,7 +164,7 @@
 				> h3 {
 					@extend %medium-weight;
 					font-size: 1.2rem;
-					margin-top: 3rem;
+					margin-top: 5rem;
 					margin-bottom: 2rem;
 				}
 
@@ -185,9 +185,11 @@
 				}
 
 				ul {
+					display: block;
+
 					list-style: square;
 
-					text-indent: -1rem;
+					//text-indent: -1rem;
 					padding-left: 1rem;
 
 					li + li {
@@ -195,10 +197,12 @@
 					}
 
 					li {
+						//display: block;
+
 						strong {
 							//font-size: 1.2rem;
 							display: block;
-							padding-left: 1rem;
+							//padding-left: 1rem;
 							margin-bottom: 1rem;
 						}
 
@@ -217,6 +221,7 @@
 
 				}
 
+				/*
 				blockquote {
 					@extend %blockquote;
 
@@ -247,23 +252,26 @@
 						}
 					}
 				}
+				*/
 
 
 				// make everything flot to stay in the flow
-
+			
 				p, ul, blockquote, h3 {
 					display: block;
-					float: left;
-					width: 100%;
 				}
 
+				.gallery-group {
+					display: block;
+					overflow: hidden;
+				}
 
 
 				// lightbox gallery
 
 				figure {
 					margin: 0;
-					margin-top: 2rem;
+					margin-top: 7.25833%;
 
 					a {
 						display: block;
@@ -272,7 +280,6 @@
 
 				.two-columns {
 					@include span-columns(4 of 8);
-					margin-bottom: 1rem;
 
 					&:nth-child(even) {
 						margin-right: 0;

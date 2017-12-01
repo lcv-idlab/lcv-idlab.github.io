@@ -27,9 +27,8 @@ Article:
     * **Opere di artisti viventi** Se tra le opere a disposizione alcune sono realizzate da artisti viventi che il pubblico con problemi di vista potrebbe potenzialmente incontrare di persona in occasione di un’attività di mediazione, si consiglia di integrarle nella selezione. (vedi favorire l’incontro diretto – l’incontro con l’artista)
     * **Opere interpretabili per una fruizione multisensoriale** Alcune opere prettamente visive, si prestano meglio di altre a essere interpretate per offrire al pubblico una fruizione multisensoriale. Si consiglia dunque di descrivere le opere che meglio si prestano alla “traduzione” multisensoriale, in vista della realizzazione di attività di mediazione specifiche. (vedi interpretazione multisensoriale)
     * **Ubicazione nello spazio espositivo**Se l’ascolto delle descrizioni è previsto nelle sale espositive, è consigliabile selezionare le opere da descrivere anche in base alla loro collocazione nello spazio. È preferibile che l’opera oggetto di analisi sia circondata da spazio libero, sia a parete – per favorire la visibilità dell’opera e l’orientamento – sia nello spazio di sosta e osservazione previsto per i visitatori – per favorire lo stazionamento e la mobilità. Nel caso delle visite guidate, si consiglia inoltre di predisporre sedie per far accomodare il pubblico di fronte all’opera, oltre che altri supporti (tavoli, leggii, ecc.) per disporre il materiale nel caso di attività multisensoriali. (vedi favorire l’incontro diretto e mediazione multisensoriale).
-    
-    (image: esempio-di-attivita-01.jpg class: two-columns gallery)
-    (image: esempio-di-attivita-02.jpg class: two-columns gallery)
+    (image: esempio-di-attivita-01.jpg class: gallery selezione  two-columns)
+    (image: esempio-di-attivita-02.jpg class: gallery selezione two-columns)
 - 
   section_title: Usare la lingua in maniera adeguata
   content: |
@@ -58,9 +57,8 @@ Article:
     * **Soggetto primario** Per descrivere il soggetto primario dell’opera è importante individuarlo: nel caso di opere figurative ci si riferisce solitamente a ciò che è rappresentato, mentre nel caso di opere astratte è possibile che sia prettamente di natura formale o concettuale. Una volta individuato, la sua descrizione dovrebbe essere breve e seguire un ordine di massima: quello tradizionale si sviluppa dall’alto verso il basso e dalla sinistra del fruitore alla sua destra. È possibile inoltre descrivere dall’esterno verso l’interno. Gli aspetti formali (es. colori, stile) a cominciare dai limiti fisici dell’opera (es. cornici) sono importanti per iniziare la descrizione, focalizzandosi in seguito sui dettagli (es. “È un quadro rettangolare poggiato sulla base maggiore. Al centro è raffigurato…” o “È una scultura che si sviluppa verticalmente e rappresenta… ”).
     * **Tecnica, forma e composizione** Descrivere forme, luce, colori, proporzioni, dimensioni, gestione dello spazio (pittorico per l’arte figurativa bidimensionale), matericità e tecnica utilizzata. A meno che non siano particolarmente enfatizzati e rilevanti nell’impatto generale dell’opera, è preferibile sintetizzare la descrizione degli aspetti compositivi e tecnici.
     * **Commento simbolico ed evocativo** È particolarmente apprezzato un commento di natura simbolica ed evocativa che anche se di natura soggettiva è in grado di trasmettere ai visitatori gli intenti dell’artista, i possibili effetti psico-emotivi dell’opera sullo spettatore vedente, il carattere artistico dell’opera e la sua unicità.
-    
-    (image: selezionare-gli-elementi-01.jpg class: two-columns gallery)
-    (image: selezionare-gli-elementi-02.jpg class: two-columns gallery)
+    (image: selezionare-gli-elementi-01.jpg class: gallery two-columns contenuto)
+    (image: selezionare-gli-elementi-02.jpg class:  gallery two-columns contenuto)
 - 
   section_title: Scegliere il supporto
   content: |
@@ -73,9 +71,8 @@ Article:
     * **Scritta in formato digitale** Trasmettere la descrizione scritta in un formato digitale permette a tutte le persone con problemi di vista di poterne fruire grazie al prezioso ausilio dei lettori vocali, presenti su ogni computer o telefono cellulare. Inoltre, i testi digitali possono essere visivamente amplificati attraverso i dispositivi di ingrandimento disponibili, assecondando così le esigenze personali. Le voci dei lettori vocali, seppur sempre più simili a quelle umane, restano ancora voci elettroniche, piuttosto fredde e impersonali.
     * **Orale di persona** In occasione di una visita guidata, fornire la descrizione a voce è considerata una delle soluzioni migliori: oltre all’ascolto di una genuina voce umana, il pubblico può infatti interrogare il mediatore, chiedere informazioni complementari o chiarimenti, alimentando uno scambio interpersonale capace di favorire la comprensione reciproca.
     * **Orale tramite traccia audio** Seppure in difetto di uno scambio relazionale diretto, la descrizione letta da un mediatore e registrata per essere trasmessa tramite traccia audio è interessante perché permette di essere fruita anche a distanza (es. web) oltre che presso il museo (es. audioguida, applicazioni per smartphone). Se organizzata in diversi livelli di approfondimento, favorisce inoltre un certo livello di autonomia nella gestione dei contenuti: è possibile bloccare la registrazione, ascoltare più volte i passaggi che interessano o selezionare quelli che si desidera ascoltare. Nel caso di registrazioni audio organizzate in più livelli, sono possibili anche maggiori approfondimenti sulle opere. Le audioguide adattate non devono però obbligatoriamente descrivere tutte le opere presenti in mostra: è possibile offrire al pubblico una selezione (vedi descrizione).
-    
-    (image: scegliere-il-supporto-01.jpg class: two-columns gallery)
-    (image: scegliere-il-supporto-02.jpg class: two-columns gallery)
+    (image: scegliere-il-supporto-01.jpg class:  gallery two-columns scelta)
+    (image: scegliere-il-supporto-02.jpg class: gallery two-columns scelta)
 - 
   section_title: Valutare l’efficacia
   content: |
@@ -92,3 +89,7 @@ Article:
 ----
 
 Pdf-article: 
+
+----
+
+Links-to-resources: 

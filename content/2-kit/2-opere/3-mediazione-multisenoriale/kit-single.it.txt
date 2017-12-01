@@ -29,12 +29,12 @@ Article:
     
     * **Diagramma in rilievo** È molto utile per opere bidimensionali (es. dipinti, stampe, fotografie, ecc.). Propone una sintesi grafica dell’immagine originale, in cui gli elementi compositivi principali sono messi in rilievo e quindi resi percepibili attraverso il tatto. È ideale per trasmettere aspetti compositivi o linee di forza dell’immagine o per ingrandire dettagli particolarmente rilevanti. La realizzazione di un diagramma in rilievo è sostenibile perché poco costosa, facilmente realizzabile ed efficace alla costruzione di immagini mentali se integrato a un’adeguata descrizione. Alcune indicazioni per la sua realizzazione sono fornite nella risorsa: Come realizzare un diagramma tattile o materico? (link allo strumento).
     * **Diagramma materico** È una variante del diagramma in rilievo (vedi sopra). In aggiunta, propone l’integrazione di materiali diversi nel diagramma costituendo un collage in rilievo dalle consistenze e texture diverse. È ideale per trasmettere ulteriori elementi (oltre a quelli compositivi) quali gli aspetti cromatici, materici, o stilistici. Alcune indicazioni per la sua realizzazione sono fornite nello strumento: Come realizzare un diagramma tattile o materico? (link allo strumento).
-    (image: 01-interpretazioni-tattili.jpg class: two-columns gallery)
-    (image: 02-interpretazioni-tattili.jpg class: two-columns gallery)
+    (image: 01-interpretazioni-tattili.jpg class: two-columns gallery diagramma)
+    (image: 02-interpretazioni-tattili.jpg class: two-columns gallery diagramma)
     * **Riproduzione tridimensionale** È ideale per le opere tridimensionali i cui originali non sono esplorabili tattilmente o le cui grandi dimensioni non permettono una percezione completa dell’opera. Può inoltre essere pertinente per opere bidimensionali in cui gli aspetti spaziali (profondità, prospettiva, ecc.) sono importanti. A dipendenza delle dimensioni dell’originale può essere indicato realizzare una riproduzione 1:1 oppure una miniatura, molto utile per trasmettere l’idea d’insieme di opere monumentali o installazioni ambientali articolate.
     * **Manipolazione oggetti** Permettere la manipolazione di oggetti e materiali che traducono o evocano alcuni aspetti peculiari dell’opera o del processo con cui è stata creata, può essere molto utile per favorire la comprensione dell’opera. A questo scopo possono essere scelti gli strumenti di lavoro dell’artista (pennelli, spatole, tele, gessi, ecc.) e oggetti raffigurati nell’opera o che in virtù della loro natura materiale possono evocare un elemento visivo o una sensazione (per esempio la morbidezza, la durezza, il freddo o il caldo, ecc.).
-    (image: 03-interpretazioni-tattili.jpg class: two-columns gallery)
-    (image: 04-interpretazioni-tattili.jpg class: two-columns gallery)
+    (image: 03-interpretazioni-tattili.jpg class: two-columns gallery manipolazione)
+    (image: 04-interpretazioni-tattili.jpg class: two-columns gallery manipolazione)
     
     ### Interpretazioni sonore
     
@@ -42,8 +42,8 @@ Article:
     * **Descrittiva** Per un approccio all’immagine di tipo descrittivo e didattico, è possibile selezionare o creare suoni (es. voci, versi, rumori provocati da oggetti in movimento, ecc.) in grado di richiamare l’opera in maniera evidente. Si tratta di un’interpretazione sonora quasi “letterale”, ideale per tradurre opere di natura figurativa. Per esempio se l’opera rappresenta un treno in avvicinamento, offrire l’ascolto di quest’azione così come è percepita nella realtà attraverso l’udito può essere molto efficace per favorire allo stesso tempo sia la comprensione di ciò che si offre alla vista, sia gli aspetti temporali e di movimento costruiti dall’artista nell’opera stessa.
     * **Evocativa** Anche quando non esiste un legame evidente o consequenziale con l’opera, selezionare o creare brani musicali e offrirne l’ascolto al pubblico può essere molto efficace per evocare elementi specifici quali per esempio il periodo storico in cui l’opera è stata creata o le sensazioni e le emozioni che l’opera è in grado di trasmette alle persone vedenti. Per esempio se l’opera è rappresentativa del periodo barocco, offrire l’ascolto di un brano della stessa epoca, permetterà al pubblico di percepire in altro modo la ricchezza e l’estrosità che caratterizzano questo periodo.
     * **Interpretativa** Oltre a essere descrittivi e evocativi, i brani musicali e i suoni possono anche integrati perseguendo una modalità interpretativa. Questa possibilità è particolarmente indicata quando il mediatore desidera evidenziare elementi relativi alla percezione dell’opera in una prospettiva storica, estetica o filosofica. Questo tipo d’interpretazione sonora può essere altrettanto efficace per le opere figurative e astratte, perché permette di tradurre in suono anche elementi prettamente formali. Per esempio, per fare comprendere alle persone con problemi di vista la differenza tra un’opera astratta e una figurativa, è possibile offrire in parallelo l’ascolto di due suoni/brani quasi opposti: per l’opera figurativa, sarà più appropriato un suono/brano descrittivo chiaramente identificabile dal pubblico, mentre per l’opera astratta uno evocativo, non chiaramente identificabile, sarà più adeguato.
-    (image: 05-interpretazioni-sonore.jpg class: two-columns gallery)
-    (image: 06-interpretazioni-sonore.jpg class: two-columns gallery)
+    (image: 05-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
+    (image: 06-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
     
     ### Interpretazioni fisiche: mimica e messa in scena
     
@@ -51,8 +51,8 @@ Article:
     
     * ** Mimica** Chiedere al pubblico di riprodurre attraverso il proprio corpo gli stessi gesti, pose, espressioni delle figure umane rappresentate, permette ai visitatori di sentire questi elementi sulla propria pelle, favorendo così ancora una volta il ricorso ai sensi a disposizione per approcciare e comprendere l’opera in maniera efficace. In virtù della sua estrema sostenibilità (è necessario unicamente l’intervento di un mediatore), questo metodo è assai vantaggioso dal punto di vista economico.
     * **Messa in scena** Nella messa in scena di un’opera, i soggetti raffigurati possono prendere vita grazie alla loro personificazione da parte di un mediatore (il quale non deve forzatamente essere un attore), che ne assume la posa o ne riproduce il movimento, opportunamente abbigliato per somigliare il più possibile al soggetto rappresentato. Egli costituisce il tramite tra l’opera e il pubblico: i visitatori con problemi di vista potranno così effettuare un’esplorazione tattile del mediatore stesso, facendosi guidare dalle sue indicazioni verbali per percepirne al meglio pose e movenze nonché specificità materiali di vestiti e accessori. Il visitatore ipovedente potrà godere anche della parte visiva della messa in scena, spesso fonte di meraviglia e divertito stupore. È opportuno ricordare che per realizzare una messa in scena pertinente ed efficace, non è necessario riprodurre l’opera in tutti i suoi dettagli: è importante scegliere indumenti e accessori soprattutto in base alla loro consistenza materica (texture e volumi), che deve essere il più possibile vicina a quella percepibile visivamente.
-    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery)
-    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery)
+    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery messascena)
+    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery messascena)
     
     ### Interpretazioni gustative e olfattive
     
@@ -61,8 +61,14 @@ Article:
     * **Descrittiva** Per un approccio all’immagine di tipo descrittivo e didattico, è possibile selezionare alimenti, sostanze o creare pietanze in grado di richiamare l’opera in maniera evidente. Anche in questo caso si tratta di un’interpretazione quasi “letterale”, ideale per tradurre opere di natura figurativa. Per esempio se l’opera rappresenta un cesto colmo di arance, offrire al pubblico questi alimenti da toccare, odorare e degustare può essere molto efficace per favorire la comprensione di ciò che si offre alla vista e renderlo percepibile attraverso gli altri sensi.
     * **Evocativa** Anche quando non esiste un legame evidente o consequenziale con l’opera, per permettere ai visitatori di percepire l’opera o alcuni suoni elementi in maniera diversa è possibile proporre odori e sapori che, in base al soggetto da trasmettere, evochino luoghi geografici o ambienti particolari (es. il mercato, il porto, la città, il bosco, ecc.), epoche, emozioni e sensazioni (es. freschezza, calore, umidità, morbidezza, ruvidezza, ecc.).
     * **Interpretativa** Oltre a essere descrittivi ed evocativi, odori e gusti proposti possono anche essere integrati per perseguire un approccio interpretativo. Questa soluzione è particolarmente efficace quando il mediatore desidera evidenziare elementi relativi alla percezione dell’opera in una prospettiva storica, estetica o filosofica. Anche questa modalità interpretativa, può essere efficace per ogni opera sia essa figurativa o astratta. In questo senso è particolarmente importante selezionare alimenti, sostanze aromatiche o pietanze oltre che in base al loro odore e gusto, anche in funzione della loro consistenza. In questo senso, gli abbinamenti di gusto e consistenza, siano essi in contrasto (es. gusto forte e consistenza delicata) o in armonia (es. gusto dolce e consistenza delicata) sono particolarmente efficaci per far comprendere al pubblico le relazioni che si possono instaurare nell’opera tra aspetti formali e di contenuto. Per esempio, per interpretare una scultura monumentale in marmo che rappresenta un eroe di guerra in azione, può essere opportuno proporre consistenze delicate e fredde per tradurre gli aspetti formali (es. materiale, colore, ecc.) e gusti forti e vibranti per tradurre il soggetto.
-    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery)
-    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery)
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery interpretare)
 - 
   section_title: Valutare l’efficacia
   content: |
@@ -79,3 +85,7 @@ Article:
 ----
 
 Pdf-article: 
+
+----
+
+Links-to-resources: 

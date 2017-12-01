@@ -10,3 +10,11 @@ pages: false
 
 // files
 files: false
+
+fields:
+  main_subtitle:
+    label: Sottotitolo principale
+    type: textarea
+  kit_intro:
+    label: Introduzione al kit
+    type: textarea

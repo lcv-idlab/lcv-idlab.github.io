@@ -104,30 +104,54 @@ window.onload = function() {
 
 	//--- KIT SINGLE LIGHTBOX GALLERIES ---//
 	// 
-	var gallery_array = $('figure.gallery');
+	var gallery_array = $("figure[class][class*='gallery']");	// select only the galleries
+
+	console.log(gallery_array);
 
     $.each(gallery_array, function() {
-    	$gallery_name = $(this).attr('class').replace('gallery', '').replace(' ', '');
+    	$gallery_name = $(this).attr('class').replace('gallery', '').replace(/ /g, '');
     	$link = $(this).children().attr('src');
+    	$alt = $(this).children().attr('alt');
 
-    	$(this).children().wrap("<a href=" + $link + " data-lightbox=" + $gallery_name + " data-title=' '></a>");
+    	$(this).children().wrap("<a href=" + $link + " data-lightbox=" + $gallery_name + " data-title=" + $alt + "></a>");
 
     })
 
     //--- KIT INLINE GALLERY MANAGER ---//
 
+    //****  method 1:
+
     var classNames = [];
 
+    //var figures_array = $('figure').find('.gallery:first, .two-columns:first');
+
+    var figures_array = $('figure').nextAll('figure');
+
     // select the groups of the same gallery and wrap them all with a div for css layouting
-    $.each(gallery_array, function() {
-    	classNames.push($(this).attr('class').replace('gallery', '').replace('two-columns', '').replace(' ', ''));
+    $.each(figures_array, function() {
+    	classNames.push($(this).attr('class').replace('gallery', '').replace('two-columns', '').replace(/ /g, ''));
     })
 
     classNames = jQuery.uniqueSort(classNames);
 
     $.each(classNames, function(i, e) {
-    	$('figure.gallery.' + e).wrapAll("<div class='gallery-group' />");
+    	// and operation on items to select based on attributes and elements types
+    	$("figure[class][class*='gallery'][class*='" + e + "']").wrapAll("<div class='gallery-group' />");
     })
+
+
+    //***** method 2:
+    /*
+
+    var figures_array = $('figure').nextAll('figure');
+
+    console.log(figures_array);
+
+    $.each(figures_array, function(i, e) {
+    	console.log(e);
+    })
+
+    */
 
 };
 
