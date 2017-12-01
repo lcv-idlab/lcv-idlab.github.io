@@ -80,7 +80,7 @@
 
           <?php if(page()->docs()->isNotEmpty()): ?>
             <?php foreach(page()->docs()->toStructure() as $doc): ?>
-              <a href="<?php echo page()->document($doc->doc())->url() ?>" target="_blank" title="<?php echo $doc->doc_title() ?>" class="button button-download main-document"><?php echo $doc->doc_title() ?></a>
+              <a href="<?php echo page()->document($doc->doc())->url() ?>" target="_blank" title="<?php echo $doc->doc_title() ?>" class="button button-download"><?php echo $doc->doc_title() ?></a>
             <?php endforeach ?>
           <?php endif ?>
 

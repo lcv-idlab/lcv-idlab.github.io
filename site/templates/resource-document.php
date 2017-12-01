@@ -50,7 +50,7 @@
 
           <?php if(page()->docs()->isNotEmpty()): ?>
           <?php foreach(page()->docs()->toStructure() as $doc): ?>
-            <a href="<?php echo page()->document($doc->file())->url() ?>" target="_blank" title="<?php echo $doc->button_label() ?>" class="button button-download <?php if($doc->main_doc()->bool()) { echo " main-document"; } ?>"><?php echo $doc->button_label() ?></a>
+            <a href="<?php echo page()->document($doc->file())->url() ?>" target="_blank" title="<?php echo $doc->button_label() ?>" class="button button-download"><?php echo $doc->button_label() ?></a>
           <?php endforeach ?>
           <?php endif ?>
 

@@ -17,7 +17,7 @@ Article:
   content: |
     **Entrare in contatto con il pubblico è fondamentale per conoscerne necessità e aspettative. Ciò è inoltre essenziale per comunicare in maniera mirata la propria offerta di mediazione culturale accessibile. Per farlo è consigliabile sviluppare canali di comunicazione istituzionali e interpersonali regolari. **
     
-    A livello svizzero, l’organizzazione a cui è possibile fare riferimento è la FSC, Federazione svizzera dei ciechi e deboli di vista, che conta 16 sezioni in tutto il Paese. L’unica sezione a sud delle Alpi è UNITAS, Associazione ciechi e ipovedenti della Svizzera italiana. Si consiglia di riferirsi alle organizzazioni regionali anche per entrare in contatto diretto con le persone che hanno problemi di vista. A tale proposito UNITAS organizza regolarmente momenti di sensibilizzazione mirati. Parteciparvi, come anche organizzare attività specifiche presso il proprio museo, permette di attivare arricchenti scambi interpersonali tra mediatori e pubblico in grado di favorire ulteriormente il coinvolgimento di entrambe le parti in maniera duratura. Una volta coinvolto, comunicare anche direttamente al pubblico la propria offerta di mediazione culturale accessibile, ad esempio telefonicamente oppure tramite posta elettronica, risulta essere uno dei metodi migliori per una comunicazione efficace. È inoltre possibile segnalare gli eventi culturali e le attività potenzialmente interessanti per le persone con disabilità visive a INFOUNITAS, rivista accessibile gestita dall’associazione stessa.
+    (link: /risorse/la-fruizione-a-distanza text: A livello svizzero), l’organizzazione a cui è possibile fare riferimento è la FSC, Federazione svizzera dei ciechi e deboli di vista, che conta 16 sezioni in tutto il Paese. L’unica sezione a sud delle Alpi è UNITAS, Associazione ciechi e ipovedenti della Svizzera italiana. Si consiglia di riferirsi alle organizzazioni regionali anche per entrare in contatto diretto con le persone che hanno problemi di vista. A tale proposito UNITAS organizza regolarmente momenti di sensibilizzazione mirati. Parteciparvi, come anche organizzare attività specifiche presso il proprio museo, permette di attivare arricchenti scambi interpersonali tra mediatori e pubblico in grado di favorire ulteriormente il coinvolgimento di entrambe le parti in maniera duratura. Una volta coinvolto, comunicare anche direttamente al pubblico la propria offerta di mediazione culturale accessibile, ad esempio telefonicamente oppure tramite posta elettronica, risulta essere uno dei metodi migliori per una comunicazione efficace. È inoltre possibile segnalare gli eventi culturali e le attività potenzialmente interessanti per le persone con disabilità visive a INFOUNITAS, rivista accessibile gestita dall’associazione stessa.
     
     In Svizzera esistono (link: https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd/link/organizzazioni-svizzere-per-le-persone-disabili.html target: _blank text: molte altre organizzazioni) a cui è possibile fare riferimento.
     
@@ -87,7 +87,7 @@ Validation-pdf:
 
 ----
 
-Pdf-article: relazionarsi-def.pdf
+Pdf-article: 
 
 ----
 
@@ -98,6 +98,4 @@ Pdf-evaluation: relazionarsi-def.pdf
 Links-to-resources: 
 
 - 
-  kit: ascoltare-l-incisione
-- 
-  kit: indagine-in-profondita
+  kit: analisi-istituzionali

@@ -35,7 +35,12 @@ Links-to-kit:
   kit: mediazione-multisenoriale
 - 
   kit: guidare-il-visitatore
+- 
+  kit: incontro-diretto
 
 ----
 
 Links-to-resources: 
+
+- 
+  kit: la-fruizione-a-distanza

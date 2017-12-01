@@ -237,8 +237,12 @@ a.resource-link {
 				}
 			}
 
-			.button-download {
+			p + .button-download {
 				margin-top: 1rem;
+			}
+
+			.button-download {
+				//margin-top: 1rem;
 			}
 		}
 

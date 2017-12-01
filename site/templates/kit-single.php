@@ -76,6 +76,37 @@
 		<!-- end: MAIN ARTICLE -->
 
 
+		<!-- RESOURCES CONNECTED TO THE PATH -->
+
+		<?php if(page()->links_to_resources()->isNotEmpty()): ?>
+			<div class="path-single">
+				<section id="related-resources">
+					<h2><?php echo l::get('related-resources') ?></h2>
+						<?php
+							//--- SORT THE LINKED KITS of the path ---//
+
+							echo "<ul id='single-resources'>";
+							foreach (page()->links_to_resources()->toStructure() as $uid) {
+
+								foreach (page('risorse')->children()->visible() as $item) {
+
+									if($item->uid() == $uid) {
+										echo "<li><a href='".$item->url()."'>";
+										echo "<h3>".$item->title()."</h3>";
+										echo "<p class='resource-description'>".shortstring($item->short()->html(), 300)."</p>";
+										echo "<div class='resource-image'><img src='".$item->image($item->main_image())->url()."'></div>";
+										echo "</a></li>";
+									}
+								}
+							}
+							echo "</ul>";
+						?>
+				</section>
+		</div>
+		<?php endif ?>
+		<!-- end -->
+
+
 		<!-- MORE READING NEXT KITS -->
 		<?php 		
 			$offset = 1 + $page->siblings(false)->visible()->indexOf($page);

@@ -50,3 +50,20 @@ fields:
     type: select
     default: architecture
     options: documents
+  links_to_resources:
+    label: Lista risorse da selezionare
+    type: structure
+    fields:
+      kit:
+        label: Lista schede kit da selezionare
+        type: select
+        options: query
+        query:
+          page: risorse
+          template:
+                - resource-document
+                - resource-experience
+                - resource-experience-audio
+          fetch: pages
+          text: '{{title}}'
+          value: '{{uid}}'
