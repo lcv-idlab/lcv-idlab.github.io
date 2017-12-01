@@ -11,7 +11,7 @@
 		<?php foreach ($site->pages()->visible() as $page): ?>
 
 			<?php if ( $page->title() == "progetto" ): ?>
-				<li><a href="<?php echo $page->url() ?>" class="<?php e($page->isOpen(), 'active'); ?>"><span class="<?php e($page->isOpen(), 'active'); ?>"><?php echo $page->title() ?></span></a>
+				<li><a href="<?php echo $page->url() ?>" class="<?php if(page('/progetto/abstract/')->isOpen()) { echo 'active'; } ?>"><span class="<?php if(page('/progetto/abstract/')->isOpen()) { echo 'active'; } ?>"><?php echo $page->title() ?></span></a>
 
 					<!-- hide the second level menu if the page isns't part of "progetto" or "abstract" -->
 					<div class="conatiner-second-level <?php $parent = page()->parent()->title(); if( $parent!='progetto' && $parent!='abstract' ) { echo "visuallyhidden"; } ?>">
@@ -25,7 +25,7 @@
 				</li>
 			<?php elseif($page->title() == "kit"): ?>
 
-				<li><a href="<?php echo page('kit')->url() ?>" class="<?php e($page->isOpen(), 'active');?> after-secondmenu-li-menu-mobile"><span class="<?php e($page->isOpen(), 'active'); ?>"><?php echo $page->title() ?></span></a>
+				<li><a href="<?php echo page('kit')->url() ?>" class="<?php if(page('/kit/')->isOpen() and !page('/kit/percorsi/')->isOpen()) { echo 'active'; } else { echo ''; } ?> after-secondmenu-li-menu-mobile"><span class="<?php if(page('/kit/')->isOpen and !page('/kit/percorsi/')->isOpen()) { echo 'active'; } else { echo ''; } ?>"><?php echo $page->title() ?></span></a>
 
 
 
