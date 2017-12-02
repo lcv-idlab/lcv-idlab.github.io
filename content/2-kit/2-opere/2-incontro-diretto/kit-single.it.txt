@@ -15,32 +15,15 @@ Article:
 - 
   section_title: Permettere l’avvicinamento
   content: >
-    Per ragioni conservative e assicurative,
-    è generalmente vietato ai visitatori
-    avvicinarsi troppo alle opere esposte.
-    In alcuni casi, possono esserci allarmi
-    a sensore, corde di acciaio o pedane,
-    talvolta poco visibili e dunque
-    pericolosi per il pubblico. Per favorire
-    la percezione delle opere, è
-    fondamentale permettere al pubblico di
-    avvicinarsi a esse il più possibile,
-    superando largamente i parametri di
-    distanza stabiliti per il pubblico
-    vedente. Quando non è possibile
-    evitarli, è importante rendere
-    maggiormente visibili gli elementi
-    d’arredo utili a tenere i visitatori a
-    distanza (es. ricoprendo le corde
-    d’acciaio con del tessuto dai colori
-    contrastanti).
+    Per ragioni conservative e assicurative,è generalmente vietato ai visitatori avvicinarsi troppo alle opere esposte. In alcuni casi, possono esserci allarmi a sensore, corde di acciaio o pedane, talvolta poco visibili e dunque pericolosi per il pubblico. Per favorire la percezione delle opere, è
+    fondamentale permettere al pubblico di avvicinarsi a esse il più possibile, superando largamente i parametri di distanza stabiliti per il pubblico vedente. Quando non è possibile evitarli, è importante rendere maggiormente visibili gli elementi d’arredo utili a tenere i visitatori a
+    distanza (es. ricoprendo le corde d’acciaio con del tessuto dai colori contrastanti).
 - 
   section_title: Favorire il ricorso agli ausili
   content: |
     Il pubblico deve poter ricorrere all’utilizzo di ausili specifici come le lenti d’ingrandimento o le torce per riuscire a percepire l’opera. Tuttavia per ragioni conservative e assicurative precauzionali spesso non viene permesso ai visitatori di ricorrere agli ausili a disposizione. Se l’utilizzo di lenti tradizionali prevede un posizionamento ravvicinato all’opera, fotografarla con il proprio smartphone per poterla ingrandire a schermo potrebbe essere una valida soluzione.
-    
-    (image: 1-ascoltare-l-incisione.jpg class: two-columns gallery)
-    (image: 2-interpretazioni-sonore.jpg class:two-columns gallery)
+    (image: 1-ascoltare-l-incisione.jpg class: two-columns gallery favorire)
+    (image: 2-interpretazioni-sonore.jpg class: two-columns gallery favorire)
 - 
   section_title: Permettere l’esplorazione tattile
   content: |
@@ -48,7 +31,6 @@ Article:
     
     * **Formato** Le opere tridimensionali e di piccole dimensioni si prestano meglio di altre all’esplorazione tattile. In virtù del loro formato ridotto possono essere percepite nel loro insieme, favorendo allo stesso tempo la comprensione della forma, la percezione del materiale utilizzato e la costruzione di immagini mentali. Le opere tridimensionali di grande formato possono essere toccate per percepirne materiale e scala dimensionale. In questi casi, per permettere una comprensione globale della forma dell’opera è necessario sviluppare dei supporti complementari come per esempio delle riproduzioni in miniatura (vedi mediazione multisensoriale). Anche per le opere bidimensionali, siano esse di grandi o piccole dimensioni, l’esplorazione tattile può essere interessante per percepirne la matericità, ma non è in grado di fornire elementi rilevanti rispetto a ciò che è raffigurato. Per questo, è possibile sviluppare supporti specifici in rilievo (vedi diagrammi tattili- mediazione multisensoriale).
     * **Conservazione** Prediligere le opere che per la loro natura materiale possono essere toccate a mani nude senza ripercussioni rilevanti sulla conservazione. Riservare inoltre questa possibilità solo alle persone con problemi di vista e assicurarsi che tutti i visitatori si lavino e asciughino accuratamente le mani prima della visita. È inoltre possibile mettere a disposizione del pubblico disinfettante e carta assorbente da usare subito prima dell’esplorazione tattile al fine di eliminare eventuali formazioni di unto o sudore sulle mani. Se alcune zone dell’opera dovessero essere particolarmente fragili è importante segnalarlo ai visitatori e invitarli a diminuire la pressione tattile in quei punti. Nel caso di dipinti su tela o altri materiali flessibili, porre un supporto rigido dietro la tela permette di evitare danneggiamenti o deformazioni in caso di pressione eccessiva. Per le opere lignee prediligere quelle verniciate; in assenza di vernice protettiva, infatti, il contatto della pelle con la porosità del legno potrebbe favorire il veloce deterioramento del materiale. Nel caso non vi siano opere toccabili a mani nude, è possibile mettere a disposizione dei guanti: anche se ciò impedisce la percezione tattile degli aspetti materici e di texture, la comprensione della forma è comunque agevolata.
-    
     (image: 3-esplorazione-tattile.jpg class: two-columns gallery conservazione)
     (image: 4-esplorazione-tattile.jpg class: two-columns gallery conservazione)
 - 
@@ -65,9 +47,8 @@ Article:
   section_title: Favorire l’incontro con gli artisti
   content: |
     L’incontro tra artisti e pubblico permette alle persone con disabilità visiva di conoscere la creazione artistica da dietro le quinte, sia dal punto di vista del pensiero umano, intimo e personale (es. attraverso un dialogo parlato), sia da quello della produzione concreta dell’opera (es. attraverso atelier di creazione), elementi che solo l’autore può trasmettere nella sua completezza e autenticità. Gli artisti possono inoltre partecipare alla traduzione sensoriale della propria opera visiva (vedi mediazione multisensoriale) rendendo così l’interpretazione dell’opera, un’opera a sé stante fruibile attraverso gli altri sensi. Favorire incontri, discussioni, atelier creativi e integrarli in una visita guidata multisensoriale può essere molto arricchente sia per l’artista, che ha modo di comprendere come la sua opera può essere diversamente percepita o riprodotta, sia per il pubblico di riferimento, che può esperire direttamente all’opera tramite l’artista stesso. Si tratta dunque di occasioni esclusive per carpire la scintilla che anima un’opera e “sentirla” attraverso gli altri sensi. Non tutti gli artisti sono però predisposti alla mediazione culturale. Gli artisti visivi si occupano generalmente di mediare il proprio pensiero attraverso la realizzazione di opere di natura visiva e preferiscono lasciare ad altri professionisti lo sviluppo di ulteriori mediazioni (descrizioni, traduzioni sensoriali, ecc.). Anche in questi casi, però, in funzione della loro disponibilità, è possibile coinvolgerli instaurando una collaborazione con il personale addetto alla mediazione che li possa sostenere nell’ideazione, nella progettazione e nella realizzazione di attività e supporti mutisensoriali specifici. Poter visitare gli spazi espositivi in compagnia dell’artista aumenta inoltre la probabilità di poter toccare le opere originali, sotto diretto consenso dell’autore e dell’istituzione museale. (vedi percorso visita guidatamultisensoriale).
-    
-    (image: 5-incontro-con-artista.jpg class: two-columns gallery)
-    (image: 6-incontro-con-artista.jpg class: two-columns gallery)
+    (image: 5-incontro-con-artista.jpg class: two-columns gallery artisti)
+    (image: 6-incontro-con-artista.jpg class: two-columns gallery artisti)
 - 
   section_title: Valutazione
   content: '**Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi che si intendeva raggiungere in vista di una convalida e di un miglioramento. In generale si suggerisce di trovare sempre un modo per registrare (audio, testo, ecc.) i riscontri del pubblico. Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere opportuno e utile prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo. **'

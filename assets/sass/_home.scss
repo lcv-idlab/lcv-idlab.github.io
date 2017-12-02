@@ -41,29 +41,98 @@
 }
 
 
-#home-main-content {
+#home-top-content {
 	@include outer-container();
 	@include pads(0 2 0 2);
-	margin-bottom: 7rem;
+	margin-bottom: 5rem;
 
 	> h2 {
-		margin-bottom : 5rem;
+		@extend %medium-weight;
+		@extend %medium-size;
+
+		@include span-columns(12);
+
+		@media screen and (min-width: $bp-medium) {
+			@include span-columns(8);
+		}
 
 
+	}
+}
+
+#kit-part {
+	@include outer-container();
+	@include pads(0 2 0 2);
+
+	h3 {
+		@extend %bold-weight;
+		line-height: 120%;
+		font-size: 4rem;
+		margin-bottom: 3rem;
+	
+		@media screen and (min-width: $bp-medium) {
+			font-size: 4.5rem;
+		}
+	}
+
+	#kit-home-descritpion {
+		display: block;
 	}
 
 	#kit-list-icons {
 		@include span-columns(12);
-		margin-bottom: 4rem;
+		text-align: center;
+		width: 100%;
+		display: block;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
 
-		#large, #medium, #small {
+		#two, #three {
 			display: none;
 		}
 
 		img {
 			@include span-columns(12 of 12);
 			max-width: 230px;
+			width: 100%;
 		}
+
+		img:last-child {
+			
+		}
+
+		@media screen and (min-width: $bp-small) {
+			#two {
+				display: block;
+				margin-right: 0;
+			}
+
+			img {
+				@include span-columns(6 of 12);
+			}
+		}
+
+		@media screen and (min-width: $bp-medium) {
+			#two {
+				margin-right: 4.72458%;
+			}
+			#three {
+				margin-right: 0;
+				display: block;
+			}
+
+			img {
+				@include span-columns(4 of 12);
+			}
+		}
+
+
+
+
+
+
+
+		/*
 
 		@media screen and (min-width: $bp-small) {
 			img {
@@ -72,7 +141,6 @@
 
 			#small {
 				display: block;
-				margin-right: 0;
 			}
 		}
 
@@ -97,52 +165,28 @@
 				margin-right: 0;
 			}
 		}
+		*/
 	}
 
-	section {
-
-		h3 {
-			 @extend %bold-weight;
-			line-height: 120%;
-			font-size: 2.5rem;
-			margin-bottom: 1rem;
-
-			@media screen and (min-width: $bp-medium) {
-				font-size: 3.5rem;
-			}
-		}
-
-		#condividi {
-			margin-top: 2rem;
-
-			.button {
-				margin-top: 1rem;
-
-				@media screen and (min-width: $bp-medium) {
-					max-width: 50%;
-				}
-			}
-		}
-	}
-
-	h2, section {
+	#condividi {
 		@include span-columns(12);
 
 		@media screen and (min-width: $bp-medium) {
 			@include span-columns(8);
 		}
+
+		margin-top: 5rem;
+		margin-bottom: 5rem;
+
+		.button {
+			margin-top: 1rem;
+
+			@media screen and (min-width: $bp-medium) {
+				max-width: 50%;
+			}
+		}
 	}
-
-
-
 }
-
-
-
-
-
-
-
 
 
 

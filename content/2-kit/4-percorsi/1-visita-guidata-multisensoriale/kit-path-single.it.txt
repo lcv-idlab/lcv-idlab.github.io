@@ -2,7 +2,7 @@ Title: Visita guidata multisensoriale
 
 ----
 
-Description: 
+Description: La tradizionale visita guidata al museo, se descrittiva, multisensoriale e realizzata da un mediatore appositamente sensibilizzato, è ritenuta la modalità di visita più efficace, perché permette di integrare tutti gli aspetti ritenuti fondamentali per favorire l’accesso al museo e alle opere d’arte alle persone con problemi di vista, favorendo l’inclusione. Per realizzare una visita guidata accessibile è inoltre importante tenere conto di alcuni accorgimenti specifici in grado di rendere la visita guidata adatta al pubblico di riferimento.
 
 ----
 
@@ -39,3 +39,17 @@ Links-to-kit:
 ----
 
 Links-to-resources: 
+
+- 
+  kit: la-messa-in-scena
+- 
+  kit: >
+    la-visita-guidata-con-i-diagrammi-in-rilievo
+- 
+  kit: degustare-l-arte
+- 
+  kit: interpretazioni-sonore
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: toccare-l-arte

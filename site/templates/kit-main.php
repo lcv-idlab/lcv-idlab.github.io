@@ -7,7 +7,9 @@
 			<!-- <div></div> -->
 		</div>
 		<header id="main-header">
-			<div><?php echo page()->description()->kt() ?></div>
+			<div class="decoration-wrapper">
+				<div><?php echo page()->description()->kt() ?></div>
+			</div>
 		</header>
 
 		<!-- temp for reference ...

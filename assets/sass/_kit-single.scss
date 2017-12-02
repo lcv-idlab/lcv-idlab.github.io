@@ -199,7 +199,7 @@
 					li {
 						//display: block;
 
-						strong {
+						strong:first-child {
 							//font-size: 1.2rem;
 							display: block;
 							//padding-left: 1rem;
@@ -299,6 +299,7 @@
 						height: auto;
 						padding: 0;
 						display: block;
+						max-height: 600px;
 					}
 
 					a {

@@ -11,7 +11,7 @@
 
       <div id="license">
         <?php echo l::get('license') ?>
-        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="/assets/images/cc-by-sa.png" /></a>
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target: _blank><img alt="Licenza Creative Commons" style="border-width:0" src="/assets/images/cc-by-sa.png" /></a>
       </div>
     </div>
 </footer>

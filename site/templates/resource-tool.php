@@ -39,18 +39,19 @@
     <div class="resource-experience-text">
       <div class="border-top">
         <div class="aside">
-          <h3 id="partners">Documenti scaricabili</h3>
 
-          <?php if(page()->ext_link()->isNotEmpty()): ?>
+          <?php if(page()->docs()->isNotEmpty()): ?>
+          <h3 id="partners">Documenti scaricabili</h3> 
   
             <a href="<?php echo page()->ext_link()->url() ?>" id="ext_resource" title="<?php echo page()->title() ?>" class="button"><?php echo page()->ext_link_desc()->kt() ?></a>
 
-          <?php endif ?>
-
-          <?php if(page()->docs()->isNotEmpty()): ?>
+          
             <?php foreach(page()->docs()->toStructure() as $doc): ?>
               <a href="<?php echo page()->document($doc->doc())->url() ?>" target="_blank" title="<?php echo $doc->doc_title() ?>" class="button button-download main-document"><?php echo $doc->doc_title() ?></a>
             <?php endforeach ?>
+
+          <?php else: ?>
+            &nbsp;
           <?php endif ?>
 
         </div>

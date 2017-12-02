@@ -2,7 +2,7 @@ Title: Fruizione delle opere a distanza
 
 ----
 
-Description: 
+Description: La fruizione a distanza delle opere è una soluzione efficace per promuovere il contatto tra istituzioni museali e pubblico di riferimento e per permettere ai visitatori di accedere alle opere in maniera libera e autonoma, nel luogo e nel momento più adatti alle esigenze personali: per le persone con disabilità visiva spostarsi al museo può richiedere tempo e, molto spesso, è necessaria un’articolata organizzazione di trasporti, accompagnatori, autisti, ecc.
 
 ----
 
@@ -10,7 +10,7 @@ Article:
 
 - 
   section_title: ""
-  content: 'La fruizione a distanza delle opere è una soluzione efficace per promuovere il contatto tra istituzioni museali e pubblico di riferimento e per permettere ai visitatori di accedere alle opere in maniera libera e autonoma, nel luogo e nel momento più adatti alle esigenze personali: per le persone con disabilità visiva spostarsi al museo può richiedere tempo e, molto spesso, è necessaria un’articolata organizzazione di trasporti, accompagnatori, autisti, ecc. Anche se la fruizione a distanza non permette l’incontro diretto con l’opera originale e lo scambio e il dialogo interpersonale tra mediatori e fruitori, poter fruire delle descrizioni delle opere e delle immagini in alta risoluzione (per le persone ipovedenti) attraverso il sito web del museo, può essere dunque d’aiuto. Tale approccio permette inoltre di stimolare maggiormente gli utenti a spostarsi fisicamente per visitare il museo e le sue esposizioni.'
+  content: 'Se proporre delle (link: kit/percorsi/visita-guidata-multisensoriale text: visite guidate multisensoriali) è prioritario, la fruizione a distanza delle opere è una soluzione efficace per promuovere il contatto tra istituzioni museali e pubblico di riferimento e per permettere ai visitatori di accedere alle opere in maniera libera e autonoma, nel luogo e nel momento più adatti alle esigenze personali: per le persone con disabilità visiva spostarsi al museo può richiedere tempo e, molto spesso, è necessaria un’articolata organizzazione di trasporti, accompagnatori, autisti, ecc. Anche se la fruizione a distanza non permette l’incontro diretto con l’opera originale e lo scambio e il dialogo interpersonale tra mediatori e fruitori, poter fruire delle descrizioni delle opere e delle immagini in alta risoluzione (per le persone ipovedenti) attraverso il sito web del museo, può essere dunque d’aiuto. Tale approccio permette inoltre di stimolare maggiormente gli utenti a spostarsi fisicamente per visitare il museo e le sue esposizioni.'
 
 ----
 
@@ -19,12 +19,15 @@ Links-to-kit:
 - 
   kit: relazione-con-il-pubblico
 - 
-  kit: design
-- 
   kit: website
+- 
+  kit: design
 - 
   kit: descrizione
 
 ----
 
 Links-to-resources: 
+
+- 
+  kit: la-fruizione-a-distanza

@@ -1,6 +1,28 @@
 //-- KIT PATHS --/
 
 #kit {
+
+	//--- PATHS MAIN ---/
+
+	#kit-path-main {
+
+		#main-header {
+			@include outer-container();
+			@include pads(0 2 0 2);
+			margin-bottom: 5rem;
+
+			> div {
+				@include span-columns(12);
+
+				@media screen and (min-width: $bp-medium) {
+					@include span-columns(8);
+				}
+			}
+		}
+	}
+
+
+
 	#paths-container {
 		@include outer-container();
 		@include pads(0 2 0 2);
@@ -14,6 +36,20 @@
 
 			h2 {
 				@extend %kits-title;
+			}
+
+			@include span-columns(12);
+
+			@media screen and (min-width: $bp-medium) {
+				@include span-columns(8);
+			}
+
+			.path-related-images {
+				margin-top: 1rem;
+				img {
+					@include span-columns(6 of 12);
+					max-width: 100%;
+				}
 			}
 		}
 
@@ -29,10 +65,12 @@
 
 	.path-single {
 
-		#main-header {
-			> div {
+		.description {
+			margin-top: 1rem;
+		}
 
-			}
+		#main-header {
+
 		}
 		#single-article-container {
 			@media screen and (max-width: $bp-menu-mobile) {

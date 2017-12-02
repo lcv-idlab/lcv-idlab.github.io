@@ -18,6 +18,9 @@ fields:
   title: 
     label: Titolo del percorso
     type: text
+  description:
+    label: Descrizione del percorso
+    type: textarea
   article:
     label: Articolo
     type: structure
