@@ -16,8 +16,8 @@
 
 				<div id="kit-list-icons">
 					<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="one">
-					<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="two">
-					<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="three">
+					<img src="/content/2-kit/1-comunicazione/2-design/design-inclusivo.png" id="two">
+					<img src="/content/2-kit/3-orientation/1-guidare-il-visitatore/accompagnare-il-visitatore.png" id="three">
 				</div>
 
 
