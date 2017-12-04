@@ -2,7 +2,10 @@ Title: Descrivere le opere
 
 ----
 
-Description: La soluzione più efficace che i musei d’arte possono implementare per favorire l’accesso alle opere d’arte per le persone con problemi di vista è la realizzazione di descrizioni specifiche. Anche quando non sussistono riferimenti visivi, per creare immagini mentali le persone cieche e ipovedenti possono sfruttare altre risorse sensoriali quali l’udito. Per stimolare questo processo, è essenziale che le persone vedenti raccontino loro opere, circostanze e contesti, tenendo conto di accorgimenti specifici e sfruttando le potenzialità comunicative ed evocative proprie del linguaggio parlato, peraltro da sempre considerato un elemento cardine nell’incontro con l’arte. Anche quando altre soluzioni sono integrate, la descrizione delle opere rimane un elemento imprescindibile.
+Description: La soluzione più efficace che i musei d’arte possono implementare per favorire l’accesso alle opere d’arte per le persone con problemi di vista è la realizzazione di descrizioni specifiche.
+Anche quando non sussistono riferimenti visivi, per creare immagini mentali le persone cieche e ipovedenti possono sfruttare altre risorse sensoriali quali l’udito.
+
+Per stimolare questo processo, è essenziale che le persone vedenti raccontino loro opere, circostanze e contesti, tenendo conto di accorgimenti specifici e sfruttando le potenzialità comunicative ed evocative proprie del linguaggio parlato, peraltro da sempre considerato un elemento cardine nell’incontro con l’arte. Anche quando altre soluzioni sono integrate, la descrizione delle opere rimane un elemento imprescindibile.
 
 ----
 

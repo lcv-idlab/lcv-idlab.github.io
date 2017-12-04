@@ -7,6 +7,10 @@
 		@include pads(0 2 0 2);
 		> div {
 			@extend %kit-main-page-description;
+
+			p + p {
+				margin-top: 1rem;
+			}
 		}
 	}
 

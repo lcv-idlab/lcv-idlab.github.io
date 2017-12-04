@@ -69,7 +69,7 @@ var VisualMarkdownEditor = function ($, field, $element, options) {
             indentWithTabs: false,
             lineWrapping: true,
             extraKeys: {
-                'Enter': 'newlineAndIndentContinueMarkdownList',
+                //'Enter': 'newlineAndIndentContinueMarkdownList',
                 'Alt-Enter': function () {
                     self.savePanelForm();
                 },

@@ -29,6 +29,13 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
+/*
+ * Use markdown instahed of kirbytext
+ */
+
+
+c::set('panel.kirbytext', true);
+
 
 /*
  * Language setup

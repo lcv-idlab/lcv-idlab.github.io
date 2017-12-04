@@ -18,6 +18,10 @@
 
 %main-description {
 	@extend %kit-main-page-description;
+
+	p + p {
+		margin-top: 1rem;
+	}
 }
 
 %kits-title {
