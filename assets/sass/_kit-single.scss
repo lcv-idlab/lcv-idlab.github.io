@@ -264,6 +264,8 @@
 				.gallery-group {
 					display: block;
 					overflow: hidden;
+
+					margin-bottom: 3rem;
 				}
 
 
@@ -337,6 +339,10 @@
 						text-decoration: none;
 						border: none;
 					}
+				}
+
+				&.evaluate p {
+					@extend %medium-weight;
 				}
 
 			}

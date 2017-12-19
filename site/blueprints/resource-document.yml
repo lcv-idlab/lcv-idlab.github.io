@@ -54,25 +54,21 @@ fields:
   main_image:
     label:  Immagine documento
     type: image
-  pdf_it:
-      label: Documento ufficiale in italiano
-      type: select 
-      default: architecture
-      options: documents
-  pdf_de:
-      label: Riassunto documento in tedesco
-      type: select 
-      default: architecture
-      options: documents
-  pdf_fr:
-      label: Riassunto documento in francese
-      type: select 
-      default: architecture
-      options: documents
-  pdf_en:
-      label: Riassunto documento in inglese
-      type: select 
-      default: architecture
-      options: documents
-  
-    
+  docs:
+    label: Documenti pdf scaricabili
+    type: structure
+    entry:
+      <b>{{button_label}}</b> {{file}}
+    fields:
+      button_label:
+        label: Testo del bottone
+        type: text
+      file:
+        label: Seleziona il file
+        type: select
+        default: architecture
+        options: documents
+      main_doc:
+        label: Documento principale
+        type: checkbox
+        text: Seleziona la casella se questo è il documento principale

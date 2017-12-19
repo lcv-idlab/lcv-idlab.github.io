@@ -64,6 +64,11 @@
 	@include outer-container();
 	@include pads(0 2 0 2);
 
+	a:link, a:hover, a:visited, a:active {
+		text-decoration: none;
+		color: color(black);
+	}
+
 	h3 {
 		@extend %bold-weight;
 		line-height: 120%;
@@ -77,6 +82,10 @@
 
 	#kit-home-descritpion {
 		display: block;
+
+		p + p {
+			margin-top: 1rem;
+		}
 	}
 
 	#kit-list-icons {

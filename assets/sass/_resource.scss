@@ -157,6 +157,24 @@ a.resource-link {
 				//margin-top: 2rem;
 				//border-top: 1px solid color(gray);
 			}
+
+			ul {
+				list-style: square;
+
+				padding-left: 1rem;
+
+				li {
+					margin-bottom: 1rem;
+				}
+			}
+
+			ul + p {
+				margin-top: 3rem;
+			}
+
+			p + ul {
+				margin-top: 3rem;
+			}
 		}
 	}
 }
@@ -255,8 +273,42 @@ a.resource-link {
 				margin-bottom: 1rem;
 			}
 
-			p {
+			h2 {
+				@extend %medium-weight;
+				font-size: 1.2rem;
+				margin-top: 3rem;
+				margin-bottom: 2rem;
+			}
+
+			p, ul, ol {
 				margin-bottom: 1rem;
+			}
+
+			ul {
+				list-style: square;
+				padding-left: 1rem;
+
+				li {
+					margin-bottom: 1rem;
+
+					strong:first-child {
+						display: block;
+						margin-bottom: 1rem;
+					}
+				}
+
+				li + li {
+					margin-top: 2rem;
+				}
+			}
+
+			ol {
+				list-style: decimal;
+				padding-left: 1rem;
+
+				li + li {
+					margin-top: 1rem;
+				}
 			}
 
 			#audio_recordings {

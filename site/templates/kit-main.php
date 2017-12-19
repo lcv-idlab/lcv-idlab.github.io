@@ -30,7 +30,7 @@
 
 			<?php if ($cat->intendedTemplate() == "kit-category"): ?>
 
-			<section id="<?php echo $cat->title('it') ?>" class="category-single">
+			<section id="<?php $title = $cat->title('it'); $pos = strpos($title, ' '); if($pos!== FALSE) { echo substr($title, 0, $pos); } else { echo $title; } ?>" class="category-single">
 
 				<!-- CATEGORY TITLE -->
 				<header>

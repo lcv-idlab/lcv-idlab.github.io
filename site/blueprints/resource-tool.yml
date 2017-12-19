@@ -6,7 +6,7 @@ options:
   delete: true
   preview: true
   status: true
-  template: false
+  template: true
   url: true
 
 // subpages settings

@@ -2,7 +2,9 @@ Title: Accompagnare il visitatore
 
 ----
 
-Description: Per i visitatori ciechi, avere a disposizione una persona vedente che li accompagni fisicamente lungo il percorso di visita, non è solo un piacere ma anche una necessit&#224;.
+Description: 
+
+Per i visitatori ciechi, avere a disposizione una persona vedente che li accompagni fisicamente lungo il percorso di visita, non è solo un piacere ma anche una necessit&#224;.
 
 Al fine di salvaguardare la propria incolumità, la sicurezza delle opere esposte e per una maggiore piacevolezza nella visita, anche la maggior parte delle persone ipovedenti preferisce essere guidata.
 Per favorire l’indipendenza delle persone con disabilità visiva ed evitare che debbano sistematicamente dipendere dalla disponibilità di conoscenti, amici, parenti o volontari per visitare il museo, è consigliabile mettere a disposizione una persona che, su richiesta, possa accompagnare fisicamente i visitatori, (link: kit/opere/descrizione text: descrivere) loro le opere e gli spazi del museo e guidarli nell’(link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: esplorazione tattile) delle opere – quando è data la possibilità di toccarle.
@@ -33,20 +35,17 @@ Article:
     Per guidare fisicamente il pubblico con disabilità visiva e farlo sentire in sicurezza, alcuni aspetti sono essenziali:
     
     * **Chiedere il tipo di contatto preferito** Per accompagnare fisicamente il visitatore è necessario fornirgli un punto di appoggio fisico su cui poter contare per evitare ostacoli e avanzare in maniera sicura. Molte persone preferiscono tenersi (e non essere tenuti) al braccio del proprio accompagnatore e camminare insieme fianco a fianco. Questo tipo di contatto è considerato il più comodo, veloce e discreto.
-
-      Nel caso di gruppi con più visitatori con disabilità della vista, è consigliabile seguire primariamente le persone cieche, essendo quelle ipovedenti generalmente più autonome negli spostamenti. Nel caso di gruppi con più persone cieche, esiste anche la possibilità di avanzare in fila indiana con la mano destra appoggiata sulla spalla della persona davanti: questo tipo di spostamento limita però la libertà di movimento.
-
-      È preferibile dunque prevedere un accompagnatore per ogni persona cieca o fortemente ipovedente in modo da poter offrire un sostegno personalizzato.
+    
+    Nel caso di gruppi con più visitatori con disabilità della vista, è consigliabile seguire primariamente le persone cieche, essendo quelle ipovedenti generalmente più autonome negli spostamenti. Nel caso di gruppi con più persone cieche, esiste anche la possibilità di avanzare in fila indiana con la mano destra appoggiata sulla spalla della persona davanti: questo tipo di spostamento limita però la libertà di movimento.
+    
+    È preferibile dunque prevedere un accompagnatore per ogni persona cieca o fortemente ipovedente in modo da poter offrire un sostegno personalizzato.
     * **Descrivere lo spazio e il percorso** Per far sentire il visitatore con disabilità della vista in sicurezza e a proprio agio si suggerisce di descrivere a parole e man mano che si avanza, lo spazio in cui ci si trova oltre che il percorso e la strada che si stanno seguendo, anticipando eventuali ostacoli, contesti e situazioni.
-
-      Per operare una descrizione adeguata, è possibile tenere conto delle indicazioni da osservare per (link: kit/opere/descrizione text: descrivere le opere d’arte). La descrizione in questo caso è però intesa per essere funzionale alla mobilità e all’orientamento del visitatore; per questo è bene fornire in maniera prioritaria informazioni oggettive e restare a disposizione per rispondere a eventuali domande e curiosità relative alle sensazioni percepibili nello spazio attraverso gli altri sensi.
-
-      Le indicazioni che permettono al visitatore di prevedere ciò che accadrà o percepirà, sono dunque particolarmente importanti (es. “Ora percorriamo le scale per salire… il corrimano si trova sul lato destro… c’è una prima rampa con dieci scalini, poi è necessario girare a destra percorrendo un pianerottolo di circa due metri quadrati, in seguito c’è una seconda rampa con dieci scalini”, oppure “Ora prendiamo l’ascensore e ci dirigiamo al terzo piano dove è allestita la mostra permanente che andremo a visitare…”, o ancora “Ora ci troviamo nell’atrio del museo: si tratta di una sala di circa venti metri quadrati, con pavimento in legno e pareti bianche e la cui luce proviene da una grade finestra situata sulla nostra destra. Proseguendo dritto davanti a noi, entriamo nella prima sala espositiva… ce ne saranno 4 in totale”, ecc.).
+    
+    Per operare una descrizione adeguata, è possibile tenere conto delle indicazioni da osservare per (link: kit/opere/descrizione text: descrivere le opere d’arte). La descrizione in questo caso è però intesa per essere funzionale alla mobilità e all’orientamento del visitatore; per questo è bene fornire in maniera prioritaria informazioni oggettive e restare a disposizione per rispondere a eventuali domande e curiosità relative alle sensazioni percepibili nello spazio attraverso gli altri sensi.
+    
+    Le indicazioni che permettono al visitatore di prevedere ciò che accadrà o percepirà, sono dunque particolarmente importanti (es. “Ora percorriamo le scale per salire… il corrimano si trova sul lato destro… c’è una prima rampa con dieci scalini, poi è necessario girare a destra percorrendo un pianerottolo di circa due metri quadrati, in seguito c’è una seconda rampa con dieci scalini”, oppure “Ora prendiamo l’ascensore e ci dirigiamo al terzo piano dove è allestita la mostra permanente che andremo a visitare…”, o ancora “Ora ci troviamo nell’atrio del museo: si tratta di una sala di circa venti metri quadrati, con pavimento in legno e pareti bianche e la cui luce proviene da una grade finestra situata sulla nostra destra. Proseguendo dritto davanti a noi, entriamo nella prima sala espositiva… ce ne saranno 4 in totale”, ecc.).
     (image: 01-accompagnare.jpg class: two-columns gallery spazio)
     (image: 02-accompagnare.jpg class: two-columns gallery spazio)
-- 
-  section_title: Valutare
-  content: '**Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi che si intendeva raggiungere in vista di una convalida e di un miglioramento. In generale si suggerisce di trovare sempre un modo per registrare (audio, testo, ecc.) i riscontri del pubblico. Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere opportuno e utile prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo. **'
 
 ----
 

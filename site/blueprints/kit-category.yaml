@@ -25,3 +25,6 @@ fields:
   title:
     label: Titolo
     type: text
+  verify:
+    label: Paragrafo per la verifica
+    type: textarea

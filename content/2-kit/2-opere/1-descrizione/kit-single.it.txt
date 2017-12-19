@@ -2,7 +2,9 @@ Title: Descrivere le opere
 
 ----
 
-Description: La soluzione più efficace che i musei d’arte possono implementare per favorire l’accesso alle opere d’arte per le persone con problemi di vista è la realizzazione di descrizioni specifiche.
+Description: 
+
+La soluzione più efficace che i musei d’arte possono implementare per favorire l’accesso alle opere d’arte per le persone con problemi di vista è la realizzazione di descrizioni specifiche.
 Anche quando non sussistono riferimenti visivi, per creare immagini mentali le persone cieche e ipovedenti possono sfruttare altre risorse sensoriali quali l’udito.
 
 Per stimolare questo processo, è essenziale che le persone vedenti raccontino loro opere, circostanze e contesti, tenendo conto di accorgimenti specifici e sfruttando le potenzialità comunicative ed evocative proprie del linguaggio parlato, peraltro da sempre considerato un elemento cardine nell’incontro con l’arte. Anche quando altre soluzioni sono integrate, la descrizione delle opere rimane un elemento imprescindibile.
@@ -41,8 +43,8 @@ Article:
     
     * **Registro linguistico e terminologia** Per facilitare la comprensione e l’elaborazione dei contenuti forniti è preferibile utilizzare un registro colloquiale, integrando solo se necessario termini specifici o tecnici i cui significati vanno sempre spiegati. È meglio dunque menzionare in primis l’elemento in questione per poi citarne la corretta definizione (es. è meglio affermare “… il giallo, il rosso e il blu, che nella teoria dei colori sono definiti colori primari” piuttosto che “… i colori primari, ovvero il giallo, il rosso e il blu”).
     * **Parole tabù**Può succedere che la persona vedente, mossa dalla buona fede e dalla premura, eviti di usare certe parole o modi di dire per timore di mettere in imbarazzo o offendere l’interlocutore con disabilità visiva. Tuttavia, tale atteggiamento può essere controproducente generando una sensazione di inadeguatezza nella persona con disabilità.
-
-        Termini come “vedere” o “guardare” non sono da considerare tabù, bensì da utilizzare liberamente come d’altronde fa lo stesso pubblico di riferimento. In questo senso anche le definizioni “cieco” e “ipovedente” sono preferite al cauto “non vedente”: il “non” rimanda immediatamente a una declinazione negativa. Va sottolineato che tali questioni linguistiche dipendono molto, oltre che dalla soggettività personale, anche dall’area geografico-culturale.
+    
+    Termini come “vedere” o “guardare” non sono da considerare tabù, bensì da utilizzare liberamente come d’altronde fa lo stesso pubblico di riferimento. In questo senso anche le definizioni “cieco” e “ipovedente” sono preferite al cauto “non vedente”: il “non” rimanda immediatamente a una declinazione negativa. Va sottolineato che tali questioni linguistiche dipendono molto, oltre che dalla soggettività personale, anche dall’area geografico-culturale.
     * **Figure retoriche**Similitudini, paragoni e antitesi, sono strumenti efficaci per favorire la costruzione di immagini mentali, soprattutto quando associati alla vita quotidiana, al corpo e alla percezione sensoriale. In questo senso è molto utile anche l’uso della propria fisicità per mimare pose o espressioni.
     Se l’uso di metafore è invece particolarmente indicato nel commento simbolico ed evocativo, è da misurare con attenzione per la descrizione di tecnica, forma e composizione: in questo caso può infatti portare a confusione o fuorviare la comprensione della descrizione.
     * **Aggettivi** Gli aggettivi sono utili ed efficaci per caratterizzare ciò che è descritto: riducono la polisemia dell’oggetto e qualificano il carattere artistico dell’opera. Si consiglia però di farne un uso parsimonioso per lasciare spazio alla costruzione dell’immagine nella mente del visitatore.
@@ -62,8 +64,8 @@ Article:
     * **Contesto storico-culturale** È importante contestualizzare storicamente e culturalmente l’opera per farne comprendere importanza e pertinenza in relazione alla storia dell’arte e all’esposizione.
     * **Soggetto primario** Per descrivere il soggetto primario dell’opera è importante individuarlo: nel caso di opere figurative ci si riferisce solitamente a ciò che è rappresentato, mentre nel caso di opere astratte è possibile che sia prettamente di natura formale o concettuale.
     Una volta individuato, la sua descrizione dovrebbe essere breve e seguire un ordine di massima: quello tradizionale si sviluppa dall’alto verso il basso e dalla sinistra del fruitore alla sua destra.
-
-        È possibile inoltre descrivere dall’esterno verso l’interno. Gli aspetti formali (es. colori, stile) a cominciare dai limiti fisici dell’opera (es. cornici) sono importanti per iniziare la descrizione, focalizzandosi in seguito sui dettagli (es. “È un quadro rettangolare poggiato sulla base maggiore. Al centro è raffigurato…” o “È una scultura che si sviluppa verticalmente e rappresenta…”).
+    
+    È possibile inoltre descrivere dall’esterno verso l’interno. Gli aspetti formali (es. colori, stile) a cominciare dai limiti fisici dell’opera (es. cornici) sono importanti per iniziare la descrizione, focalizzandosi in seguito sui dettagli (es. “È un quadro rettangolare poggiato sulla base maggiore. Al centro è raffigurato…” o “È una scultura che si sviluppa verticalmente e rappresenta…”).
     * **Tecnica, forma e composizione** Descrivere forme, luce, colori, proporzioni, dimensioni, gestione dello spazio (pittorico per l’arte figurativa bidimensionale), matericità e tecnica utilizzata. A meno che non siano particolarmente enfatizzati e rilevanti nell’impatto generale dell’opera, è preferibile sintetizzare la descrizione degli aspetti compositivi e tecnici.
     * **Commento simbolico ed evocativo** È particolarmente apprezzato un commento di natura simbolica ed evocativa che anche se di natura soggettiva è in grado di trasmettere ai visitatori gli intenti dell’artista, i possibili effetti psico-emotivi dell’opera sullo spettatore vedente, il carattere artistico dell’opera e la sua unicità.
     (image: selezionare-gli-elementi-01.jpg class: two-columns gallery elementi)
@@ -81,15 +83,12 @@ Article:
     * **Scritta in formato digitale** Trasmettere la descrizione scritta in un (link: kit/comunicazione/website  text: formato digitale ) permette a tutte le persone con problemi di vista di poterne fruire grazie al prezioso ausilio dei lettori vocali, presenti su ogni computer o telefono cellulare. Inoltre, i testi digitali possono essere visivamente amplificati attraverso i dispositivi di ingrandimento disponibili, assecondando così le esigenze personali. Le voci dei lettori vocali, seppur sempre più simili a quelle umane, restano ancora voci elettroniche, piuttosto fredde e impersonali.
     * **Orale di persona** In occasione di una visita guidata, fornire la descrizione a voce è considerata una delle soluzioni migliori: oltre all’ascolto di una genuina voce umana, il pubblico può infatti interrogare il mediatore, chiedere informazioni complementari o chiarimenti, alimentando uno scambio interpersonale capace di favorire la comprensione reciproca.
     * **Orale tramite traccia audio** Seppure in difetto di uno scambio relazionale diretto, la descrizione letta da un mediatore e registrata per essere trasmessa tramite traccia audio è interessante perché permette di essere fruita anche a distanza (es. web) oltre che presso il museo (es. audioguida, applicazioni per smartphone).
-
-        Se organizzata in diversi livelli di approfondimento, favorisce inoltre un certo livello di autonomia nella gestione dei contenuti: è possibile bloccare la registrazione, ascoltare più volte i passaggi che interessano o selezionare quelli che si desidera ascoltare.
-
-        Nel caso di registrazioni audio organizzate in più livelli, sono possibili anche maggiori approfondimenti sulle opere. Le audioguide adattate non devono però obbligatoriamente descrivere tutte le opere presenti in mostra: è possibile offrire al pubblico una selezione.
+    
+    Se organizzata in diversi livelli di approfondimento, favorisce inoltre un certo livello di autonomia nella gestione dei contenuti: è possibile bloccare la registrazione, ascoltare più volte i passaggi che interessano o selezionare quelli che si desidera ascoltare.
+    
+    Nel caso di registrazioni audio organizzate in più livelli, sono possibili anche maggiori approfondimenti sulle opere. Le audioguide adattate non devono però obbligatoriamente descrivere tutte le opere presenti in mostra: è possibile offrire al pubblico una selezione.
     (image: scegliere-il-supporto-01.jpg class: two-columns gallery supporto)
     (image: scegliere-il-supporto-02.jpg class: two-columns gallery supporto)
-- 
-  section_title: Valutare
-  content: '**Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi che si intendeva raggiungere in vista di una convalida e di un miglioramento. In generale si suggerisce di trovare sempre un modo per registrare (audio, testo, ecc.) i riscontri del pubblico. Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere opportuno e utile prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo. **'
 
 ----
 

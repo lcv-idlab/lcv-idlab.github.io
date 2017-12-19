@@ -22,16 +22,14 @@
 	// kit single
 	l::set('index', 'indice');
 	l::set('tools', 'Stumenti');
-	l::set('more', 'continua a leggere');
+	l::set('more', 'Continua a leggere');
+	l::set('evaluate', 'Valutare');
 	l::set('pdf-article', "Scarica l'articolo");
 	l::set('pdf-evaluation', 'Scarica la valutazione');
 
 	// kit path single
 	l::set('related-kits', 'Schede kit inerenti');
 	l::set('related-resources', 'Risorse inerenti');
-
-
-	// footer
 
 	// header
 	l::set('mci', 'mediazione cultura incusione');

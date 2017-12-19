@@ -60,6 +60,11 @@
 					<?php echo $article->content()->kt() ?>
 				</div>
 			<?php endforeach ?>
+				<div class="section-h-line"></div>
+				<div class="section-container evaluate">
+					<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
+					<?php echo page()->parent()->verify()->kt() ?>
+				</div>
 			<!-- end: CONTENT -->
 
 			<!-- PDF of the article -->
@@ -69,7 +74,6 @@
 				</div>
 			<?php endif ?>
 			</div>
-
 
 		</article>
 
