@@ -141,7 +141,8 @@ window.onload = function() {
 
 
     //***** method 2:
-    /*
+
+	/*
 
     var figures_array = $('figure').nextAll('figure');
 
@@ -153,5 +154,28 @@ window.onload = function() {
 
     */
 
+
 };
+
+
+//var index_el = $("#index_menu");
+
+//console.log(".offset().top : " + index_el.offset().top);
+
+console.log($(window).scrollTop());
+
+document.addEventListener('scroll', function(e) {
+
+	/*
+	if( $(window).scrollTop() > index_el.offset().top ) {
+		index_el.addClass("index-fixed");
+	} else {
+		index_el.removeClass("index-fixed");
+	}
+	*/
+
+	console.log("ciao");
+
+}, true);
+
 

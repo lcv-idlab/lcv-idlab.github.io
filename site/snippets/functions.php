@@ -1,17 +1,17 @@
 <?php
 
 function shortstring($text, $maxchar, $end='...') {
-    if (strlen($text) > $maxchar || $text == '') {
-        $words = preg_split('/\s/', $text);      
+    if (mb_strlen($text) > $maxchar || $text == '') {
+        $words = preg_split('/[\s]+/u', $text);      
         $output = '';
         $i      = 0;
         while (1) {
-            $length = strlen($output)+strlen($words[$i]);
+            $length = mb_strlen($output) + mb_strlen($words[$i]);
             if ($length > $maxchar) {
                 break;
             } 
             else {
-                $output .= " " . $words[$i];
+                $output .= ' ' . $words[$i];
                 ++$i;
             }
         }

@@ -278,6 +278,22 @@
 					}
 				}
 
+				figcaption {
+					@extend %light-weight;
+				}
+
+				.simple-list {
+
+					li {
+						margin-bottom: 0.4rem;
+						margin-top: 0;
+					}
+				}
+
+				.simple-list + p {
+					margin-top: 2rem;
+				}
+
 				.two-columns {
 					@include span-columns(4 of 8);
 
@@ -288,6 +304,17 @@
 					img {
 						max-width: 100%;
 						margin: 0;
+					}
+				}
+
+				.one-column {
+					@include span-columns(8 of 8);
+					margin-bottom: 2rem;
+
+					img {
+						max-width: 100%;
+						margin: 0;
+						padding: 5% !important;
 					}
 				}
 

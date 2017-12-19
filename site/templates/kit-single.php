@@ -34,7 +34,7 @@
 
 			<!-- INDEX -->
 			<aside>
-				<div>
+				<div id="index_menu">
 					<h2>
 						<?php echo l::get('index') ?>
 					</h2>

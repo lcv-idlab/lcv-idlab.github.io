@@ -54,18 +54,5 @@ Docs:
 
 - 
   button_label: Documento completo
-  file: >
-    attivita-culturali-e-artistiche-della-svizzera-italiana.pdf
+  file: report-interviste-approfondite.pdf
   main_doc: "1"
-- 
-  button_label: Abstract auf Deutsch
-  file: abstract-indagine-preliminare-ted.pdf
-  main_doc: "0"
-- 
-  button_label: Abstract en Français
-  file: abstract-indagine-preliminare-fr.pdf
-  main_doc: "0"
-- 
-  button_label: Abstract in English
-  file: abstract-indagine-preliminare-ingle.pdf
-  main_doc: "0"

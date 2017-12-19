@@ -29,13 +29,6 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-/*
- * Use markdown instahed of kirbytext
- */
-
-
-c::set('panel.kirbytext', true);
-
 
 /*
  * Language setup
@@ -72,3 +65,8 @@ c::set('languages', array(
 
 // automatically detect the language
 //c::set('language.detect', true);
+
+// Activate extra markdown features
+// https://michelf.ca/projects/php-markdown/extra/
+
+c::set('markdown.extra', true);
