@@ -168,9 +168,12 @@ html {
 
 %main-logo {
 	@extend %bold-weight;
-	font-size: 3.375rem;
 	font-size: 2.2rem;
 	color: color(black);
+
+	@media screen and (max-width: $bp-small) {
+		font-size: 2rem;
+	}
 
 	&:link, &:hover, &:visited, &:active {
 		color: color(black);

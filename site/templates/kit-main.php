@@ -12,18 +12,6 @@
 			</div>
 		</header>
 
-		<!-- temp for reference ...
-
-		<nav id="categories-nav">
-			<ul>
-				<?php foreach (page()->children() as $cat): ?>
-					<a href="#<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>" class="<?php echo str_replace(' ', '-', strtolower($cat->title())) ?>"><li><span><?php echo ucfirst($cat->title()) ?></span></li></a>
-				<?php endforeach ?>
-			</ul>
-		</nav>
-
-		-->
-
 		<div id="categories-container">
 
 		<?php foreach ($page->children() as $cat): ?>
@@ -52,7 +40,7 @@
 							<a href="<?php echo $kit->url() ?>">	
 								<?php if($kit->icon()->isNotEmpty()): ?>
 								<div class="kit-icon">
-									<img src="<?php echo $kit->image($kit->icon())->url() ?>">
+									<img src="<?php echo $kit->image($kit->icon())->url() ?>" alt="<?php ucfirst($kit->title()) ?>">
 									<?php else: ?>
 										<img src="<?php echo ($kirby->urls()->assets()) ?>/icons/empty-kit-icon.png">
 									<?php endif ?>

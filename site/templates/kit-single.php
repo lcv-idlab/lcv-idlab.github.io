@@ -4,7 +4,7 @@
 	<main id="kit-single" class="<?php echo page()->parent()->title('it') ?>">
 		<div id="title-bar">
 			
-			<a href="/<?php echo $site->language() ?>/kit" class="back-button"><?php echo "< ".l::get('back')?></a>
+			<a href="/<?php echo $site->language() ?>/kit" class="back-button">&lt; <?php echo l::get('back')?></a>
 
 			<header>
 				<div id="kit-title">
@@ -34,6 +34,7 @@
 
 			<!-- INDEX -->
 			<aside>
+				&nbsp;
 				<div id="index_menu">
 					<h2>
 						<?php echo l::get('index') ?>
@@ -64,6 +65,7 @@
 				<div class="section-container evaluate">
 					<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
 					<?php echo page()->parent()->verify()->kt() ?>
+					<div id="article_end"></div>
 				</div>
 			<!-- end: CONTENT -->
 

@@ -107,9 +107,25 @@
 		@include pads(0 2 7 2);
 
 		aside {
+			@include span-columns(4);
 
-			> div {
-				@include span-columns(4);
+			#index_menu{
+				&.fix {
+					@include span-columns(4);
+					position: fixed;
+					top: 2rem;
+					width: 26.7%;
+					max-width: 359px;
+				}
+				&.absolute {
+					position: absolute;
+					width: 26.7%;
+					max-width: 359px;
+				}
+
+				&.scollup {
+					
+				}
 
 				h2 {
 					@extend %back-button;

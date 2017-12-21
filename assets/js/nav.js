@@ -21,8 +21,6 @@ window.onload = function() {
 		}, false );
 	}
 
-
-
 	// sensible art workshop
 
 	var navToggleS = document.querySelector(".senseable-main-nav .senseable-menu-button");
@@ -140,42 +138,86 @@ window.onload = function() {
     })
 
 
-    //***** method 2:
 
-	/*
+    //--- KIT LATERAL INDEX FOLLOWING THE SCROLL ---//
 
-    var figures_array = $('figure').nextAll('figure');
+    var index = $('#index_menu');
+    var top_pos;
+    var end_pos;
+    var index_height;
+    var main_nav = $('.main-nav');
+	var main_nav_h = main_nav.height();
+	var scroll_top_pos = main_nav_h;
+	var last_scroll = 0;
+	var scrollup_val = 0;
+    indexPositionCalc();
 
-    console.log(figures_array);
+    function indexPositionCalc() {
+	    if(index.length) {
+			 index_height = index.height();
+			 top_pos = index.offset().top - main_nav_h;
+			 end_pos = $('#article_end').offset().top - index_height - main_nav_h - 36;
+			 // console.log("index_height: " + index_height + " top_pos: " + top_pos + " end_pos: " + end_pos);
+		}
+	}
 
-    $.each(figures_array, function(i, e) {
-    	console.log(e);
-    })
+	$(window).scroll(function(e) {
+		var scroll = $(window).scrollTop();
 
-    */
+		//if(scroll > main_nav_h) {
+			if(scroll > last_scroll) {	// scroll down
+				//main_nav.css({'top': -scroll });
+				//scroll_top_pos = main_nav_h;
+				main_nav.removeClass('scrollup');
+				$('main').removeClass('scrollup');
+				//$('#main').removeClass('scrollup');
+				scrollup_val = 0;
+			} else {	// scroll up
+				main_nav.addClass('scrollup');
+				$('main').addClass('scrollup');
+				//$('#main').addClass('scrollup');
+				scrollup_val = main_nav_h;
+				//main_nav.css({'top': ((scroll_top_pos <= 0) ? 0 : -(scroll_top_pos-=10)});
+			}
+			last_scroll = scroll;
+		//}
+
+		if(index.length) {
+			indexScroll(scroll);
+		}
+		
+	});
+
+	$(window).resize(function() {
+		index.css({ top: 0 });
+		index.removeClass();
+		indexPositionCalc();
+		$(window).scroll();
+	})
 
 
+	// index in kit single
+	function indexScroll(scroll) {
+		//console.log("scroll: " + scroll);
+
+		if(scroll > top_pos - 36 && scroll < end_pos) {		// 36 is 2rem form the top: 2rem in the scss
+			index.removeClass();
+			index.css({ 'top': scrollup_val + 36 });
+			index.addClass("fix");
+		} else if (scroll > end_pos) {
+			index.removeClass();
+			index.addClass("absolute");
+			index.css({ 'top': end_pos + scrollup_val + 36 });
+		} else {
+			index.css({ top: 0 });
+			index.removeClass();
+		}
+	}
+
+	
 };
 
 
-//var index_el = $("#index_menu");
 
-//console.log(".offset().top : " + index_el.offset().top);
-
-console.log($(window).scrollTop());
-
-document.addEventListener('scroll', function(e) {
-
-	/*
-	if( $(window).scrollTop() > index_el.offset().top ) {
-		index_el.addClass("index-fixed");
-	} else {
-		index_el.removeClass("index-fixed");
-	}
-	*/
-
-	console.log("ciao");
-
-}, true);
 
 

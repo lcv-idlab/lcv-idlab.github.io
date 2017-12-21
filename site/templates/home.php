@@ -1,12 +1,12 @@
 <?php snippet('header') ?>
 
-	<main>
+	<main id="main">
 
-		<h1 class="home-main-title desktop"><?php echo $site->subtitle()->html() ?></h1>
-		<h1 class="home-main-title mobile"><?php echo $site->second_title()->kt() ?></h1>
+		<h1 class="home-main-title desktop"><?php echo $site->subtitle() ?></h1>
+		<h1 class="home-main-title mobile"><?php echo $site->second_title() ?></h1>
 
 		<div id="home-top-content">
-			<h2><?php echo page()->main_subtitle()->kt() ?></h2>
+			<h2><?php echo page()->main_subtitle() ?></h2>
 		</div>
 
 		<section id="kit-part">
@@ -17,9 +17,9 @@
 					<div class="decoration-wrapper">
 
 						<div id="kit-list-icons">
-							<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="one">
-							<img src="/content/2-kit/1-comunicazione/2-design/design-inclusivo.png" id="two">
-							<img src="/content/2-kit/3-orientation/1-guidare-il-visitatore/accompagnare-il-visitatore.png" id="three">
+							<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="one" alt="">
+							<img src="/content/2-kit/1-comunicazione/2-design/design-inclusivo.png" id="two" alt="">
+							<img src="/content/2-kit/3-orientation/1-guidare-il-visitatore/accompagnare-il-visitatore.png" id="three" alt="">
 						</div>
 
 
