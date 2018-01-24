@@ -24,22 +24,31 @@ Article:
 - 
   section_title: Proporre un servizio
   content: 'L’autonomia di visita del pubblico con disabilità visiva è molto variabile e dipende da diversi fattori quali per esempio la tipologia di problema visivo o il momento in cui la disabilità si è manifestata. È dunque importante che il visitatore sia messo in condizione di poter scegliere secondo le proprie esigenze e necessità se e da chi essere guidato nella visita al museo. Non si tratta dunque di offrire un accompagnamento sistematico, quanto piuttosto di proporre al pubblico un servizio su richiesta. Quando questo tipo di sostegno è disponibile, è necessario segnalarlo al pubblico di riferimento, (link: kit/comunicazione/relazione-con-il-pubblico#adattare-l’accoglienza text: comunicando l’informazione in maniera adeguata).'
+  option_type: one
 - 
   section_title: >
     Permettere l’utilizzo dei mezzi
     ausiliari
   content: 'È fondamentale consentire al pubblico con disabilità visiva l’(link: kit/comunicazione/relazione-con-il-pubblico#conoscere-le-necessit�-e-le-aspettative text: utilizzo dei mezzi ausiliari) in grado anche di facilitare la fruizione del museo e delle opere. Nei casi in cui sussista un reale pericolo per la conservazione delle opere esposte (es. quando posizionate a terra e non protette), si raccomanda di segnalare la problematica conservativa ai visitatori. Offrire un accompagnamento lungo il percorso di visita è in questi casi ancor più decisivo: oltre a orientare il pubblico favorendone la mobilità, permette di assicurare una corretta conservazione delle opere (es. orientando anche l’eventuale cane guida accompagnante il visitatore cieco). In ogni caso, è determinante trovare insieme al visitatore una soluzione in grado di favorire la fruizione delle opere e del museo.'
+  option_type: three
 - 
+  option_type: one
   section_title: Guidare e descrivere
+  content: 'Per guidare fisicamente il pubblico con disabilità visiva e farlo sentire in sicurezza, alcuni aspetti sono essenziali:'
+- 
+  option_type: three
+  section_title: Chiedere il tipo di contatto preferito
   content: |
-    Per guidare fisicamente il pubblico con disabilità visiva e farlo sentire in sicurezza, alcuni aspetti sono essenziali:
-    
-    * **Chiedere il tipo di contatto preferito** Per accompagnare fisicamente il visitatore è necessario fornirgli un punto di appoggio fisico su cui poter contare per evitare ostacoli e avanzare in maniera sicura. Molte persone preferiscono tenersi (e non essere tenuti) al braccio del proprio accompagnatore e camminare insieme fianco a fianco. Questo tipo di contatto è considerato il più comodo, veloce e discreto.
+    Per accompagnare fisicamente il visitatore è necessario fornirgli un punto di appoggio fisico su cui poter contare per evitare ostacoli e avanzare in maniera sicura. Molte persone preferiscono tenersi (e non essere tenuti) al braccio del proprio accompagnatore e camminare insieme fianco a fianco. Questo tipo di contatto è considerato il più comodo, veloce e discreto.
     
     Nel caso di gruppi con più visitatori con disabilità della vista, è consigliabile seguire primariamente le persone cieche, essendo quelle ipovedenti generalmente più autonome negli spostamenti. Nel caso di gruppi con più persone cieche, esiste anche la possibilità di avanzare in fila indiana con la mano destra appoggiata sulla spalla della persona davanti: questo tipo di spostamento limita però la libertà di movimento.
     
     È preferibile dunque prevedere un accompagnatore per ogni persona cieca o fortemente ipovedente in modo da poter offrire un sostegno personalizzato.
-    * **Descrivere lo spazio e il percorso** Per far sentire il visitatore con disabilità della vista in sicurezza e a proprio agio si suggerisce di descrivere a parole e man mano che si avanza, lo spazio in cui ci si trova oltre che il percorso e la strada che si stanno seguendo, anticipando eventuali ostacoli, contesti e situazioni.
+- 
+  option_type: three
+  section_title: Descrivere lo spazio e il percorso
+  content: |
+    Per far sentire il visitatore con disabilità della vista in sicurezza e a proprio agio si suggerisce di descrivere a parole e man mano che si avanza, lo spazio in cui ci si trova oltre che il percorso e la strada che si stanno seguendo, anticipando eventuali ostacoli, contesti e situazioni.
     
     Per operare una descrizione adeguata, è possibile tenere conto delle indicazioni da osservare per (link: kit/opere/descrizione text: descrivere le opere d’arte). La descrizione in questo caso è però intesa per essere funzionale alla mobilità e all’orientamento del visitatore; per questo è bene fornire in maniera prioritaria informazioni oggettive e restare a disposizione per rispondere a eventuali domande e curiosità relative alle sensazioni percepibili nello spazio attraverso gli altri sensi.
     

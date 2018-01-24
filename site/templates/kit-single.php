@@ -43,6 +43,7 @@
 					<?php foreach (page()->article()->toStructure() as $article): ?>
 						<li><a href="#<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></a></li>
 					<?php endforeach ?>
+						<li><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
 					</ul>
 				</div>
 			</aside>
@@ -53,20 +54,56 @@
 			</header>
 
 			<!-- CONTENT -->
+
+			<!-- NEW STRUCTURE -->
+
 			<div id="single-article-container">
-			<?php foreach (page()->article()->toStructure() as $article): ?>
-				<div class="section-h-line"></div>
-				<div class="section-container">
-					<h2  id="<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></h2>
-					<?php echo $article->content()->kt() ?>
-				</div>
+			<?php $prev = ""; foreach (page()->article()->toStructure() as $item): ?>
+
+				<?php if($item->option_type() == "one"): ?>
+
+					<?php if($prev == "three") echo "</ul>"; ?>
+
+					<?php if($prev != "") echo "</div>"; ?> <!-- closing the "section-container" div -->
+
+					<div class="section-h-line"></div>
+					<div class="section-container">
+					<h2 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h2>
+					<?php echo $item->content()->kt() ?>
+
+				<?php elseif($item->option_type() == "two"): ?>
+
+					<?php if($prev == "three") echo "</ul>"; ?>
+				
+					<h3 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h3>
+					<?php echo $item->content()->kt() ?>
+
+				<?php elseif($item->option_type() == "three"): ?>
+
+					<?php if($prev != "three"): ?>
+						<?php echo "<ul class='content-list'>" ?>
+					<?php endif ?>
+
+						<li>
+							<div class="bullet"></div>
+							<h4 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h4>
+							<?php echo $item->content()->kt() ?>
+						</li>
+
+				<?php endif ?>
+				<?php $prev = $item->option_type() ?>
+
 			<?php endforeach ?>
-				<div class="section-h-line"></div>
-				<div class="section-container evaluate">
-					<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
-					<?php echo page()->parent()->verify()->kt() ?>
-					<div id="article_end"></div>
-				</div>
+
+			</div>
+
+			<!-- evaluation block -->
+			<div class="section-h-line"></div>
+			<div class="section-container evaluate">
+				<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
+				<?php echo page()->parent()->verify()->kt() ?>
+			</div>
+
 			<!-- end: CONTENT -->
 
 			<!-- PDF of the article -->

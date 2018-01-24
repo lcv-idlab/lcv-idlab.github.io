@@ -201,33 +201,45 @@
 				}
 
 				ul {
-					display: block;
-
-					list-style: square;
-
-					//text-indent: -1rem;
+					list-style-type: square;
 					padding-left: 1rem;
 
 					li + li {
-						margin-top: 3rem;
+						padding-top: 0.5rem;
+					}
+
+				}
+
+				ul.content-list {
+					padding-left: 0;
+
+					li + li {
+						padding-top: 3rem;
 					}
 
 					li {
-						//display: block;
+						margin-left: 1rem;
+						list-style-type: none;
 
-						strong:first-child {
-							//font-size: 1.2rem;
-							display: block;
-							//padding-left: 1rem;
+						.bullet {
+							width: 0.37rem;
+							height: 0.37rem;
+							position: relative;
+							//right: -1rem;
+							top: 0.9rem;
+							left: -1rem;
+							background-color: color(black);
+						}
+
+						h4 {
+							@extend %medium-weight;
 							margin-bottom: 1rem;
 						}
 
-						img {
-							padding-left: 1rem;
-
-						}
-
 						@extend .text-link;
+
+
+
 					}
 				}
 
@@ -236,39 +248,6 @@
 					margin-bottom: 2rem;
 
 				}
-
-				/*
-				blockquote {
-					@extend %blockquote;
-
-					margin-top: 3rem;
-					margin-bottom: 3rem;
-					text-align: center;
-					position: relative;
-
-					p {
-						width: 75%;
-						margin-right: auto;
-						margin-left: auto;
-
-						&:after {
-							content: '\201D';
-							font-size: 3rem;
-							position: absolute;
-							bottom: -1rem;
-							right: 2rem;
-						}
-
-						&:before {
-							content: "\201C";
-							font-size: 3rem;
-							position: absolute;
-							top: 0;
-							left: 2rem;
-						}
-					}
-				}
-				*/
 
 
 				// make everything flot to stay in the flow
@@ -293,6 +272,11 @@
 
 					a {
 						display: block;
+					}
+
+					a:link, a:hover, a:visited, a:active {
+						text-decoration: none;
+						border: 0 !important;
 					}
 				}
 

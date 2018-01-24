@@ -25,7 +25,9 @@ Article:
     (image: unitas-logo.jpg link: http://www.unitas.ch target: _blank alt: Logo Unitas class: two-columns target: _blank)
     
     (image: sbv-fsa-logo.jpg link: http://www.sbv-fsa.ch target: _blank alt: Logo SBV-FSA class: two-columns target: _blank)
+  option_type: one
 - 
+  option_type: one
   section_title: Conoscere le necessità e le aspettative
   content: |
     **Conoscere necessità e aspettative del pubblico di riferimento è molto importante per implementare soluzioni efficaci. È dunque essenziale che tutto il personale e, in particolare, quello a contatto con l’utenza (personale di accoglienza, di sala, di sicurezza, mediatori) sia sensibilizzato rispetto ai diritti riconosciuti e alle necessità delle persone con disabilità visive. Per farlo, oltre a entrare in contatto con le organizzazioni di riferimento e con le persone con problemi di vista, è consigliabile informarsi partecipando a momenti d’incontro mirati, oltre che consultando la documentazione già reperibile. **
@@ -37,31 +39,96 @@ Article:
     
     (image: unione-centrale-svizzera-per-il-bene-dei-ciechi.jpg  alt: Logo unione centrale svizzera per il bene dei ciechi class: two-columns link: https://www.ucbc.ch/szb/ target: _blank)
     
-    
-    
     Per le istituzioni museali è fondamentale conoscere innanzitutto alcuni aspetti preliminari che caratterizzano il pubblico con disabilità della vista:
-    
-    * **Numeri** Nonostante la mancanza di statistiche precise, l’UCBC ha potuto stimare che in Svizzera le persone con disabilità visive siano ca. 320'000. La stima precisa è resa difficoltosa dal fatto che chi ha un problema di vista non deve necessariamente segnalarlo a organizzazioni o autorità. È possibile raccogliere l’informazione unicamente quando le persone inoltrano richieste di prestazioni. È un dato acquisito però che i problemi di vista colpiscono maggiormente le persone sopra i 40 anni e che la percentuale di persone con disabilità della vista tende ad aumentare con l’età.
-    * **Problemi visivi **Le forme di disabilità visiva sono numerose ed estremamente diversificate. Ogni persona “non vede” in modo unico e specifico. Il pubblico con disabilità visiva può essere però diviso in due grandi categorie: le persone cieche, che non sono in grado di vedere, e le persone ipovedenti, che riescono ancora a vedere qualcosa con l’aiuto di ausili specifici. Altre due distinzioni possono inoltre essere fatte in funzione del momento in cui la disabilità si è manifestata. Le persone cieche dalla nascita (che sono poche e in diminuzione), non hanno ricordi di natura visiva. Quelle che invece lo sono diventate nel corso della vita possono far capo a ricordi visivi. Per chi è ipovedente dalla nascita, i ricordi visivi sono frammentati, mentre per chi lo è diventato in età avanzata (situazione più comune e in aumento), i ricordi visivi sono spesso ancora ben saldi nella mente. È importante conoscere queste distinzioni, per poter implementare soluzioni trasversali flessibili in grado di adattarsi al pubblico.
-    * **Uso dei sensi** Per una persona che non può affidarsi alla vista per orientarsi o percepire informazioni, utilizzare gli altri sensi non è un’opzione ma una necessità. L’udito, il tatto, l’olfatto e il gusto, sono i sensi a disposizione per percepire il mondo circostante devono poter essere attivati anche per fruire del museo e delle opere d’arte. Per le persone ipovedenti, inoltre, poter sfruttare il proprio residuo visivo è importante tanto quanto integrarlo ad altre percezioni sensoriali.
-    * **Principali mezzi ausiliari** In un mondo dove la vista ha il monopolio, le persone con disabilità visiva utilizzano degli ausili in grado di guidarle e permetter loro di utilizzare i sensi a disposizione per percepire le informazioni. Che si tratti di sostegni all’orientamento e alla mobilità (es. accompagnatore vedente, cane guida, bastone bianco), di ausili informatici per accedere alle informazioni in rete (es. lettori vocali) o di soluzioni in grado di sfruttare il proprio residuo visivo (es. macrolettori, ingrandimenti attraverso lenti o fotografie scattate con il proprio telefonino, pile elettriche in grado di aumentare l’intensità luminosa, possibilità di avvicinarsi molto all’oggetto da vedere), essi devono poter essere utilizzati senza limitazioni per fruire del museo e delle sue opere come previsto dalla legge federale sull’eliminazione di svantaggi nei confronti dei disabili ((link: https://www.admin.ch/opc/it/classified-compilation/20002658/index.html text: LDis target: _blank)).
+- 
+  option_type: three
+  section_title: Numeri
+  content: "Nonostante la mancanza di statistiche precise, l’UCBC ha potuto stimare che in Svizzera le persone con disabilità visive siano ca. 320'000. La stima precisa è resa difficoltosa dal fatto che chi ha un problema di vista non deve necessariamente segnalarlo a organizzazioni o autorità. È possibile raccogliere l’informazione unicamente quando le persone inoltrano richieste di prestazioni. È un dato acquisito però che i problemi di vista colpiscono maggiormente le persone sopra i 40 anni e che la percentuale di persone con disabilità della vista tende ad aumentare con l’età."
+- 
+  option_type: three
+  section_title: Problemi visivi
+  content: 'Le forme di disabilità visiva sono numerose ed estremamente diversificate. Ogni persona “non vede” in modo unico e specifico. Il pubblico con disabilità visiva può essere però diviso in due grandi categorie: le persone cieche, che non sono in grado di vedere, e le persone ipovedenti, che riescono ancora a vedere qualcosa con l’aiuto di ausili specifici. Altre due distinzioni possono inoltre essere fatte in funzione del momento in cui la disabilità si è manifestata. Le persone cieche dalla nascita (che sono poche e in diminuzione), non hanno ricordi di natura visiva. Quelle che invece lo sono diventate nel corso della vita possono far capo a ricordi visivi. Per chi è ipovedente dalla nascita, i ricordi visivi sono frammentati, mentre per chi lo è diventato in età avanzata (situazione più comune e in aumento), i ricordi visivi sono spesso ancora ben saldi nella mente. È importante conoscere queste distinzioni, per poter implementare soluzioni trasversali flessibili in grado di adattarsi al pubblico.'
+- 
+  option_type: three
+  section_title: Uso dei sensi
+  content: >
+    Per una persona che non può affidarsi
+    alla vista per orientarsi o percepire
+    informazioni, utilizzare gli altri sensi
+    non è un’opzione ma una necessità.
+    L’udito, il tatto, l’olfatto e il
+    gusto, sono i sensi a disposizione per
+    percepire il mondo circostante devono
+    poter essere attivati anche per fruire
+    del museo e delle opere d’arte. Per le
+    persone ipovedenti, inoltre, poter
+    sfruttare il proprio residuo visivo è
+    importante tanto quanto integrarlo ad
+    altre percezioni sensoriali.
+- 
+  option_type: three
+  section_title: Principali mezzi ausiliari
+  content: |
+    In un mondo dove la vista ha il monopolio, le persone con disabilità visiva utilizzano degli ausili in grado di guidarle e permetter loro di utilizzare i sensi a disposizione per percepire le informazioni. Che si tratti di sostegni all’orientamento e alla mobilità (es. accompagnatore vedente, cane guida, bastone bianco), di ausili informatici per accedere alle informazioni in rete (es. lettori vocali) o di soluzioni in grado di sfruttare il proprio residuo visivo (es. macrolettori, ingrandimenti attraverso lenti o fotografie scattate con il proprio telefonino, pile elettriche in grado di aumentare l’intensità luminosa, possibilità di avvicinarsi molto all’oggetto da vedere), essi devono poter essere utilizzati senza limitazioni per fruire del museo e delle sue opere come previsto dalla legge federale sull’eliminazione di svantaggi nei confronti dei disabili ((link: https://www.admin.ch/opc/it/classified-compilation/20002658/index.html text: LDis target: _blank)).
     
     Per ciò che concerne l’ambito culturale e artistico, e in particolare quello dei musei d’arte in Ticino, le necessità e le aspettative del pubblico di riferimento sono state indagate nel quadro del progetto MCI e sintetizzate in due rapporti liberamente accessibili:
-    
     
     (image: esperienze-museali-01.jpg  alt: Esperienza museale class: two-columns link: /risorse/indagine-preliminare)
     
     (image: esperienze-museali-02.jpg  alt: Esperienza museale class: two-columns link: /risorse/indagine-in-profondita)
 - 
+  option_type: one
   section_title: Adattare l’accoglienza
   content: |
     **Adattare l’accoglienza in funzione delle necessità del pubblico è il punto di partenza per favorire l’accessibilità del museo. In particolare fornire prima della visita tutte le informazioni necessarie ai visitatori, permette alle persone con disabilità visiva di sentirsi coinvolte e benvenute al museo. Per farlo, è in particolare necessario comunicare in maniera efficace sia attraverso il sito (link: /kit/comunicazione/website text: **web**) del museo che di persona. Inoltre, per far sentire il pubblico a proprio agio e in sicurezza, si consiglia di mettere a disposizione una persona che possa, se necessario, (link: /kit/orientation/guidare-il-visitatore text: accompagnare) fisicamente le persone cieche e ipovedenti attraverso il museo, (link: /kit/opere/descrizione text: descrivere)  loro le opere e gli spazi oltre che guidarle nell’ (link: /kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: esplorazione tattile) delle opere, quando è data la possibilità di toccarle.**
     
     Le informazioni da fornire prima della visita:
-    
-    * **Pratiche** È importante fornire prima della visita tutte le informazioni pratiche necessarie: tariffe d’entrata ed eventuali agevolazioni tariffarie, condizioni d’ingresso, orari, esposizioni in corso, attività di mediazione in programma, eventuali divieti (es. divieto di portare borse o zaini nelle sale espositive, ecc.), ostacoli, questioni legate alla sicurezza delle opere (conservazione e assicurazione), ecc.
-    * **Orientative** È fondamentale spiegare la situazione degli spazi nell’edificio (sale espositive, caffetteria, guardaroba, ascensore, scale, rampe, servizi igienici, shop, ecc.) nonché i modi per raggiungerli. È importante segnalare l’eventuale presenza di barriere architettoniche e/o di ostacoli alla mobilità potenzialmente pericolosi per le persone con disabilità visiva (es. presenza di porte di vetro, gradini non segnalati, mobilio in zone di passaggio, ecc.)
-    * **Agevolative** Quando presenti, è essenziale segnalare le facilitazioni atte a favorire la mobilità e all’orientamento, l’accesso alle informazioni e alle opere d’arte (personale di riferimento, sgabelli portatili, sedie a rotelle, planimetrie in rilievo, segnaletica accessibile, audioguide e altro materiale informativo, sito web e newsletter accessibile, possibilità di toccare le opere originali e/o riproduzioni, possibilità di utilizzare ausili specifici, offerta di mediazione culturale accessibile, ecc.). Essere accompagnati da una persona vedente, per le persone con disabilità visive è spesso anche una necessità oltre che un piacere. Per questo si consiglia inoltre di valutare la possibilità di introdurre eventuali agevolazioni tariffarie dedicate gli accompagnatori.
+- 
+  option_type: three
+  section_title: Pratiche
+  content: 'È importante fornire prima della visita tutte le informazioni pratiche necessarie: tariffe d’entrata ed eventuali agevolazioni tariffarie, condizioni d’ingresso, orari, esposizioni in corso, attività di mediazione in programma, eventuali divieti (es. divieto di portare borse o zaini nelle sale espositive, ecc.), ostacoli, questioni legate alla sicurezza delle opere (conservazione e assicurazione), ecc.'
+- 
+  option_type: three
+  section_title: Orientative
+  content: >
+    È fondamentale spiegare la situazione
+    degli spazi nell’edificio (sale
+    espositive, caffetteria, guardaroba,
+    ascensore, scale, rampe, servizi
+    igienici, shop, ecc.) nonché i modi per
+    raggiungerli. È importante segnalare
+    l’eventuale presenza di barriere
+    architettoniche e/o di ostacoli alla
+    mobilità potenzialmente pericolosi per
+    le persone con disabilità visiva (es.
+    presenza di porte di vetro, gradini non
+    segnalati, mobilio in zone di passaggio,
+    ecc.)
+- 
+  option_type: three
+  section_title: Agevolative
+  content: >
+    Quando presenti, è essenziale segnalare
+    le facilitazioni atte a favorire la
+    mobilità e all’orientamento,
+    l’accesso alle informazioni e alle
+    opere d’arte (personale di
+    riferimento, sgabelli portatili, sedie a
+    rotelle, planimetrie in rilievo,
+    segnaletica accessibile, audioguide e
+    altro materiale informativo, sito web e
+    newsletter accessibile, possibilità di
+    toccare le opere originali e/o
+    riproduzioni, possibilità di utilizzare
+    ausili specifici, offerta di mediazione
+    culturale accessibile, ecc.). Essere
+    accompagnati da una persona vedente, per
+    le persone con disabilità visive è
+    spesso anche una necessità oltre che un
+    piacere. Per questo si consiglia inoltre
+    di valutare la possibilità di
+    introdurre eventuali agevolazioni
+    tariffarie dedicate gli accompagnatori.
 
 ----
 

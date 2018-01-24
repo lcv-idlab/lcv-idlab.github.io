@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'Esempio di diagramma materico.'

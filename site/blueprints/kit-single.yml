@@ -7,7 +7,7 @@ options:
   preview: true
   status: true
   url: true
-  template: true
+  template: false
 
 // subpages settings
 pages: false
@@ -34,9 +34,18 @@ fields:
     label: Articolo
     type: structure
     entry:  >
+      <i>{{option_type}}</i><br>
       <b>{{section_title}}</b>
       <p>{{content}}</p>
     fields:
+      option_type:
+        label: Tipo di contenuto
+        info: Seleziona il tipo di contenuto da aggiungere
+        type: radio
+        options:
+          one: Capitolo principale
+          two: Sottocapitolo
+          three: Titolo punto lista
       section_title:
         label: Titolo della sezione
         type: text
