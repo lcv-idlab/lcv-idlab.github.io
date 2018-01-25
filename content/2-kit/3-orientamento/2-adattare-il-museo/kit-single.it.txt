@@ -10,7 +10,7 @@ Se un’adeguata (link: kit/comunicazione/relazione-con-il-pubblico text: accogl
 
 Per le persone cieche o fortemente ipovedenti, sebbene tali accorgimenti possono favorire l’orientamento e la mobilità, tuttavia non risolvono completamente il problema: in questo caso agire anche sul fronte umano è essenziale.
 
-Per favorire una fruizione autonoma delle opere d’arte al pubblico ipovedente è necessario integrare degli accorgimenti ambientali (link: kit/opere/incontro-diretto#adattare-l’allestimento  text: accorgimenti ambientali) ancor più specifici.
+Per favorire una fruizione autonoma delle opere d’arte al pubblico ipovedente è necessario integrare degli (link: kit/opere/incontro-diretto#adattare-l’allestimento  text: accorgimenti ambientali) ancor più specifici.
 
 ----
 
@@ -113,13 +113,12 @@ Article:
   content: |
     Se per le persone vedenti visitare una mostra può essere stancante, per le persone con problemi di vista questa probabilità è certamente maggiore.
     È bene dunque predisporre sedute a disposizione del pubblico lungo tutto il percorso di visita, sia negli spazi comuni che in quelli espositivi e segnalare al pubblico la loro presenza e collocazione.
+    
+    Le sedute devono essere facilmente identificabili anche per non ostacolare il passaggio.
 - 
   option_type: three
   section_title: Sonoro
-  content: |
-    Per favorire l’orientamento negli spazi, è importante ottimizzare le condizioni (link: kit/opere/incontro-diretto#adattare-l’allestimento text: sonore) evitando rumori e suoni disturbanti e non necessari alla visita (es. deumidificatori, riscaldamenti, ecc.).
-    
-    Le sedute devono essere facilmente identificabili anche per non ostacolare il passaggio.
+  content: 'Per favorire l’orientamento negli spazi, è importante ottimizzare le condizioni (link: kit/opere/incontro-diretto#adattare-l’allestimento text: sonore) evitando rumori e suoni disturbanti e non necessari alla visita (es. deumidificatori, riscaldamenti, ecc.).'
 
 ----
 

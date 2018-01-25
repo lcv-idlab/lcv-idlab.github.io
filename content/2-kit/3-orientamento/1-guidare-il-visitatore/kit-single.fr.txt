@@ -1,0 +1,86 @@
+Title: Accompagner le visiteur
+
+----
+
+Description: 
+
+Pour les visiteurs aveugles, le fait de disposer d’une personne voyante pour les accompagner physiquement sur le parcours de visite n’est pas seulement un plaisir, mais aussi une nécessité.
+
+Pour leur propre sécurité et celles des œuvres exposées, et pour rendre la visite plus agréable, la plupart des personnes malvoyantes préfèrent aussi être guidées.
+Pour favoriser l’indépendance des personnes ayant un handicap visuel et éviter qu’elles doivent systématiquement dépendre de la disponibilité de connaissances, amis, parents ou bénévoles pour visiter le musée, il est conseillé de mettre à disposition une personne qui, sur demande, puisse accompagner physiquement les visiteurs, leur  (link: kit/opere/descrizione text: décrire ) les œuvres et les espaces du musée et les guider dans l’(link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: exploration tactile) des œuvres – quand il est permis de les toucher.
+
+Pour ce faire, il est fondamental que le personnel du musée ait été (link: kit/comunicazione/relazione-con-il-pubblico text: sensibilisé) de façon appropriée.
+
+Pour favoriser davantage encore l’autonomie de visite des personnes malvoyantes, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’(link: kit/orientation/adattare-il-museo#elementi-d'arredo text: l’ameublement des lieux) e à l'(link: kit/opere/incontro-diretto#adattare-l’allestimento text: agencement des expositions).
+
+----
+
+Icon: accompagnare-il-visitatore.png
+
+----
+
+Article: 
+
+- 
+  section_title: Proposer un service
+  content: >
+    L’autonomie de visite du public
+    handicapé visuel est très variable et
+    dépend de différents facteurs, tels
+    que par exemple le type de problème
+    visuel ou le moment où le handicap
+    s’est manifesté. Il est donc
+    important que le visiteur puisse choisir
+    s’il souhaite être guidé lors de sa
+    visite au musée et par qui. Il ne
+    s’agit donc pas tant d’offrir un
+    accompagnement systématique que de
+    proposer au public un service à la
+    demande. Quand ce type de service est
+    disponible, il est nécessaire de le
+    signaler au public de référence, en
+    communiquant l’information de manière
+    adéquate.
+  option_type: one
+- 
+  section_title: >
+    Permettre l’utilisation des moyens
+    auxiliaires
+  content: "Il est fondamental de permettre au public handicapé visuel d'(link: kit/comunicazione/relazione-con-il-pubblico#conoscere-le-necessit�-e-le-aspettative text: d’utiliser des moyens auxiliaires) propres à lui faciliter l’accès au musée et aux œuvres. S’il existe un réel danger pour la conservation des œuvres exposées (p. ex. quand elles sont placées au sol et non protégées), il est conseillé de signaler ce problème aux visiteurs. Le fait d’offrir un accompagnement sur le parcours de visite est, dans ce cas, plus important encore : en plus d’orienter le public en favorisant sa mobilité, cela permet d’assurer la bonne conservation des œuvres (p. ex. en orientant également l’éventuel chien-guide qui accompagne le visiteur aveugle). Dans tous les cas, il est déterminant de trouver, avec le visiteur, une solution en mesure de favoriser l’accès aux œuvres et au musée."
+  option_type: three
+- 
+  option_type: one
+  section_title: Guider et décrire
+  content: 'Pour guider physiquement le public handicapé visuel et lui permettre de se sentir en sécurité, un certain nombre d’aspects sont essentiels :'
+- 
+  option_type: three
+  section_title: Demander le type de contact préféré
+  content: |
+    Pour accompagner physiquement le visiteur, il est nécessaire de lui fournir un point d’appui physique sur lequel il puisse compter pour éviter les obstacles et avancer de manière sûre. De nombreuses personnes préfèrent se tenir (et non pas être tenues) au bras de leur accompagnateur et marcher côte à côte avec ce dernier. Ce type de contact est jugé le plus pratique, rapide et discret.
+    
+    Dans le cas de groupes comprenant plusieurs visiteurs ayant un handicap de la vue, il est conseillé de suivre en priorité les personnes aveugles, les malvoyants généralement plus autonomes dans les déplacements. Dans le cas de groupes comprenant plusieurs personnes aveugles, il est possible également d’avancer en file indienne, la main droite posée sur l’épaule de la personne située devant : ce type de déplacement, cependant, limite la liberté de mouvement.
+    
+    Il est donc préférable de prévoir un accompagnateur pour chaque personne aveugle ou fortement malvoyante, de manière à pouvoir offrir une assistance personnalisée.
+- 
+  option_type: three
+  section_title: Décrire l’espace et le parcours
+  content: |
+    Pour faire en sorte que le visiteur présentant un handicap de la vue se sente en sécurité et à l’aise, nous suggérons de décrire avec des mots et au fur et à mesure de la progression l’espace environnant, ainsi que le parcours et la voie suivis, en annonçant à l’avance les obstacles éventuels.
+    
+    Pour effectuer une description adéquate, il est possible de tenir compte des indications à observer pour (link: kit/opere/descrizione text: décrire les œuvres d’art).Cependant, la description, dans ce cas, a pour fonction d’assurer la mobilité et l’orientation du visiteur ; aussi convient-il de fournir en priorité des informations objectives et de se tenir à disposition pour répondre, le cas échéant, aux questions relatives aux sensations perceptibles dans l’espace au moyen des autres sens.
+    
+    Les indications permettant au visiteur de prévoir ce qui est sur le point de se produire ou qu’il va ressentir sont donc particulièrement importantes (p. ex. “Maintenant, nous empruntons les escaliers pour monter… la main courante se trouve sur le côté droit… c’est une première volée de dix marches, puis il faut tourner à droite, traverser un palier de deux mètres carrés environ, après quoi il y a une deuxième volée de dix marches”, ou bien “Maintenant nous prenons l’ascenseur et nous nous dirigeons vers le troisième étage où se trouve l’exposition permanente que nous allons visiter…”, ou encore “Maintenant nous nous trouvons dans le hall du musée : il s’agit d’une salle de vingt mètres carrés environ, au plancher en bois et aux murs blancs,  dont la lumière provient d’une grande fenêtre située sur notre droite. En continuant tout droit, nous entrons dans la première salle d’exposition… il y en aura 4 au total” etc.).
+    
+    (image: 01-accompagnare.jpg class: two-columns gallery spazio)
+    (image: 02-accompagnare.jpg class: two-columns gallery spazio)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: analisi-istituzionali

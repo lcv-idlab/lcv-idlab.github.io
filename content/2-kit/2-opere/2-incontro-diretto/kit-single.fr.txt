@@ -1,0 +1,168 @@
+Title: Favoriser la rencontre directe
+
+----
+
+Description: 
+
+Accéder au patrimoine artistique par ses propres sens permet de limiter le recours à la médiation en respectant en même temps les capacités du public.
+
+Les personnes malvoyantes peuvent être en mesure de percevoir les œuvres même visuellement si elles ont la possibilité de les observer de très près, d’utiliser les aides nécessaires pour améliorer la vue (loupes traditionnelles ou sur smartphone, lampes, etc.) et si les (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: nformations relatives aux œuvres) sont transmises de manière adéquate.
+
+Pour permettre l’approche et l’utilisation des aides et respecter en même temps les exigences institutionnelles (assurance et conservation), un (link: kit/orientation/guidare-il-visitatore text: accompagnement ) du personnel du musée est sans aucun doute la solution la plus appropriée.
+
+Lorsque cela n’est pas possible, il est fondamental de signaler les problèmes de conservation et d’assurance. En même temps, les gardiens de salle doivent être (link: kit/comunicazione/relazione-con-il-pubblico text: sensibilisés) aux besoins du public pour éviter des interventions et des interdictions non strictement nécessaires.
+
+Pour les personnes aveugles ou fortement malvoyantes, l’accès le plus direct à l’œuvre se fait à travers l’exploration tactile. L’exploration tactile des œuvres originales est considérée, pour les personnes malvoyantes aussi, l’une des solutions transversales les plus efficaces et émotionnellement puissantes pour accéder au patrimoine artistique. Permettre au public handicapé visuel de rencontrer les auteurs, s’ils sont encore en vie, peut favoriser davantage encore l’accès direct aux œuvres.
+
+----
+
+Icon: favorire-incontro-diretto.png
+
+----
+
+Article: 
+
+- 
+  option_type: one
+  section_title: Permettre l’approche
+  content: |
+    Pour des raisons de conservation et d’assurance, il est généralement défendu aux visiteurs de trop s’approcher des œuvres exposées. Dans certains cas, il peut y avoir des alarmes à capteur, des câbles en acier ou des estrades, parfois peu visibles et donc dangereux pour le public.
+    
+    Pour favoriser la perception des œuvres, il est fondamental de permettre au public malvoyant de s’approcher d’elles le plus possible, en dépassant largement les paramètres de distance fixés pour le public voyant. Quand il n’est pas possible de les éviter, il est important de rendre plus visibles les éléments destinés à tenir les visiteurs à distance (p. ex. en couvrant les câbles d’acier de tissu aux couleurs contrastantes).
+- 
+  option_type: one
+  section_title: Favoriser le recours aux aides
+  content: |
+    Le public doit pouvoir recourir à l’utilisation d’aides spécifiques telles que les loupes ou les lampes de poche pour parvenir à percevoir l’œuvre.
+    
+    Toutefois pour raisons de conservation et d’assurance, il est souvent défendu aux visiteurs de recourir aux aides existantes. L’utilisation de loupes traditionnelles nécessite en effet d’être très proche de l’œuvre, comme alternative, la photographier avec un smartphone pour pouvoir l’agrandir sur son écran pourrait être une solution valable.
+    
+    (image: 1-ascoltare-l-incisione.jpg class: two-columns gallery favorire)
+    (image: 2-interpretazioni-sonore.jpg class: two-columns gallery favorire)
+- 
+  option_type: one
+  section_title: Permettre l’exploration tactile
+  content: |
+    L’exploration tactile est souvent défendue au public de référence en raison d’autres exigences institutionnelles (assurance et conservation). La favoriser permettrait une approche de l’œuvre de manière directe et puissante en termes émotionnels.
+    
+    Toutefois, dans certains cas, le toucher peut ne pas être suffisant comme aide, d’une part parce que le niveau de la sensibilité tactile est très variable et dépend de différents facteurs (p. ex. le type de problème visuel ou le moment où le problème s’est manifesté), de l’autre parce que certaines œuvres, par exemple du fait de leur format, ne sont perceptibles que partiellement ou exigent une procédure déterminée pour être touchées (p. ex. pour les sculptures, les mains des visiteurs peuvent être déplacées du sommet à la base ou inversement, tandis que pour les œuvres bidimensionnelles, le déplacement doit se faire du premier plan à l’arrière-plan ou inversement).
+    
+    Pour ces raisons, il est fondamental que l’exploration tactile soit toujours  (link: kit/orientation/guidare-il-visitatore text: guidée ) et intégrée à la  (link: kit/opere/descrizione text: description): le fait de trouver une correspondance entre les perceptions sensorielles favorise la compréhension de l’œuvre. Le rapport même avec une seule œuvre peut exiger beaucoup de temps : l’effort d’attention et de concentration est élevé, car, en plus des descriptions, le visiteur doit élaborer les informations tactiles et transformer le tout en images mentales.
+    
+    En outre, s’arrêter sur un grand nombre d’œuvres peut créer de la confusion et des difficultés d’élaboration des informations. Pour répondre à la fois aux besoins des institutions et du public, il est conseillé d’opérer une sélection des œuvres. Le nombre d’œuvres varie également en fonction l’activité de médiation proposée : à titre indicatif, pour une visite guidée avec des compléments sensoriels d’une durée de deux heures, il est conseillé d’approfondir 4-5 œuvres.
+    
+    Dans la mesure où les  (link: kit/opere/descrizione#selezionare-le-opere  text: œuvres à sélectionner) pour l’exploration tactile doivent également être décrites de façon adéquate, les critères de sélection des œuvres à décrire valent également dans ce cas. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :
+- 
+  option_type: three
+  section_title: Format
+  content: |
+    Les œuvres tridimensionnelles et de petites dimensions se prêtent mieux que les autres à l’exploration tactile. Du fait de leur format réduit, elles peuvent être perçues dans leur ensemble, ce qui favorise la compréhension de la forme, la perception du matériau utilisé et la construction d’images mentales.
+    
+    Les œuvres tridimensionnelles de grand format peuvent être touchées pour en percevoir la matière et l’échelle dimensionnelle. Dans ce cas, pour permettre une compréhension globale de la forme de l’œuvre, il est nécessaire de développer des supports complémentaires tels que par exemple des reproductions en miniature.
+    
+    Pour les œuvres bidimensionnelles, qu’elles soient de grand ou de petit format, l’exploration tactile peut être intéressante pour en percevoir la matière, mais elle ne peut pas fournir d’éléments significatifs concernant l’objet de la représentation. Aussi est-il possible de développer des supports spécifiques en relief.
+- 
+  option_type: three
+  section_title: Conservation
+  content: |
+    Privilégier les œuvres qui, de par leur nature matérielle, peuvent être touchées à mains nues sans répercussions significatives sur la conservation. Réserver en outre cette possibilité seulement aux personnes ayant des problèmes de vue et s’assurer que tous les visiteurs se lavent et s’essuient soigneusement les mains avant la visite.
+    
+    Il est en outre possible de mettre à disposition du public du désinfectant et du papier absorbant  à utiliser immédiatement avant l’exploration tactile, afin d’éliminer la présence éventuelle de graisse ou de sueur sur les mains. Si certaines zones de l’œuvre sont particulièrement fragiles, il est important de le signaler aux visiteurs et de les inviter à diminuer la pression tactile sur ces points.
+    
+    Dans le cas de tableaux sur toile ou autres matériaux souples, le fait de placer un support rigide derrière la toile permet d’éviter des détériorations ou des déformations en cas de pression excessive. Pour les œuvres en bois, privilégier celles qui sont vernies ; en l’absence de vernis de protection, en effet, le contact de la peau avec la porosité du bois pourrait favoriser la détérioration rapide du matériau.
+    
+    En l’absence d’œuvres pouvant être touchées à mains nues, il est possible de mettre à disposition des gants : même si cela empêche la perception tactile de la matière et de la texture, la compréhension de la forme s’en trouve quand même facilitée.
+    
+    (image: 3-esplorazione-tattile.jpg class: two-columns gallery conservazione)
+    (image: 4-esplorazione-tattile.jpg class: two-columns gallery conservazione)
+- 
+  option_type: one
+  section_title: Adapter l’agencement
+  content: >
+    Intervenir de manière ponctuelle sur le
+    lieu d’exposition peut permettre aux
+    personnes malvoyantes de profiter des
+    œuvres de façon autonome.
+- 
+  option_type: three
+  section_title: Éclairage
+  content: |
+    Pour favoriser l’accès aux œuvres, un bon (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: éclairage des espaces) et des œuvres est très important, toutefois l’exposition à une source de lumière directe peut potentiellement causer des dommages aux œuvres exposées.
+    
+    Pour être perçues par le public de référence, il est cependant nécessaire qu’elles soient bien éclairées, de préférence au moyen d’une lumière diffuse. Cependant, il ne faut pas exagérer : le blanc absolu peut aussi créer un éblouissement qui gêne la vue résiduelle.
+    
+    Bien que les lumières directionnelles soient déconseillées (p. ex. les spots), quand elles sont présentes il est conseillé de les incliner à 60 degrés pour éviter des ombres sur les œuvres ou des reflets sur les surfaces, qui pourraient être une source de gêne et de confusion pour les visiteurs. Les lampes halogènes sont déconseillées précisément parce qu’elles produisent de forts contrastes. Un éclairage ciblé avec une lumière plus forte sur les objets exposés ou sur les vitrines d’exposition n’est fonctionnel que s’il est bien orienté.
+    
+    Il est important que le personnel chargé de la conservation évalue au cas par cas les aspects liés à l’éclairage des œuvres, en tenant compte à la fois de leur conservation et des besoins des visiteurs. Si l’éclairage n’est pas suffisant pour bien voir les œuvres, les personnes malvoyantes doivent pouvoir recourir à l’utilisation de lampes de poche.
+- 
+  option_type: three
+  section_title: Coloration des murs
+  content: "Pour la coloration des murs des espaces d’exposition, les suggestions  fournies pour les (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: espaces communs) communs s’appliquent. En plus d’aider l’orientation, le fait de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc favorise l’identification et la visibilité des œuvres exposées."
+- 
+  option_type: three
+  section_title: >
+    Positionnement des œuvres et des
+    informations correspondantes
+  content: |
+    Pour favoriser l’identification et l’observation des œuvres exposées, ainsi que la consultation des contenus disponibles dans l’espace d’exposition, tels que par exemple les introductions aux expositions et les légendes, il est conseillé de les (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilit�-della-comunicazione-visiva-per-le-persone-ipovedenti text: placer) à la hauteur des yeux ou un peu plus bas, car sinon, même si elles sont lisibles, elles ne sont pas perçues et identifiées par le public de référence.
+    
+    Comme pour les textes muraux, il est conseillé de maintenir la ligne médiane à 150 cm et de ne pas placer les œuvres à plus de 200 cm de hauteur. En ce qui concerne les légendes, la ligne médiane ne devrait pas être au-dessus de 140 cm ni au-dessous de 90 cm.
+    
+    Il est important, en outre, d’éviter la concentration d’œuvres ou de légendes et de prévoir une proximité suffisante entre légende et œuvre, aussi bien au mur que pour une vitrine, de façon à permettre une association rapide entre l’une et l’autre.
+- 
+  option_type: three
+  section_title: Sonore
+  content: |
+    En plus d’être important pour l’(link: kit/orientation/adattare-il-museo#elementi-d'arredo text: l’orientation), le fait de soigner les aspects sonores peut être fondamental pour favoriser la perception d’œuvres audio ou audiovisuelles. Quand ils sont présents, les éléments audio doivent être signalés de façon appropriée et, si possible, être accessibles au moyen d’écouteurs.
+    
+    Le son doit être clair, de bonne qualité, dépourvu de bruit de fond et synthétique dans l’exposition des contenus. Pour limiter des effets de réverbération et de mauvaise diffusion du son, nous suggérons d’utiliser des matériaux absorbants au sol et au plafond et des revêtements isolants sur les murs.
+    La quantité de décibels conseillée pour une salle va de 40 à 50 db. Quand il n’est pas possible de disposer d’écouteurs, régler toujours le volume sonore dans les salles de façon à ce qu’il ne soit ni trop invasif ni trop faible.
+- 
+  option_type: three
+  section_title: Verres et vitrines
+  content: >
+    Même si elles sont utiles à la
+    protection des œuvres, la présence de
+    surfaces de séparation transparentes,
+    même antireflets, rend l’observation
+    des œuvres difficile pour les personnes
+    malvoyantes ; les reflets et les
+    éblouissements causés par le verre
+    constituent de véritables obstacles à
+    la perception. Chaque fois que cela est
+    possible, il est donc important d’en
+    éviter l’utilisation.
+- 
+  option_type: one
+  section_title: Favoriser la rencontre avec les artistes
+  content: |
+    La rencontre entre les artistes et le public permet aux personnes ayant un handicap visuel de connaître la création artistique derrière les coulisses, aussi bien du point de vue de la pensée humaine, intime et personnelle (p. ex. à travers un dialogue parlé), que de celui de la production concrète de l’œuvre (p. ex. à travers des ateliers de création), éléments que seul l’auteur peut transmettre de façon complète et authentique.
+    
+    Les artistes peuvent en outre participer à la (link: kit/opere/mediazione-multisenoriale text: traduction sensorielle) de leurs œuvres visuelles, ce qui fait de l’interprétation de l’œuvre une œuvre à part entière, pouvant être perçue à travers les autres sens.
+    Le fait de favoriser des rencontres, des discussions, des ateliers créatifs et de les insérer dans une (link: kit/percorsi/visita-guidata-multisensoriale text: visite guidée multisensorielle) peut être très enrichissant aussi bien pour l’artiste, qui a l’occasion de comprendre comment son œuvre peut être perçue ou reproduite de façon différente, que pour le public de référence, qui peut expérimenter directement l’œuvre à l’aide de l’artiste lui-même.
+    
+    Il s’agit donc d’occasions exclusives pour saisir l’âme d’une œuvre et la “sentir” à travers les autres sens.
+    
+    Cependant, tous les artistes ne sont pas disposés à pratiquer la médiation culturelle.
+    Les artistes visuels s’occupent généralement de communiquer leur pensée par la réalisation d’œuvres visuelles, et ils préfèrent laisser à d’autres professionnels le développement de médiations supplémentaires (descriptions, traductions sensorielles, etc.).
+    Mais même dans ces cas-là, en fonction de leur disponibilité, il est possible de les impliquer en instaurant une collaboration avec le personnel chargé de la médiation, qui peut les assister dans la conception et dans la réalisation d’activité et de supports mutisensoriels spécifiques.
+    
+    Le fait de pouvoir visiter les espaces d’exposition en compagnie de l’artiste, en outre, augmente la probabilité de pouvoir toucher les œuvres originales, avec le consentement direct de l’auteur et de l’institution muséale.
+    
+    (image: 5-incontro-con-artista.jpg class: two-columns gallery artisti)
+    (image: 6-incontro-con-artista.jpg class: two-columns gallery artisti)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: toccare-l-arte
+- 
+  kit: un-atelier-alla-scoperta-dell-incisione

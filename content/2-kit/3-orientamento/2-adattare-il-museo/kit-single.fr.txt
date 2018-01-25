@@ -1,0 +1,141 @@
+Title: Adapter le musée
+
+----
+
+Description: 
+
+Pour favoriser l’orientation et en particulier la mobilité des visiteurs ayant des problèmes de vue dans les espaces muséaux, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’ameublement des lieux et à l’agencement des expositions.
+
+Si un (link: kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: kit/orientation/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
+
+Pour les personnes aveugles ou fortement malvoyantes, même si ces mesures peuvent favoriser l’orientation et la mobilité, elles ne résolvent pas entièrement le problème : dans ce cas, prévoir d’agir aussi sur la dimension humaine est essentiel.
+
+Pour favoriser un accès autonome du public malvoyant aux œuvres d’art, il est nécessaire d’adopter des (link: kit/opere/incontro-diretto#adattare-l’allestimento  text: mesures d’aménagement) plus spécifiques encore.
+
+----
+
+Icon: adattare-il-museo.png
+
+----
+
+Article: 
+
+- 
+  option_type: one
+  section_title: Elimination des obstacles
+  content: ""
+- 
+  option_type: three
+  section_title: Éléments d’ameublement
+  content: |
+    Pour favoriser la mobilité des visiteurs dans les espaces muséaux, il est fondamental d’éviter de placer du mobilier (p. ex. des vitrines) ou d’autres obstacles, surtout s’ils présentent des arêtes, dans les zones de passage. Ces éléments peuvent être particulièrement dangereux et provoquer des accidents. Quand il n’est pas possible de les enlever, il est essentiel de signaler les obstacles aux visiteurs.
+    
+    Il est possible de le faire soit vocalement, soit par l’application au sol d’une signalétique en relief perceptible par la vue (pour les personnes malvoyantes) ou le toucher (en utilisant la sensibilité des pieds et de la canne blanche).
+    
+    (image: elementi_arredo.jpg class: gallery elementi: alt: '')
+- 
+  option_type: three
+  section_title: Marches et différences de niveau au sol
+  content: |
+    Si l’idéal est d’éviter les différences de niveau au sol, quand cela n’est pas possible, il est fondamental de les signaler aux visiteurs, à plus forte raison les différences minimes (petites marches) qui, précisément parce qu’elles sont presque imperceptibles tant à la vue qu’au toucher, peuvent facilement passer inaperçues et provoquer des chutes dangereuses.
+    
+    En plus des marches, les escaliers aussi doivent être signalés de façon appropriée. Il est possible de le faire soit vocalement, soit par l’application au sol d’une signalétique en relief perceptible par la vue (pour les personnes malvoyantes) ou le toucher (en utilisant la sensibilité des pieds et de la canne blanche).
+    
+    (image: gradini_dislivelli.jpg class: gallery gradini alt: '')
+- 
+  option_type: three
+  section_title: Surfaces transparentes
+  content: |
+    Les surfaces laquées ou réfléchissantes ainsi que les surfaces vitrées sont déconseillées, d’une part parce que le risque concret de se faire mal en heurtant les vitres est élevé,  vu que les surfaces transparentes sont difficiles ou impossibles à voir et, d’autre part, à cause des reflets qui interfèrent inévitablement avec la vue résiduelle des personnes malvoyantes.
+    
+    Quand elles sont présentes, les portes en verre ne doivent donc pas être laissées entrouvertes : s’il n’est pas possible de les laisser complètement ouvertes, il est préférable qu’elles soient fermées, mais signalées de façon appropriée. Il est possible de signaler leur présence vocalement (essentiel pour les personnes aveugles ou fortement malvoyantes), ainsi que par l’application d’éléments signalétiques opaques, de grandes dimensions et présentant un fort contraste chromatique.
+    
+    (image: superfici_trasparenti.jpg class: gallery superfici alt: '')
+- 
+  option_type: one
+  section_title: Interventions structurelles
+  content: ""
+- 
+  option_type: three
+  section_title: Ascenseur
+  content: |
+    S’il est spécifiquement adapté, l’ascenseur peut être un support utile pour l’orientation et la mobilité des personnes ayant des problèmes de vue. Pour être utilisable de façon autonome, il doit cependant être doté de boutons présentant des chiffres en relief et en braille. En outre, il est nécessaire d’accentuer au maximum les contrastes de couleur et de matière entre le chiffre et le fond du clavier.
+    
+    Dans le cas de systèmes numériques ne permettant pas l’intégration de claviers en relief, il est conseillé d’assurer de toute façon un contraste chromatique maximal entre le numéro de l’étage de destination et le bouton sur lequel il se trouve, et d’intégrer une signalétique de type sonore.
+    
+    Si elles sont présentes, les fonctions sonores peuvent être utiles : un clavier numérique à éclairage n’est pas suffisant.
+- 
+  option_type: three
+  section_title: Escaliers et mains courantes
+  content: |
+    Si l’installation d’un ascenseur dans le musée est une solution souhaitée pour atteindre la pleine accessibilité, il est de toute façon possible de faciliter la mobilité des personnes ayant des problèmes de vue en munissant les escaliers de mains courantes des deux côtés.
+    
+    Aussi bien pour les personnes aveugles que pour les personnes malvoyantes, la main courante remplit la fonction de support directionnel, perceptif et d’appui dans le cadre du mouvement dans un escalier, qu’il soit effectué de façon autonome ou avec l’accompagnement d’une personne voyante. Leur mise en place est donc fortement conseillée.
+    
+    Si les mains courantes sont soutenues par des rampes en fer forgé aux dessins complexes, nous suggérons de couvrir la partie inférieure à l’aide d’un matériau transparent pour éviter des obstacles supplémentaires à la mobilité : le risque que des vêtements, sacs ou autres se prennent dans les décorations en fer est réel.
+    
+    (image: scale_corrimani.jpg class: gallery corrimani alt: '')
+- 
+  option_type: three
+  section_title: Sol
+  content: |
+    De nombreux musées sont situés dans des bâtiments historiques, éventuellement modifiés au fil des années. Il peut donc arriver que le sol ne soit pas uniforme dans tous les espaces, mais diffère d’une salle à l’autre.
+    
+    Il convient, d’abord, de ne pas exagérer cette variété de matériaux au sol, car cela pourrait  être une source de confusion pour les personnes ayant des problèmes de vue, cependant ces différences peuvent aussi être exploitées pour favoriser l’orientation du public de référence.
+    
+    Le fait de disposer de différents types de sol permet au public de s’orienter avec le toucher (en utilisant la sensibilité des pieds et de la canne blanche) en marchant sur différents matériaux (bois, ciment, pierre, linoléum, etc.).
+    
+    Enfin, les différences de sol sont souvent des différences de hauteur, ce qui crée des petites marches et/ou de légères différences de niveau du sol. Il est dès lors conseillé, dans la mesure du possible, d’éliminer ou de le signaler au public.
+- 
+  option_type: three
+  section_title: Signalétique en relief
+  content: |
+    La signalétique en relief peut être très utile pour la mobilité et l’orientation dans les espaces quand elle est appliquée au sol. En particulier, il est possible d’intégrer dans la structure du musée des éléments modulaires de sol en relief (en caoutchouc ou dans d’autres matériaux présentant un contraste de matière et de couleur avec le sol), applicables au sol en vue d’orienter le visiteur par le toucher (avec la sensibilité des pieds ou de la canne blanche) et par la vue.
+    
+    Il est conseillé d’installer ce type de signalétique dans des espaces plutôt vastes, extérieurs ou intérieurs au musée, dans lesquels il est possible d’offrir une série limitée de choix directionnels ; dans l’application, il est donc important de tenir compte des objectifs potentiellement utiles et intéressants à atteindre pour les visiteurs.
+    
+    Ces éléments modulaires peuvent être utilisés pour construire des parcours, pour fournir des informations directionnelles et des avertissements (présence d’un danger, d’un croisement, d’un virage, de toilettes, nécessité d’avancer prudemment, etc.).
+- 
+  option_type: one
+  section_title: Éléments d’ameublement
+  content: ""
+- 
+  option_type: three
+  section_title: Éclairage
+  content: |
+    Pour favoriser la perception du musée et des œuvres exposées par les personnes malvoyantes, il est préférable de disposer d’un éclairage diffus et indirect. Pour faciliter la diffusion de la lumière, il est conseillé de peindre les murs et le plafond au moyen de couleurs claires et tendant au blanc (pas trop, cependant, parce que cela pourrait être éblouissant pour les personnes malvoyantes).
+    
+    Il convient, en outre, que les (link: kit/opere/incontro-diretto#adattare-l’allestimento text: espaces d’exposition) jouissent des mêmes conditions de lumière diffuse que les espaces communs, en évitant dans la mesure du possible des changements brusques de lumière d’une salle à l’autre de même que des zones ou salles complètement obscures, qui provoquent une sensation d’insécurité générale chez les visiteurs.
+- 
+  option_type: three
+  section_title: Coloration des murs
+  content: |
+    Il est conseillé de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc (pas trop, cependant, parce que cela pourrait être éblouissant pour les personnes malvoyantes).
+    
+    Cela favorise l’orientation pour les personnes malvoyantes qui, grâce au fort contraste avec les sols et avec les œuvres placées à mur, parviennent plus facilement à identifier les limites spatiales imposées par les murs ainsi que l’ (link: kit/opere/incontro-diretto#adattare-l’allestimento text: emplacement des œuvres) et des objets exposés.
+    
+    En outre, les murs et le plafond clairs reflètent davantage la lumière, en créant des zones éclairées de manière diffuse et homogène, en mesure de favoriser la vue résiduelle pour les personnes malvoyantes et donc l’orientation dans les espaces.
+- 
+  option_type: three
+  section_title: Sièges
+  content: |
+    Si, pour les personnes voyantes, la visite d’une exposition peut être fatigante, pour les personnes ayant des problèmes de vue cette probabilité est plus élevée encore.
+    
+    Il convient donc de prévoir des sièges à disposition du public sur tout le parcours de visite, aussi bien dans les espaces communs que dans les espaces d’exposition, et de signaler au public leur présence et leur emplacement.
+    
+    Les sièges doivent être facilement identifiables aussi pour ne pas gêner le passage.
+- 
+  option_type: three
+  section_title: Environnement sonore
+  content: 'Pour favoriser l’orientation dans les espaces, il est important d’optimiser les conditions (link: kit/opere/incontro-diretto#adattare-l’allestimento text: sonores), en évitant les bruits gênants et non nécessaires à la visite (p. ex. les déshumidificateurs, chauffage, etc.).'
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: analisi-istituzionali

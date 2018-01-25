@@ -8,7 +8,7 @@
 
 			<header>
 				<div id="kit-title">
-					<h1 ><?php echo page()->title()->html()->html() ?></h1>
+					<h1 ><?php echo page()->title()->html() ?></h1>
 					<h2><?php echo page()->parent()->title()->html() ?></h2>
 				</div>
 

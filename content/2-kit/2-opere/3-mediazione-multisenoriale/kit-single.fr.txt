@@ -1,0 +1,254 @@
+Title: Interpréter à travers les sens
+
+----
+
+Description: 
+
+En s’appuyant sur solutions de nature intersémiotique, les œuvres d’art visuel peuvent être traduites pour offrir une expérience multisensorielle complète même aux personnes qui ne disposent pas du sens de la vue.
+
+Cela est possible à condition qu’une personne voyante les interprète et, par analogie, en traduise les impressions visuelles dans d’autres perceptions sensorielles à travers le développement d’activités de médiation culturelle interactives en mesure d’intégrer, en plus de l’ouïe, le toucher, le goût et l’odorat.
+Le processus de transposition du langage visuel à un langage fondé sur les perceptions sensorielles non visuelles est capable de créer des suggestions esthétiques et émotives, et, quand cela est cohérent avec une description objective de l’œuvre, il n’y a pas lieu de craindre la subjectivité. Chaque type de médiation comporte les considérations et les perceptions personnelles typiques de tout processus de traduction.
+
+La lecture d’interprétation doit donc être considérée comme une partie substantielle de l’œuvre d’art, capable de restituer une expérience émotivement enrichissante et cohérente avec les effets esthétiques et émotifs qui peuvent en découler. En ce sens, il est conseillé d’adopter une approche de nature multisensorielle, capable de faire dialoguer des informations de nature scientifique (p. ex. l’histoire et le contexte de l’œuvre) avec des informations de nature subjective (p. ex. les émotions, les sensations nées de la perception visuelle, etc.) à l’occasion d’une (link: kit/percorsi/visita-guidata-multisensoriale text: visite guidée multisensorielle).
+
+Pour les personnes porteuses d’un handicap visuel, le fait de se servir des autres sens disponibles pour percevoir le monde environnant n’est pas un choix, mais une nécessité. Le fait d’accéder au patrimoine à travers ces autres sens peut en outre se révéler particulièrement enrichissant pour les personnes sans handicap également, qui peuvent ainsi le découvrir à travers de nouvelles perspectives.
+
+Si l’intégration simultanée de plusieurs stimulations sensorielles semble être la solution idéale pour accéder aux œuvres de manière directe et immédiate, l’activation d’un sens à la fois (p. ex. toucher, ou goût, ou odorat) peut également être efficace, à condition qu’elle s’accompagne toujours d’une description adéquate qui, rappelons-le, est le point de départ de toute activité multisensorielle.
+
+----
+
+Icon: interpretare-attraverso-i-segni.png
+
+----
+
+Article: 
+
+- 
+  section_title: Sélectionner les œuvres
+  content: '**Dans la mesure où les œuvres à sélectionner pour en réaliser une interprétation sensorielle doivent également être décrites de façon adéquate, les critères de (link: kit/opere/descrizione#selezionare-le-opere text: sélection des œuvres) à décrire sont valables dans ce cas également. Si, potentiellement, toute œuvre peut être traduite dans d’autres perceptions, certaines s’y prêtent mieux que d’autres ou sont particulièrement appropriées pour un certain type de traduction. Aussi est-il important d’évaluer au cas par cas la pertinence de l’interprétation. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :**'
+  option_type: one
+- 
+  option_type: three
+  section_title: Impossibilité de toucher les originaux
+  content: >
+    Pour réaliser des interprétations
+    perceptibles à travers les autres sens,
+    nous suggérons de sélectionner les
+    œuvres dont l’exploration tactile
+    n’est pas permise.
+- 
+  option_type: three
+  section_title: Format
+  content: |
+    L’interprétation multisensorielle est particulièrement pertinente pour traduire des œuvres bidimensionnelles (tableaux, photographies, gravures, etc.) et des œuvres  tridimensionnelles de grandes dimensions, qu’elles soient figuratives ou abstraites.
+    
+    En effet, même quand il est permis de toucher les originaux, les informations perceptibles avec les doigts (certes très utiles pour comprendre certains aspects tels que par exemple la matière et la texture) ne permettent pas au visiteur de construire une image mentale complète de l’œuvre à travers son expérience sensorielle.
+- 
+  option_type: three
+  section_title: Nature des œuvres
+  content: >
+    Dans la plupart des cas, ce sont les
+    œuvres elles-mêmes qui définissent
+    leur interprétation sensorielle. En
+    outre, l’interprétation sensorielle
+    peut dépendre d’éléments
+    constitutifs de l’œuvre que le
+    médiateur souhaite particulièrement
+    mettre en évidence. Par exemple, un
+    tableau abstrait composé de lignes
+    noires ne se prête pas vraiment à
+    être mimé ou mis en scène, mais il
+    peut par contre être reproduit en
+    relief pour être exploré à travers le
+    toucher.
+- 
+  option_type: one
+  section_title: Les interprétations possibles
+  content: ""
+- 
+  option_type: two
+  section_title: Interprétations tactiles
+  content: |
+    **Si le fait d’offrir au public de référence la possibilité de (link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: toucher les œuvres originales) est fondamental, quand cela n’est pas possible ou quand cela est inefficace pour la construction d’images mentales (voir ci-dessus), il est possible d’intégrer le sens du toucher d’une autre façon.
+    Les possibilités d’interpréter tactilement une œuvre visuelle sont nombreuses et variées : pour identifier la plus appropriée, il est important d’examiner les caractéristiques de l’œuvre originale en sélectionnant les éléments qui se prêtent le plus à la traduction tactile. Si les critères de  (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour ce type d’interprétation sensorielle. Les solutions les plus faciles à mettre en œuvre sont :**
+- 
+  option_type: three
+  section_title: Schéma en relief
+  content: |
+    Il est très utile pour les œuvres bidimensionnelles (p. ex. tableaux, gravures, photographies, etc.). Il propose une synthèse graphique de l’image originale, où les éléments de composition principaux sont mis en relief et donc rendus perceptibles à travers le toucher. Il est idéal pour transmettre des aspects de composition ou des lignes de force de l’image ou pour agrandir des détails particulièrement importants.
+    
+    La réalisation d’un schéma en relief est une bonne solution, car elle est peu coûteuse, facile à réaliser et efficace pour la construction d’images mentales si elle intégrée à une description adéquate.
+    
+    Certaines indications pour sa réalisation sont fournies dans la ressource: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: comment réaliser un schéma tactile ou de matériaux ?).
+- 
+  option_type: three
+  section_title: Schéma de matériaux
+  content: |
+    C’est une variante du schéma en relief (voir ci-dessus). Il propose l’intégration de matériaux différents dans le schéma, constituant un collage en relief aux consistances et aux textures différentes.
+    
+    Il est idéal pour transmettre des éléments supplémentaires (en plus de ceux qui concernent la composition), tels que des caractéristiques de couleur, de matière ou de style. Certaines indications pour sa réalisation sont fournies dans le document: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: Comment réaliser un schéma tactile ou de matériaux ?).
+    (image: 01-interpretazioni-tattili.jpg class: two-columns gallery metrico)
+    (image: 02-interpretazioni-tattili.jpg class: two-columns gallery metrico)
+- 
+  option_type: three
+  section_title: Reproduction tridimensionnelle
+  content: |
+    Elle est idéale pour les œuvres tridimensionnelles dont les originaux ne sont pas explorables tactilement ou dont les grandes dimensions ne permettent pas une perception complète de l’œuvre. Elle peut en outre être appropriée pour des œuvres bidimensionnelles dans lesquelles les aspects spatiaux (profondeur, perspective, etc.) sont importants.
+    
+    En fonction des dimensions de l’original, il peut être indiqué de réaliser une reproduction 1:1 ou bien une miniature, très utile pour transmettre l’idée d’ensemble d’œuvres monumentales ou d’installations articulées.
+- 
+  option_type: three
+  section_title: Manipulation d’objets
+  content: |
+    Le fait de permettre la manipulation d’objets et de matériaux qui traduisent ou évoquent certains aspects particuliers de l’œuvre ou du processus par lequel elle a été créée peut être très utile pour favoriser la compréhension de l’œuvre.
+    
+    Dans ce but, l’on peut choisir les instruments de travail de l’artiste (pinceaux, spatules, toiles, craies, etc.) ainsi que les objets représentés dans l’œuvre, ou encore des objets pouvant évoquer un élément visuel ou une sensation par leur matérialité (p. ex. la mollesse, la dureté, le froid, le chaud, etc.).
+    
+    (image: 03-interpretazioni-tattili.jpg class: two-columns gallery oggetti)
+    (image: 04-interpretazioni-tattili.jpg class: two-columns gallery oggetti)
+- 
+  option_type: two
+  section_title: Interprétations sonores
+  content: |
+    Comme l’exploration tactile (que ce soit sur des originaux ou de reproductions), l’interprétation sonore, elle aussi, permet au public d’accéder au patrimoine avec ses propres sens, en favorisant la construction d’images mentales et la compréhension générale de l’œuvre.
+    
+    Son impact est encore plus incisif (et inclusif) quand il est possible d’écouter des sons et des morceaux musicaux dans les salles d’exposition à l’aide de haut-parleurs placés sur le parcours de visite. Cette modalité doit donc être préférée par rapport à l’écoute individuelle au moyen d’un audioguide ou d’autres dispositifs numériques.
+    
+    En outre, il est important d’examiner les caractéristiques de l’œuvre originale pour sélectionner les éléments qui se prêtent le plus à la traduction sonore. Si les critères de (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants.
+    
+    Les morceaux musicaux et les sons peuvent être sélectionnés parmi un corpus existant (p. ex. les enregistrements audio disponibles sur le marché) ou créés et enregistrés spécialement pour la médiation multisensorielle (dans ce cas, le recours à des ressources supplémentaires telles que par exemple l’intervention d’artistes, de techniciens du son, etc., est à prévoir).
+    
+    Les modalités possibles sont :
+- 
+  option_type: three
+  section_title: La description
+  content: |
+    Pour une approche de l’image de type descriptif et pédagogique, il est possible de sélectionner ou de créer des sons (p. e.x. des voix, cris, bruits provoqués par des objets en mouvement, etc.) en mesure d’évoquer l’œuvre de manière évidente. Il s’agit d’une interprétation sonore quasi “littérale”, idéale pour traduire des œuvres de nature figurative.
+    
+    Par exemple, si l’œuvre représente un train approchant, offrir le son de cet événement tel qu’il est perçu dans la réalité à travers l’ouïe peut être très efficace pour favoriser en même temps la compréhension aussi bien de ce qui s’offre à la vue que des aspects temporels et de mouvement construits par l’artiste dans l’œuvre.
+- 
+  option_type: three
+  section_title: L’évocation
+  content: |
+    Même lorsqu’il n’existe pas de lien évident avec l’œuvre, sélectionner ou créer des morceaux de musique et en proposer l’écoute au public peut être très efficace pour évoquer des éléments spécifiques, tels que par exemple la période historique où l’œuvre a été créée ou les sensations et les émotions que l’œuvre peut transmettre aux personnes voyantes.
+    
+    Par exemple, si l’œuvre est représentative de la période baroque, le fait de proposer l’écoute d’un morceau de la même époque permettra au public de percevoir d’une autre façon la richesse et la fantaisie qui caractérisent cette période.
+- 
+  option_type: three
+  section_title: L’interprétation
+  content: |
+    En plus d’être descriptifs et évocateurs, les morceaux de musique et les sons peuvent également être intégrés selon une modalité interprétative. Cette possibilité est particulièrement indiquée quand le médiateur souhaite mettre en évidence des éléments relatifs à la perception de l’œuvre dans une perspective historique, esthétique ou philosophique.
+    
+    Ce type d’interprétation sonore peut être aussi efficace pour les œuvres figuratives qu’abstraites, car il permet de traduire en son même des éléments purement formels.
+    
+    Par exemple, pour faire comprendre aux personnes ayant des problèmes de vue la différence entre une œuvre abstraite et une œuvre figurative, il est possible de proposer en parallèle l’écoute de deux sons/morceaux presque opposés : pour l’œuvre figurative, un son/morceau descriptif clairement identifiable par le public sera le plus approprié, tandis que pour l’œuvre abstraite un son/morceau évocateur, difficilement identifiable, sera plus adéquat.
+    
+    (image: 05-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
+    (image: 06-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
+- 
+  option_type: two
+  section_title: 'Interprétations physiques : mimique et mise en scène'
+  content: '**Interpréter une œuvre visuelle à travers la mimique ou la mise en scène, en intégrant le langage corporel et théâtral dans l’activité de médiation, est particulièrement approprié pour les œuvres figuratives, dont la composition, les poses, la gestualité des personnages représentés, le cas échéant, tout comme le rendu des vêtements ou autres étoffes présents dans la scène, sont particulièrement importants. Reproduire dans la réalité la scène représentée dans une œuvre, ou certains de ses éléments, peut favoriser l’identification, la création d’images mentales et la compréhension générale de l’œuvre de la part du public.**'
+- 
+  option_type: three
+  section_title: Mimique
+  content: >
+    Le fait de demander au public de
+    reproduire avec son corps les gestes,
+    les poses, les expressions des figures
+    humaines représentées permet aux
+    visiteurs de sentir ces éléments sur
+    sa peau, ce qui favorise encore une fois
+    le recours aux sens disponibles pour
+    approcher et comprendre l’œuvre de
+    manière efficace. Du fait de sa grande
+    simplicité (l’intervention d’un
+    seul médiateur est nécessaire), cette
+    méthode est très avantageuse du point
+    de vue économique.
+- 
+  option_type: three
+  section_title: Mise en scène
+  content: |
+    Dans la mise en scène d’une œuvre, les sujets représentés peuvent prendre vie grâce à leur personnification par un médiateur (lequel ne doit pas forcément être un acteur), qui en prend la pose ou en reproduit le mouvement, habillé de façon à ressembler le plus possible au sujet représenté.
+    Il constitue un truchement entre l’œuvre et le public : les visiteurs ayant des problèmes de vue peuvent ainsi effectuer une exploration tactile du médiateur, en se faisant guider par ses indications verbales pour en percevoir au mieux la pose et les mouvements ainsi que les spécificités matérielles des vêtements et des accessoires.
+    
+    Le visiteur malvoyant pourra profiter également de la partie visuelle de la mise en scène, souvent source d’émerveillement et de surprise amusée. Il convient de rappeler que, pour réaliser une mise en scène pertinente et efficace, il n’est pas nécessaire de reproduire l’œuvre dans tous ses détails : il est important de choisir les vêtements et des accessoires surtout sur la base de leur consistance matérielle (texture et volumes), qui doit être la plus proche possible de celle qui peut être perçue visuellement.
+    
+    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena)
+    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena)
+- 
+  option_type: two
+  section_title: >
+    Interprétations gustatives et
+    olfactives
+  content: |
+    Prenante et interactive, la traduction d’une œuvre visuelle en stimulations olfactives et gustatives peut agrandir davantage le spectre perceptif de contact avec l’œuvre, en favorisant chez le spectateur la remontée de souvenirs ou d’émotions liés à son vécu intime et personnel. Aussi est-elle considérée comme une solution particulièrement efficace pour approcher l’œuvre d’un point de vue émotif.
+    
+    Les odeurs et les saveurs étant particulièrement incisives sur la perception, il est opportun de calibrer attentivement les interventions au cas par cas, en veillant à ne pas causer de gênes ou de troubles physiques aux participants.
+    
+    Aussi, avant toute dégustation, est-il important de décrire les aliments ainsi que les ingrédients de chaque plat, et de demander au public de signaler, le cas échéant, intolérances, allergies ou régimes alimentaires spéciaux. Si les critères de (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour être traduits en éléments gustatifs et olfactifs.
+    
+    Les aliments et les plats peuvent être sélectionnés parmi ceux déjà existants (p. ex. produits cuisinés préemballés et disponibles sur le marché) ou créés spécialement pour la médiation multisensorielle (dans ce cas, le recours à des ressources supplémentaires telles que par exemple l’intervention d’un chef, de personnel de restauration, etc., est à prévoir).
+    
+    Ce processus de transposition offre des possibilités créatives et interprétatives infinies. Les modalités possibles sont les suivantes :
+- 
+  option_type: three
+  section_title: La description
+  content: |
+    Pour une approche de l’image de type descriptif et pédagogique, il est possible de sélectionner des aliments, des substances ou de créer des plats en mesure de rappeler l’œuvre de manière évidente. Même dans ce cas, il s’agit d’une interprétation quasi “littérale”, idéale pour traduire des œuvres de nature figurative.
+    
+    Par exemple si l’œuvre représente un panier plein d’oranges, le fait de proposer au public ces fruits à toucher, humer et déguster peut être très efficace pour favoriser la compréhension de ce qui s’offre à la vue et le rendre perceptible à travers les autres sens.
+- 
+  option_type: three
+  section_title: L’évocation
+  content: >
+    Même lorsqu’il n’existe pas de lien
+    évident avec l’œuvre, pour permettre
+    aux visiteurs de percevoir l’œuvre ou
+    certains de ses éléments de manière
+    différente, il est possible de proposer
+    des odeurs et saveurs qui, en fonction
+    du sujet à transmettre, évoquent des
+    lieux géographiques ou des lieux
+    particuliers (p. ex. le marché, le
+    port, la ville, la forêt, etc.), des
+    époques, des émotions et des
+    sensations (p. ex. frais, chaud, humide,
+    mou, rêche, etc.).
+- 
+  option_type: three
+  section_title: L’interprétation
+  content: |
+    En plus d’être descriptifs et évocateurs, les odeurs et goûts proposés peuvent également être intégrés dans le cadre d’une approche interprétative. Cette solution est particulièrement efficace quand le médiateur souhaite mettre en évidence des éléments relatifs à la perception de l’œuvre dans une perspective historique, esthétique ou philosophique. Cette modalité interprétative peut, elle aussi, être efficace pour n’importe quel type d’œuvre, qu’elle soit figurative ou abstraite.
+    
+    En ce sens, il est particulièrement important de sélectionner des aliments, des substances aromatiques ou des plats, non seulement en fonction de leur odeur et de leur goût, mais aussi en fonction de leur consistance. En effet, les combinaisons de goût et de consistance, qu’ils soient en contraste (p. ex. goût fort et consistance délicate) ou en harmonie (p. ex. goût sucré et consistance délicate) sont particulièrement efficaces pour faire comprendre au public les relations qui peuvent s’instaurer dans l’œuvre entre les aspects formels et son contenu.
+    
+    Par exemple, pour interpréter une sculpture monumentale en marbre représentant un héros de guerre en action, il peut être opportun de proposer des consistances délicates et froides pour traduire les aspects formels (p. ex. matière, couleur, etc.) et des goûts forts et vibrants pour traduire le sujet.
+    
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery gusto)
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery gusto)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: toccare-l-arte
+- 
+  kit: interpretazioni-sonore
+- 
+  kit: la-messa-in-scena
+- 
+  kit: degustare-l-arte
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: senseable-art
+- 
+  kit: >
+    la-visita-guidata-con-i-diagrammi-in-rilievo
