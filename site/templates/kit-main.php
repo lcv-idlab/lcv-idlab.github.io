@@ -18,7 +18,7 @@
 
 			<?php if ($cat->intendedTemplate() == "kit-category"): ?>
 
-			<section id="<?php $title = $cat->title('it'); $pos = strpos($title, ' '); if($pos!== FALSE) { echo substr($title, 0, $pos); } else { echo $title; } ?>" class="category-single">
+			<section id="<?php $url = $cat->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>" class="category-single">
 
 				<!-- CATEGORY TITLE -->
 				<header>

@@ -134,10 +134,26 @@
 				}
 
 				li {
+
+					&.one {
+						font-size: 1rem;
+					}
+
+					&.two {
+						font-size: 0.9rem;
+						margin-left: 0.5rem;
+					}
+
+					&.three {
+						font-size: 0.8rem;
+						margin-left: 1rem;
+					}
+
 					line-height: 130%;
 					font-size: 0.875rem;
 					
 					@extend .text-link;
+					font-size: 0.8rem;
 
 					a:link, a:visited {
 						border-bottom: none;
@@ -147,7 +163,23 @@
 				}
 
 				li + li {
+					margin-top: 0.4rem;
+				}
+
+				.three + .two, .three + .one {
 					margin-top: 1rem;
+				}
+
+				.gap-top {
+					margin-top: 2rem;
+				}
+
+				.back_button_index {
+					margin-top: 2rem;
+					font-size: 1rem;
+					a {
+						border-top: 1px solid color(grey);
+					}
 				}
 			}
 		}

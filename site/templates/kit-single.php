@@ -4,7 +4,7 @@
 	<main id="kit-single" class="<?php echo page()->parent()->title('it') ?>">
 		<div id="title-bar">
 			
-			<a href="/<?php echo $site->language() ?>/kit" class="back-button">&lt; <?php echo l::get('back')?></a>
+			<a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>" class="back-button">&lt; <?php echo l::get('back')?></a>
 
 			<header>
 				<div id="kit-title">
@@ -41,9 +41,10 @@
 					</h2>
 					<ul>
 					<?php foreach (page()->article()->toStructure() as $article): ?>
-						<li><a href="#<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></a></li>
+						<li class="<?php echo $article->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></a></li>
 					<?php endforeach ?>
-						<li><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
+						<li class="one"><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
+						<li class="back_button_index"><a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>">&lt; <?php echo l::get('back')?></a></li>
 					</ul>
 				</div>
 			</aside>
@@ -102,6 +103,7 @@
 			<div class="section-container evaluate">
 				<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
 				<?php echo page()->parent()->verify()->kt() ?>
+				<div id="article_end"></div>
 			</div>
 
 			<!-- end: CONTENT -->
@@ -191,6 +193,8 @@
 
 		<?php endif ?>
 		<!-- end: MORE -->
+
+		<a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>" class="back-button">&lt; <?php echo l::get('back')?></a>
 
 		<!-- load the lightbox script -->
 		<?php echo js('assets/js/lightbox.js'); ?>
