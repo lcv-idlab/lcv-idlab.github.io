@@ -28,6 +28,14 @@ fields:
       <b>{{section_title}}</b>
       <p>{{content}}</p>
     fields:
+      option_type:
+        label: Tipo di contenuto
+        info: Seleziona il tipo contenuto da aggiungere
+        type: radio
+        default: plain
+        options:
+          plain: Testo semplice
+          list: Punto elenco
       section_title:
         label: Titolo della sezione
         type: text

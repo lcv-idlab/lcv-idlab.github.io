@@ -13,10 +13,19 @@
 			<!-- CONTENT -->
 			<article>
 				<div id="single-article-container">
-				<?php foreach (page()->article()->toStructure() as $article): ?>
+				<?php foreach (page()->article()->toStructure() as $item): ?>
+
+					<?php if($item->option_type() == "plain"): ?>
+
 					<div class="section-container">
 						<?php echo $article->content()->kt() ?>
 					</div>
+
+					<?php elseif($item->option_type() == "list"): ?>
+
+
+					<?php endif ?>
+
 				<?php endforeach ?>
 				</div>
 			</article>
