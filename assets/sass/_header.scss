@@ -76,7 +76,7 @@
 		
 		}
 		
-		> ul {
+		ul#pages-navigation {
 			display: inline-block;
 			
 			@include pads(0 0 0.7 2);
@@ -171,6 +171,15 @@
 					}
 
 				}
+			}
+		}
+
+		div#language-menu {
+			ul {
+				float: right;
+				margin-right: 2rem;
+				position: relative;
+				top: -1.5rem;
 			}
 		}
 

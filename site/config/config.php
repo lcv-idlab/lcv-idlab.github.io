@@ -50,15 +50,9 @@ c::set('languages', array(
 	),
 	array(
 		'code'	=> 'fr',
-		'name'	=> 'Francais',
-		'locale'	=> 'de_DE',
+		'name'	=> 'Français',
+		'locale'	=> 'ch_FR',
 		'url'	=> '/fr',
-	),
-	array(
-		'code'	=> 'en',
-		'name'	=> 'English',
-		'locale'	=> 'en_US',
-		'url'	=> '/en',
 	)
 ));
 

@@ -2,10 +2,12 @@
 
 <div id="kit">
 	<main>
+		
 		<div id="kit-title">
 			<h1 class="title"><?php echo page()->title()->html() ?></h1>
 			<!-- <div></div> -->
 		</div>
+
 		<header id="main-header">
 			<div class="decoration-wrapper">
 				<div><?php echo page()->description()->kt() ?></div>

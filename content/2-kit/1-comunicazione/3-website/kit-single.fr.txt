@@ -1,0 +1,149 @@
+Title: Accessibilité numérique
+
+----
+
+Description: 
+
+Offrir à tous la possibilité de tirer profit des informations et de la culture véhiculée au moyen des données numériques est une exigence de plus en plus importante. En particulier à l’intention des personnes ayant des problèmes de vue, pour leur favoriser l’accès aux informations numériques, il est nécessaire de connaître quels sont les moyens auxiliaires principaux dont l’utilisateur dispose et d’en comprendre le fonctionnement.
+
+L’accessibilité numérique dépend en effet des besoins spécifiques de l’utilisateur : une personne aveugle ou fortement malvoyante utilise uniquement la structure qui se trouve derrière la partie visuelle d’une page web (la structure HTML) en interagissant à l’aide du clavier (interaction tactile) et avec les lecteurs vocaux (interaction vocale et tactile). Une personne voyante ou malvoyante utilise uniquement la partie visuelle de la page en ignorant ce qui se trouve derrière.
+
+Dans la mesure où les informations à transmettre, ainsi que les exigences de clarté dans la navigation et l’utilisation des contenus, sont les mêmes dans un cas comme dans l’autre, aussi bien la structure qui se trouve derrière (HTML) que la partie visuelle (conception pour la communication visuelle) doivent être conçues et fonctionner correctement.
+
+En plus des indications pour concevoir un site web accessible, nous fournissons des instruments pour vérifier le niveau d’accessibilité d’un site web existant.
+
+----
+
+Icon: sito-web-accessibile.png
+
+----
+
+Article: 
+
+- 
+  section_title: Les moyens auxiliaires
+  content: |
+    Les supports utilisés par les personnes ayant des problèmes de vue pour accéder aux contenus numériques, tels que par exemple tablettes, ordinateurs ou téléphones portables, deviennent de plus en plus du type « touch», limitant ainsi l’interaction tactile (qui nécessite de pouvoir reconnaître les boutons et lettres avec les doigts) et l’utilisation du clavier, essentielles pour les personnes aveugles ; toutefois, les fonctions sonores (p. ex. les lecteurs vocaux), quand elles sont présentes, en permettent l’utilisation par ce type de public également. En ce sens, l’activation de certaines fonctions peut être particulièrement utile :
+    
+    * agrandissement de la police d’un texte
+    * réglage des couleurs
+    * utilisation d’un lecteur vocal
+    * reconnaissance des images et traduction vocale
+    * détection des couleurs et des sources lumineuses
+    *  scan des codes à barres
+    
+    Apple, par exemple, a déjà lancé depuis des années une community appelée AppleVis (Empowering blind and low-vision users of Apple products and related applications), qui offre une série d’applications (en grande partie gratuites) aux utilisations les plus variées.
+    
+    En ce qui concerne les ordinateurs, il faut rappeler que l’accès aux informations au moyen d’un lecteur vocal est possible pour autant qu’on puisse l’enclencher par le clavier. La souris n’est pas utilisée par les personnes aveugles : il est nécessaire de tenir compte de cet aspect pour toute conception.
+  option_type: one
+- 
+  section_title: La conception accessible
+  content: |
+    Ces dernières années, l’utilisation d’Internet a beaucoup évolué et elle ne se réduit plus à l’affichage sur l’écran d’un PC. Aujourd’hui, la création d’un site web doit être pensée en vue de l’affichage sur une multiplicité de dispositifs différents (p. ex. smartphones, tablettes, consoles de jeu, TV smart, plates-formes IoT et smart watches) ; on parle  en effet de site adaptatif, autrement dit d’un type de conception capable d’adapter les contenus numériques à des formats et supports différents. En outre, une grande partie des applications permettent aujourd’hui de partager les contenus sur les réseaux sociaux, multipliant de la sorte les possibilités de diffusion et donc de visibilité.
+    
+    Aussi, en plus des textes, images et vidéos présents sur une page, il existe également une quantité de contenus cachés (métadonnées), de mots-clefs et de codes qui permettent la communication entre les applications, la traçabilité des contenus dans les moteurs de recherche et l’échange des données entre programmes afin qu’ils puissent s’adapter aux différents utilisateurs et améliorer ainsi l’expérience d’utilisation. Pouvoir écouter un texte écrit sur une page web est un exemple d’échange de données entre applications (page html – lecteur vocal), qui permet également aux personnes aveugles et malvoyantes d’accéder à des contenus numériques.
+  option_type: one
+- 
+  section_title: >
+    Conception du site, structure et
+    hiérarchie des contenus
+  content: |
+    Les informations à transmettre et à publier peuvent être nombreuses (expositions, événements, archives, interviews, critiques, rencontres, collaborations, laboratoires, sponsors, contacts, calendriers, inscriptions, news, etc.) ; pour les présenter, il est possible de recourir à des éléments de différente nature, tels qu’images, textes, formulaires, vidéos, liens, listes, etc.
+    
+    Pour être clairement compréhensible (accessible) au public visé, un site doit être structuré et organisé de manière claire, complète et univoque.
+    
+    Aussi la conception de la structure du site est-elle la première étape pour organiser les informations à publier ; cela permet de créer une carte indispensable pour créer et récupérer les contenus nécessaires pour chaque domaine, pour créer le langage visuel de communication (design) et pour la mise en œuvre du site (écriture du code). La succession de ces trois opérations doit absolument se faire dans l’ordre indiqué, car elles dépendent l’une de l’autre en cascade.
+    
+    La carte logique définit la hiérarchie des contenus des macro-zones les plus génériques aux contenus individuels qui rempliront les différentes ramifications. Un bon point de départ consiste à regrouper les contenus par types de plus en plus spécifiques et logiques, en les indiquant comme divisions et subdivisions des zones principales.
+    
+    Les contenus à mettre en évidence doivent rester plus en “surface” de façon à être facilement accessibles, tandis que les contenus moins importants peuvent rester plus en “profondeur”. Pour évaluer si les informations sont plus ou moins en surface, il suffit de compter combien de fois il faut cliquer pour les atteindre depuis la page principale du site.
+    
+    Evidemment, tout ne peut pas être en surface, raison pour laquelle il faut faire un choix et définir une hiérarchie, que sera celle que l’utilisateur percevra en visitant le site. La hiérarchie communique directement l’importance attribuée à chaque contenu par le créateur et le responsable d’un site.
+  option_type: one
+- 
+  section_title: Forme et contenus
+  content: |
+    La qualité et l’exhaustivité, la spécialisation ou la généralisation des contenus doivent satisfaire la demande d’informations de l’utilisateur et être compréhensibles dans le langage et dans la fiabilité des contenus.
+    
+    Les images ou les icônes choisies doivent être lisibles et, de plus, cohérentes explicatives par rapport aux contenus présentés et au langage graphique choisi pour le site. En outre, le fait de rendre le site web unique par rapport aux autres sites existants en le distinguant par des choix esthétiques et perceptifs, permet de créer une expérience de navigation agréable et intéressante, en renforçant l’efficacité de la communication.
+    
+    La forme visuelle choisie pour représenter les différentes informations présentes doit rester cohérente avec celle des autres parties du site, de façon à permettre de reconnaître rapidement le type de contenu et à faciliter et simplifier la navigation, en rendant l’accès aux informations plus direct.
+    
+    Pour être accessibles aussi par les personnes malvoyantes, il est important que tous les contenus visibles dans la partie visuelle du site, qu’il s’agisse de texte, d’images ou de contenus multimédias, soient présentés dans le respect des règles pour un design inclusif. Les aspects liés au design, s’ils sont utilisés de façon cohérente pour tout le site, peuvent en outre renforcer la subdivision et la hiérarchie des contenus, ce qui en renforce davantage encore l’accessibilité.
+  option_type: one
+- 
+  section_title: >
+    Vérification du niveau
+    d’accessibilité d’un site web
+    existant
+  content: |
+    La société contemporaine est toujours plus imprégnée d’informations de différent type, de langages et de médias dans divers formats (images, sons et vidéos) distribués dans la réalité tangible et numérique. L’évolution du monde numérique ne rend pas simple une conception appropriée à tous les types d’utilisateurs et de supports. Les critères d’accessibilité permettent cependant de vérifier la qualité d’un site web déjà existant. Il existe par ailleurs d’autres critères permettant de vérifier si une interaction est satisfaisante et accessible du point de vue de l’expérience, par exemple l’ergonomie.
+    
+    (image: diagramma_usabilita.jpg class: one-column gallery diagramma alt: 'Il diagramma illustra come usabilità, standard web e tecnologie assistive rendono l’esperienza accessibile' caption: Le schéma illustre montre comment l’ergonomie, le standard web et les technologies d’assistance rendent l’expérience accessible)
+    
+    Pour vérifier la qualité d’un site web, il existe de nombreux standards relatifs à l’accessibilité (link: https://www.w3.org text: W3C target: blank), même spécifiques pour personnes malvoyantes (voir références bibliographiques). En ce qui concerne l’analyse spécifique du niveau d’accessibilité des sites web des musées, il est possible par ailleurs de prendre comme référence les critères d’accessibilité identifiés à l’occasion des  (link: http://mci.supci.ch/it/risorse/analisi-istituzionali text: analyses institutionnelles) et les instruments d’analyse suggérés dans la ressource.
+  option_type: one
+- 
+  option_type: one
+  section_title: Les utilisateurs et leurs besoins
+  content: ""
+- 
+  option_type: three
+  section_title: >
+    Pour les personnes aveugles ou fortement
+    malvoyantes
+  content: |
+    l’utilisation est entièrement déterminée dans ce cas par la structure de la page HTML qui est lue par le dispositif de lecture audio auquel recourt l’utilisateur. Toute la partie graphique et visuelle présente sur la page est traduite dans une description (pour autant qu’elle soit intégrée dans le code). Pour être accessible, la structure HTML de la page doit respecter et utiliser correctement les éléments à disposition du langage. En particulier, le HTML5 met à disposition des éléments spécifiques et univoques qui permettent de communiquer et d’indiquer leur type de contenu.
+    
+    Citons-en quelques-uns : le tag `<ul>` qui indique une liste d’éléments, `<article>` un article (comme dans un journal) avec titre (`<header>`), `<time>` contenant une date et/ou une heure, `<nav>` une collection de liens pour la navigation et ainsi de suite.
+    
+    Grâce à ces contenants sémantiques et à la structure hiérarchique de la page, les personnes aveugles peuvent naviguer facilement avec les différents programmes et dispositifs de lecture vocale, en se déplaçant selon leur type d’intérêt, au moyen des liens de la page ou de la barre de navigation.
+    
+    Pour ce faire, la programmation de la page doit être faite correctement. Nous suggérons d’essayer de reléguer au tag générique `<div>` (qui ne contient aucune information sémantique) la fonction de structurer le code et d’y appliquer le layout graphique (via CSS).
+    
+    Un autre aspect important est que tous les éléments, même de nature visuelle, tels que par exemple les images ou les éléments de navigation, aient un texte alternatif de description ; en effet, une icône de navigation (par exemple le menu, ou une flèche pour revenir à la page précédente), si elle n’est pas décrite adéquatement dans le code, n’est pas lisible par le lecteur vocal et est donc inaccessible pour les utilisateurs aveugles.
+    
+    La description doit éviter les redondances ; dans la description d’une image, il n’est pas nécessaire de dire que “L’image sélectionnée montre une personne …” car le tag `<img>` que la page HTML utilise pour afficher l’image indique déjà au lecteur vocal sa nature, rendant par conséquent inutile la (link: http://mci.supsi.ch/fr/kit/opere/descrizione text: description supplémentaire).
+    
+    Pour rendre accessible la hiérarchie dans la page, il faut utiliser correctement les tags `<h1>`, `<h2>`, etc. Le titre principal de la page doit être indiqué par le tag `<h1>` et ne doit être utilisé qu’une seule fois par page. Le tag `<h2>` est destiné au sous-titre et les autres suivent par ordre d’importance (`<h1>` … `<h6>`).
+    
+    Certains éléments nécessaires pour la navigation ou la compréhension du contenu peuvent être ajoutés au code, mais si l’on ne souhaite pas leur présence visuelle dans la page, il suffit de “les cacher” au moyen de CSS.
+- 
+  option_type: three
+  section_title: Pour les personnes malvoyantes
+  content: |
+    les types de problèmes visuels sont très divers et chacun nécessiterait des mesures spécifiques, parfois contradictoires. Nombreuses sont les applications, dispositifs et programmes aidant les personnes malvoyantes dans l’utilisation d’Internet (et de la lecture en général), et chacun est spécifique à la pathologie concernée. En plus de tenir compte des directives pour un (link: http://mci.supsi.ch/it/kit/comunicazione/design text: design inclusif pour la communication visuelle), il convient de prendre en considération certains éléments spécifiques supplémentaires pour le web.
+    
+    En premier lieu, le site web doit être “adaptatif”, c’est-à-dire s’adapter et redistribuer les éléments de la page en fonction du dispositif utilisé (espace disponible et taille de l’écran).
+    
+    Tout le contenu du site doit par ailleurs pouvoir être agrandi sur les dispositifs (s’assurer que cela fonctionne également sur tablette et smartphone) pour permettre de mieux voir images et textes. Du fait de cette exigence d’agrandissement, il doit être possible de faire défiler les éléments (en particulier le menu de navigation) quand ils sont agrandis. Aussi leur position dans la page ne doit-elle pas être fortuite, surtout en ce qui concerne les éléments-clés comme la navigation.
+    
+    La lecture occidentale de gauche à droite, du haut vers bas, donne la priorité à la partie gauche de la page, et il est donc important d’y placer les parties fondamentales qui, placées à droite, pourraient échapper au lecteur.
+- 
+  option_type: three
+  section_title: Pour les personnes voyantes
+  content: >
+    si une information numérique est
+    accessible pour les personnes aveugles
+    et malvoyantes, elle l’est également
+    pour les personnes voyantes. Les
+    indications fournies sont valables pour
+    tout le public, car elles permettent à
+    n’importe quel type d’utilisateurs
+    d’avoir une expérience optimale. En
+    outre, l’application des standards web
+    et l’exhaustivité des informations
+    permettent l’échange de données,
+    augmentant ainsi également la
+    longévité d’un site.
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: la-fruizione-a-distanza
