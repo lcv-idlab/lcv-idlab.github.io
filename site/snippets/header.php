@@ -9,17 +9,6 @@
 		<span class="menu-button"><a href="" id="toggle"></a></span>
 
       	<!-- LANGUAGE MENU -->
-      	<div id="language-menu">
-	      	<ul>
-			<?php foreach($site->languages() as $language): ?>
-				<li <?php e($site->language() == $language, 'class="active"') ?>>
-					<a href="<?php echo page()->url($language->code()) ?>">
-						<?php echo html($language->name()) ?>
-					</a>
-				</li>
-			<?php endforeach ?>
-			</ul>
-		</div>
 
 
 		<ul id="pages-navigation">

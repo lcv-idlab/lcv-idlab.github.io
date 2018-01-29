@@ -93,6 +93,11 @@
 				margin-top: 2rem;
 			}
 
+			#main_description {
+				@extend %medium-weight;
+				margin-bottom: 2rem;
+			}
+
 			ul.content-list {
 				padding-left: 0;
 

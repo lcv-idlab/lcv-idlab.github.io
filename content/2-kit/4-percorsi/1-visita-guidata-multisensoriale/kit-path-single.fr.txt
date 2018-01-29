@@ -9,39 +9,75 @@ Description: Pour autant qu’elle soit descriptive, multisensorielle et réalis
 Article: 
 
 - 
-  section_title: ""
+  option_type: list
+  section_title: Public
+  content: >
+    Connaître son public est fondamental
+    pour organiser la visite de manière
+    ciblée, en dans le respect des
+    exigences des visiteurs. Pour favoriser
+    l’intégration, il est souhaitable de
+    mélanger au groupe des personnes
+    voyantes ; dans ce cas, il est cependant
+    important de les informer à l’avance
+    du type de visite.
+- 
+  option_type: list
+  section_title: Nombre de participants
   content: |
-    ** La tradizionale visita guidata al museo, se descrittiva, multisensoriale e realizzata da un mediatore appositamente sensibilizzato, è ritenuta la modalità di visita più efficace, perché permette di integrare tutti gli aspetti ritenuti fondamentali per favorire l’accesso al museo e alle opere d’arte alle persone con problemi di vista, favorendo l’inclusione. Per realizzare una visita guidata accessibile è inoltre importante tenere conto di alcuni accorgimenti specifici in grado di rendere la visita guidata adatta al pubblico di riferimento.**
+    Il est conseillé de maintenir un nombre réduit de participants pour éviter des attentes prolongées pendant la visite, fréquentes par exemple dans le cas de l’observation rapprochée des œuvres originales et de l’exploration tactile, qui, dans la plupart des cas, doivent être effectuées individuellement (pour éviter ce problème, dans le cas des reproductions, il est conseillé d’en réaliser plusieurs pour permettre aux visiteurs d’en profiter simultanément).
     
-    * **Pubblico** Conoscere il proprio pubblico è fondamentale per impostare la visita in maniera mirata rispettando le esigenze dei visitatori. Per favorire l’integrazione, è auspicabile integrare tra i partecipanti anche delle persone vedenti; in questo caso è però importante avvisarle precedentemente della particolare tipologia di visita.
-    * **Numero di partecipanti** Si consiglia di mantenere un numero ridotto di partecipanti per evitare attese prolungate durante la visita, frequenti per esempio nel caso dell’osservazione ravvicinata delle opere originali e dell’esplorazione tattile, che, nella maggior parte dei casi, vanno eseguite individualmente (per ovviare a questo problema, nel caso delle riproduzioni, si consiglia di realizzarne più di una per permettere ai visitatori di fruirne contemporaneamente).
+    La gestion générale de la visite, si elle est organisée par petits groupes, est en outre plus facile pour les visiteurs. Le nombre réduit favorise par ailleurs le partage, le dialogue et l’enrichissement réciproque. Si le groupe se compose uniquement de personnes aveugles ou fortement malvoyantes, mieux vaut ne pas dépasser 4 participants. Dans le cas de groupes composés de personnes aveugles et malvoyantes, il est conseillé de ne pas dépasser le nombre de 7 participants ayant des problèmes de vue.
+- 
+  option_type: list
+  section_title: Nombre de collaborateurs
+  content: |
+    Le nombre de collaborateurs auquel il faut avoir recours pour animer une visite guidée multisensorielle dépend de la nature de l’interprétation sensorielle et des types de problèmes visuels des visiteurs.
     
-    La gestione generale della visita, se organizzata a piccoli gruppi, risulta inoltre più agevole e scorrevole per i fruitori. Il numero ridotto favorisce poi la condivisione, il dialogo e l’arricchimento reciproco. Se il gruppo è composto unicamente da persone cieche o fortemente ipovedenti, meglio non superare i 4 partecipanti. Nel caso di gruppi composti da persone cieche e ipovedenti, si consiglia di non superare i 7 partecipanti con problemi di vista.
-    * **Numero di collaboratori** Il numero di collaboratori da coinvolgere per condurre una vista guidata multisensoriale dipende dalla natura dell’interpretazione sensoriale e dalle tipologie di problema visivo dei visitatori.
+    En plus de la personne qui conduit la visite et s’occupe de décrire les œuvres, il peut être opportun d’impliquer le personnel chargé de la conservation dans le cas de l’exploration tactile d’originaux, ainsi que d’autres collaborateurs (gardiens de salle/volontaires/assistants /personnel technique, etc.) en mesure d’accompagner et de guider les participants dans les déplacements à l’intérieur des salles d’exposition et de préparer l’éventuel matériel nécessaire à la visite.
+- 
+  option_type: list
+  section_title: Structure
+  content: |
+    Au début de la visite, il est important de fournir des informations sur le musée, de décrire sa structure et les espaces qui le constituent. Avant d’approcher les œuvres, il convient d’expliquer en général le contenu de l’exposition (p. ex. thèmes, artistes exposés, etc.) en fournissant également des données quantitatives (p. ex. l’exposition présente 387 œuvres, dont des tableaux, des sculptures, des gravures et des photographies, etc.).
     
-    Oltre a chi conduce la visita e si occupa di descrivere le opere può essere opportuno coinvolgere il personale addetto alla conservazione nel caso dell’esplorazione tattile di originali, oltre che altri collaboratori (guardasala/volontari/assistenti/personale tecnico, ecc.) in grado di accompagnare e guidare i partecipanti negli spostamenti all’interno delle sale espositive e di preparare l’eventuale materiale necessario alla visita.
-    * **Struttura** All’inizio della visita, è importante fornire informazioni sul museo, descrivere la sua struttura e gli spazi in cui ci si trova. Prima di approcciare le opere, è bene spiegare in generale il contenuto della mostra (es. tematiche, artisti esposti, ecc.) offrendo anche dati quantitativi (es. la mostra presenta 387 opere, tra quadri, sculture, stampe e fotografie, ecc.).
+    Il est important, en outre, d’annoncer au public quelles œuvres feront l’objet d’un approfondissement lors de la visite et pour quels motifs elles ont été choisies. Le fait de signaler quels sont les sens qui seront stimulés pendant l’activité et dans quel ordre permet de faire en sorte que les visiteurs se sentent à l’aise et en sécurité.
+    Par ailleurs, il est important d’approcher les œuvres une par une, en commençant par une description objective d’une durée indicative de 5 minutes.
     
-    È importante inoltre anticipare al pubblico quali opere si andranno ad approfondire durante la visita e per quali motivi sono state scelte. Segnalare quali sono i sensi che saranno stimolati durante l’attività e con quale sequenza, permette di far sentire i visitatori a loro agio e in sicurezza.
-    È importante poi approcciare opera per opera, cominciando con una descrizione oggettiva della durata indicativa di 5 minuti.
+    Si, en général, l’interprétation sensorielle doit être effectuée tout de suite après la description objective, dans certains cas elle peut avoir lieu aussi simultanément : pour l’exploration tactile d’originaux ou de reproductions, le fait d’écouter une description de ce que l’on est en train de toucher est fondamental pour trouver une correspondance entre les sens et favoriser la compréhension de l’œuvre.
     
-    Se generalmente l’interpretazione sensoriale deve essere esperita subito dopo alla descrizione oggettiva, in alcuni può avvenire anche in contemporanea: per l’esplorazione tattile di originali o riproduzioni ascoltare una descrizione di ciò che si sta toccando è fondamentale per trovare una corrispondenza tra i sensi e favorire la comprensione dell’opera.
+    Pour l’approche sensorielle, jusqu’à 10 minutes peuvent être nécessaires, exception faite pour l’écoute d’interprétations sonores : dans la mesure où le visiteur est passif, il est conseillé, dans ce cas, de ne pas dépasser les 5 minutes d’écoute. Ensuite, il convient de se consacrer au commentaire symbolique et évocateur pour une durée maximale de 5 minutes.
     
-    Per l’approccio sensoriale possono essere necessari anche 10 minuti, eccezion fatta per l’ascolto di interpretazioni sonore: nella misura in cui il visitatore è passivo, si consiglia in questo caso di non superare i 5 minuti d’ascolto. In seguito è bene dedicarsi al commento simbolico ed evocativo per una durata massima di 5 minuti.
+    Pour une visite multisensorielle, il est préférable de se concentrer sur 5 œuvres au maximum et de s’arrêter, à titre indicatif, 20 minutes sur chaque œuvre. Dans le cas d’ateliers créatifs ou de rencontres avec les artistes, il est préférable de les organiser après une visite descriptive : en plus d’être potentiellement longs et de constituer potentiellement une activité de médiation indépendante, dans la plupart des cas ils doivent être effectués hors des espaces d’exposition.
+- 
+  option_type: list
+  section_title: Durée
+  content: |
+    Comme pour les personnes voyantes, afin de ne pas perdre l’attention et la concentration des participants, une visite multisensorielle devrait durer, à titre indicatif, 1 heure et demie et ne pas dépasser 2 heures. La visite doit respecter les exigences des visiteurs du point de vue temporel également.
     
-    Per una visita multisensoriale, è preferibile concentrarsi su 5 opere al massimo e soffermarsi indicativamente 20 minuti su ogni opera. Nel caso di atelier creativi o incontri con gli artisti, è preferibile svolgerli in seguito ad una visita descrittiva: oltre a essere potenzialmente lunghi e a costituire potenzialmente un’attività di mediazione a se stante, nella maggior parte dei casi devono svolti al di fuori degli spazi espositivi.
-    * **Durata** Come per le persone vedenti, per essere sostenibile dal punto di vista dell’attenzione e della concentrazione richiesta ai partecipanti, una visita multisensoriale dovrebbe durare indicativamente 1 ora e mezza e non superare le 2 ore. La visita deve rispettare le esigenze dei visitatori anche dal punto di vista temporale.
+    Il est donc fondamental de ne pas être dans la hâte : l’effort d’attention et de concentration est particulièrement élevé, car, en plus des descriptions, le visiteur doit élaborer les autres informations sensorielles et transformer le tout en images mentales. La mobilité elle aussi requiert un certain temps : les déplacements entre les salles d’exposition peuvent être particulièrement lents pour les personnes ayant des problèmes de vue.
     
-    È fondamentale dunque non avere fretta: lo sforzo di attenzione e concentrazione è particolarmente elevato alto poiché oltre alle descrizioni, il visitatore deve elaborare le altre informazioni sensoriali e trasformare tutto in immagini mentali. Anche la mobilità richiede i suoi tempi: gli spostamenti tra le sale espositive possono essere particolarmente lunghi per le persone con problemi di vista.
+    À l’occasion d’une visite multisensorielle, il est donc opportun de se concentrer sur un nombre restreint d’œuvres.
+- 
+  option_type: list
+  section_title: Lieu
+  content: |
+    Afin de favoriser l’inclusion et de maintenir un lien entre la perception de l’œuvre et l’expérience de visite dans l’espace muséal, il est important que les activités multisensorielles soient intégrées dans le parcours de visite et donc dans les salles d’exposition.
     
-    In occasione di una visita multisensoriale è dunque opportuno concentrarsi su poche opere.
-    * **Luogo** Al fine di favorire l’inclusione e mantenere un legame tra la fruizione dell’opera e l’esperienza di visita nello spazio museale, è importante che le attività multisensoriali siano integrate nel percorso di visita e dunque nelle sale espositive.
+    Dans ce sens, il faut prévoir un espace suffisant à côté des œuvres faisant l’objet d’une analyse et l’installation de mobilier (p. ex. tables, pupitres, chaises, etc.) pour disposer le matériel utile à la visite (p. ex. reproductions, objets, etc.).
     
-    In questo senso, è da prevedere spazio a sufficienza accanto alle opere oggetto di analisi e l’installazione di mobilio (es. tavoli, leggii, sedie, ecc.) per sistemare il materiale utile alla visita (es. riproduzioni, oggetti, ecc.).
-    Quando ciò risulta difficoltoso, come può succedere nel caso di incontri con gli artisti o atelier creativi, è possibile svolgere l’attività in uno spazio adiacente all’esposizione. Seguire una struttura precisa (vedi sopra) in occasione della visita guidata sarà in questo caso ancor più importante per facilitare i collegamenti tra opera, esposizione e attività multisensoriale e non generare confusione nei visitatori.
+    Si l’activité s’avère compliquée, comme dans le cas de rencontres avec les artistes ou d’ateliers créatifs, il est possible de l’effectuer dans un espace adjacent à l’exposition. Le fait de suivre une structure précise (voir ci-dessus) à l’occasion de la visite guidée sera dans ce cas plus important encore pour faciliter les liens entre les œuvres, l’exposition et l’activité multisensorielle et ne pas susciter de confusion chez les visiteurs.
     
-    È importante ricordare inoltre che se il luogo è rumoroso, può disturbare lo svolgersi dell’attività: prevedere dunque una fascia oraria in cui l’affluenza di visitatori al museo è più bassa.
-    * **Momento di confronto e valutazione** Alla fine di ogni visita, è importante chiedere ai visitatori un riscontro sull’attività proposta al fine di valutarla e migliorarla.
+    Rappelons en outre que, si le lieu est bruyant, cela peut perturber le déroulement de l’activité : il faut donc prévoir une plage horaire où l’affluence de visiteurs au musée est la plus basse.
+- 
+  option_type: list
+  section_title: Moment d’évaluation
+  content: >
+    À la fin de chaque visite, il est
+    important de demander aux visiteurs un
+    retour sur l’activité proposée en
+    vue de l’évaluer et de
+    l’améliorer.
 
 ----
 

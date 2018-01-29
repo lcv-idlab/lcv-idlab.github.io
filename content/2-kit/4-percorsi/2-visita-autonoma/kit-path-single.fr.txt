@@ -1,0 +1,44 @@
+Title: Visite autonome
+
+----
+
+Description: Par l’adoption de mesures spécifiques, il est possible de favoriser sensiblement l’autonomie de visite du public malvoyant. Même si un accompagnement physique par le personnel du musée est toujours souhaité, le fait de mettre en place les mesures suggérées permettra au public aveugle et malvoyant de visiter le musée sans devoir recourir forcément au personnel du musée s’il est accompagné par une personne voyante de confiance. Pour un accès autonome, le fait d’adapter le musée et de développer un design inclusif pour la communication visuelle est essentiel. Pour favoriser l’accès aux œuvres, il est particulièrement important de disposer d’audioguides descriptifs.
+
+----
+
+Article: 
+
+- 
+  section_title: ""
+  content: |
+    Si la proposition de (link: kit/percorsi/visita-guidata-multisensoriale text: visites guidées multisensorielles) est prioritaire, la mise en place de mesures spécifiques permet de favoriser sensiblement l’autonomie de visite du public malvoyant.
+    
+    Même si un accompagnement physique par le personnel du musée est toujours souhaité, le fait de mettre en place les mesures suggérées permettra au public aveugle et malvoyant de visiter le musée sans devoir recourir forcément au personnel du musée s’il est accompagné par une personne voyante de confiance. Pour un accès autonome, le fait d’adapter le musée et de développer un design inclusif pour la communication visuelle est essentiel.
+    
+    Pour favoriser l’accès aux œuvres, il est particulièrement important de disposer d’audioguides descriptifs. Pour faire face à l’exigence d’un audioguide approprié, il est conseillé, par conséquent, de disposer d’un instrument spécifique doté de boutons à chiffres en relief et à contraste chromatique élevé. Les numéros correspondants doivent être affichés aux murs à côté des œuvres sélectionnées, eux aussi en grands caractères à avec un fort contraste chromatique. Une application téléchargeable et utilisable sur smartphone, de manière à pouvoir écouter les pistes sonores descriptives même à distance constitue une alternative.
+    
+    Les audioguides ne doivent pas forcément décrire toutes les œuvres présentes dans l’exposition : il est possible d’offrir au public une sélection.
+    
+    Rappelons que même si l’instrument est approprié, cette solution est utile pour le public malvoyant, mais ne résout pas entièrement le problème pour les personnes aveugles, qui ont besoin dans tous les cas de l’accompagnement d’une personne voyante, ne serait-ce que pour savoir où se trouve l’œuvre décrite par l’audioguide.
+  option_type: plain
+
+----
+
+Links-to-kit: 
+
+- 
+  kit: relazione-con-il-pubblico
+- 
+  kit: design
+- 
+  kit: website
+- 
+  kit: descrizione
+- 
+  kit: guidare-il-visitatore
+- 
+  kit: adattare-il-museo
+
+----
+
+Links-to-resources: 

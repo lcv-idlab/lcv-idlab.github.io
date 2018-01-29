@@ -16,6 +16,10 @@
 
 				<?php $array_length = count(page()->article()->yaml()); $i = 1; ?>	<!-- necessary to close the ul at the last item on the foreach loop if end of a list -->
 
+				<div id="main_description">
+					<?php echo page()->description()->kt() ?>
+				</div>
+
 				<?php $prev = ""; foreach (page()->article()->toStructure() as $item): ?>
 
 					<?php if($item->option_type() == "plain"): ?>
