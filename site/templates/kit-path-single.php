@@ -13,22 +13,45 @@
 			<!-- CONTENT -->
 			<article>
 				<div id="single-article-container">
-				<?php foreach (page()->article()->toStructure() as $item): ?>
+
+				<?php $array_length = count(page()->article()->yaml()); $i = 1; ?>	<!-- necessary to close the ul at the last item on the foreach loop if end of a list -->
+
+				<?php $prev = ""; foreach (page()->article()->toStructure() as $item): ?>
 
 					<?php if($item->option_type() == "plain"): ?>
 
+						<?php if($prev == "list") echo "</ul>"; ?>
+
 					<div class="section-container">
-						<?php echo $article->content()->kt() ?>
+						<?php echo $item->content()->kt() ?>
 					</div>
 
 					<?php elseif($item->option_type() == "list"): ?>
 
+						<?php if($prev != "list"): ?>
+							<ul class="content-list">
+						<?php endif ?>
+
+							<li>
+								<div class="bullet"></div>
+								<h4><?php echo $item->section_title() ?></h4>
+								<?php echo $item->content()->kt() ?>
+							</li>
+
+						<?php if($prev == "list" && $i == $array_length): ?> 	<!-- close the ul if necessary -->
+							</ul>
+						<?php endif ?>
 
 					<?php endif ?>
 
+					<?php $prev = $item->option_type(); $i += 1; ?>
+
 				<?php endforeach ?>
+
 				</div>
+
 			</article>
+
 			<!-- end -->
 
 

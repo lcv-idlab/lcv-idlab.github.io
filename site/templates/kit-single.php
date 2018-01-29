@@ -59,6 +59,7 @@
 			<!-- NEW STRUCTURE -->
 
 			<div id="single-article-container">
+			<?php $array_length = count(page()->article()->yaml()); $i = 1; ?>	<!-- necessary to close the ul at the last item on the foreach loop if end of a list -->
 			<?php $prev = ""; foreach (page()->article()->toStructure() as $item): ?>
 
 				<?php if($item->option_type() == "one"): ?>
@@ -91,8 +92,11 @@
 							<?php echo $item->content()->kt() ?>
 						</li>
 
+						<?php if($prev == "three" && $i == $array_length) echo "</ul>"; ?> 	<!-- close the ul if necessary -->
+							
 				<?php endif ?>
-				<?php $prev = $item->option_type() ?>
+
+				<?php $prev = $item->option_type(); $i += 1; ?>
 
 			<?php endforeach ?>
 

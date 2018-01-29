@@ -25,6 +25,7 @@ fields:
     label: Articolo
     type: structure
     entry:  >
+      <i>{{option_type}}</i><br>
       <b>{{section_title}}</b>
       <p>{{content}}</p>
     fields:

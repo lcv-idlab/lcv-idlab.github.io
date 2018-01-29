@@ -16,6 +16,7 @@ Article:
     Anche se la fruizione a distanza non permette l’incontro diretto con l’opera originale e lo scambio e il dialogo interpersonale tra mediatori e fruitori, poter fruire delle descrizioni delle opere e delle immagini in alta risoluzione (per le persone ipovedenti) attraverso il sito web del museo, può essere dunque d’aiuto.
     
     Tale approccio permette inoltre di stimolare maggiormente gli utenti a spostarsi fisicamente per visitare il museo e le sue esposizioni.
+  option_type: plain
 
 ----
 

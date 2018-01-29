@@ -76,6 +76,54 @@
 			@media screen and (max-width: $bp-menu-mobile) {
 				width: 100% !important;
 			}
+
+			p + p {
+				margin-top: 1rem;
+			}
+
+			p + ul {
+				margin-top: 2rem;
+			}
+
+			ul + p {
+				margin-top: 3rem;
+			}
+
+			.section-container + ul.content-list {
+				margin-top: 2rem;
+			}
+
+			ul.content-list {
+				padding-left: 0;
+
+				li + li {
+					padding-top: 2rem;
+				}
+
+				li {
+					margin-left: 1rem;
+					list-style-type: none;
+
+					.bullet {
+						width: 0.37rem;
+						height: 0.37rem;
+						position: relative;
+						//right: -1rem;
+						top: 0.9rem;
+						left: -1rem;
+						background-color: color(black);
+					}
+
+					h4 {
+						@extend %medium-weight;
+						margin-bottom: 1rem;
+					}
+
+					@extend .text-link;
+
+				}
+			}
+
 		}
 
 		#related-resources {
