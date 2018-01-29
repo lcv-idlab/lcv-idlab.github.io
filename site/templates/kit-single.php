@@ -40,12 +40,23 @@
 						<?php echo l::get('index') ?>
 					</h2>
 					<ul>
-					<?php foreach (page()->article()->toStructure() as $article): ?>
-						<li class="<?php echo $article->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($article->section_title())) ?>"><?php echo $article->section_title() ?></a></li>
+					<?php $prev = ""; $ul_count = 0; foreach (page()->article()->toStructure() as $item): ?>
+					<?php if($prev == "one" && $prev != $item->option_type() || $prev == "two" && $prev != $item->option_type()): ?><?php $ul_count++ ?><ul class="ul_<?php echo $item->option_type() ?>">
+					<?php elseif($prev == "three" && $prev != $item->option_type()): ?><?php $ul_count--?></li></ul></li>
+						<?php if($item->option_type() == "one" && $ul_count == 1): ?></ul>
+						<?php elseif($item->option_type() == "one" && $ul_count == 2): ?></ul></li></ul>
+						<?php endif ?>
+					<?php elseif($prev == $item->option_type()):?></li>
+					<?php endif ?>	<li class="<?php echo $item->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></a><?php $prev = $item->option_type(); ?>
 					<?php endforeach ?>
+					<?php if($ul_count == 2): ?></ul></li></ul></li>
+					<?php elseif($ul_count == 1): ?>
+						<?php if($prev == "three") echo "</ul></li>"; ?>
+					<?php endif ?>
+						
 						<li class="one"><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
-						<li class="back_button_index"><a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>">&lt; <?php echo l::get('back')?></a></li>
 					</ul>
+					<div class="back_button_index"><a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>">&lt; <?php echo l::get('back')?></a></div>
 				</div>
 			</aside>
 			<!-- end: INDEX -->

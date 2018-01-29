@@ -133,6 +133,14 @@
 					margin-bottom: 1rem;
 				}
 
+				.ul_two, .ul_three  {
+					margin-left: 0.5rem;
+				}
+
+				.one + .ul_three {
+					margin-left: 1rem;
+				}
+
 				li {
 
 					&.one {
@@ -141,12 +149,10 @@
 
 					&.two {
 						font-size: 0.9rem;
-						margin-left: 0.5rem;
 					}
 
 					&.three {
 						font-size: 0.8rem;
-						margin-left: 1rem;
 					}
 
 					line-height: 130%;
@@ -166,7 +172,15 @@
 					margin-top: 0.4rem;
 				}
 
-				.three + .two, .three + .one {
+				ul > li {
+					margin-top: 0.5rem;
+				}
+
+				.ul_three + .two, .ul_two + .one, .ul_three + .one {
+					margin-top: 1rem;
+				}
+
+				.one + .one {
 					margin-top: 1rem;
 				}
 
