@@ -6,7 +6,9 @@ Subtitle:
 
 ----
 
-Description: Le presenti linee guida hanno lo scopo di sostenere i professionisti nell’adozione di soluzioni efficaci e facilmente scalabili in grado di facilitare l’accesso ai musei d’arte per le persone con disabilità visive.
+Description: 
+
+Le presenti linee guida hanno lo scopo di sostenere i professionisti nell’adozione di soluzioni efficaci e facilmente scalabili in grado di facilitare l’accesso ai musei d’arte per le persone con disabilità visive.
 
 Offerte sotto forma di kit operativo consultabile online, le linee guida costituiscono uno strumento di lavoro a libera disposizione di operatori museali e mediatori culturali.
 Le soluzioni proposte, sono state selezionate in virtù della loro efficacia nel favorire l’accessibilità e l’inclusione del pubblico di riferimento nella vita culturale e artistica, perché in grado di rispettare allo stesso tempo le necessità specifiche del pubblico e delle istituzioni museali e sulla base delle contenute implicazioni finanziarie e tecniche.
@@ -29,3 +31,24 @@ Orientation: Due parole sul orientamento ....
 ----
 
 Art-pieces: Due parole sulle opere d'arte ....
+
+----
+
+Pdf-full: 4072376043476.pdf
+
+----
+
+Pdf-poster: 6438607863671.pdf
+
+----
+
+Download: 
+
+- 
+  name: Kit completo
+  doc: 4072376043476.pdf
+  img: screen-shot-2018-02-05-at-14.39.15.png
+- 
+  name: Poster del kit
+  doc: 6438607863671.pdf
+  img: screen-shot-2018-02-05-at-14.39.28.png

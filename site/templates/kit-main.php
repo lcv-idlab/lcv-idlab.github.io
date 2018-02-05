@@ -10,7 +10,10 @@
 
 		<header id="main-header">
 			<div class="decoration-wrapper">
-				<div><?php echo page()->description()->kt() ?></div>
+
+				<div id="kit-description" class="description-open"><?php echo page()->description()->kt() ?></div>
+				<div id="more-text"><span><?php echo l::get('more-text') ?></span><span class="hidden-item"><?php echo l::get('less-text') ?></span></div>
+
 			</div>
 		</header>
 
@@ -62,6 +65,23 @@
 
 		<?php endforeach ?>
 		</div>
+
+
+		<section id="documents-download">
+			<div id="download-div-line"></div>
+			<h2>Download</h2>
+
+			<ul>
+				<?php foreach(page()->download()->toStructure() as $item) : ?>
+					<li>
+						<a href="<?php echo page()->document($item->doc())->url() ?>" target="_blank">
+							<img src="<?php echo page()->image($item->img())->url() ?>">
+							<h3><?php echo $item->name() ?></h3>
+						</a>
+					</li>
+				<?php endforeach ?>
+			</ul>
+		</section>
 
 	</main>
 </div>

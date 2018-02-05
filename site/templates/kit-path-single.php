@@ -4,7 +4,10 @@
 	<main id="kit-single" class="path-single-container">
 		<div class="path-single">
 			<div id="kit-title">
-				<a href="/<?php echo $site->language() ?>/kit/percorsi" class="back-button"><?php echo "< ".l::get('back')?></a>
+				
+				<?php $backUrl = '/'.$site->language().'/kit/percorsi/#'.str_replace(" ", "-", strtolower($page->title())); ?>
+
+				<?php snippet('back-link-with-arrow', array('backUrl' => $backUrl)) ?>
 
 				<h1 class="title"><?php echo page()->title()->html() ?></h1>
 				<!-- <div></div> -->
@@ -116,6 +119,8 @@
 			</section>
 			<?php endif ?>
 			<!-- end -->
+
+			<?php snippet('back-link-with-arrow', array('backUrl' => $backUrl)) ?>
 
 		</div>
 

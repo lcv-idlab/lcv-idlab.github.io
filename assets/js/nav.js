@@ -168,13 +168,13 @@ window.onload = function() {
 			if(scroll > last_scroll) {	// scroll down
 				//main_nav.css({'top': -scroll });
 				//scroll_top_pos = main_nav_h;
-				main_nav.removeClass('scrollup');
-				$('main').removeClass('scrollup');
+			//	main_nav.removeClass('scrollup');
+			//	$('main').removeClass('scrollup');
 				//$('#main').removeClass('scrollup');
 				scrollup_val = 0;
 			} else {	// scroll up
-				main_nav.addClass('scrollup');
-				$('main').addClass('scrollup');
+			//	main_nav.addClass('scrollup');
+			//	$('main').addClass('scrollup');
 				//$('#main').addClass('scrollup');
 				scrollup_val = main_nav_h;
 				//main_nav.css({'top': ((scroll_top_pos <= 0) ? 0 : -(scroll_top_pos-=10)});
@@ -213,11 +213,88 @@ window.onload = function() {
 			index.removeClass();
 		}
 	}
-
 	
 };
 
+// once the DOM is loaded (before all the content as images ect) run the code there
+$(document).ready(function() {
 
+	if($('#homepage-kit')) {
+		changeKitsHomepage();
+		setInterval(changeKitsHomepage, 5000);
+	}
+
+	if($('#kit #more-text')) {
+
+		var desc = $('#kit #kit-description');
+
+		var height_closed;
+
+
+		height_closed = desc.height();	// get the height closed (defined by the css)
+
+
+		$('#kit #more-text').click(function() {
+
+			desc.toggleClass("open");
+
+			if(desc.hasClass("open")) {
+				desc.css("height", desc.prop('scrollHeight'));
+			} else {				
+				desc.css("height", height_closed);
+			}
+
+			$('#kit #more-text span').toggleClass("hidden-item");
+
+		});
+
+
+		$(window).resize(function() {
+			if(desc.hasClass("open")) {
+				//desc.css("height", desc.prop('scrollHeight'));
+				desc.css("height", "auto");
+				desc.css("height", desc.prop('scrollHeight'));
+			}
+		});
+
+	}
+
+});
+
+//--- HOMPEGAE KIT CAROUSELL ---//
+
+function changeKitsHomepage() {
+
+	if($('#homepage-kit')) {
+		var kits_list = $('#homepage-kit > ul > li');
+
+		$(kits_list).each(function() {
+			$(this).css({"display": "none", "margin-right" : "4.72458%"});
+		});
+
+		var hide_array = [];
+		var hide_array_length = 4;
+
+		hide_array.length = 0;
+
+		
+		while (hide_array.length < hide_array_length) {
+			var rand_int = Math.floor(Math.random() * 8);
+
+			if(hide_array.indexOf(rand_int) > -1) continue;
+			hide_array[hide_array.length] = rand_int;
+		}
+
+		//console.log(hide_array);
+		
+
+		for(var i=0; i<hide_array.length; i++) {
+			$(kits_list[hide_array[i]]).css("display", "block");
+		}
+
+		$(kits_list[Math.max(...hide_array)]).css("margin-right", "0px");
+	}
+};
 
 
 

@@ -5,12 +5,30 @@
 	#main-header {
 		@include outer-container();
 		@include pads(0 2 0 2);
-		> div {
+		.decoration-wrapper {
 			@extend %kit-main-page-description;
 
-			p + p {
-				margin-top: 1rem;
+			#kit-description {
+				p + p {
+					margin-top: 1rem;
+				}
+
+				height: 15rem;
+				overflow: hidden;
+
+				transition: height 0.5s;
+
 			}
+
+			#more-text {
+				@extend %bold-weight;
+				margin-top: 1rem;
+
+				.hidden-item {
+					display: none;
+				}
+			}
+
 		}
 	}
 
@@ -74,442 +92,48 @@
 
 
 	}
-}
 
+	#documents-download {
 
-
-
-
-
-/*
-
-
-
-
-$tablet: 720px;
-$mobile: 600px;
-$mobile-small: 400px;
-
-	#old_categories-container {
 		@include outer-container();
 		@include pads(0 2 0 2);
-		margin-bottom: 7rem;
+		margin-top: 3rem;
 
-		@media screen and (max-width: $mobile) {
-			padding: 0;
-			margin-bottom: 0;
+		#download-div-line {
+			border-top: 5px solid color(black);
+			width: 7rem;
+			margin-bottom: 1rem;
 		}
 
-		section {
-			@include span-columns(12);
-			@include pads(1.5 0 8 0);
+		h2 {
+			@extend %kits-title;
+			margin-bottom: 3rem;
+		}
 
-			border-top: 2px solid;
-			
-			&:last-child {
-				border-bottom: none;
-				padding-bottom: 0;
-			}
+		ul {
+			li {
+				@include span-columns(6);
 
-			> header {
-				@include span-columns(12 of 12);
-				@include pads(1 1 1 0.5);
-				margin-bottom: 2rem;
-				
-				h2 {
-					@extend %kit-main-categories-title;
-					margin-bottom: 1rem;
-
-					color: #222 !important;
-
-					@media screen and (max-width: $mobile) {
-						margin-left: 2.35765%;
-						position: absolute;
-					}
+				@media screen and (min-width: $bp-medium) {
+					@include span-columns(4);
 				}
 
-				.cat-button-open {
-					display: none;
+				@media screen and (min-width: $bp-large) {
+					@include span-columns(2.5);
 				}
 
-				@media screen and (max-width: $mobile) {
-					@include span-columns(12 of 12);
-					margin-top: 0;
-					padding-bottom: 0;
-
-					position: relative;
-
-					.cat-button-open {
-						position: relative;
-						display: block;
-						width: 3rem;
-						height: 3rem;
-						border-radius: 1.5rem;
-						top: -0.3rem;
-						//margin-top: 2rem;
-						margin-left: auto;
-						margin-right: 0px;
-						cursor: pointer;
-						@include transition(.25s ease-in-out);
-
-						span {
-							display: block;
-							position: absolute;
-							top: 1.9rem;
-							left: 0.2rem;
-							height: 0.2rem;
-							width: 1.3rem;
-							border-radius: 0.1rem;
-							background-color: color(white);
-							opacity: 1;
-						}
-
-						& span:first-child() {
-							@include transform-origin(center right);
-							@include transform(rotate(45deg));
-						}
-
-						& span:last-child() {
-							left: 50%;
-							@include transform-origin(center left);
-							@include transform(rotate(-45deg));
-						}
-						
-						// NOT USED
-
-						&.open span:first-child() {
-							@include transform-origin(top right);
-							@include transform(rotate(-45deg));
-						}
-
-						&.open span:last-child() {
-							left: 50%;
-							@include transform-origin(top left);
-							@include transform(rotate(45deg));
-						}
-						
-						// -> NOT USED
-
-						&.open {
-							@include transform(rotate(180deg));
-						}
-					}
-				}
-			}
-
-
-
-			//--- Categories colors specifications ---//
-
-			&#visita, &#visit, &#visite {
-
-				border-top-color: color(visita);
-
-				header h2, article div div header h3 {
-					@extend %visita;
-				}
-				> header {
-					//border-left: 1rem solid color(visita);
-					.cat-button-open {
-						background-color: color(visita);
-					}
-
-					@media screen and (max-width: $mobile) {
-						border-left: none;
-					}
-				}
-				article .article-content-container {
-					//border: 1px solid color(visita);
+				img {
+					width: 100%;
+					border: 1px solid color(black);
+					margin-bottom: 0.5rem;
 				}
 
-				@media screen and (max-width: $mobile) {
-					border-left: 1rem solid color(visita);
-				}
-
-				aside {
-					//background-color: color(visita-light);
-				}
-			}
-			&#comunicazione, &#communication, &#comunication, &#kommunikation {
-
-				border-top-color: color(comunicazione);
-
-				header h2, article div div header h3 {
-					@extend %comunicazione;
-				}
-				> header {
-					//border-left: 1rem solid color(comunicazione);
-					.cat-button-open {
-						background-color: color(comunicazione);
-					}
-
-					@media screen and (max-width: $mobile) {
-						border-left: none;
-					}
-				}
-				article .article-content-container {
-					//border: 1px solid color(comunicazione);
-				}
-
-				@media screen and (max-width: $mobile) {
-					border-left: 1rem solid color(comunicazione);
-				}
-
-				aside {
-					//background-color: color(comunicazione-light);
-				}
-			}
-			&#opere, &%artpieces {
-
-				border-top-color: color(opere);
-
-				header h2, article div div header h3 {
-					@extend %opere;
-				}
-				> header {
-					//border-left: 1rem solid color(opere);
-					.cat-button-open {
-						background-color: color(opere);
-					}
-
-					@media screen and (max-width: $mobile) {
-						border-left: none;
-					}
-				}
-				article .article-content-container {
-					//border: 1px solid color(opere);
-				}
-
-				@media screen and (max-width: $mobile) {
-					border-left: 1rem solid color(opere);
-				}
-
-				aside {
-					//background-color: color(opere-light);
-				}
-			}
-			&#orientamento, &%orientation, &%orientation {
-
-				border-top-color: color(orientamento);
-
-				header h2, article div div header h3 {
-					@extend %orientamento;
-				}
-				> header {
-					//border-left: 1rem solid color(orientamento);
-					.cat-button-open {
-						background-color: color(orientamento);
-					}
-
-					@media screen and (max-width: $mobile) {
-						border-left: none;
-					}
-				}
-				article .article-content-container {
-					//border: 1px solid color(orientamento);
-				}
-
-				@media screen and (max-width: $mobile) {
-					border-left: 1rem solid color(orientamento);
-				}
-
-				aside {
-					//background-color: color(orientamento-light);
-				}
-			}
-
-			//--- end ---//
-
-			a {
-				@include span-columns(6 of 12);
-
-				article {
-					margin-top: 2rem;
-
-					.article-content-container {
-						@include outer-container();
-						position: relative;
-						height: 100%;
-						min-height: 200px;
-						//border: 1px solid color(gray);
-						//border-top: 1px solid color(grey);
-
-
-						@media screen and (max-width: $mobile-small) {
-							position: static;
-						}
-						
-
-						aside {
-							@include span-columns(6);
-
-							position: absolute;
-							bottom: 0;
-							top: 0;
-							right: 0;
-							height: 100%;
-
-							background-color: none !important;
-
-
-
-
-							img {
-								max-width: 100%;
-								padding: 1rem;
-								display: block;
-								margin-left: auto;
-								margin-right: auto;
-								max-height: 100%;
-
-								@media screen and (max-width: $mobile-small) {
-									max-height: 12rem;
-								}
-							}
-
-							@media screen and (max-width: $mobile-small) {
-								width: 100%;
-								@include span-columns(12);
-								position: static;
-							}
-						}
-
-						> div {
-							@include span-columns(6);
-							margin-top: 1rem;
-							margin-bottom: 1rem;
-							padding-left: 1rem;
-
-							@media screen and (max-width: ($mobile-small)) {
-								@include span-columns(12);
-								padding: 1rem;
-								margin-right: 0;
-							}
-
-							header {
-								@include span-columns(6 of 6);
-								margin-right: 0;
-								h3 {
-									@extend %medium-weight;
-									@extend %kit-title-box;
-									margin-bottom: 1rem;
-									text-decoration: none;
-
-									//
-									color: #111 !important;
-								}
-							}
-						}
-					}
-				}
-			}
-
-			
-			@media screen and (min-width: $mobile) {
-				a:nth-child(even) {
-					margin-right: 0;
-				}
-			}
-
-
-			@media screen and (max-width: $mobile) {
-				@include pads(1 0 2 0);
-
-				&:last-child {
-					border-bottom: none;
-					padding-bottom: 3rem;
-				}
-
-				.single-kits-container {
-
-					@include span-columns(12);
-
-					overflow: hidden;
-					@include transition(height 0.5s ease-in-out);
-					
-					a {
-						@include span-columns(12 of 12);
-						margin-right: 0;
-						@include pads(0 1 0 1);
-						width: 100%;
-					}
-
-					a:first-child {
-						article {
-							border-top: 1px solid color(black);
-							padding-top: 2rem;
-						}
-					}
-
-					&.closed {
-						//a {
-							display: block;
-							//width: 100%;
-							height: 0px;
-							overflow: hidden;
-							@include transition(height 0.5s ease-in);
-						//}
-					}
+				h3 {
+					text-align: center;
 				}
 			}
 		}
 
-		a:link, a:visited, a:hover, a:active {
-			text-decoration: none;
-			color: color(black);
-		}
 	}
-
-	%kit-title-box {
-
-		@include media($x-small) {
-			font-size: 1.5rem;
-			line-height: 1.5rem;
-		}
-		@include media($small) {
-			font-size: 1.5rem;
-			line-height: 1.5rem;
-		}
-		@include media($medium) {
-			font-size: 1.5rem;
-			line-height: 1.75rem;
-		}
-		@include media($large) {
-			font-size: 1.5rem;
-			line-height: 1.75rem;
-		}
-		@include media($desktop) {
-			font-size: 1.5rem;
-			line-height: 1.75rem;
-		}
-	}
-
-	%h2-title-size {
-
-	@media screen and ($x-small) {
-		font-size: 1.5rem;
-	}
-	@include media($small) {
-		font-size: 1.5rem;
-	}
-	@include media($medium) {
-		font-size: 1.5rem;
-	}
-	@include media($large) {
-		font-size: 1.7rem;
-	}
-	@include media($desktop) {
-		font-size: 1.7rem;
-	}
-
-	@extend %regular-weight;
-
 }
 
-
-
-
-
-}
-
-*/

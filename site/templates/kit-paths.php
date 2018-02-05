@@ -15,7 +15,7 @@
 			<ul>
 			<?php foreach ($page->children() as $path): ?>
 
-				<li id="<?php echo $path->title('it') ?>" class="path-single">
+				<li id="<?php echo str_replace(" ", "-", strtolower($path->title())); ?>" class="path-single">
 					<a href="<?php echo $path->url() ?>">
 						<h2><?php echo ucfirst($path->title()) ?></h2>
 						<div class="description"><?php echo shortstring($path->description()->html(), 300) ?></div>

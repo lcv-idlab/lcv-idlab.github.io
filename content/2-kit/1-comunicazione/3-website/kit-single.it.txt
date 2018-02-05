@@ -44,6 +44,58 @@ Article:
     Per questo, oltre ai testi, immagini e video presenti su una pagina, esiste anche una quantità di contenuti nascosti (metadati), parole chiave e codici che permettono la comunicazione tra le applicazioni, la rintracciabilità dei contenuti nei motori di ricerca e lo scambio dei dati tra programmi che permettono di adattarsi ai diversi utenti e migliorare così l’esperienza di fruizione. Poter ascoltare un testo scritto su una pagina web, è un esempio d’interscambio di dati tra applicazioni (pagina html – lettore vocale) che permette anche alle persone cieche e ipovedenti di accedere a contenuti digitali.
   option_type: one
 - 
+  section_title: Gli utenti e le loro necessità
+  content: ""
+  option_type: one
+- 
+  section_title: >
+    Per le persone cieche o fortemente
+    ipovedenti
+  content: |
+    in questi casi la fruizione è interamente determinata dalla struttura della pagina HTML che viene letta dal dispositivo per la lettura audio utilizzato dall’utente. Tutta la parte grafica e visiva presente sulla pagina è tradotta in una descrizione (se presente nel codice). Per essere accessibile la struttura HTML della pagina deve rispettare e utilizzare correttamente gli elementi a disposizione del linguaggio stesso. In particolare l’(link: https://developer.mozilla.org/it/docs/Web/HTML/HTML5 text: HTML5 target: blank) mette a disposizione degli elementi specifici e univoci che permettono di comunicare e indicare la tipologia del contenuto che racchiudono.
+    
+    Citandone alcuni per chiarezza: il tag `<ul>` che indica una lista di elementi, `<article>` un articolo (come se fosse di giornale) completo di intestazione (`<header>`) con titolo e contenuto, `<time>` che racchiude una data e/o ora, `<nav>` una collezione di collegamenti per la navigazione e via dicendo.
+    
+    Grazie a questi contenitori semantici e alla struttura gerarchica della pagina, le persone cieche possono navigare agevolmente con i diversi programmi e dispositivi di lettura vocale, spostandosi per tipologia d’interesse, tramite i link della pagina o la barra di navigazione.
+    Perché questo accada, la programmazione della pagina deve essere fatta correttamente. Come suggerimento, cercare di relegare al tag generico `<div>` (che non porta nessuna informazione semantica) la funzione di strutturare il codice e poterci applicare il layout grafico (via CSS).
+    
+    Un altro aspetto importante è che tutti gli elementi, anche quelli di natura visiva come per esempio le immagini o gli elementi di navigazione, devono avere un testo alternativo che li descriva; un'icona di navigazione (per esempio il menu, o una freccia per tornare alla pagina precedente) se non adeguatamente descritta nel codice, non è infatti leggibile dal lettore vocale e risulta dunque non fruibile dagli utenti ciechi.
+    
+    La descrizione stessa deve evitare le ridondanze; nella descrizione di un'immagine non è necessario dire che “L’immagine selezionata mostra una persona …” perché tramite il tag `<img>` che la pagina HTML usa per visualizzare l’immagine stessa già viene indicato al lettore vocale la sua natura, rendendo pertanto inutile la (link: http://mci.supsi.ch/it/kit/opere/descrizione text: descrizione aggiuntiva).
+    
+    Per rendere accessibile la gerarchia nella pagina stessa, bisogna utilizzare correttamente i tag `<h1>`, `<h2>`, ecc. Il titolo principale della pagina deve essere indicato dal tag `<h1>` e deve essere usato una volta sola per pagina. Il tag `<h2>` è destinato al sottotitolo e gli altri a seguire per importanza (`<h1>` … `<h6>`).
+    
+    Alcuni elementi necessari per la navigazione o comprensione del contenuto possono essere aggiunti al codice, ma se non si desidera la loro presenza visiva nella pagina, basta “nasconderli” tramite CSS.
+  option_type: three
+- 
+  section_title: Per le persone ipovedenti
+  content: |
+    le tipologie di problema visivo sono molto variegate e ognuna richiederebbe un accorgimento specifico, a volte opposto o in contrasto con le altre tipologie. Molte sono le applicazioni, dispositivi e programmi che supportano le persone ipovedenti nella fruizione del web (e della lettura in generale), e ognuno è specifico alla patologia riscontrata. Oltre a tenere conto delle linee guida per un (link: http://mci.supsi.ch/it/kit/comunicazione/design text: design inclusivo per la comunicazione visiva) è bene prendere in considerazione alcuni ulteriori elementi specifici per il web.
+    
+    In primo luogo, il sito web deve essere “responsive”, cioè adattarsi e riposizionare gli elementi della pagina in funzione del dispositivo utilizzato (spazio a disposizione e dimensione dello schermo).
+    
+    Tutto il contenuto del sito deve poter essere ingrandito anche sui dispositivi (assicurarsi che funzioni anche su tablet e smartphone) per permettere di vedere meglio immagini e testi. Conseguentemente a questa necessità di ingrandimento, gli elementi (in modo particolare il menu di navigazione) devono poter essere scrollabili quando ingranditi. In questo senso, la loro posizione nella pagina non deve essere casuale, soprattutto per ciò che concerne gli elementi chiave come la navigazione.
+    
+    La lettura occidentale da sinistra a destra, dall’alto in basso, dà prevalenza alla parte sinistra della pagina, e quindi è importante posizionare in questa porzione le parti fondamentali che se posizionate invece sulla destra, potrebbero sfuggire.
+  option_type: three
+- 
+  section_title: Per le persone vedenti
+  content: >
+    se un’informazione digitale è
+    accessibile per le persone cieche e
+    ipovedenti, lo è anche per le persone
+    vedenti. Le indicazioni e considerazioni
+    indicate sono valide per tutto il
+    pubblico, in quanto permettono a ogni
+    tipologia di utenti di avere
+    un’esperienza ottimale. Inoltre,
+    l’applicazione degli standard web e la
+    completezza delle informazioni
+    permettono l’interscambio dei dati
+    aumentando così anche la longevità di
+    un sito.
+  option_type: three
+- 
   section_title: >
     Progettazione del sito, struttura e
     gerarchia dei contenuti
@@ -82,60 +134,6 @@ Article:
     
     Per verificare la qualità di un sito web, sono presenti numerosi standard per l’accessibilità (link: https://www.w3.org text: W3C target: blank), anche specifici per persone ipovedenti (vedi referenze bibliografiche). Per ciò che concerne l’analisi specifica del livello di accessibilità dei siti web dei musei, è possibile inoltre fare riferimento ai criteri di accessibilità identificati in occasione delle (link: http://mci.supci.ch/it/risorse/analisi-istituzionali text: analisi istituzionali) e agli strumenti di analisi suggeriti nella risorsa.
   option_type: one
-- 
-  option_type: one
-  section_title: Gli utenti e le loro necessità
-  content: ""
-- 
-  option_type: three
-  section_title: >
-    Per le persone cieche o fortemente
-    ipovedenti
-  content: |
-    in questi casi la fruizione è interamente determinata dalla struttura della pagina HTML che viene letta dal dispositivo per la lettura audio utilizzato dall’utente. Tutta la parte grafica e visiva presente sulla pagina è tradotta in una descrizione (se presente nel codice). Per essere accessibile la struttura HTML della pagina deve rispettare e utilizzare correttamente gli elementi a disposizione del linguaggio stesso. In particolare l’(link: https://developer.mozilla.org/it/docs/Web/HTML/HTML5 text: HTML5 target: blank) mette a disposizione degli elementi specifici e univoci che permettono di comunicare e indicare la tipologia del contenuto che racchiudono.
-    
-    Citandone alcuni per chiarezza: il tag `<ul>` che indica una lista di elementi, `<article>` un articolo (come se fosse di giornale) completo di intestazione (`<header>`) con titolo e contenuto, `<time>` che racchiude una data e/o ora, `<nav>` una collezione di collegamenti per la navigazione e via dicendo.
-    
-    Grazie a questi contenitori semantici e alla struttura gerarchica della pagina, le persone cieche possono navigare agevolmente con i diversi programmi e dispositivi di lettura vocale, spostandosi per tipologia d’interesse, tramite i link della pagina o la barra di navigazione.
-    Perché questo accada, la programmazione della pagina deve essere fatta correttamente. Come suggerimento, cercare di relegare al tag generico `<div>` (che non porta nessuna informazione semantica) la funzione di strutturare il codice e poterci applicare il layout grafico (via CSS).
-    
-    Un altro aspetto importante è che tutti gli elementi, anche quelli di natura visiva come per esempio le immagini o gli elementi di navigazione, devono avere un testo alternativo che li descriva; un'icona di navigazione (per esempio il menu, o una freccia per tornare alla pagina precedente) se non adeguatamente descritta nel codice, non è infatti leggibile dal lettore vocale e risulta dunque non fruibile dagli utenti ciechi.
-    
-    La descrizione stessa deve evitare le ridondanze; nella descrizione di un'immagine non è necessario dire che “L’immagine selezionata mostra una persona …” perché tramite il tag `<img>` che la pagina HTML usa per visualizzare l’immagine stessa già viene indicato al lettore vocale la sua natura, rendendo pertanto inutile la (link: http://mci.supsi.ch/it/kit/opere/descrizione text: descrizione aggiuntiva).
-    
-    Per rendere accessibile la gerarchia nella pagina stessa, bisogna utilizzare correttamente i tag `<h1>`, `<h2>`, ecc. Il titolo principale della pagina deve essere indicato dal tag `<h1>` e deve essere usato una volta sola per pagina. Il tag `<h2>` è destinato al sottotitolo e gli altri a seguire per importanza (`<h1>` … `<h6>`).
-    
-    Alcuni elementi necessari per la navigazione o comprensione del contenuto possono essere aggiunti al codice, ma se non si desidera la loro presenza visiva nella pagina, basta “nasconderli” tramite CSS.
-
-- 
-  option_type: three
-  section_title: Per le persone ipovedenti
-  content: |
-    le tipologie di problema visivo sono molto variegate e ognuna richiederebbe un accorgimento specifico, a volte opposto o in contrasto con le altre tipologie. Molte sono le applicazioni, dispositivi e programmi che supportano le persone ipovedenti nella fruizione del web (e della lettura in generale), e ognuno è specifico alla patologia riscontrata. Oltre a tenere conto delle linee guida per un (link: http://mci.supsi.ch/it/kit/comunicazione/design text: design inclusivo per la comunicazione visiva) è bene prendere in considerazione alcuni ulteriori elementi specifici per il web.
-    
-    In primo luogo, il sito web deve essere “responsive”, cioè adattarsi e riposizionare gli elementi della pagina in funzione del dispositivo utilizzato (spazio a disposizione e dimensione dello schermo).
-    
-    Tutto il contenuto del sito deve poter essere ingrandito anche sui dispositivi (assicurarsi che funzioni anche su tablet e smartphone) per permettere di vedere meglio immagini e testi. Conseguentemente a questa necessità di ingrandimento, gli elementi (in modo particolare il menu di navigazione) devono poter essere scrollabili quando ingranditi. In questo senso, la loro posizione nella pagina non deve essere casuale, soprattutto per ciò che concerne gli elementi chiave come la navigazione.
-    
-    La lettura occidentale da sinistra a destra, dall’alto in basso, dà prevalenza alla parte sinistra della pagina, e quindi è importante posizionare in questa porzione le parti fondamentali che se posizionate invece sulla destra, potrebbero sfuggire.
-
-- 
-  option_type: three
-  section_title: Per le persone vedenti
-  content: >
-    se un’informazione digitale è
-    accessibile per le persone cieche e
-    ipovedenti, lo è anche per le persone
-    vedenti. Le indicazioni e considerazioni
-    indicate sono valide per tutto il
-    pubblico, in quanto permettono a ogni
-    tipologia di utenti di avere
-    un’esperienza ottimale. Inoltre,
-    l’applicazione degli standard web e la
-    completezza delle informazioni
-    permettono l’interscambio dei dati
-    aumentando così anche la longevità di
-    un sito.
 
 ----
 

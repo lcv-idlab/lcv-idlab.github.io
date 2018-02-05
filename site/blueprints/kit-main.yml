@@ -7,7 +7,7 @@ options:
   preview: true
   status: true
   url: false
-  template: false
+  template: true
 
 // subpages settings
 pages: true
@@ -27,3 +27,24 @@ fields:
   description:
     label: Descrizione
     type: textarea
+  download:
+    label: Documenti scaricabili
+    type: structure
+    entry: >
+      <b>{{name}}</b><br>
+      {{doc}}<br>
+      {{img}}
+    fields:
+      name:
+        label: Nome del documento
+        type: text
+      doc:
+        label: Seleziona il documento
+        type: select
+        default: architecture
+        options: documents
+      img:
+        label: Immagine del documento per anteprima sul sito
+        type: select
+        default: architecture
+        options: images

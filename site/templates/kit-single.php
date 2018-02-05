@@ -4,7 +4,12 @@
 	<main id="kit-single" class="<?php echo page()->parent()->title('it') ?>">
 		<div id="title-bar">
 			
-			<a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>" class="back-button">&lt; <?php echo l::get('back')?></a>
+			<!-- The url of the parent page with the right hight positon -->
+			<?php $url = $page->parent()->url(); $backUrl = '/'.$site->language().'/kit/#'.substr($url, (strripos($url, '/'))+1 ); ?>
+
+
+			<?php snippet('back-link-with-arrow', array('backUrl' => $backUrl)) ?>
+
 
 			<header>
 				<div id="kit-title">
@@ -56,7 +61,10 @@
 						
 						<li class="one"><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
 					</ul>
-					<div class="back_button_index"><a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>">&lt; <?php echo l::get('back')?></a></div>
+					<div class="back_button_index">
+						<div class="h-line-index-back"></div>
+						<?php snippet('back-link-with-arrow', array('backUrl' => $backUrl)) ?>
+					</div>
 				</div>
 			</aside>
 			<!-- end: INDEX -->
@@ -125,8 +133,10 @@
 
 			<!-- PDF of the article -->
 			<?php if(page()->pdf_article()->isNotEmpty()): ?>
-				<div id="container-button-article-pdf">
-					<a href="<?php echo page()->document(page()->pdf_article())->url() ?>" target="_blank"><div class="button"><?php echo l::get('pdf-article') ?></div></a>
+				<div class="section-h-line"></div>
+				<div class="section-container" id="container-button-article-pdf">
+					<h2><?php echo l::get('download-pdf-kit-single') ?></h2>
+					<a href="<?php echo page()->document(page()->pdf_article())->url() ?>" target="_blank"><div class="button"><?php echo page()->title() ?></div></a>
 				</div>
 			<?php endif ?>
 			</div>
@@ -209,7 +219,7 @@
 		<?php endif ?>
 		<!-- end: MORE -->
 
-		<a href="/<?php echo $site->language() ?>/kit/#<?php $url = $page->parent()->url(); $pos = strripos($url, '/'); echo substr($url, $pos+1); ?>" class="back-button">&lt; <?php echo l::get('back')?></a>
+		<?php snippet('back-link-with-arrow', array('backUrl' => $backUrl)) ?>
 
 		<!-- load the lightbox script -->
 		<?php echo js('assets/js/lightbox.js'); ?>

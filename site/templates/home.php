@@ -2,31 +2,16 @@
 
 	<main id="main">
 
-		<h1 class="home-main-title desktop"><?php echo $site->subtitle() ?></h1>
-		<h1 class="home-main-title mobile"><?php echo $site->second_title() ?></h1>
+		<h1 class="visuallyhidden">Mediazione Cultura Inclusione</h1>
 
-		<div id="home-top-content">
-			<h2><?php echo page()->main_subtitle() ?></h2>
-		</div>
+		<?php snippet('homepage-kit') ?>
 
 		<section id="kit-part">
+			<div class="top-line"></div>
+			<h2><?php echo page()->main_subtitle() ?></h2>
 
 			<a href="<?php echo page('kit')->url() ?>">
-				<article>
-					<h3>kit</h3>
-					<div class="decoration-wrapper">
-
-						<div id="kit-list-icons">
-							<img src="/content/2-kit/2-opere/1-descrizione/descrivere-le-opere.png" id="one" alt="">
-							<img src="/content/2-kit/1-comunicazione/2-design/design-inclusivo.png" id="two" alt="">
-							<img src="/content/2-kit/3-orientation/1-guidare-il-visitatore/accompagnare-il-visitatore.png" id="three" alt="">
-						</div>
-
-
-						<div id="kit-home-descritpion"><?php echo page()->kit_intro()->kt() ?></div>
-
-					</div>
-				</article>
+				<div id="kit-home-descritpion"><?php echo page()->kit_intro()->kt() ?></div>
 			</a>
 			
 			<div id="condividi">

@@ -9,12 +9,14 @@
 	// kit main
 	l::set('kit', 'kit');
 	l::set('paths', 'percorsi');
+	l::set('more-text', '> di più');
+	l::set('less-text', '< di meno');
 
 	// kit single
 	l::set('index', 'indice');
 	l::set('more', 'Continua a leggere');
 	l::set('evaluate', 'Valutare');
-	l::set('pdf-article', "Scarica l'articolo");
+	l::set('download-pdf-kit-single', "Scarica la scheda");
 	l::set('pdf-evaluation', 'Scarica la valutazione');
 
 	// kit path single

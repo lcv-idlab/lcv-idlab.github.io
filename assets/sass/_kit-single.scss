@@ -102,6 +102,28 @@
 		}
 	}
 
+	.back-button {
+		.back-arrow-ico {
+			width: 1.3rem;
+			height: 1.3rem;
+			display: inline-block;
+			background-image: url("../../../assets/images/back-arrow-link.svg");
+			background-size: 1.3rem;
+			position: relative;
+			top: 0.16rem;
+		}
+
+		span {
+			display: inline-block;
+		}
+
+		&:hover {
+			.back-arrow-ico {
+				background-image: url("../../../assets/images/back-arrow-hover.svg");
+			}
+		}
+	}
+
 	article {
 		@include outer-container();
 		@include pads(0 2 7 2);
@@ -190,9 +212,23 @@
 
 				.back_button_index {
 					margin-top: 2rem;
-					font-size: 1rem;
-					a {
-						border-top: 1px solid color(grey);
+
+					.h-line-index-back {
+						width: 5rem;
+						height: 1px;
+						background-color: color(main-grey-light);
+					}
+
+					.back-button {
+						font-size: 1rem;
+						padding-left: 0;
+
+						.back-arrow-ico {
+							width: 1rem;
+							height: 1rem;
+							background-size: 1rem;
+							top: 0.15rem;
+						}
 					}
 				}
 			}
