@@ -39,7 +39,7 @@
 
 			<!-- INDEX -->
 			<aside>
-				&nbsp;
+				<div id="technical-content">&nbsp;</div>
 				<div id="index_menu">
 					<h2>
 						<?php echo l::get('index') ?>
@@ -52,14 +52,14 @@
 						<?php elseif($item->option_type() == "one" && $ul_count == 2): ?></ul></li></ul>
 						<?php endif ?>
 					<?php elseif($prev == $item->option_type()):?></li>
-					<?php endif ?>	<li class="<?php echo $item->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></a><?php $prev = $item->option_type(); ?>
+					<?php endif ?><li class="<?php echo $item->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php if($item->option_type() == "three"): ?><div class="bullet"></div><?php elseif($item->option_type() == "one"): ?><div class="section-h-line"></div><?php endif ?><?php echo $item->section_title()->kt() ?></a><?php $prev = $item->option_type(); ?>
 					<?php endforeach ?>
 					<?php if($ul_count == 2): ?></ul></li></ul></li>
 					<?php elseif($ul_count == 1): ?>
 						<?php if($prev == "three") echo "</ul></li>"; ?>
 					<?php endif ?>
-						
-						<li class="one"><a href="#evaluate"><?php echo l::get('evaluate') ?></a></li>
+
+						<li class="one"><a href="#evaluate"><div class="section-h-line"></div><?php echo l::get('evaluate') ?></a></li>
 					</ul>
 					<div class="back_button_index">
 						<div class="h-line-index-back"></div>
@@ -87,9 +87,9 @@
 
 					<?php if($prev != "") echo "</div>"; ?> <!-- closing the "section-container" div -->
 
-					<div class="section-h-line"></div>
+					<div id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>" class="section-h-line"></div>
 					<div class="section-container">
-					<h2 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h2>
+					<h2><?php echo $item->section_title() ?></h2>
 					<?php echo $item->content()->kt() ?>
 
 				<?php elseif($item->option_type() == "two"): ?>
@@ -122,9 +122,9 @@
 			</div>
 
 			<!-- evaluation block -->
-			<div class="section-h-line"></div>
+			<div id="evaluate" class="section-h-line"></div>
 			<div class="section-container evaluate">
-				<h2  id="evaluate"><?php echo l::get('evaluate') ?></h2>
+				<h2><?php echo l::get('evaluate') ?></h2>
 				<?php echo page()->parent()->verify()->kt() ?>
 				<div id="article_end"></div>
 			</div>
@@ -162,7 +162,7 @@
 
 									if($item->uid() == $uid) {
 										echo "<li><a href='".$item->url()."'>";
-										echo "<h3>".$item->title()."</h3>";
+										echo "<h3><span>".$item->title()."</span></h3>";
 										echo "<p class='resource-description'>".shortstring($item->short()->html(), 300)."</p>";
 										echo "<div class='resource-image'><img src='".$item->image($item->main_image())->url()."'></div>";
 										echo "</a></li>";

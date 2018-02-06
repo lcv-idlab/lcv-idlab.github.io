@@ -493,7 +493,7 @@ p, .text-link {
     @include span-columns(8);
   }
 
-  > div {
+  > div:first-of-type {
     
     &:before {
       content: "";

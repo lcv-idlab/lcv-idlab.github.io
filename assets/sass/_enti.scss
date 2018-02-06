@@ -11,7 +11,7 @@
 		padding-top: 1rem;
 	}
 	li {
-		padding-top: 2rem;
+		padding-top: 0rem;
 
 		@include media($x-small) {
 			@include span-columns(2);

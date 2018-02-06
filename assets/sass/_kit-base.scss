@@ -52,6 +52,11 @@
 		@include span-columns(12);
 		margin-bottom: 3rem;
 
+		&:hover .kit-icon img {
+			transform: translateY(-0.3rem);
+
+		}
+
 		h3 {
 			@extend %kits-title;
 			margin-bottom: 1rem;
@@ -62,6 +67,7 @@
 			text-align: center;
 			img {
 				max-width: 230px;
+				transition: 0.2s;
 			}
 		}
 

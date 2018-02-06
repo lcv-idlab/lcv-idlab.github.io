@@ -48,7 +48,3 @@ Download:
   name: Kit completo
   doc: 4072376043476.pdf
   img: screen-shot-2018-02-05-at-14.39.15.png
-- 
-  name: Poster del kit
-  doc: 6438607863671.pdf
-  img: screen-shot-2018-02-05-at-14.39.28.png

@@ -34,6 +34,10 @@
 				text-decoration: none;
 			}
 
+			&:hover h2 span {
+				border-bottom: 1px solid color(black);
+			}
+
 			h2 {
 				@extend %kits-title;
 			}
@@ -147,6 +151,10 @@
 				li {
 					@include span-columns(12);
 					margin-bottom: 3rem;
+
+					&:hover h3 span {
+						border-bottom: 1px solid color(black);
+					}
 
 					h3 {
 						@extend %kits-title;

@@ -17,7 +17,7 @@
 
 				<li id="<?php echo str_replace(" ", "-", strtolower($path->title())); ?>" class="path-single">
 					<a href="<?php echo $path->url() ?>">
-						<h2><?php echo ucfirst($path->title()) ?></h2>
+						<h2><span><?php echo ucfirst($path->title()) ?></span></h2>
 						<div class="description"><?php echo shortstring($path->description()->html(), 300) ?></div>
 
 						<div class="path-related-images">

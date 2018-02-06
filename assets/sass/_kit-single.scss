@@ -4,7 +4,7 @@
 
 	//--- Categories colors specifications ---//
 	&.comunicazione {
-		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2, article aside #index_menu li.one .section-h-line {
 			border-color: color(comunicazione);
 		}
 
@@ -14,7 +14,7 @@
 	}
 
 	&.opere {
-		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2, article aside #index_menu li.one .section-h-line {
 			border-color: color(opere);
 		}
 		article blockquote p:after, article blockquote p:before {
@@ -23,7 +23,7 @@
 	}
 
 	&.orientamento {
-		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2 {
+		article #single-article-container .section-h-line, #more-articles > div h2, #more-articles h2, article aside #index_menu li.one .section-h-line {
 			border-color: color(orientamento);
 		}
 		article blockquote p:after, article blockquote p:before {
@@ -131,6 +131,10 @@
 		aside {
 			@include span-columns(4);
 
+			#technical-content {
+				height: 1px;
+			}
+
 			#index_menu{
 				&.fix {
 					@include span-columns(4);
@@ -150,16 +154,30 @@
 				}
 
 				h2 {
-					@extend %back-button;
+					@extend %regular-weight;
+					@extend %medium-size;
 					color: color(main-gray);
-					margin-bottom: 1rem;
+					margin-bottom: 2rem;
 				}
 
-				.ul_two, .ul_three  {
+				.ul_two {
 					margin-left: 0.5rem;
 				}
 
 				.one + .ul_three {
+					//margin-left: 2rem;
+				}
+
+				.two + .two {
+					margin-top: 1rem;
+				}
+
+				.one a + .ul_two {
+					margin-top: 1rem;
+				}
+
+				.ul_three {
+					margin-top: 0.5rem;
 					margin-left: 1rem;
 				}
 
@@ -167,14 +185,33 @@
 
 					&.one {
 						font-size: 1rem;
+
+						.section-h-line {
+							border-top: 2px solid;
+							width: 4rem;
+							margin-bottom: 0.2rem;
+						}
 					}
 
 					&.two {
-						font-size: 0.9rem;
+						font-size: 1rem;
 					}
 
 					&.three {
 						font-size: 0.8rem;
+						position: relative;
+						margin-top: 0.1rem;
+						
+						.bullet {
+							width: 0.37rem;
+							height: 0.37rem;
+							position: absolute;
+							//right: -1rem;
+							top: 0.35rem;
+							left: -1rem;
+							background-color: color(gray);
+						}
+
 					}
 
 					line-height: 130%;
@@ -191,15 +228,11 @@
 				}
 
 				li + li {
-					margin-top: 0.4rem;
+					//margin-top: 0.4rem;
 				}
 
 				ul > li {
-					margin-top: 0.5rem;
-				}
-
-				.ul_three + .two, .ul_two + .one, .ul_three + .one {
-					margin-top: 1rem;
+					//margin-top: 0.5rem;
 				}
 
 				.one + .one {

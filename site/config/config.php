@@ -58,7 +58,7 @@ c::set('languages', array(
 
 
 // automatically detect the language
-//c::set('language.detect', true);
+c::set('language.detect', true);
 
 // Activate extra markdown features
 // https://michelf.ca/projects/php-markdown/extra/

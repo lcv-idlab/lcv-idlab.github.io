@@ -15,6 +15,12 @@ a.resource-link {
 	}
 }
 
+.container-boxes li:hover, #related-resources #single-resources li:hover {
+	.resource-link, a h3 span {
+		border-bottom: 1px solid color(brand);
+	}
+}
+
 
 .button-download {
 	@include span-columns(4 of 4);

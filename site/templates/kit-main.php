@@ -11,8 +11,13 @@
 		<header id="main-header">
 			<div class="decoration-wrapper">
 
-				<div id="kit-description" class="description-open"><?php echo page()->description()->kt() ?></div>
-				<div id="more-text"><span><?php echo l::get('more-text') ?></span><span class="hidden-item"><?php echo l::get('less-text') ?></span></div>
+					<div id="kit-description" class="description-open"><?php echo page()->description()->kt() ?></div>
+
+					<div id="more-text"><span><?php echo l::get('more-text') ?></span><span class="hidden-item"><?php echo l::get('less-text') ?></span></div>
+					
+					<div class="linear-gradient"></div>
+
+					
 
 			</div>
 		</header>
