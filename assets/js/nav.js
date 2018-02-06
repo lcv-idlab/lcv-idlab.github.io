@@ -233,14 +233,78 @@ window.onload = function() {
 	
 };
 
-// once the DOM is loaded (before all the content as images ect) run the code there
+// once the DOM is loaded (before all the content as images ect) run the code here
 $(document).ready(function() {
 
 	if($('#homepage-kit')) {
-		changeKitsHomepage();
-		setInterval(changeKitsHomepage, 5000);
+
+		var kits_com = $('#homepage-kit > ul > li.comunicazione');
+		var kits_op = $('#homepage-kit > ul > li.opere');
+		var kits_or = $('#homepage-kit > ul > li.orientamento');
+
+		class HomeKit {
+			constructor(array) {
+				this.array = array;
+				this.old_pick = Math.floor(Math.random() * array.length);
+				this.interval = this.setInterval();
+			}
+
+			print() {
+				console.log(this.array);
+				console.log(this.old_pick);
+			}
+
+			hideAll() {
+				this.array.each(function() {
+					$(this).css({"display" : "none"});
+				});
+			}
+
+			showAll() {
+				this.array.each(function() {
+					$(this).css({"display" : "block"});
+				});
+			}
+
+			pickRandom() {
+				var pick = this.old_pick;
+
+				while (pick == this.old_pick) {
+					pick = Math.floor(Math.random() * this.array.length);
+				}
+
+				this.hideAll();
+
+				this.old_pick = pick;
+
+				$(this.array[pick]).css({"display" : "block"});
+
+				console.log("old_pick: " + this.old_pick);
+
+				
+				
+			}
+
+			setInterval() {
+				clearInterval(this.interval);
+				return setInterval(function() {this.pickRandom()}, this.setIntervalTime());
+			}
+
+			setIntervalTime() {
+				var new_interval = Math.floor(Math.random() * 3000 ) + 2000;
+
+				console.log(new_interval);
+
+				return new_interval;
+			}
+		}
+
+		var com = new HomeKit(kits_com);
+
 	}
 
+
+	// KIT PAGE SINGLE "READ MORE DESCRIPTION"
 	if($('#kit #more-text')) {
 
 		var desc = $('#kit #kit-description');
@@ -275,13 +339,45 @@ $(document).ready(function() {
 				desc.css("height", desc.prop('scrollHeight'));
 			}
 		});
-
 	}
 
 });
 
+
+function updateAll() {
+	console.log("ciao");
+};
+
 //--- HOMPEGAE KIT CAROUSELL ---//
 
+function hideKitsHomepage(list) {
+	$(list).each(function() {
+		$(this).css({"display" : "none"});
+	});
+};
+
+function pickRandomKitHomepage(array) {
+
+	old_in = array[array.length - 1];
+
+	console.log("old_in: " + old_in);
+	
+	var pick = old_in;
+
+	while (pick == old_in) {
+		pick = Math.floor(Math.random() * array.length);
+	}
+
+	$(array[pick]).css("display", "block");
+
+	//array[array.length - 1] = pick;
+
+	console.log("pick: " + pick);
+}
+
+/*
+
+// not used anymore... list of 4 random kit without doubles
 function changeKitsHomepage() {
 
 	if($('#homepage-kit')) {
@@ -315,5 +411,6 @@ function changeKitsHomepage() {
 	}
 };
 
+*/
 
 
