@@ -52,7 +52,6 @@
 	ul {
 
 		li {
-			@include span-columns(4);
 
 			&.orientamento {
 				margin-right: 0;
@@ -64,23 +63,44 @@
 				transform: translateY(-10px);
 			}
 
-			@media screen and (min-width: $bp-medium) {
-				@include span-columns(3);
-				
-			}
 			min-height: 120%;
 			display: block;
 
-			img {
+			a {
 				width: 100%;
+				display: table;
+				text-align: center;
+				
+				img {
+					margin-right: auto;
+					margin-left: auto;
+					width: 100%;
+					max-width: 230px;
+					display: table-row;
+				}
+
+				p {
+					@extend %medium-weight;
+					height: 2rem;
+					text-align: center;
+					color: color(black);
+					display: table-row;
+				}
 			}
 
-			p {
-				@extend %medium-weight;
-				height: 2rem;
-				text-align: center;
-				color: color(black);
+			@include span-columns(12);
+
+			@media screen and (min-width: $bp-small) {
+				@include span-columns(4);
 			}
+
+			@media screen and (min-width: $bp-medium) {
+				@include span-columns(3);
+			}
+
+			
+
+			
 		}
 	}
 }

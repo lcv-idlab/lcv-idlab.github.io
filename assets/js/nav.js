@@ -247,10 +247,11 @@ $(document).ready(function() {
 		class HomeKit {
 			constructor(array) {
 				this.array = array;
-				this.old_pick = Math.floor(Math.random() * array.length);
+				this.old_pick = [(Math.floor(Math.random() * array.length)), (Math.floor(Math.random() * array.length))];
 				this.interval = Math.floor(Math.random() * 3000 ) + 3000;
 				this.mouse_over = false;
-				this.pickRandom();
+				this.init();
+				//this.pickRandom();
 			}
 
 			hideAll() {
@@ -259,38 +260,76 @@ $(document).ready(function() {
 				});
 			}
 
+			init() {
+				this.hideAll();
+				$(this.array[this.old_pick[0]]).fadeIn(500);
+
+			}
+
 			pickRandom() {
 
 				if(!this.mouse_over) {
-					var pick = this.old_pick;
 
-					while (pick == this.old_pick) {
-						pick = Math.floor(Math.random() * this.array.length);
+					// old_pick[0] => new value, old_pick[1] => old value 
+					this.old_pick[1] = this.old_pick[0];
+
+					while (this.old_pick[0] == this.old_pick[1]) {
+						this.old_pick[0] = Math.floor(Math.random() * this.array.length);
 					}
-
-					this.hideAll();
-					this.old_pick = pick;
-					$(this.array[pick]).css({"display" : "block"});
 				}
 			}
 		}
 		
-		var com = new HomeKit(kits_com);
-		var op = new HomeKit(kits_op);
-		var or = new HomeKit(kits_or);
-		//var all = new HomeKit(kits_all);
+		var com, op, or, all, aut_com, aut_op, aut_or, aut_all;
 
-		setAutomation(com);
-		setAutomation(op);
-		setAutomation(or);
+		if(window.innerWidth > 600) {		// when loading the page
+			com = new HomeKit(kits_com);
+			op = new HomeKit(kits_op);
+			or = new HomeKit(kits_or);
+			aut_com = setAutomation(com);
+			aut_op = setAutomation(op);
+			aut_or = setAutomation(or);
+		} else {
+			all = new HomeKit(kits_all);
+			aut_all = setAutomation(all);
+		}
+
+		var trigger = false;				// when the page is resized
+
+		$(window).resize(function() {
+			if(window.innerWidth > 600 && !trigger) {
+				trigger = true;
+				clearAutomation(all, aut_all);
+				com = new HomeKit(kits_com);
+				op = new HomeKit(kits_op);
+				or = new HomeKit(kits_or);
+				aut_com = setAutomation(com);
+				aut_op = setAutomation(op);
+				aut_or = setAutomation(or);
+			} else if(window.innerWidth <= 600 && trigger) {
+				trigger = false;
+				clearAutomation(com, aut_com);
+				clearAutomation(op, aut_op);
+				clearAutomation(or, aut_or);
+				all = new HomeKit(kits_all);
+				aut_all = setAutomation(all);
+			}
+		});
+
 
 		function setAutomation(array) {
-			setInterval(function() { array.pickRandom(); }, array.interval);
-
 			for (var i=0; i < array.array.length; i++) {
 				$(array.array[i]).mouseover(function() { array.mouse_over = true; });
 				$(array.array[i]).mouseout(function() { array.mouse_over = false; });
 			}
+
+			return setInterval(function() { array.pickRandom(); $(array.array[array.old_pick[1]]).fadeOut(500, function() { $(array.array[array.old_pick[0]]).fadeIn(500); });}, array.interval);
+		}
+
+		function clearAutomation(array, aut) {
+			clearInterval(aut);
+			array.hideAll();
+			array = null;
 		}
 
 	}
