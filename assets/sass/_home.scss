@@ -52,7 +52,24 @@
 	ul {
 
 		li {
-			@include span-columns(3);
+			@include span-columns(4);
+
+			&.orientamento {
+				margin-right: 0;
+			}
+
+			transition: 0.4s transform;
+
+			&:hover {
+				transform: translateY(-10px);
+			}
+
+			@media screen and (min-width: $bp-medium) {
+				@include span-columns(3);
+				
+			}
+			min-height: 120%;
+			display: block;
 
 			img {
 				width: 100%;
@@ -60,6 +77,8 @@
 
 			p {
 				@extend %medium-weight;
+				height: 2rem;
+				text-align: center;
 				color: color(black);
 			}
 		}

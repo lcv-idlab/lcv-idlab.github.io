@@ -104,7 +104,7 @@ window.onload = function() {
 	// 
 	var gallery_array = $("figure[class][class*='gallery']");	// select only the galleries
 
-	console.log(gallery_array);
+	//console.log(gallery_array);
 
     $.each(gallery_array, function() {
     	$gallery_name = $(this).attr('class').replace('gallery', '').replace(/ /g, '');
@@ -236,22 +236,21 @@ window.onload = function() {
 // once the DOM is loaded (before all the content as images ect) run the code here
 $(document).ready(function() {
 
-	if($('#homepage-kit')) {
+	// HOMEPAGE KITS "CAROUSELL"
+	if($('#homepage-kit').length > 0) {
 
 		var kits_com = $('#homepage-kit > ul > li.comunicazione');
 		var kits_op = $('#homepage-kit > ul > li.opere');
 		var kits_or = $('#homepage-kit > ul > li.orientamento');
+		var kits_all = $('#homepage-kit > ul > li');
 
 		class HomeKit {
 			constructor(array) {
 				this.array = array;
 				this.old_pick = Math.floor(Math.random() * array.length);
-				this.interval = this.setInterval();
-			}
-
-			print() {
-				console.log(this.array);
-				console.log(this.old_pick);
+				this.interval = Math.floor(Math.random() * 3000 ) + 3000;
+				this.mouse_over = false;
+				this.pickRandom();
 			}
 
 			hideAll() {
@@ -260,52 +259,45 @@ $(document).ready(function() {
 				});
 			}
 
-			showAll() {
-				this.array.each(function() {
-					$(this).css({"display" : "block"});
-				});
-			}
-
 			pickRandom() {
-				var pick = this.old_pick;
 
-				while (pick == this.old_pick) {
-					pick = Math.floor(Math.random() * this.array.length);
+				if(!this.mouse_over) {
+					var pick = this.old_pick;
+
+					while (pick == this.old_pick) {
+						pick = Math.floor(Math.random() * this.array.length);
+					}
+
+					this.hideAll();
+					this.old_pick = pick;
+					$(this.array[pick]).css({"display" : "block"});
 				}
-
-				this.hideAll();
-
-				this.old_pick = pick;
-
-				$(this.array[pick]).css({"display" : "block"});
-
-				console.log("old_pick: " + this.old_pick);
-
-				
-				
-			}
-
-			setInterval() {
-				clearInterval(this.interval);
-				return setInterval(function() {this.pickRandom()}, this.setIntervalTime());
-			}
-
-			setIntervalTime() {
-				var new_interval = Math.floor(Math.random() * 3000 ) + 2000;
-
-				console.log(new_interval);
-
-				return new_interval;
 			}
 		}
-
+		
 		var com = new HomeKit(kits_com);
+		var op = new HomeKit(kits_op);
+		var or = new HomeKit(kits_or);
+		//var all = new HomeKit(kits_all);
+
+		setAutomation(com);
+		setAutomation(op);
+		setAutomation(or);
+
+		function setAutomation(array) {
+			setInterval(function() { array.pickRandom(); }, array.interval);
+
+			for (var i=0; i < array.array.length; i++) {
+				$(array.array[i]).mouseover(function() { array.mouse_over = true; });
+				$(array.array[i]).mouseout(function() { array.mouse_over = false; });
+			}
+		}
 
 	}
 
 
 	// KIT PAGE SINGLE "READ MORE DESCRIPTION"
-	if($('#kit #more-text')) {
+	if($('#kit #more-text').length > 0) {
 
 		var desc = $('#kit #kit-description');
 
@@ -344,36 +336,7 @@ $(document).ready(function() {
 });
 
 
-function updateAll() {
-	console.log("ciao");
-};
-
 //--- HOMPEGAE KIT CAROUSELL ---//
-
-function hideKitsHomepage(list) {
-	$(list).each(function() {
-		$(this).css({"display" : "none"});
-	});
-};
-
-function pickRandomKitHomepage(array) {
-
-	old_in = array[array.length - 1];
-
-	console.log("old_in: " + old_in);
-	
-	var pick = old_in;
-
-	while (pick == old_in) {
-		pick = Math.floor(Math.random() * array.length);
-	}
-
-	$(array[pick]).css("display", "block");
-
-	//array[array.length - 1] = pick;
-
-	console.log("pick: " + pick);
-}
 
 /*
 
