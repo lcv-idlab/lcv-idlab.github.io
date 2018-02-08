@@ -3,7 +3,7 @@
 
 window.onload = function() {
 	var navToggle = document.querySelector(".main-nav .menu-button");
-	var nav = document.querySelector( ".main-nav nav ul");
+	var nav = document.querySelector( ".main-nav nav #pages-navigation");
 	var button = document.querySelector(".main-nav .menu-button a");
 
 	//console.log(navToggle);

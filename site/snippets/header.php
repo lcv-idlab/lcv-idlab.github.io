@@ -14,14 +14,14 @@
 		  <ul>
 		  	<a href="<?php echo $page->url($site->language()->code()) ?>">
 			  	<li class="active">
-			  		<span><?php echo $site->language()->name() ?></span>
+			  		<span><?php echo strtoupper($site->language()->code()) ?></span>
 			  	</li>
 			  </a>
 		    <?php foreach($site->languages() as $language): ?>
 		    	<?php if($site->language() != $language ): ?>
 	    		<a href="<?php echo $page->url($language->code()) ?>">
 				    <li class="hide">
-				    	<span><?php echo html($language->name()) ?></span>
+				    	<span><?php echo strtoupper($language->code()) ?></span>
 				    </li>
 			    </a>
 				<?php endif ?>
@@ -32,7 +32,7 @@
 
 		<!-- PAGES NAVIGATION MENU -->
 
-		<ul id="pages-navigation">
+		<ul id="pages-navigation" class="open">
 		<?php foreach ($site->pages()->visible() as $page): ?>
 
 			<?php if ( $page->title() == "progetto" ): ?>
