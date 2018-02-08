@@ -44,7 +44,7 @@
 #homepage-kit {		// snippet
 	@include outer-container();
 	@include pads(0 2 0 2);
-	margin-bottom: 3rem;
+	margin-bottom: 2rem;
 
 	clear: both;
 
@@ -70,7 +70,7 @@
 				width: 100%;
 				display: table;
 				text-align: center;
-				
+
 				img {
 					margin-right: auto;
 					margin-left: auto;
@@ -81,7 +81,7 @@
 
 				p {
 					@extend %medium-weight;
-					height: 2rem;
+					height: 4.5rem;		// important to accomodate all the text when small space!!
 					text-align: center;
 					color: color(black);
 					display: table-row;

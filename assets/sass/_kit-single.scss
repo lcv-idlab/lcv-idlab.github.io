@@ -191,6 +191,14 @@
 							width: 4rem;
 							margin-bottom: 0.2rem;
 						}
+
+						&.hide > ul {		// hide "one" childrens (jQuery)
+							display: none;
+						}
+
+						&.active > ul {
+							display: block;
+						}
 					}
 
 					&.two {

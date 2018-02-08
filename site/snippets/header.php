@@ -5,11 +5,32 @@
 
 <header class="main-nav">
 	<nav>
-		<a href="<?php echo $site->url() ?>" class="main-logo">MCI<span><?php echo " / ".$site->title() ?></span></a>
+		<a href="<?php echo $site->url() ?>" class="main-logo"><span><?php echo $site->title() ?></span></a>
 		<span class="menu-button"><a href="" id="toggle"></a></span>
 
       	<!-- LANGUAGE MENU -->
 
+      	<div id="languages-navigation" role="navigation">
+		  <ul>
+		  	<a href="<?php echo $page->url($site->language()->code()) ?>">
+			  	<li class="active">
+			  		<span><?php echo $site->language()->name() ?></span>
+			  	</li>
+			  </a>
+		    <?php foreach($site->languages() as $language): ?>
+		    	<?php if($site->language() != $language ): ?>
+	    		<a href="<?php echo $page->url($language->code()) ?>">
+				    <li class="hide">
+				    	<span><?php echo html($language->name()) ?></span>
+				    </li>
+			    </a>
+				<?php endif ?>
+		    <?php endforeach ?>
+		  </ul>
+		</div>
+
+
+		<!-- PAGES NAVIGATION MENU -->
 
 		<ul id="pages-navigation">
 		<?php foreach ($site->pages()->visible() as $page): ?>

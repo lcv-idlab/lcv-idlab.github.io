@@ -153,7 +153,7 @@ window.onload = function() {
     indexPositionCalc();
 
     function indexPositionCalc() {
-	    if(index.length) {
+	    if(index.length > 0) {
 			 index_height = index.height();
 			 top_pos = index.offset().top - main_nav_h;
 			 end_pos = $('#article_end').offset().top - index_height - main_nav_h - 36;
@@ -229,6 +229,35 @@ window.onload = function() {
 			index.css({ top: 0 });
 			index.removeClass();
 		}
+	}
+
+	// index open on "one" item click
+
+	var index_one_el = $("#index_menu ul li.one");
+
+	//console.log(index_one_el[0]);
+
+	for (var i=0; i<index_one_el.length; i++) {
+		var item = $(index_one_el[i]);
+
+		item.click(function(e) {
+			$("#index_menu ul li.one").addClass("hide");
+			$("#index_menu ul li.one").removeClass("active");
+			$(e.currentTarget).addClass("active");
+			$(e.currentTarget).removeClass("hide");
+		});
+
+		item.mouseover(function(e) {
+			$(e.currentTarget).removeClass("hide");
+			console.log("OVER");
+			console.log($(e.currentTarget).parent());
+		});
+
+		item.mouseout(function(e) {
+			$(e.currentTarget).addClass("hide");
+			console.log("OUT");
+			console.log($(e.currentTarget));
+		})
 	}
 	
 };
@@ -334,7 +363,6 @@ $(document).ready(function() {
 
 	}
 
-
 	// KIT PAGE SINGLE "READ MORE DESCRIPTION"
 	if($('#kit #more-text').length > 0) {
 
@@ -370,7 +398,7 @@ $(document).ready(function() {
 				desc.css("height", desc.prop('scrollHeight'));
 			}
 		});
-	}
+	}	
 
 });
 

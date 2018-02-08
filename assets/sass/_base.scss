@@ -469,7 +469,7 @@ p, .text-link {
   }
 }
 
-.visuallyhidden {
+.visuallyhidden, %visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;
@@ -478,6 +478,15 @@ p, .text-link {
   padding: 0;
   position: absolute;
   width: 1px;
+}
+
+%removevisuallyhiden {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: 100%;
 }
 
 //--- THE KIT WRAPPER WITH THE EDGES ---//

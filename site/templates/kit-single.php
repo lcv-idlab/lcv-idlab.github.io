@@ -52,7 +52,7 @@
 						<?php elseif($item->option_type() == "one" && $ul_count == 2): ?></ul></li></ul>
 						<?php endif ?>
 					<?php elseif($prev == $item->option_type()):?></li>
-					<?php endif ?><li class="<?php echo $item->option_type() ?>"><a href="#<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php if($item->option_type() == "three"): ?><div class="bullet"></div><?php elseif($item->option_type() == "one"): ?><div class="section-h-line"></div><?php endif ?><?php echo $item->section_title()->kt() ?></a><?php $prev = $item->option_type(); ?>
+					<?php endif ?><li class="<?php $class = $item->option_type(); echo $class; echo e($class == "one", " hide"); ?>"><a href="#<?php echo nice_link($item->section_title()) ?>"><?php if($item->option_type() == "three"): ?><div class="bullet"></div><?php elseif($item->option_type() == "one"): ?><div class="section-h-line"></div><?php endif ?><?php echo $item->section_title()->kt() ?></a><?php $prev = $item->option_type(); ?>
 					<?php endforeach ?>
 					<?php if($ul_count == 2): ?></ul></li></ul></li>
 					<?php elseif($ul_count == 1): ?>
@@ -87,7 +87,7 @@
 
 					<?php if($prev != "") echo "</div>"; ?> <!-- closing the "section-container" div -->
 
-					<div id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>" class="section-h-line"></div>
+					<div id="<?php echo nice_link($item->section_title()) ?>" class="section-h-line"></div>
 					<div class="section-container">
 					<h2><?php echo $item->section_title() ?></h2>
 					<?php echo $item->content()->kt() ?>
@@ -96,7 +96,7 @@
 
 					<?php if($prev == "three") echo "</ul>"; ?>
 				
-					<h3 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h3>
+					<h3 id="<?php echo nice_link($item->section_title()) ?>"><?php echo $item->section_title() ?></h3>
 					<?php echo $item->content()->kt() ?>
 
 				<?php elseif($item->option_type() == "three"): ?>
@@ -107,7 +107,7 @@
 
 						<li>
 							<div class="bullet"></div>
-							<h4 id="<?php echo str_replace(' ', '-', strtolower($item->section_title())) ?>"><?php echo $item->section_title() ?></h4>
+							<h4 id="<?php echo nice_link($item->section_title()) ?>"><?php echo $item->section_title() ?></h4>
 							<?php echo $item->content()->kt() ?>
 						</li>
 
