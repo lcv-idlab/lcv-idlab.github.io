@@ -5,17 +5,20 @@ window.onload = function() {
 	var navToggle = document.querySelector(".main-nav .menu-button");
 	var nav = document.querySelector( ".main-nav nav #pages-navigation");
 	var button = document.querySelector(".main-nav .menu-button a");
+	var lang = document.querySelector(".main-nav #languages-navigation");
 
-	//console.log(navToggle);
+	//console.log(lang);
 
 	if ( navToggle ) {
 		navToggle.addEventListener( "click", function(e) {
 			if (nav.className == "open" ) {
 				button.className = "";
 				nav.className = "";
+				lang.className = "";
 			} else {
 				button.className = "open";
 				nav.className = "open";
+				lang.className = "open";
 			}
 			e.preventDefault();
 		}, false );

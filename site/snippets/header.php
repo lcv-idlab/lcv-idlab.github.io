@@ -32,7 +32,7 @@
 
 		<!-- PAGES NAVIGATION MENU -->
 
-		<ul id="pages-navigation" class="open">
+		<ul id="pages-navigation">
 		<?php foreach ($site->pages()->visible() as $page): ?>
 
 			<?php if ( $page->title() == "progetto" ): ?>
