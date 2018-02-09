@@ -152,8 +152,16 @@ window.onload = function() {
 	var main_nav_h = main_nav.height();
 	var scroll_top_pos = main_nav_h;
 	var last_scroll = 0;
-	var scrollup_val = 0;
+	var scrollup_val;
+	var old_main_nav_top = 0;
+	var main_nav_top = 0;
+	var old_main_nav_top_down = 0;
+	var menu_out = true;
+	var up, down, start_up, start_down = 0;
+	var old_menu_open = false;
     indexPositionCalc();
+
+    var scroll_up_amount = 0;
 
     function indexPositionCalc() {
 	    if(index.length > 0) {
@@ -168,18 +176,112 @@ window.onload = function() {
 	$(window).scroll(function(e) {
 		var scroll = $(window).scrollTop();
 
+		if(scroll > last_scroll) {	// scroll down
+			up = 0;
+			start_up = scroll;
+			down = scroll - start_down;
+
+			if(menu_out) {
+				old_menu_open = true;
+				main_nav_top = old_main_nav_top_down - down;
+				if(main_nav_top < -main_nav_h) {
+					menu_out = false;
+				 	main_nav_top = -main_nav_h;
+				}
+				
+				old_main_nav_top = main_nav_top;
+				$(main_nav).css("top", main_nav_top);
+			 	//console.log(main_nav_top);
+			}
+
+		} else {			// scroll up
+			down = 0;
+			start_down = scroll;
+			up = start_up - scroll;
+
+			if(!menu_out) {
+				if(scroll <= main_nav_h) {
+					main_nav_top = -scroll;
+					$(main_nav).css("top", main_nav_top);
+					//console.log(main_nav_top);
+					if(main_nav_top == 0) {
+						menu_out = true;
+					}
+				}
+				else if(up > main_nav_h) {
+					menu_out = true;
+					main_nav_top = up - 2*main_nav_h;
+					//console.log(main_nav_top);
+					$(main_nav).css("top", main_nav_top);
+					old_menu_open = false;
+				}
+			} else {
+				if(!old_menu_open) {
+					main_nav_top = up - 2 * main_nav_h;
+				} else {
+					main_nav_top = old_main_nav_top + up;
+				}
+				//console.log(main_nav_top);
+				if(main_nav_top >= 0 ) main_nav_top = 0;
+				old_main_nav_top_down = main_nav_top;				
+				$(main_nav).css("top", main_nav_top);
+			}
+/*
+
+
+			if(scroll <= main_nav_h && !menu_out) {
+				console.log(scroll);
+				$(main_nav).css("top", -scroll);
+			} else {
+
+				if(!menu_out && up > main_nav_h) {
+					//if(up > main_nav_h) {
+						main_nav_top = up - 2*main_nav_h;
+						if(main_nav_top >= 0 ) main_nav_top = 0;
+						menu_out = true;
+						$(main_nav).css("top", main_nav_top);
+					//}
+				} else if(menu_out) {
+					if (up > main_nav_h) {
+						main_nav_top = up - 2*main_nav_h;
+						if(main_nav_top >= 0 ) main_nav_top = 0;
+						$(main_nav).css("top", main_nav_top);
+
+					} else {
+						$(main_nav).css("top", main_nav_top + up);
+					}
+				}
+			}
+
+			*/
+		}
+
+		//console.log("up: " + up + " down: " + down);
+
+
+		last_scroll = scroll;
+		/*
 		if(scroll > main_nav_h) {
 			if(scroll > last_scroll) {	// scroll down
+				scroll_up_amount = 0;
 				main_nav.removeClass('scrollup');				
-				scrollup_val = 0;
+				//scrollup_val = 0;
 				$('main, footer').css({"position": "static", "top": "0px" });
 			} else {	// scroll up
-				main_nav.addClass('scrollup');
-				$('main, footer').css({"position": "relative", "top": main_nav_h });
-				scrollup_val = main_nav_h;
+				scroll_up_amount++;
+				//console.log(scroll_up_amount);
+				if(scroll_up_amount > main_nav_h) {
+					console.log(-main_nav_h+(scroll_up_amount-main_nav_h));
+					main_nav.addClass('scrollup');
+					$('main, footer').css({"position": "relative", "top": -main_nav_h });
+				}
+				//scrollup_val = main_nav_h;
 			}
 			last_scroll = scroll;
 		}
+
+		*/
+
 
 		/*
 		if(scroll > main_nav_h) {

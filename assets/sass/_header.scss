@@ -2,15 +2,12 @@
 
 .main-nav {
 
-	position: static;	
-
-	&.scrollup {
-		background-color: color(white);
-		position: fixed;
-		top: 0;
-		width: 100%;
-		z-index: 1000;
-	}
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: color(white);
+	z-index: 1000;
+	
 
 	nav {
 		@include outer-container();
