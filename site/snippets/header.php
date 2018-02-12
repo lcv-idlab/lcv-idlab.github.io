@@ -38,10 +38,10 @@
 		<?php foreach ($site->pages()->visible() as $page): ?>
 
 			<?php if ( $page->class_id() == "progetto" ): ?>
-				<li><a href="<?php echo $page->url() ?>" class="<?php if(page('/progetto/abstract/')->isOpen()) { echo 'active'; } ?>"><span class="<?php if(page('/progetto/abstract/')->isOpen()) { echo 'active'; } ?>"><?php echo $page->title() ?></span></a>
+				<li><a href="<?php echo $page->url() ?>" class="<?php if($page->isOpen()) { echo 'active'; } ?>"><span class="<?php if($page->isOpen()) { echo 'active'; } ?>"><?php echo $page->title() ?></span></a>
 
 					<!-- hide the second level menu if the page isns't part of "progetto" or "abstract" -->
-					<div class="conatiner-second-level <?php $parent = page()->parent()->class_id(); if( $parent!='progetto' && $parent!='abstract' ) { echo "visuallyhidden"; } ?>">
+					<div class="conatiner-second-level <?php $parent = page()->parent()->class_id(); if( $parent!='progetto' && page()->class_id() != 'progetto') { echo "visuallyhidden"; } ?>">
 
 						<ul class="second-level">
 							<?php foreach ( $page->children()->visible() as $intpage): ?>
