@@ -1,4 +1,4 @@
-Title: orientamento e mobilità
+Title: Orientation et mobilité
 
 ----
 
@@ -19,3 +19,7 @@ Verify: Chaque fois que l’on met en place une activité ou que l’on adopte d
 ----
 
 Url-key: orientamento
+
+----
+
+Class-id: orientamento

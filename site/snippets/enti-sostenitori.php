@@ -1,7 +1,7 @@
 <!-- ENTI SOSTENITORI --> 
 
 <section class="enti">
-    <h2 class="title-enti">Enti sostenitori</h2>
+    <h2 class="title-enti"><?php echo ucfirst(page('footer/enti-sostenitori')->title()) ?></h2>
     <ul>
 	<?php foreach( page('footer/enti-sostenitori')->sostenitori()->toStructure() as $ente): ?>
 		<li>

@@ -18,6 +18,15 @@ files: false
 
 // fields with their fields types and options
 fields:
+  title:
+    label: Titolo
+    type: text
+  author:
+    label: Autore
+    type: textarea
+  license:
+    label: Licenza
+    type: textarea
   info:
     label: Loghi per footer
     type: info

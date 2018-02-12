@@ -42,12 +42,14 @@ c::set('languages', array(
 		'locale'	=> 'it_IT',
 		'url'	=> '/it',
 	),
+	/*
 	array(
 		'code'	=> 'de',
 		'name'	=> 'Deutsch',
 		'locale'	=> 'de_DE',
 		'url'	=> '/de',
 	),
+	*/
 	array(
 		'code'	=> 'fr',
 		'name'	=> 'Français',

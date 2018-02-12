@@ -80,20 +80,6 @@
 			}
 		}
 
-		/*
-		.category-container {
-
-			display: block;
-			margin-right: auto;
-			margin-left: auto;
-			
-			//max-width: 1024px;
-
-			font-size: 1rem;
-			overflow: hidden;
-		}
-		*/
-
 		// Color specific items
 
 		#comunicazione .cat-title-h-line {
@@ -128,8 +114,8 @@
 			margin-bottom: 3rem;
 		}
 
-		ul {
-			li {
+		> ul {
+			> li {
 				@include span-columns(6);
 
 				@media screen and (min-width: $bp-medium) {
@@ -152,7 +138,20 @@
 
 				h3 {
 					text-align: center;
+				}
 
+				.download_multi_lang {
+					text-align: center;
+					> li {
+						text-align: center;
+						display: inline;
+					}
+
+					li + li {
+						&:before {
+							content: "- ";
+						}
+					}
 				}
 			}
 		}

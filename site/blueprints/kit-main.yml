@@ -1,5 +1,5 @@
 // blueprint title (template title)
-title: kit-main
+title: kit_main
 
 // page settings
 options:
@@ -27,24 +27,62 @@ fields:
   description:
     label: Descrizione
     type: textarea
-  download:
-    label: Documenti scaricabili
+  download_final_doc:
+    label: Documento finale
+    type: text
+  download_final_doc_img:
+    label: Immagine del documento per anteprima sul sito
+    type: select
+    default: architecture
+    options: images
+  download_final_doc_pdfs:
+    label: Documenti finale in pdf
     type: structure
     entry: >
-      <b>{{name}}</b><br>
-      {{doc}}<br>
-      {{img}}
+      <b>{{pdf}}</b><br>
+      {{lang}}<br>
     fields:
-      name:
-        label: Nome del documento
-        type: text
-      doc:
+      pdf:
         label: Seleziona il documento
         type: select
         default: architecture
         options: documents
-      img:
-        label: Immagine del documento per anteprima sul sito
+     lang:
+        label: Indica la lungua del documento scelto
+        type: select
+        options:
+          it: Italiano
+          de: Tedesco
+          fr: Francese
+  download_final_poster:
+    label: Poster
+    type: text
+  download_final_poster_img:
+    label: Immagine del poster per anteprima sul sito
+    type: select
+    default: architecture
+    options: images
+  download_final_poster_pdfs:
+    label: Poster finale in pdf
+    type: structure
+    entry: >
+      <b>{{pdf}}</b><br>
+      {{lang}}<br>
+    fields:
+      pdf:
+        label: Seleziona il poster
         type: select
         default: architecture
-        options: images
+        options: documents
+     lang:
+        label: Indica la lungua del poster scelto
+        type: select
+        options:
+          it: Italiano
+          de: Tedesco
+          fr: Francese
+  class_id:
+    label: class-id
+    type: text
+    readonly: true
+

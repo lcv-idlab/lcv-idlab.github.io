@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <div id="kit">
-	<main id="kit-single" class="<?php echo page()->parent()->title('it') ?>">
+	<main id="kit-single" class="<?php echo page()->parent()->class_id() ?>">
 		<div id="title-bar">
 			
 			<!-- The url of the parent page with the right hight positon -->
@@ -59,7 +59,7 @@
 						<?php if($prev == "three") echo "</ul></li>"; ?>
 					<?php endif ?>
 
-						<li class="one"><a href="#evaluate"><div class="section-h-line"></div><?php echo l::get('evaluate') ?></a></li>
+						<li class="one"><a href="#evaluate"><div class="section-h-line"></div><?php echo ucfirst(l::get('evaluate')) ?></a></li>
 					</ul>
 					<div class="back_button_index">
 						<div class="h-line-index-back"></div>
@@ -124,7 +124,7 @@
 			<!-- evaluation block -->
 			<div id="evaluate" class="section-h-line"></div>
 			<div class="section-container evaluate">
-				<h2><?php echo l::get('evaluate') ?></h2>
+				<h2><?php echo ucfirst(l::get('evaluate')) ?></h2>
 				<?php echo page()->parent()->verify()->kt() ?>
 				<div id="article_end"></div>
 			</div>

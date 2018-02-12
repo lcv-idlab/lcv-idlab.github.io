@@ -1,0 +1,24 @@
+Title: Home
+
+----
+
+Statement: 
+
+#Mediazione Cultura Inclusione
+##Musei d'arte e disabilità visive: pari opportunità nella vita culturale della Svizzera italiana
+
+----
+
+Main-subtitle: Rendre ton musée d’art accessible aussi aux personnes aveugles et malvoyantes est facile et durable. Consulte le kit pratique, choisi les solutions en fonction de tes exigences, adapte-les et réalise-les dans ton institution!
+
+----
+
+Kit-intro: Ces directives sont conçues comme des instruments « ouverts » destinés à être complétés, intégrés et perfectionnés à partir des suggestions et des recommandations de celles et ceux qui vont les utiliser.
+
+----
+
+Write-us: Partagez vos expériences avec nous!
+
+----
+
+Write-us-button: Ecrivez-nous

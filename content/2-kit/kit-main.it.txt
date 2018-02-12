@@ -48,3 +48,45 @@ Download:
   name: Kit completo
   doc: 4072376043476.pdf
   img: screen-shot-2018-02-05-at-14.39.15.png
+
+----
+
+Download-final-doc: Kit completo
+
+----
+
+Download-final-doc-img: mci_kit_it.png
+
+----
+
+Download-final-doc-pdfs: 
+
+- 
+  pdf: mci_kit_it.pdf
+  lang: it
+
+----
+
+Download-final-poster: Poster
+
+----
+
+Download-final-poster-img: mci_poster_it.png
+
+----
+
+Download-final-poster-pdfs: 
+
+- 
+  pdf: mci_poster_it.pdf
+  lang: it
+- 
+  pdf: mci_poster_de.pdf
+  lang: de
+- 
+  pdf: mci_poster_fr.pdf
+  lang: fr
+
+----
+
+Class_id: kit

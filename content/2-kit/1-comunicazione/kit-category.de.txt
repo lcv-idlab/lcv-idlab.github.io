@@ -11,3 +11,7 @@ Icon:
 ----
 
 Article: 
+
+----
+
+Class_id: comunicazione

@@ -6,13 +6,13 @@
   <meta name="description" content="Musei d'arte e disabilità visive: pari opportunità nella vita culturale della Svizzera italiana">
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
 
-  <!-- css -->
-  <?php echo css('assets/css/main.css'); ?>
-  <?php echo css('assets/sass/lightbox.css'); ?>
-
   <!-- js -->
   <?php echo js('assets/js/jquery.min.js'); ?>
   <?php echo js('assets/js/nav.js'); ?>
+
+  <!-- css -->
+  <?php echo css('assets/css/main.css'); ?>
+  <?php echo css('assets/sass/lightbox.css'); ?>
 
   <!-- facebook -->
 

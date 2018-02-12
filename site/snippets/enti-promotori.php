@@ -1,7 +1,7 @@
 <!-- ENTI PROMOTORI-->
 
 <section class="enti">
-	<h2 class="title-enti">Enti promotori e partner</h2>
+	<h2 class="title-enti"><?php echo ucfirst(page('footer/enti-promotori')->title()) ?></h2>
 	<ul>
 	<?php foreach( page('progetto/promotori')->promotori()->toStructure() as $promotori): ?>
 		<li>

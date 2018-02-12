@@ -15,8 +15,8 @@
 			</a>
 			
 			<div id="condividi">
-				<p>Condividete con noi le vostre esperienze!</p>
-				<a href="mailto:info.mci@supsi.ch"><div class="button">scrivici</div></a>
+				<p><?php echo page()->write_us() ?></p>
+				<a href="mailto:info.mci@supsi.ch"><div class="button"><?php echo page()->write_us_button() ?></div></a>
 			</div>
 
 		</section>

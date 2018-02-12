@@ -27,7 +27,7 @@
 			<div class="colophon-section">
 
 				<div class="colophon-coordinamento">
-					<h3>Coordinamento</h3>
+					<h3><?php echo ucfirst(l::get('coordination')) ?></h3>
 					<ul>
 					<?php foreach ( page('progetto/team')->people()->toStructure() as $people ): ?>
 						 <?php if($people->colophon() == "coordinamento"): ?>
@@ -38,7 +38,7 @@
 				</div>
 
 				<div class="colophon-collaborazione">
-					<h3>In collaborazione con</h3>
+					<h3><?php echo ucfirst(l::get('in-collaboration-with')) ?></h3>
 					<ul>
 					<?php foreach ( page('progetto/team')->people()->toStructure() as $people ): ?>
 						 <?php if($people->colophon() == "collaborazione"): ?>
@@ -53,7 +53,7 @@
 			<div class="colophon-section">
 
 				<div class="colophon-promosso">
-					<h3>Promosso da</h3>
+					<h3><?php echo ucfirst(l::get('promoted-by')) ?></h3>
 					<ul>
 					<?php foreach ( page('progetto/promotori')->promotori()->toStructure() as $promotori ): ?>
 						<li><a href="<?php echo page('progetto/promotori')->url() ?>/#<?php echo strtolower($promotori->name()->html()) ?>"><?php echo $promotori->name()->html() ?></a></li>
@@ -62,7 +62,7 @@
 				</div>
 
 				<div class="colophon-partner">
-					<h3>Partners</h3>
+					<h3><?php echo ucfirst(l::get('partners')) ?></h3>
 					<ul>
 					<?php foreach ( page('progetto/partner')->partners()->toStructure() as $partner ): ?>
 						<li><a href="<?php echo page('progetto/partner')->url() ?>/#<?php echo str_replace(' ', '_', strtolower($partner->name()->html())) ?>"><?php echo $partner->name()->html() ?></a></li>
@@ -73,7 +73,7 @@
 			</div>
 
 			<div class="colophon-section">
-				<h3>Sostenuto da</h3>
+				<h3><?php echo ucfirst(l::get('supported-by')) ?></h3>
 				<ul>
 				<?php foreach ( page('footer/enti-sostenitori')->sostenitori()->toStructure() as $item ): ?>
 					<li><?php echo $item->name()->html() ?></li>

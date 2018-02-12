@@ -150,11 +150,11 @@ window.onload = function() {
     var index_height;
     var main_nav = $('.main-nav');
 	var main_nav_h = main_nav.height();
-	var scroll_top_pos = main_nav_h;
+	var scroll_top_pos = 0;
 	var last_scroll = 0;
 	var scrollup_val;
-	var old_main_nav_top = 0;
-	var main_nav_top = 0;
+	var old_main_nav_top = -main_nav_h;
+	var main_nav_top = -main_nav_h;
 	var old_main_nav_top_down = 0;
 	var menu_out = true;
 	var up, down, start_up, start_down = 0;
@@ -166,16 +166,17 @@ window.onload = function() {
     function indexPositionCalc() {
 	    if(index.length > 0) {
 			 index_height = index.height();
-			 top_pos = index.offset().top - main_nav_h;
+			 top_pos = index.offset().top ;
 			 end_pos = $('#article_end').offset().top - index_height - main_nav_h - 36;
 			 // console.log("index_height: " + index_height + " top_pos: " + top_pos + " end_pos: " + end_pos);
 		}
 	}
 
-
 	$(window).scroll(function(e) {
 		var scroll = $(window).scrollTop();
 
+
+		// MAIN MANU SCROLL ANIMATION
 		if(scroll > last_scroll) {	// scroll down
 			up = 0;
 			start_up = scroll;
@@ -226,87 +227,21 @@ window.onload = function() {
 				old_main_nav_top_down = main_nav_top;				
 				$(main_nav).css("top", main_nav_top);
 			}
-/*
 
-
-			if(scroll <= main_nav_h && !menu_out) {
-				console.log(scroll);
-				$(main_nav).css("top", -scroll);
-			} else {
-
-				if(!menu_out && up > main_nav_h) {
-					//if(up > main_nav_h) {
-						main_nav_top = up - 2*main_nav_h;
-						if(main_nav_top >= 0 ) main_nav_top = 0;
-						menu_out = true;
-						$(main_nav).css("top", main_nav_top);
-					//}
-				} else if(menu_out) {
-					if (up > main_nav_h) {
-						main_nav_top = up - 2*main_nav_h;
-						if(main_nav_top >= 0 ) main_nav_top = 0;
-						$(main_nav).css("top", main_nav_top);
-
-					} else {
-						$(main_nav).css("top", main_nav_top + up);
-					}
-				}
-			}
-
-			*/
 		}
 
 		//console.log("up: " + up + " down: " + down);
 
 
 		last_scroll = scroll;
-		/*
-		if(scroll > main_nav_h) {
-			if(scroll > last_scroll) {	// scroll down
-				scroll_up_amount = 0;
-				main_nav.removeClass('scrollup');				
-				//scrollup_val = 0;
-				$('main, footer').css({"position": "static", "top": "0px" });
-			} else {	// scroll up
-				scroll_up_amount++;
-				//console.log(scroll_up_amount);
-				if(scroll_up_amount > main_nav_h) {
-					console.log(-main_nav_h+(scroll_up_amount-main_nav_h));
-					main_nav.addClass('scrollup');
-					$('main, footer').css({"position": "relative", "top": -main_nav_h });
-				}
-				//scrollup_val = main_nav_h;
-			}
-			last_scroll = scroll;
+
+		// if the index exhists
+		if(index.length > 0) {
+			indexScroll(scroll, main_nav_top);
 		}
+		
 
-		*/
-
-
-		/*
-		if(scroll > main_nav_h) {
-			if(scroll > last_scroll) {	// scroll down
-				//main_nav.css({'top': -scroll });
-				//scroll_top_pos = main_nav_h;
-				// main_nav.removeClass('scrollup');
-				// $('main').removeClass('scrollup');
-				//$('#main').removeClass('scrollup');
-				scrollup_val = 0;
-			} else {	// scroll up
-				// main_nav.addClass('scrollup');
-				// $('main').addClass('scrollup');
-				// $('#main').addClass('scrollup');
-				scrollup_val = main_nav_h;
-				//main_nav.css({'top': ((scroll_top_pos <= 0) ? 0 : -(scroll_top_pos-=10)});
-			}
-			last_scroll = scroll;
-		}
-
-		*/
-
-		if(index.length) {
-			indexScroll(scroll);
-		}
+		
 		
 	});
 
@@ -317,21 +252,31 @@ window.onload = function() {
 		$(window).scroll();
 	})
 
+	$(document).on('click', 'a[href^="#"]', function (event) {
+	    event.preventDefault();
+
+	    $('html, body').animate({
+	        scrollTop: $($.attr(this, 'href')).offset().top
+	    }, 200);
+	});
+
 
 	// index in kit single
-	function indexScroll(scroll) {
-		//console.log("scroll: " + scroll);
+	function indexScroll(scroll, main_nav_top) {
+		//console.log("scroll: " + scroll + " top_pos: " + top_pos + " main_nav_top: " + main_nav_top);
 
-		if(scroll > top_pos - 36 && scroll < end_pos) {		// 36 is 2rem form the top: 2rem in the scss
+		if(scroll - main_nav_top > (top_pos) && scroll < end_pos) {		// 36 is 2rem form the top: 2rem in the scss
 			index.removeClass();
-			index.css({ 'top': scrollup_val + 36 });
+			var index_top = main_nav_h + main_nav_top + 36;
+			index.css({ 'top': index_top });
 			index.addClass("fix");
 		} else if (scroll > end_pos) {
 			index.removeClass();
 			index.addClass("absolute");
 			index.css({ 'top': end_pos + scrollup_val + 36 });
-		} else {
-			index.css({ top: 0 });
+		} else if (scroll - main_nav_top < top_pos) {
+
+			console.log("scroll < top_pos: " + (top_pos - main_nav_top));
 			index.removeClass();
 		}
 	}
@@ -369,6 +314,9 @@ window.onload = function() {
 
 // once the DOM is loaded (before all the content as images ect) run the code here
 $(document).ready(function() {
+
+	// MAIN MARGINT TOP TO ACCOMADATE THE MAIN MENU
+    $("main").css("margin-top", $(".main-nav").height()*2);
 
 	// HOMEPAGE KITS "CAROUSELL"
 	if($('#homepage-kit').length > 0) {

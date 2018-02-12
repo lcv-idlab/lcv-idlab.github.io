@@ -1,0 +1,55 @@
+Title: project
+
+----
+
+Paragraphs: 
+
+- 
+  header: Recherche et expérimentation
+  content: >
+    A travers une recherche-action, le
+    projet entend identifier des solutions
+    facilement extensibles et
+    reproductibles, en mesure de rendre
+    accessibles aux porteurs de handicaps
+    visuels les principaux musées d’art
+    de la Suisse italienne, en promouvant de
+    cette façon le libre accès au monde
+    culturel et artistique. En plus de la
+    recherche théorique, qui comprend des
+    approfondissements disciplinaires, une
+    carte des bonnes pratiques suisses et
+    étrangères et une enquête en
+    profondeur auprès du public aveugle et
+    malvoyant, le projet prévoit – au
+    cours de l’année 2017 – un parcours
+    articulé d’expérimentation pratique,
+    en particulier à travers l’exercice
+    de multiples activités de médiation
+    culturelle inclusives organisées en
+    collaboration avec les partenaires du
+    projet.
+- 
+  header: Musées d’art
+  content: 'En vue d’expérimenter les solutions identifiées, il est nécessaire de travailler sur des lieux et des objets spécifiques, en les étudiant de façon détaillée du point de vue artistique, conceptuel et matériel. En ce sens, la collaboration des musées partenaires est fondamentale : le « m.a.x. museo » de Chiasso, le « Museo Civico di Villa dei Cedri » de Bellinzona, le « Museo Comunale d’Arte Moderna » et le « Museo Castello San Materno » d’Ascona, le « Museo d’arte della Svizzera italiana (MASI Lugano) » , le « Museo Vincenzo Vela » de Ligornetto, la « Pinacoteca cantonale Giovanni Züst » de Rancate et le « Museo d’Arte » de Mendrisio. L’implication de plusieurs institutions permet d’expérimenter des solutions de médiation spécifiques et adaptées non seulement à une diversité d’espaces, mais surtout à une multiplicité de formes d’art, afférentes à différentes périodes historiques. Le projet s’appuie sur un réseau de musées vaste et prestigieux, représentatif en termes d’ouverture à l’expérimentation, de qualité et de variété des expériences de médiation culturelle, de diversité des collections d’art et de couverture territoriale de la Suisse italienne.'
+- 
+  header: Porteurs de handicaps visuels
+  content: 'Parallèlement au travail sur les œuvres et les espaces, il s’agit d’approfondir les exigences et les attentes spécifiques du public aveugle et malvoyant : la collaboration avec Unitas, l’Association aveugles et malvoyants de la Suisse italienne, revêt un rôle fondamental pour l’élaboration, le contrôle et la promotion de solutions d’intervention à même de satisfaire les besoins des porteurs de handicaps visuels.'
+- 
+  header: Partage
+  content: >
+    Le projet se constitue comme laboratoire
+    d’enquête, d’expérimentation,
+    d’intervention et de dissémination de
+    mesures et de bonnes pratiques de
+    médiation culturelle inclusives en
+    faveur de porteurs de handicaps visuels,
+    dont les résultats seront promus
+    auprès de toutes les institutions
+    suisses et restitués dans un protocole
+    opératoire librement accessible et
+    fourni sous licences Creative Commons.
+ 
+----
+
+Class_id: progetto

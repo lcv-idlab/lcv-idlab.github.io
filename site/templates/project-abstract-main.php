@@ -1,3 +1,3 @@
 <?php
 
-go($page->children()->visible()->first());
+go($page->children()->first());

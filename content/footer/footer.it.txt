@@ -1,1 +1,12 @@
 Title: footer
+
+----
+
+Author: 
+
+Mediazione Cultura Inclusione
+SUPSI Laboratorio cultura visiva
+
+----
+
+License: Tutta la documentazione di Mediazione Cultura Inclusione è distribuita con Licenza (link: http://creativecommons.org/licenses/by-sa/4.0/ text: Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale rel: license target: _blank)

@@ -24,6 +24,9 @@ files: true
 
 // fields with their fields types and options
 fields:
+  title:
+    label: Titolo
+    type: text
   info:
     label: Loghi per footer
     type: info

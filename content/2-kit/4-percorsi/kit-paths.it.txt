@@ -11,3 +11,7 @@ In aggiunta alle indicazioni specifiche fornite, per ciascun percorso è offerta
 ----
 
 Info: 
+
+----
+
+Class_id: percorsi

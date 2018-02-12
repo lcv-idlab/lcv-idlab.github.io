@@ -19,8 +19,22 @@ fields:
   title:
     label: Title
     type:  text
-  info:
-    label: Modifica le sezioni
-    type: info
-    text: >
-      <p>Seleziona la pagina relativa alla sezione interessata per apportare le modifiche.</p>
+  paragraphs: 
+    label: Paragrafi
+    type: structure
+    entry: >
+      <b>{{header}}</b> </br>
+      {{content}}
+    fields:
+      header:
+        label: Titolo paragrafo
+        type: text
+        required: true
+      content:
+        label: Contenuto paragrafo
+        type: textarea
+        required: true
+  class_id:
+    label: class-id
+    type: text
+    readonly: true

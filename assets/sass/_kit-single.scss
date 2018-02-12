@@ -136,6 +136,8 @@
 			}
 
 			#index_menu{
+				height: 100%;
+
 				&.fix {
 					@include span-columns(4);
 					position: fixed;
@@ -144,8 +146,15 @@
 					max-width: 359px;
 				}
 				&.absolute {
+					/*
 					position: absolute;
 					width: 26.7%;
+					max-width: 359px;
+					bottom: 0px;
+					*/
+					@include span-columns(4);
+					position: relative;
+					bottom: 0;
 					max-width: 359px;
 				}
 

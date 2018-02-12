@@ -18,3 +18,9 @@ fields:
   kit_intro:
     label: Introduzione al kit
     type: textarea
+  write_us:
+    label: Scriveteci
+    type: text
+  write_us_button:
+    label: Testo bottone
+    type: text

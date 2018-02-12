@@ -15,3 +15,7 @@ Article:
 ----
 
 Verify: Ogniqualvolta si realizza un’attività o si applicano degli accorgimenti specifici per un pubblico con disabilità visive è opportuno prevedere anche una valutazione, mettendo a confronto i risultati ottenuti con gli obiettivi che si intendeva raggiungere in vista di una convalida e di un miglioramento. In generale si suggerisce di trovare sempre un modo per registrare (audio, testo, ecc.) i riscontri del pubblico. Tuttavia la valutazione della “qualità” di un’azione, oltre a richiedere conoscenze e strumenti specifici, può configurarsi come una valutazione esterna che coinvolga comunque le diverse parti in causa. Infine, può essere opportuno e utile prevedere la valutazione in diverse fasi temporali (intermedie e finali) e ripetute nel tempo.
+
+----
+
+Class_id: opere

@@ -27,3 +27,7 @@ fields:
     type: info
     text: >
       <p>Clicca su "Add" per inserire una nuova risorsa</p>
+  class_id:
+    label: class-id
+    type: text
+    readonly: true

@@ -17,3 +17,11 @@ Consulta il pratico kit, scegli le soluzioni secondo le tue esigenze, adattale e
 ----
 
 Kit-intro: Le presenti linee guida si costituiscono quali strumenti “aperti”, pensati per essere completati, integrati e perfezionati anche sulla base dei suggerimenti e delle raccomandazioni di coloro che ne faranno uso.
+
+----
+
+Write-us: Condividete con noi le vostre esperienze!
+
+----
+
+Write-us-button: Scrivici

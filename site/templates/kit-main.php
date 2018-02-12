@@ -74,17 +74,29 @@
 
 		<section id="documents-download">
 			<div id="download-div-line"></div>
-			<h2>Download</h2>
+			<h2><?php echo ucfirst(l::get('download')) ?></h2>
 
 			<ul>
-				<?php foreach(page()->download()->toStructure() as $item) : ?>
-					<li>
-						<a href="<?php echo page()->document($item->doc())->url() ?>" target="_blank">
-							<img src="<?php echo page()->image($item->img())->url() ?>">
-							<h3><?php echo $item->name() ?></h3>
-						</a>
-					</li>
-				<?php endforeach ?>
+				<li>
+					<?php $linkd = ""; foreach(page()->download_final_doc_pdfs()->toStructure() as $itemd) { if( $itemd->lang() == $site->language()->code()) { $linkd = page()->document($itemd->pdf())->url(); break; } else { $linkd = page()->document($itemd->pdf())->url(); }} ?>
+					<a href="<?php echo $linkd ?>"><img src="<?php echo page()->image(page()->download_final_doc_img())->url() ?>"></a>
+					<h3><?php echo page()->download_final_doc()?></h3>
+					<ul class="download_multi_lang">
+						<?php foreach(page()->download_final_doc_pdfs()->toStructure() as $itemdd): ?>
+							<li><a href="<?php echo page()->document($itemdd->pdf())->url()  ?>"><?php echo $itemdd->lang() ?></a></li>
+						<?php endforeach ?>
+					</ul>
+				</li>
+				<li>
+					<?php $linkp = ""; foreach(page()->download_final_poster_pdfs()->toStructure() as $itemp) { if( $itemp->lang() == $site->language()->code()) { $linkp = page()->document($itemp->pdf())->url(); break; } else { $linkp = page()->document($itemp->pdf())->url(); } } ?>
+					<a href="<?php echo $linkp ?>"><img src="<?php echo page()->image(page()->download_final_poster_img())->url() ?>"></a>
+					<h3><?php echo page()->download_final_poster()?></h3>
+					<ul class="download_multi_lang">
+						<?php foreach(page()->download_final_poster_pdfs()->toStructure() as $itempp): ?>
+							<li><a href="<?php echo page()->document($itempp->pdf())->url() ?>"><?php echo $itempp->lang() ?></a></li>
+						<?php endforeach ?>
+					</ul>
+				</li>
 			</ul>
 		</section>
 

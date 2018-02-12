@@ -3,14 +3,13 @@
 <footer>
   <div class="contacts">
       <div id="author">
-        <p>Mediazione Cultura Inclusione</p>
-        <p>SUPSI Laboratorio cultura visiva</p>
+        <?php echo page('footer')->author()->html() ?>
       </div>
 
       <a href="mailto:info.mci@supsi.ch" class="link" id="contact-email">info.mci@supsi.ch</a>
 
       <div id="license">
-        <?php echo l::get('license') ?>
+        <?php echo page('footer')->license()->kt() ?>
         <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license"><img alt="Licenza Creative Commons" style="border-width:0" src="/assets/images/cc-by-sa.png" /></a>
       </div>
     </div>
