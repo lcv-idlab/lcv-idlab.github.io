@@ -4,6 +4,12 @@
 	@include outer-container();
 	@include pads(0 2 0 2);
 
+	#main-address {
+		p + p {
+			margin-top: 0.5rem;
+		}
+	}
+
 	strong {
 		@extend %bold-weight;
 	}

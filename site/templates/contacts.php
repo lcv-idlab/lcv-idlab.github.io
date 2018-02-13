@@ -5,7 +5,7 @@
 	<h1 class="title"><?php echo page()->title()->html() ?></h1>
 
 	<div class="contacts-contacts">
-		<address><?php echo page()->main()->kt() ?></address>
+		<address id="main-address"><?php echo page()->main()->kt() ?></address>
 		<ul>
 		<?php foreach( page()->contacts()->toStructure() as $contact ): ?>
 			<li>
