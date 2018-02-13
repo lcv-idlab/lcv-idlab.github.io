@@ -144,7 +144,7 @@ Validation-pdf:
 
 ----
 
-Pdf-article: relazionarsi-def.pdf
+Pdf-article: 
 
 ----
 

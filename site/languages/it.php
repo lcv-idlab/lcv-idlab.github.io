@@ -9,7 +9,7 @@
 	l::set('coordination', 'coordinamento');
 	l::set('in-collaboration-with', 'in collaborazione con');
 	l::set('promoted-by', 'promosso da');
-	l::set('partners', 'partners');
+	l::set('partners', 'partner');
 	l::set('supported-by', 'sostenuto da');
 
 	// kit main
@@ -24,10 +24,9 @@
 	l::set('more', 'Continua a leggere');
 	l::set('evaluate', 'valutare');
 	l::set('download-pdf-kit-single', "Scarica la scheda");
-	l::set('pdf-evaluation', 'Scarica la valutazione');
 
 	// kit path single
 	l::set('related-kits', 'Schede kit inerenti');
-	l::set('related-resources', 'Risorse inerenti');
+	l::set('related-resources', 'Risorse');
 
 ?>

@@ -2,35 +2,36 @@ Info:
 
 ----
 
-Title: Enti sostenitori
+Title: Soutenu par
 
 ----
 
 Sostenitori: 
 
 - 
-  name: 'Confederazione Svizzera (UFPD - Ufficio Federale per le pari opportunità delle persone con disabilità)'
+  name: >
+    Confédération Suisse (BFHE –
+    Bureau fédéral de l’égalité
+    pour les personnes handicapées)
   logo: confederazione_svizzera.jpg
 - 
   name: >
-    Cantone Ticino (Divisione dell Cultura e
-    degli Studi Universitari – Fondo
+    Canton du Tessin (Division de la Culture
+    et des Etudes universitaires – Fonds
     Swisslos)
   logo: swisslos.jpg
 - 
-  name: >
-    Fondazione ing. Pasquale Lucchini di
-    Lugano
+  name: Fondation Pasquale Lucchini de Lugano
   logo: fondazione_lucchini.jpg
 - 
-  name: 'Fondazione Lorenzo e Elsa Cattori- Stuerm'
+  name: Fondation Lorenzo et Elsa Cattori-Stuerm
   logo: fondazione_cattori-studer.jpg
 - 
-  name: Fondazione Turismo Lago Maggiore
+  name: Fondation Tourisme Lac Majeur
   logo: fondazione_lago_maggiorei.jpg
 - 
   name: Credit Suisse Foundation
   logo: credit_suisse.jpg
 - 
-  name: Percento Culturale Migros
+  name: Pour-cent culturel Migros
   logo: migros_percento_culturale.jpg

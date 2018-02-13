@@ -71,7 +71,8 @@
 		<?php endforeach ?>
 		</div>
 
-
+		<!-- DOWNLOAD -->
+		<?php if(false): ?>
 		<section id="documents-download">
 			<div id="download-div-line"></div>
 			<h2><?php echo ucfirst(l::get('download')) ?></h2>
@@ -99,6 +100,7 @@
 				</li>
 			</ul>
 		</section>
+	<?php endif ?>
 
 	</main>
 </div>

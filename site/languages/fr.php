@@ -3,32 +3,30 @@
 	
 	// general
 	l::set('back', 'retour');
-	l::set('404', 'Pagina non trovata');
-	l::set('license', "Tutta la documentazione di Mediazione Cultura Inclusione è distribuita con Licenza <a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='license'>Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>");
+	l::set('404', 'Page pas trouvée');
 
 	// contacts
 	l::set('coordination', 'coordination');
 	l::set('in-collaboration-with', 'en collaboration avec');
-	l::set('promoted-by', 'promosso da');
+	l::set('promoted-by', 'promu par');
 	l::set('partners', 'partenaires');
-	l::set('supported-by', 'sostenuto da');
+	l::set('supported-by', 'soutenu par');
 
 	// kit main
 	l::set('kit', 'kit');
 	l::set('paths', 'parcours');
 	l::set('more-text', 'plus');
 	l::set('less-text', 'moins');
-	l::set('download', 'download');
+	l::set('download', 'télécharger');
 
 	// kit single
 	l::set('index', 'index');
-	l::set('more', 'Continua a leggere');
+	l::set('more', 'Continuer à lire');
 	l::set('evaluate', 'Évaluer');
-	l::set('pdf-article', "Scarica l'articolo");
-	l::set('pdf-evaluation', 'Scarica la valutazione');
+	l::set('pdf-article', "télécharger la fiche");
 
 	// kit path single
-	l::set('related-kits', 'Schede kit inerenti');
-	l::set('related-resources', 'Risorse inerenti');
+	l::set('related-kits', 'Fishes du kit afférentes');
+	l::set('related-resources', 'Ressources');
 
 ?>

@@ -12,7 +12,7 @@
 				<address>
 					<strong><?php echo $contact->name()->html() ?> <?php echo $contact->surname()->html() ?></strong>
 					<?php echo $contact->phone()->kt() ?>
-					<a href="mailto:<?php echo $contact->email()->html() ?>"><?php echo $contact->email()->html() ?></a>
+					<a href="mailto:<?php echo $contact->email()->html() ?>" class="email-contacts"><?php echo $contact->email()->html() ?></a>
 				</address>
 			</li>
 		<?php endforeach ?>

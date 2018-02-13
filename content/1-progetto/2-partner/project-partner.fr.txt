@@ -1,0 +1,166 @@
+Title: partenaires
+
+----
+
+Partners: 
+
+- 
+  name: m.a.x. museo
+  place: Chiasso
+  url: >
+    http://www.centroculturalechiasso.ch/m-a-x-museo/
+  description: >
+    Il m.a.x. museo, inaugurato il 12
+    novembre 2005 su iniziativa della
+    fondazione Max Huber-Kono, dal 2010 è
+    divenuto un’istituzione pubblica del
+    comune di Chiasso. Negli scopi statuari
+    vi è la volontà di divulgare la
+    conoscenza dell’arte grafica, del
+    design, dell’architettura e della
+    fotografia nonché della comunicazione
+    visiva contemporanea. L’aspirazione
+    del museo è quella di costituire un
+    ponte tra il passato e le nuove
+    generazioni di grafici e designer. Ad
+    esclusione delle mostre che appartengono
+    al filone della grafica storica, il
+    visitatore ha sempre l’opportunità di
+    ammirare, accanto alle rassegne
+    temporanee, anche una sezione di mostra
+    permanente riguardante le importanti
+    creazioni grafiche e pittoriche di Max
+    Huber, artista svizzero annoverato tra i
+    più significativi graphic designer del
+    XX secolo.
+  logo: logo_max_museo.jpg
+  colophon: partner
+  logo_footer: footer_logo_max_museo.jpg
+- 
+  name: Museo Civico Villa dei Cedri
+  place: Bellinzona
+  url: http://www.villacedri.ch
+  description: >
+    Villa dei Cedri conserva un pregevole e
+    interessante patrimonio d’arte
+    profondamente ancorato alla cultura del
+    territorio, che offre un panorama,
+    seppur parziale, delle correnti
+    culturali che hanno attraversato il
+    Ticino e degli artisti che vi hanno
+    operato dal tardo Ottocento fino ai
+    nostri giorni. Nei ventotto anni
+    trascorsi dalla sua inaugurazione il
+    museo è riuscito con perseveranza e
+    coerenza a costituire una collezione di
+    assoluto valore in ambito locale di
+    oltre tremila opere. La raccolta da un
+    lato privilegia il filone storico
+    regionale dedicato soprattutto
+    all’arte otto e novecentesca di area
+    lombardo-ticinese e svizzera,
+    dall’altro si apre sulla scena
+    artistica contemporanea ticinese e non,
+    con una particolare attenzione al
+    settore della grafica.
+  logo: logo_museo_villa_dei_cedri.jpg
+  colophon: partner
+  logo_footer: footer_logo_museo_villa_dei_cedri.jpg
+- 
+  name: >
+    Museo Comunale d’Arte Moderna / Museo
+    Castello San Materno
+  place: Ascona
+  url: http://www.museoascona.ch
+  description: 'Il Museo Comunale d’Arte Moderna di Ascona ospita la collezione del Comune ed è sede di due fondazioni: la Fondazione Marianne Werefkin e la Fondazione Richard e Uli Seewald. La collezione del Comune ha preso origine nel 1922, quando molti tra gli artisti giunti ad Ascona decisero di donare una loro opera, con lo scopo di creare il Museo Comunale di Ascona. Grazie al felice accordo tra il Comune di Ascona e la Fondazione per la cultura Kurt e Barbara Alten, il Castello San Materno, dopo un accurato restauro, ritorna a vivere nel suo splendore diventando un moderno spazio espositivo del Comune di Ascona. La collezione Alten conserva più di quaranta opere di artisti di area tedesca, tra i più significativi del periodo che va dalla fine dell’Ottocento al primo dopoguerra.'
+  logo: logo_museo_ascona.jpg
+  colophon: partner
+  logo_footer: footer_logo_museo_ascona.jpg
+- 
+  name: Museo d’arte della Svizzera italiana
+  place: Lugano
+  url: http://www.masilugano.ch
+  description: 'L’attività del Museo d’arte della Svizzera italiana (MASILugano) si svolge in parallelo in due sedi: quella principale situata all’interno del nuovo edificio del LAC (Lugano Arte e Cultura) e quella storica di Palazzo Reali, in precedenza sede del Museo Cantonale d’Arte. Al LAC il MASILugano focalizza il suo interesse sull’arte del Novecento e contemporanea, nelle diverse forme e tecniche espressive, dedicando attenzione sia agli artisti giovani ed emergenti, sia a quelli già storicizzati, ai temi attuali e futuri delle arti e della società, proponendo esposizioni interdisciplinari in collaborazione con il settore del teatro e della musica. A Palazzo Reali, l’attività del MASILugano si concentra invece sulla storia dell’arte del territorio e sulla valorizzazione di nuclei specifici delle collezioni.'
+  logo: logo_masi_lugano.jpg
+  colophon: partner
+  logo_footer: footer_logo_masi_lugano.jpg
+- 
+  name: Museo Vincenzo Vela
+  place: Ligornetto
+  url: http://www.bundesmuseen.ch
+  description: >
+    Il Museo Vincenzo Vela, gestito
+    dall’Ufficio federale della cultura,
+    appartiene al novero delle più
+    importanti case d’artista
+    dell’Ottocento europeo. Ideata dal
+    grande scultore realista ticinese
+    Vincenzo Vela e trasformata in museo
+    pubblico dopo la sua donazione allo
+    Stato elvetico, accanto alla gipsoteca
+    monumentale di Vincenzo Vela, il museo
+    conserva i lasciti dello scultore
+    Lorenzo Vela e del pittore Spartaco
+    Vela, una notevole quadreria
+    ottocentesca di pittura lombarda e
+    piemontese, nonché centinaia di disegni
+    autografi e una delle più antiche
+    collezioni fotografiche private
+    svizzere. Arte e storia dell’Ottocento
+    italiano e svizzero si intrecciano in un
+    unicum, conferendo a questo luogo il
+    carattere di opera d’arte totale. Vi
+    vengono organizzate regolarmente delle
+    mostre temporanee.
+  logo: logo_museo_vincenzo_vela.jpg
+  colophon: partner
+  logo_footer: footer_logo_museo_vincenzo_vela.jpg
+- 
+  name: Pinacoteca cantonale Giovanni Zuest
+  place: Rancate
+  url: http://www.ti.ch/zuest
+  description: 'La pinacoteca cantonale Giovanni Zuest raccoglie opere di artisti attivi sul territorio ticinese dal XVII al XIX secolo. Il nucleo principale fu donato allo Stato del Canton Ticino dal collezionista Giovanni Zuest ed è costituito dalle opere di Antonio Rinaldi. Il Mendrisiotto, soprattutto con l’opera del Rinaldi, rappresenta il nucleo più strettamente locale della raccolta; ma c’è anche un’anima di più largo respiro, che trova i suoi vertici nelle opere settecentesche del Serodine e del Petrini. Il secolo maggiormente rappresentato rimane comunque il XIX, che, accanto al Rinaldi, allinea dipinti di importanti pittori ticinesi: Luigi Rossi, Adolfo Feragutti Visconti, Ernesto Fontana, Bernardino Pasta. La Pinacoteca cantonale propone frequentemente mostre temporanee.'
+  logo: logo_pinacoteca_zuest.jpg
+  colophon: partner
+  logo_footer: footer_logo_pinacoteca_zuest.jpg
+- 
+  name: Museo d’arte Mendrisio
+  place: Mendrisio
+  url: http://museo.mendrisio.ch
+  description: "Fondato nel 1982 negli spazi di un antico convento, il Museo d'arte di Mendrisio propone esposizioni dedicate a grandi maestri del Novecento. Alterna a questa attività esposizioni su figure e temi inerenti al territorio, approfondendo capitoli della storia locale e valorizzando artisti contemporanei locali. Il Museo d'arte di Mendrisio può vantare una notevole collezione di dipinti (tra cui un significativo gruppo di ex-voto), sculture e opere su carta che spaziano dal XVI al XX secolo e che documentano capillarmente la storia artistica locale."
+  logo: logo_mendrisio_museo_arte.jpg
+  colophon: partner
+  logo_footer: footer_logo_mendrisio_museo_arte.jpg
+- 
+  name: Mediamus
+  place: Svizzera
+  url: http://mediamus.ch/web/
+  description: >
+    Associazione svizzera dei professionisti
+    della mediazione culturale attivi nei
+    musei. Rappresenta il settore
+    professionale della mediazione culturale
+    nei musei e negli ambiti affini verso il
+    pubblico e le rispettive istituzioni.
+    Promuove il riconoscimento della
+    professione e si impegna per gli
+    interessi, professionali, materiali,
+    politici, etici e sociali dei suoi soci.
+  logo: logo_mediamus.jpg
+  colophon: partner
+  logo_footer: footer_logo_mediamus.jpg
+- 
+  name: Fondazione Diamante
+  place: Manno
+  url: http://www.f-diamante.ch
+  description: 'La storia della Fondazione Diamante  è profondamente legata all’affermazione dei diritti delle persone disabili, alla comprensione delle loro esigenze in rapporto al contesto sociale nel quale esse vivono e al promovimento della loro autonomia. Nell’ambito del suo mandato si rivolge a persone disabili adulte. Attualmente gestisce tredici laboratori, quattro unità abitative (foyer e appartamenti protetti), quattro servizi di sostegno abitativo e cinque servizi di inserimento lavorativo. Queste diverse attività coinvolgono circa seicento utenti accompagnati da duecento operatori sociali. Tra le diverse strutture, diffuse e decentralizzate sul territorio ticinese, il Canvetto Luganese (www.canvettoluganese.ch) è un ristorante che offre a persone disabili una possibilità formativa e lavorativa nel settore della ristorazione, con lo scopo di favorire la loro integrazione sociale e professionale. Come tutte le strutture ed i servizi della Fondazione Diamante anche il Canvetto Luganese è stato realizzato al fine di promuovere il dialogo con il tessuto sociale ed offrire ai propri clienti prestazioni di qualità in una cornice accogliente e pittoresca.'
+  logo: logo_fondazione_diamante.jpg
+  logo_footer: footer_logo_fondazione_diamante.jpg
+- 
+  name: Lions Club del Canton Ticino
+  place: Ticino
+  url: >
+    https://www.lionsclubs.ch/it/district-centro/inizio.html
+  description: 'I Lions sono l’organizzazione di servizio più grande con 46’000 club e oltre 1.36 milioni di soci in tutto il mondo. Con il motto “we serve”, noi serviamo,  si sviluppano progetti comunitari facendo il necessario per aiutare le comunità locali. I grandi temi di cui si occupano i Lions sono la vista, i giovani, l’ambiente e la fame. Per quanto riguarda la vista i Lions si impegnano nella loro missione di garantire la vista per tutti attraverso lo screening, la fornitura di attrezzature a ospedali e cliniche, la distribuzione di medicinali e la sensibilizzazione dell’opinione pubblica sulle malattie degli occhi.'
+  logo: logo_lions_international.jpg
+  logo_footer: footer_logo_lions.jpg

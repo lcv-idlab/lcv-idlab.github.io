@@ -51,7 +51,7 @@ Download:
 
 ----
 
-Download-final-doc: Kit completo
+Download-final-doc: Kit complet
 
 ----
 
@@ -86,7 +86,7 @@ Download-final-poster-pdfs:
 - 
   pdf: mci_poster_fr.pdf
   lang: fr
-  
+
 ----
 
-Class_id: kit
+Class-id: kit
