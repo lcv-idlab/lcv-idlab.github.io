@@ -32,7 +32,7 @@ Article:
     
     Il est possible de le faire soit vocalement, soit par l’application au sol d’une signalétique en relief perceptible par la vue (pour les personnes malvoyantes) ou le toucher (en utilisant la sensibilité des pieds et de la canne blanche).
     
-    (image: elementi_arredo.jpg class: gallery elementi: alt: '')
+    (image: elementi_arredo.jpg class: gallery elementi)
 - 
   option_type: three
   section_title: Marches et différences de niveau au sol
@@ -41,7 +41,7 @@ Article:
     
     En plus des marches, les escaliers aussi doivent être signalés de façon appropriée. Il est possible de le faire soit vocalement, soit par l’application au sol d’une signalétique en relief perceptible par la vue (pour les personnes malvoyantes) ou le toucher (en utilisant la sensibilité des pieds et de la canne blanche).
     
-    (image: gradini_dislivelli.jpg class: gallery gradini alt: '')
+    (image: gradini_dislivelli.jpg class: gallery gradini)
 - 
   option_type: three
   section_title: Surfaces transparentes
@@ -50,7 +50,7 @@ Article:
     
     Quand elles sont présentes, les portes en verre ne doivent donc pas être laissées entrouvertes : s’il n’est pas possible de les laisser complètement ouvertes, il est préférable qu’elles soient fermées, mais signalées de façon appropriée. Il est possible de signaler leur présence vocalement (essentiel pour les personnes aveugles ou fortement malvoyantes), ainsi que par l’application d’éléments signalétiques opaques, de grandes dimensions et présentant un fort contraste chromatique.
     
-    (image: superfici_trasparenti.jpg class: gallery superfici alt: '')
+    (image: superfici_trasparenti.jpg class: gallery superfici)
 - 
   option_type: one
   section_title: Interventions structurelles
@@ -74,7 +74,7 @@ Article:
     
     Si les mains courantes sont soutenues par des rampes en fer forgé aux dessins complexes, nous suggérons de couvrir la partie inférieure à l’aide d’un matériau transparent pour éviter des obstacles supplémentaires à la mobilité : le risque que des vêtements, sacs ou autres se prennent dans les décorations en fer est réel.
     
-    (image: scale_corrimani.jpg class: gallery corrimani alt: '')
+    (image: scale_corrimani.jpg class: gallery corrimani)
 - 
   option_type: three
   section_title: Sol

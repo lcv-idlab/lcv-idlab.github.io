@@ -171,8 +171,8 @@ Article:
     Egli costituisce il tramite tra l’opera e il pubblico: i visitatori con problemi di vista potranno così effettuare un’esplorazione tattile del mediatore stesso, facendosi guidare dalle sue indicazioni verbali per percepirne al meglio pose e movenze nonché specificità materiali di vestiti e accessori.
     
     Il visitatore ipovedente potrà godere anche della parte visiva della messa in scena, spesso fonte di meraviglia e divertito stupore. È opportuno ricordare che per realizzare una messa in scena pertinente ed efficace, non è necessario riprodurre l’opera in tutti i suoi dettagli: è importante scegliere indumenti e accessori soprattutto in base alla loro consistenza materica (texture e volumi), che deve essere il più possibile vicina a quella percepibile visivamente.
-    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena)
-    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena)
+    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'I partecipanti con problemi di vista ascoltano le indicazioni dei collaboratori SUPSI per mimare e assumere in prima persona la posizione della donna ritratta nell’opera. Un operatore SUPSI aiuta una di loro.')
+    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'In posa, abbigliati e agghindati con costumi e accessori, due collaboratori SUPSI mettono in scena un’opera della mostra.')
 - 
   option_type: two
   section_title: Interpretazioni gustative e olfattive
@@ -216,8 +216,10 @@ Article:
     In questo senso è particolarmente importante selezionare alimenti, sostanze aromatiche o pietanze oltre che in base al loro odore e gusto, anche in funzione della loro consistenza. In questo senso, gli abbinamenti di gusto e consistenza, siano essi in contrasto (es. gusto forte e consistenza delicata) o in armonia (es. gusto dolce e consistenza delicata) sono particolarmente efficaci per far comprendere al pubblico le relazioni che si possono instaurare nell’opera tra aspetti formali e di contenuto.
     
     Per esempio, per interpretare una scultura monumentale in marmo che rappresenta un eroe di guerra in azione, può essere opportuno proporre consistenze delicate e fredde per tradurre gli aspetti formali (es. materiale, colore, ecc.) e gusti forti e vibranti per tradurre il soggetto.
-    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery gusto)
-    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery gusto)
+    
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
+    
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
 
 ----
 

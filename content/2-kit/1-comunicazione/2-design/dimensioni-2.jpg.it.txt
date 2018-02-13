@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'L’immagine mostra la dimensione ottimale del testo per un formato A5. Corpo minimo 12pt; interlinea 18pt.'

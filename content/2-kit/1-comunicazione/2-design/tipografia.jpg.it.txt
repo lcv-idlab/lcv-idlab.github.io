@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'L’immagine mostra un uso della tipografia corretta confrontato con uno scorretto. La parte corretta presenta l’impaginazione con una sola font della giusta dimensione, numeri arabi, evidenziazioni in bold o inquadrate, interlinea ariosa, paragrafi distinguibili, testo a bandiera a sinistra, 62 battute per riga. L’esempio scorretto estremizza, per confronto, cosa viene consigliato.'

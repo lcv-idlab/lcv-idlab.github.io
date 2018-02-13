@@ -1,0 +1,1 @@
+Alt: 'L’image montre la taille optimale du texte pour un format F4. Corps minimum 100pt ; interligne 150pt.'

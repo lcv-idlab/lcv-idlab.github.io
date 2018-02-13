@@ -45,14 +45,14 @@ Article:
     
     Nel caso in cui ciò non fosse possibile, è importante aumentare le dimensioni di testi il più possibile. È inoltre possibile integrare dei box di testo con grandi margini bianchi tra la superficie di sfondo e l’inizio dei contenuti.
     
-    (image: contrasti-1.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto ottimale garantito tramite l’uso del testo nero su sfondo bianco.')
-    (image: contrasti-2.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto ottimale garantito tramite l’uso del testo bianco su sfondo nero.')
-    (image: contrasti-3.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto ottimale garantito tramite l’uso del testo nero su sfondo colorato chiaro.')
-    (image: contrasti-4.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto debole ottenuto usando del testo bianco su sfondo colorato chiaro.')
-    (image: contrasti-5.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto ottimale garantito tramite l’uso del testo bianco su sfondo colorato.')
-    (image: contrasti-6.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto debole ottenuto usando del testo nero su sfondo colorato.')
-    (image: contrasti-7.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto ottimale garantito tramite l’uso del testo inserito in box bianchi su sfondo colorato.')
-    (image: contrasti-8.jpg class: gallery contrasti two-columns alt: 'L’immagine mostra il contrasto debole ottenuto usando del testo direttamente sullo sfondo colorato.')
+    (image: contrasti-1.jpg class: gallery contrasti two-columns)
+    (image: contrasti-2.jpg class: gallery contrasti two-columns)
+    (image: contrasti-3.jpg class: gallery contrasti two-columns)
+    (image: contrasti-4.jpg class: gallery contrasti two-columns)
+    (image: contrasti-5.jpg class: gallery contrasti two-columns)
+    (image: contrasti-6.jpg class: gallery contrasti two-columns)
+    (image: contrasti-7.jpg class: gallery contrasti two-columns)
+    (image: contrasti-8.jpg class: gallery contrasti two-columns)
 - 
   option_type: three
   section_title: Dimensioni
@@ -63,11 +63,11 @@ Article:
     
     Quando ciò non è possibile è fondamentale permettere al pubblico di fotografarli con il proprio smartphone al fine di poterli ingrandire a schermo. Attraverso un supporto digitale (computer, applicazioni per smartphone, ecc.) gli utenti possono infatti ingrandire gli elementi visivi fino alla dimensione ideale. Accedere ai contenuti (testuali in particolare) in forma (link: kit/comunicazione/website text: digitale) è inoltre fondamentale per le persone cieche, che possono avvalersi degli strumenti di lettura vocale per fruire delle informazioni autonomamente.
     
-    (image: dimensioni-1.jpg class: gallery formati two-columns alt: 'L’immagine mostra la dimensione ottimale del testo per un formato didascalia. Dimensione foglio cm 12x12; corpo minimo 14pt; interlinea 21pt.')
-    (image: dimensioni-2.jpg class: gallery formati two-columns alt: 'L’immagine mostra la dimensione ottimale del testo per un formato A5. Corpo minimo 12pt; interlinea 18pt.')
-    (image: dimensioni-3.jpg class: gallery formati two-columns alt: 'L’immagine mostra la dimensione ottimale del testo per un formato A4. Corpo minimo 14pt; interlinea 21pt.')
-    (image: dimensioni-4.jpg class: gallery formati two-columns alt: 'L’immagine mostra la dimensione ottimale del testo per un formato A2. Corpo minimo 20pt; interlinea 30pt.')
-    (image: dimensioni-5.jpg class: gallery formati two-columns alt: 'L’immagine mostra la dimensione ottimale del testo per un formato F4. Corpo minimo 100pt; interlinea 150pt.')
+    (image: dimensioni-1.jpg class: gallery formati two-columns)
+    (image: dimensioni-2.jpg class: gallery formati two-columns)
+    (image: dimensioni-3.jpg class: gallery formati two-columns)
+    (image: dimensioni-4.jpg class: gallery formati two-columns)
+    (image: dimensioni-5.jpg class: gallery formati two-columns)
 - 
   option_type: three
   section_title: Collocazione
@@ -77,7 +77,7 @@ Article:
     
     Per ciò che concerne le didascalie, la mezzaria non dovrebbe essere sopra i 140 cm e sotto i 90 cm. Un corretto posizionamento delle informazioni deve essere sviluppato anche sul sito (link: kit/comunicazione/website text: web). È inoltre importante che la disponibilità delle informazioni e dei supporti a disposizione sia chiaramente comunicata al pubblico.
     
-    (image: collocazione.jpg class: gallery collocazione alt: 'L’immagine mostra le altezze ottimali per collocare sulle pareti testi e immagini.')
+    (image: collocazione.jpg class: gallery collocazione)
 - 
   option_type: two
   section_title: Per i testi
@@ -90,7 +90,7 @@ Article:
     
     Si consiglia inoltre di limitare all’essenziale l’utilizzo di tabelle e grafici. L’integrazione di pittogrammi, illustrazioni didattiche o logotipi può essere d’aiuto, se rispondono allo stesso criterio di  semplicità estetica, di immediata comprensione e di coerenza formale; evitare processi interpretativi che aggiungono complessità.
     
-    (image: layout.jpg class: gallery layout alt: 'L’immagine mostra un esempio di layout ordinato e sobrio che rispecchia le regole compositive consigliate tramite netti contrasti cromatici, gerarchia informazioni essenziale e sintetica.')
+    (image: layout.jpg class: gallery layout)
 - 
   option_type: three
   section_title: Caratteri semplici
@@ -113,7 +113,7 @@ Article:
     
     Per i grandi formati è raccomandato invece un massimo di 50 battute per riga nel caso di un corpo di 20 pt., seguendo un incremento di interlinea pari a un fattore di 1,25 rispetto alla dimensione della font (prendendo Arial come esempio dimensionale, per una font di 20 pt. l’interlinea deve corrispondere a 25 pt.).
     
-    (image: tipografia.jpg class: gallery tipografia alt: 'L’immagine mostra un uso della tipografia corretta confrontato con uno scorretto. La parte corretta presenta l’impaginazione con una sola font della giusta dimensione, numeri arabi, evidenziazioni in bold o inquadrate, interlinea ariosa, paragrafi distinguibili, testo a bandiera a sinistra, 62 battute per riga. L’esempio scorretto estremizza, per confronto, cosa viene consigliato.')
+    (image: tipografia.jpg class: gallery tipografia)
 - 
   option_type: two
   section_title: Per le immagini
@@ -126,8 +126,8 @@ Article:
     
     È preferibile riutilizzare la stessa immagine per proporre lo stesso concetto. Integrare delle descrizioni scritte in grado di rendere più comprensibili le informazioni prettamente visive può risultare sempre molto utile.
     
-    (image: immagini-1.jpg class: gallery immagini alt: 'L’immagine mostra un esempio compositivo chiaro nella forma e nel significato.')
-    (image: immagini-2.jpg class: gallery immagini alt: 'L’immagine mostra un esempio compositivo complesso e con molti elementi.')
+    (image: immagini-1.jpg class: gallery immagini)
+    (image: immagini-2.jpg class: gallery immagini)
 - 
   option_type: three
   section_title: Pittogrammi e icone

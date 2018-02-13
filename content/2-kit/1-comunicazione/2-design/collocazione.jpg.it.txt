@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'L’immagine mostra le altezze ottimali per collocare sulle pareti testi e immagini.'

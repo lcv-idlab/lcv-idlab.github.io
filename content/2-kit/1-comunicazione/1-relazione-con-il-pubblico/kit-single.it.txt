@@ -73,7 +73,7 @@ Article:
     
     Per ciò che concerne l’ambito culturale e artistico, e in particolare quello dei musei d’arte in Ticino, le necessità e le aspettative del pubblico di riferimento sono state indagate nel quadro del progetto MCI e sintetizzate in due rapporti liberamente accessibili:
     
-    (image: esperienze-museali-01.jpg  alt: Esperienza museale class: two-columns link: /risorse/indagine-preliminare)
+    (image: esperienze-museali-01.jpg  alt: 'Immagine rappresentativa. Veduta panoramica di una sala espositiva con quadri alle pareti di diverse dimensioni. Una persona di spalle sta visitando la mostra.'  class: two-columns link: /risorse/indagine-preliminare)
     
     (image: esperienze-museali-02.jpg  alt: Esperienza museale class: two-columns link: /risorse/indagine-in-profondita)
 - 

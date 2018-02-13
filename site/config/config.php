@@ -49,14 +49,14 @@ c::set('languages', array(
 		'locale'	=> 'de_DE',
 		'url'	=> '/de',
 	),
-	
+	*/
 	array(
 		'code'	=> 'fr',
 		'name'	=> 'Français',
 		'locale'	=> 'ch_FR',
 		'url'	=> '/fr',
 	)
-	*/
+	
 ));
 
 

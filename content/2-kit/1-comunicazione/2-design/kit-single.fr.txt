@@ -45,14 +45,14 @@ Article:
     
     Si cela n’est pas réalisable, il est en tout cas important d’augmenter le plus possible les dimensions des textes. Il est possible, en outre, d’entourer les blocs de texte de grandes marges blanches entre la surface du fond et le début des contenus.
     
-    (image: contrasti-1.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste optimal garanti par l’utilisation d’un texte noir sur fond blanc.')
-    (image: contrasti-2.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste optimal garanti par l’utilisation d’un texte blanc sur fond noir. ')
-    (image: contrasti-3.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste optimal garanti par l’utilisation d’un texte noir sur fond coloré clair.')
-    (image: contrasti-4.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste faible obtenu en utilisant du texte blanc sur fond coloré clair. )
-    (image: contrasti-5.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste optimal garanti par l’utilisation d'un texte blanc sur fond coloré.')
-    (image: contrasti-6.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste faible obtenu en utilisant du texte noir sur fond coloré.')
-    (image: contrasti-7.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste optimal garanti par l’utilisation d’un texte inséré dans des blocs blancs sur fond coloré.')
-    (image: contrasti-8.jpg class: gallery contrasti two-columns alt: 'L’image montre le contraste faible obtenu en utilisant du texte directement sur fond coloré.')
+    (image: contrasti-1.jpg class: gallery contrasti two-columns)
+    (image: contrasti-2.jpg class: gallery contrasti two-columns)
+    (image: contrasti-3.jpg class: gallery contrasti two-columns)
+    (image: contrasti-4.jpg class: gallery contrasti two-columns)
+    (image: contrasti-5.jpg class: gallery contrasti two-columns)
+    (image: contrasti-6.jpg class: gallery contrasti two-columns)
+    (image: contrasti-7.jpg class: gallery contrasti two-columns)
+    (image: contrasti-8.jpg class: gallery contrasti two-columns)
 - 
   option_type: three
   section_title: Dimensions
@@ -63,11 +63,11 @@ Article:
     
     Quand cela n’est pas possible, il est fondamental de permettre au public de les photographier avec son smartphone afin de pouvoir les agrandir sur l’écran. Au moyen d’un support numérique (ordinateur, applications pour smartphone, etc.) les utilisateurs peuvent en effet agrandir les éléments visuels jusqu’à la taille idéale. Accéder aux contenus (textuels en particulier) sous forme (link: kit/comunicazione/website text: numérique) est par ailleurs fondamental pour les personnes aveugles, qui peuvent recourir à des instruments de lecture vocale pour obtenir les informations de façon autonome.
     
-    (image: dimensioni-1.jpg class: gallery formati two-columns alt: 'L’image montre la taille optimale du texte pour un format de légende. Dimensions de la feuille cm 12x12 ; corps minimum 14pt ; interligne 21pt.')
-    (image: dimensioni-2.jpg class: gallery formati two-columns alt: 'L’image montre la taille optimale du texte pour un format A5. corps minimum 12pt ; interligne 18pt.')
-    (image: dimensioni-3.jpg class: gallery formati two-columns alt: 'L’image montre la taille optimale du texte pour un format A4. corps minimum 14pt ; interligne 21pt.')
-    (image: dimensioni-4.jpg class: gallery formati two-columns alt: 'L’image montre la taille optimale du texte pour un format A2. corps minimum 20pt ; interligne 30pt.)
-    (image: dimensioni-5.jpg class: gallery formati two-columns alt: 'L’image montre la taille optimale du texte pour un format F4. corps minimum 100pt ; interligne 150pt.')
+    (image: dimensioni-1.jpg class: gallery formati two-columns)
+    (image: dimensioni-2.jpg class: gallery formati two-columns)
+    (image: dimensioni-3.jpg class: gallery formati two-columns)
+    (image: dimensioni-4.jpg class: gallery formati two-columns)
+    (image: dimensioni-5.jpg class: gallery formati two-columns)
 - 
   option_type: three
   section_title: Emplacement
@@ -91,15 +91,15 @@ Article:
     
     Il est conseillé, en outre, de limiter à l’essentiel l’utilisation de tableaux et des graphiques. L'insertion de pictogrammes, illustrations pédagogiques ou logos peut être utile, s’ils répondent aux mêmes critères de simplicité esthétique, de compréhension immédiate et de cohérence formelle ; il convient d’éviter les processus d’interprétation qui ajoutent de la complexité.
     
-    (image: layout.jpg class: gallery layout alt: 'L’image montre un exemple de mise en place ordonnée et sobre respectant les règles de composition conseillées au moyen de contrastes chromatiques nets et d’une hiérarchie des informations essentielle et synthétique.')
+    (image: layout.jpg class: gallery layout)
 - 
   option_type: three
   section_title: Caractères simples
   content: |
     Il est recommandé d’utiliser des polices sans empattements et à l’esthétique simple et immédiate, tels que par exemple Arial, Tahoma ou Times New Roman, car de nombreuses personnes, surtout âgées, les connaissent et sont habituées à les lire. Par ailleurs,  de larges espaces entre les lettres sont préférables. Entre les graisses (terme de typographie indiquant l’épaisseur) à disposition, conseillons Regular, Semibold ou Bold. A éviter par contre : Light et le style Condensed et, en général, l’emploi d’effets comme les ombres et les contours.
     
-    (image: caratteri-semplici-1.jpg class: gallery caratteri alt: 'L’image montre le caractère typographique sans empattements présentant la meilleure lisibilité : l’Arial ; et elle souligne l’importance de l’utiliser seulement avec deux types de graisses : regular et bold. Elle montre aussi des exemples de mauvaise utilisation de la police.')
-    (image: caratteri-semplici-2.jpg class: gallery caratteri alt: 'L’image montre le caractère typographique avec empattements conseillé exceptionnellement : le Times New Roman ; il est permis de l’utiliser, car les personnes âgées le reconnaissent. Il est important de l’utiliser seulement avec deux types de graisses : regular et bold. Elle montre aussi des exemples de mauvaise utilisation de la police.')
+    (image: caratteri-semplici-1.jpg class: gallery caratteri)
+    (image: caratteri-semplici-2.jpg class: gallery caratteri)
 - 
   option_type: three
   section_title: Typographie essentielle
@@ -116,7 +116,7 @@ Article:
     
     Pour les grands formats, il est recommandé par contre d’adopter un maximum de 50 caractères par ligne dans le cas d’un corps de 20 pt., en suivant une augmentation d’interligne d’un facteur de 1,25 par rapport à la taille de la police (si l’on prend Arial comme exemple de police, pour une taille de 20 pt. l’interligne doit être de 25 pt.).
     
-    (image: tipografia.jpg class: gallery tipografia alt: 'L’image montre une utilisation d’une typographie correcte comparée à une typographie incorrecte. La partie correcte présente la mise en page avec une seule police de la juste taille, des chiffres arabes, des mises en évidence en gras ou encadrées, un interligne aéré, des paragraphes distincts, un texte en drapeau justifié à gauche, 62 caractères par ligne. L’exemple incorrect exagère, par comparaison, les solutions conseillées.')
+    (image: tipografia.jpg class: gallery tipografia)
 - 
   option_type: two
   section_title: Pour les images
@@ -129,8 +129,8 @@ Article:
     
     Il est préférable de réutiliser la même image pour proposer le même concept. L’insertion de descriptions écrites permettant de rendre plus compréhensibles les informations purement visuelles est toujours très utile.
     
-    (image: immagini-1.jpg class: gallery immagini alt: 'L’image montre un exemple de composition clair quant à la forme et à la signification.')
-    (image: immagini-2.jpg class: gallery immagini alt: 'L’image montre un exemple de composition complexe et contenant de nombreux éléments.')
+    (image: immagini-1.jpg class: gallery immagini)
+    (image: immagini-2.jpg class: gallery immagini)
 - 
   option_type: three
   section_title: Pictogrammes et icônes
@@ -142,7 +142,7 @@ Article:
     Nous suggérons de ne pas faire une utilisation abusive des pictogrammes : mieux vaut en limiter le nombre et fournir une explication des signes à l’entrée du musée, s’ils sont utilisés dans les espaces d’exposition ; les mêmes indications valent pour les documents sur papier, où l’insertion d’une légende en favorise la compréhension. L’insertion de descriptions écrites permettant de rendre plus intelligibles les informations purement visuelles peut être très utile.
     
     
-    (image: pittogrammi.jpg class: gallery pittogrammi alt: 'L’image montre une série de pictogrammes facilement reconnaissables.')
+    (image: pittogrammi.jpg class: gallery pittogrammi)
 - 
   option_type: one
   section_title: >

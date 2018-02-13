@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'Il diagramma illustra come usabilità, standard web e tecnologie assistive rendono l’esperienza accessibile.'

@@ -31,7 +31,7 @@ Article:
     Per favorire la mobilità dei visitatori negli spazi museali è fondamentale evitare di posizionare mobilio (es. vetrine) o qualsiasi altro elemento di disturbo, soprattutto se spigoloso, nelle zone di passaggio. Questi elementi possono essere particolarmente pericolosi e causare degli incidenti. Quando ciò non è possibile, è essenziale segnalare gli ostacoli ai visitatori.
     
     È possibile farlo sia a voce, sia attraverso l’applicazione a terra di una segnaletica in rilievo percepibile attraverso la vista (per le persone ipovedenti) o il tatto (tramite l’utilizzo della sensibilità dei piedi e del bastone bianco).
-    (image: elementi_arredo.jpg class: gallery elementi: alt: '')
+    (image: elementi_arredo.jpg class: gallery elementi)
 - 
   option_type: three
   section_title: Gradini e dislivelli al suolo
@@ -39,7 +39,7 @@ Article:
     Se evitare dislivelli al suolo sarebbe l’ideale, quando ciò non è possibile risulta fondamentale segnalarli ai visitatori, a maggior ragione quelli minimi (piccoli gradini), che proprio per essere quasi impercettibili sia alla vista sia al tatto, possono facilmente passare inosservati, provocando cadute pericolose.
     
     Oltre ai gradini, anche le scale devono essere adeguatamente segnalate. È possibile farlo sia a voce, attraverso l’applicazione a terra di una segnaletica in rilievo percepibile allo stesso tempo con la vista (per le persone ipovedenti) sia con il tatto (tramite l’utilizzo della sensibilità dei piedi e del bastone bianco).
-    (image: gradini_dislivelli.jpg class: gallery gradini alt: '')
+    (image: gradini_dislivelli.jpg class: gallery gradini)
 - 
   option_type: three
   section_title: Superfici trasparenti
@@ -47,7 +47,7 @@ Article:
     Le superfici laccate o riflettenti come anche quelle vetrate, sono sconsigliate sia perché il rischio concreto di farsi male scontrandosi con i vetri è elevato nella misura in cui le superfici trasparenti sono difficilmente o per nulla individuabili, sia a causa dei riflessi che inevitabilmente interferiscono con la visione residua delle persone ipovedenti ostacolando ulteriormente la visione.
     
     Quando presenti, le porte di vetro non vanno dunque tenute socchiuse: se non è possibile lasciarle completamente aperte è preferibile che siano chiuse ma adeguatamente segnalate. È possibile segnalare la loro presenza a voce (essenziale per le persone cieche o fortemente ipovedenti) oltre che attraverso l’applicazione di elementi segnaletici opachi, di grandi dimensioni e con un forte contrasto cromatico.
-    (image: superfici_trasparenti.jpg class: gallery superfici alt: '')
+    (image: superfici_trasparenti.jpg class: gallery superfici)
 - 
   option_type: one
   section_title: Interventi strutturali
@@ -69,7 +69,7 @@ Article:
     Sia per le persone cieche sia per quelle ipovedenti il corrimano funge da supporto direzionale, percettivo e di sostegno nel movimento su una scala, sia esso svolto in autonomia o con l’accompagnamento di una persona vedente. Ne è quindi fortemente consigliato l’inserimento.
     
     Nei casi in cui i corrimani siano sorretti da ringhiere in ferro battuto dagli elaborati disegni, si suggerisce di coprire con materiale trasparente la parte inferiore per evitare ulteriori ostacoli alla mobilità: il rischio di impigliare vestiti, borse o altro nelle decorazioni in ferro è concreto.
-    (image: scale_corrimani.jpg class: gallery corrimani alt: '')
+    (image: scale_corrimani.jpg class: gallery corrimani)
 - 
   option_type: three
   section_title: Pavimentazione

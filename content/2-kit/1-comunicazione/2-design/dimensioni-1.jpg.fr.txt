@@ -1,0 +1,1 @@
+Alt: 'L’image montre la taille optimale du texte pour un format de légende. Dimensions de la feuille cm 12x12 ; corps minimum 14pt ; interligne 21pt.'

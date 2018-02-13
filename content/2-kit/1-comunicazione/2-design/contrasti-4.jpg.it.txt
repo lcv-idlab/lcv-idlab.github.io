@@ -1,1 +1,1 @@
-Alt: 
+Alt: 'L’immagine mostra il contrasto debole ottenuto usando del testo bianco su sfondo colorato chiaro.'

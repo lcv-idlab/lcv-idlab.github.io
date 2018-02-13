@@ -1,0 +1,1 @@
+Alt: 'L’image montre la taille optimale du texte pour un format A2. Corps minimum 20pt ; interligne 30pt.'
