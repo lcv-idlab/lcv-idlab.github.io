@@ -46,6 +46,10 @@
 				.hidden-item {
 					display: none;
 				}
+
+				&:hover {
+					cursor: pointer;
+				}
 			}
 
 		}
