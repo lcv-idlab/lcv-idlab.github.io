@@ -281,21 +281,20 @@ window.onload = function() {
 
 		//console.log(index.height());
 
-		if(scroll - main_nav_top > top_pos && scroll < (end_pos - index.height() - safe_space_margin_top_index - 36)) {		// 36 is 2rem form the top: 2rem in the scss
+		if(scroll > top_pos && scroll < (end_pos - index.height() - 36 - safe_space_margin_top_index)) {		// 36 is 2rem form the top: 2rem in the scss
 			index.removeClass();
 			var index_top = main_nav_h + main_nav_top + 36;
 			index.css({ 'top': index_top, 'margin-top': 'auto' });
 			index.addClass("fix");
-		} else if (scroll > (end_pos - index.height() - safe_space_margin_top_index - 36)) {
+		} else if (scroll > (end_pos - index.height() - 36 - safe_space_margin_top_index)) {
 			index.removeClass();
 			index.addClass("absolute");
 			index.css({ 'margin-top': end_pos - top_pos - index.height() - safe_space_margin_top_index - 36 });
 			// console.log('end_pos: ' + end_pos + ' index-height: ' + index.height());
-		} else if (scroll - main_nav_top < top_pos) {
-
-			//console.log("scroll < top_pos: " + (top_pos - main_nav_top));
+		} else if (scroll < (top_pos - (main_nav_h + main_nav_top))) {
 			index.removeClass();
 		}
+
 	}
 
 	// index open on "one" item click
