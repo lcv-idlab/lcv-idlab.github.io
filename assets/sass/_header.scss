@@ -17,6 +17,7 @@
 			@extend %main-logo;
 			@include pads(2 2 0.7 2);
 			display: inline-block;
+			width: 100%;
 
 			@media screen and (max-width: $bp-medium) {
 				padding-bottom: 1.5rem;

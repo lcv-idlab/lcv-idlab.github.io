@@ -17,9 +17,7 @@ Article:
     
     Pour favoriser l’accès aux œuvres, il est particulièrement important de disposer d’audioguides descriptifs. Pour faire face à l’exigence d’un audioguide approprié, il est conseillé, par conséquent, de disposer d’un instrument spécifique doté de boutons à chiffres en relief et à contraste chromatique élevé. Les numéros correspondants doivent être affichés aux murs à côté des œuvres sélectionnées, eux aussi en grands caractères à avec un fort contraste chromatique. Une application téléchargeable et utilisable sur smartphone, de manière à pouvoir écouter les pistes sonores descriptives même à distance constitue une alternative.
     
-    Les audioguides ne doivent pas forcément décrire toutes les œuvres présentes dans l’exposition : il est possible d’offrir au public une sélection.
-    
-    Rappelons que même si l’instrument est approprié, cette solution est utile pour le public malvoyant, mais ne résout pas entièrement le problème pour les personnes aveugles, qui ont besoin dans tous les cas de l’accompagnement d’une personne voyante, ne serait-ce que pour savoir où se trouve l’œuvre décrite par l’audioguide.
+    Les audioguides ne doivent pas forcément décrire toutes les œuvres présentes dans l’exposition : il est possible d’offrir au public une sélection. Rappelons que même si l’instrument est approprié, cette solution est utile pour le public malvoyant, mais ne résout pas entièrement le problème pour les personnes aveugles, qui ont besoin dans tous les cas de l’accompagnement d’une personne voyante, ne serait-ce que pour savoir où se trouve l’œuvre décrite par l’audioguide.
   option_type: plain
 
 ----

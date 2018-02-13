@@ -11,6 +11,8 @@ Article:
 - 
   section_title: ""
   content: |
+    Si la proposition de visites guidées multisensorielles est prioritaire, l’accès aux œuvres à distance est une solution efficace pour promouvoir le contact entre institutions muséales et public de référence et pour permettre aux visiteurs d’accéder aux œuvres de manière libre et autonome, où et quand cela convient à leurs exigences personnelles : pour les personnes ayant un handicap visuel, se déplacer au musée peut prendre du temps et, très souvent, une organisation complexe est nécessaire, impliquant transports, accompagnateurs, chauffeurs, etc.
+    
     Même si l’accès à distance ne permet pas la rencontre directe avec l’œuvre originale, ni l’échange et le dialogue interpersonnel entre médiateurs et spectateurs, il est toutefois utile de pouvoir disposer des descriptions des œuvres et des images en haute résolution (pour les personnes malvoyantes) sur le site web du musée.
     
     Cette approche permet en outre de stimuler davantage les utilisateurs à se déplacer physiquement pour visiter le musée et ses expositions.
