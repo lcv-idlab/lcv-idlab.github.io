@@ -160,9 +160,17 @@ window.onload = function() {
 	var up, down, start_up, start_down = 0;
 	var old_menu_open = false;
 	var safe_space_margin_top_index = 300;
+	var scroll = $(window).scrollTop();
     indexPositionCalc();
 
     var scroll_up_amount = 0;
+
+    function updateNavValues() {
+    	main_nav_h = main_nav.height();
+    	old_main_nav_top = -main_nav_h;
+		main_nav_top = -main_nav_h;
+		$("main").css("margin-top", $(".main-nav").height()*2);
+    }
 
     function indexPositionCalc() {
 	    if(index.length > 0) {
@@ -174,7 +182,7 @@ window.onload = function() {
 	}
 
 	$(window).scroll(function(e) {
-		var scroll = $(window).scrollTop();
+		scroll = $(window).scrollTop();
 
 		//console.log("index_height: " + index_height + " top_pos: " + top_pos + " end_pos: " + end_pos);
 
@@ -243,21 +251,24 @@ window.onload = function() {
 			indexScroll(scroll, main_nav_top);
 		}
 		
-
-		
-		
 	});
 
 	$(window).resize(function() {
-		index.css({ top: 0 });
+		button.className = "";
+		nav.className = "";
+		lang.className = "";
+		scroll = $(window).scrollTop();
 		index.removeClass();
+		updateNavValues();
+		$('html, body').animate({
+	        scrollTop: $($.attr(this, 'href')).offset().top + main_nav_top
+	    }, 1);
 		indexPositionCalc();
-		$(window).scroll();
-	})
+		
+	});
 
 	$(document).on('click', 'a[href^="#"]', function (event) {
 	    event.preventDefault();
-
 	    $('html, body').animate({
 	        scrollTop: $($.attr(this, 'href')).offset().top + main_nav_top
 	    }, 200);
@@ -268,7 +279,7 @@ window.onload = function() {
 	function indexScroll(scroll, main_nav_top) {
 		//console.log("scroll: " + scroll + " top_pos: " + top_pos + " main_nav_top: " + main_nav_top);
 
-		console.log(index.height());
+		//console.log(index.height());
 
 		if(scroll - main_nav_top > top_pos && scroll < (end_pos - index.height() - safe_space_margin_top_index - 36)) {		// 36 is 2rem form the top: 2rem in the scss
 			index.removeClass();
