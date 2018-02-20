@@ -6,29 +6,41 @@ Paragraphs:
 
 - 
   header: Forschen und Experimentieren
-  content: 'Durch eine Aktionsforschung möchte das Projekt leicht ständig steigende und reproduzierbare Lösungen individualisieren und die wichtigsten Kunstmuseen der italienischen Schweiz den Menschen mit Sehbehinderung zugänglich machen und somit gleichzeitig den freien Zugang zur kulturellen und künstlerischen Welt fördern. Neben der theoretischen Forschung, ins bezüglich der disziplinaren Vertiefung, einer Einteilung der schweizerischen und ausländischen “Best Practices”  und einer vertieften Befragung und Erforschung bei blinden und sehbehinderten Menschen, sieht das Projekt - im Verlauf des Jahres 2017 - einen gegliederten Weg praktischer Experimente vor, insbesondere durch eine vielseitige Tätigkeit von integrierter Vermittlung von Kultur in Zusammenarbeit mit den Projektpartnern.'
+  content: 'Dieses Projekt will mittels einer Aktionsforschung einfach anpassbare und reproduzierbare Konzepte ermitteln, die den Menschen mit Sehbehinderung die wichtigsten Kunstmuseen der italienischen Schweiz zugänglich machen, wodurch zugleich der freie Zugang zur Kultur¬- und Kunstwelt gefördert wird. Neben der theoretischen Forschung – insbesondere zu einer fachlichen Vertiefung, einer Kartierung der schweizerischen und ausländischen “Best Practices” und einer detaillierten Befragung und Erforschung blinder und sehbehinderter Menschen – sah das Projekt im Verlauf des Jahres 2017 eine Reihe praktischer Experimente vor, bei der in Zusammenarbeit mit den Projektpartnern vielseitige Aktivitäten einer inklusiven Kulturvermittlung entwickelt wurden.'
 - 
   header: Kunstmuseen
-  content: "Um die individualisierten Lösungen zu erproben, ist es notwendig an bestimmten Objekten und Orten zu arbeiten und sie im Detail aus einem künstlerischen, konzeptionellen und materiellen Standpunkt aus zu studieren. In diesem Sinne ist die Zusammenarbeit mit unseren Partnernmuseen von grundlegender Bedeutung: m.a.x. Museo in Chiasso, Museo Civico di Villa dei Cedri in Bellinzona, Museo Comunale d'Arte Moderna und Museo Castello San Materno in Ascona, Museo d'Arte della Svizzera italiana in Lugano (MASI Lugano), Museo Vincenzo Vela in Ligornetto, Pinacoteca cantonale Giovanni Züst in Rancate und Museo d'Arte in Mendrisio. Die Beteiligung mehrerer Institutionen ermöglicht Experimente mit spezifischen Lösungen der Vermittlung, die nicht nur an unterschiedliche Räume angepasst sind, sondern vor allem an eine Vielzahl von Formen der Kunst, die  unterschiedliche historische Perioden betreffen. Das Projekt stützt sich auf ein breites und renommiertes Netzwerk von Museen, die repräsentativ sind für die Öffnung gegenüber Experimenten, die Qualität und die Vielfalt der Erfahrungen kultureller Vermittlung, die unterschiedliche Arten der eigenen Kunstsammlungen und die territoriale Abdeckung der italienischen Schweiz."
+  content: "Um die identifizierten Lösungen zu erproben, ist es notwendig, an bestimmten Objekten und Orten zu arbeiten und diese künstlerisch, konzeptionell wie materiell zu analysieren. In diesem Sinne ist die Zusammenarbeit mit unseren Partnermuseen von grundlegender Bedeutung: m.a.x. Museo (Chiasso), Museo Civico di Villa dei Cedri (Bellinzona), Museo Comunale d'Arte Moderna und Museo Castello San Materno (Ascona), MASI - Museo d'Arte della Svizzera italiana (Lugano), Museo Vincenzo Vela (Ligornetto), Pinacoteca cantonale Giovanni Züst (Rancate) und Museo d'Arte (Mendrisio). Die Beteiligung mehrerer Institutionen ermöglicht Experimente mit spezifischen Vermittlunglösungen, die sich nicht nur für unterschiedliche Räumlichkeiten eignen, sondern vor allem auch für eine Vielzahl von Kunstformen aus verschiedenen historischen Perioden. Das Projekt stützt sich auf ein breites und renommiertes Netzwerk von Museen, die nicht nur für ihre Experimentfreude repräsentativ sind, sondern auch für die Vielfalt und Qualität ihrer Erfahrungen in der Kulturvermittlung, die typologische Vielfalt ihrer museumseigenen Kunstsammlungen sowie die territoriale Abdeckung der italienischen Schweiz."
 - 
   header: Menschen mit Sehbehinderungen
-  content: 'Parallel zur Arbeit an Werken und Räumen werden Bedürfnisse und besondere Erwartungen des blinden und sehbehinderten Publikums vertieft. Die Zusammenarbeit mit Unitas, dem Verband der Blinden und Sehbehinderten der italienischen Schweiz, spielt dabei eine entscheidende Rolle in Bezug auf die Entwicklung, die Erprobung und die  Förderung von Arbeitslösungen, die in der Lage sind die Bedürfnisse von Menschen mit Sehbehinderung zu erfüllen.'
-- 
-  header: Mitteilen
   content: >
-    Das Projekt versteht sich als ein Labor
-    zur Erforschung, Experimentierung,
-    Arbeit und Verbreitung von Massnahmen
-    und “Best Practices” der
-    integrierten Vermittlung von Kultur
-    zugunsten von sehbehinderten Personen.
-    Die Ergebnisse werden allen
-    schweizerischen Einrichtungen als
-    Empfehlung mitgeteilt und in einem
-    Arbeitsprotokoll aufgeführt, das frei
-    zugänglich sein wird unter der Lizenz
-    Creative Commons.
-    
+    Neben der Arbeit mit Kunstwerken und
+    Räumlichkeiten werden die Bedürfnisse
+    und besonderen Erwartungen des blinden
+    und sehbehinderten Publikums vertieft in
+    den Blick genommen. Die Zusammenarbeit
+    mit dem Verband der Blinden und
+    Sehbehinderten der italienischen Schweiz
+    UNITAS spielt dabei eine entscheidende
+    Rolle für die Entwicklung, Erprobung
+    und Förderung von Interventionen, die
+    in der Lage sind, die Bedürfnisse von
+    Menschen mit Sehbehinderung zu
+    erfüllen.
+- 
+  header: Gemeinsame Nutzung
+  content: >
+    Das Projekt versteht sich als ein Labor,
+    das Massnahmen und Best Practices einer
+    inklusiven Kulturvermittlung für
+    Sehbehinderte erforscht und
+    experimentell erprobt, ausarbeitet und
+    weiterverbreitet. Die Ergebnisse sollen
+    allen schweizerischen Einrichtungen
+    weiterempfohlen und in einem
+    Arbeitsprotokoll dokumentiert werden,
+    das unter einer Creative Commons Lizenz
+    frei zugänglich ist.
+
 ----
 
-Class_id: abstract
+Class-id: abstract

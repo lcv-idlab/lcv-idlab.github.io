@@ -67,15 +67,7 @@ Article:
 - 
   option_type: three
   section_title: Œuvres explorables avec d’autres sens
-  content: >
-    Si, parmi les œuvres disponibles,
-    certaines peuvent être touchées ou
-    explorées à travers d’autres sens,
-    il est conseillé de les faire figurer
-    dans la sélection en vue de la
-    réalisation d’activités de
-    médiation multisensorielles prévoyant
-    une rencontre directe avec les œuvres.
+  content: "Si, parmi les œuvres disponibles, certaines peuvent être (link: kit/opere/incontro-diretto#permettere-l'esplorazione-tattile text: touchées) ou explorées à travers d’autres sens, il est conseillé de les faire figurer dans la sélection en vue de la réalisation d’activités de médiation multisensorielles prévoyant une rencontre directe avec les œuvres."
 - 
   option_type: three
   section_title: Œuvres d’artistes vivants

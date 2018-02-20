@@ -1,0 +1,21 @@
+Title: Kunstwerken
+
+----
+
+Description: Descrizione della categoria ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ullamco laboris nisi ut aliquip
+
+----
+
+Icon: 
+
+----
+
+Article: 
+
+----
+
+Verify: Jedes Mal, wenn eine Aktivität oder spezielle Massnahmen für ein sehbehindertes Publikum umgesetzt werden, sollte auch eine Bewertung vorgesehen sein, bei der die erzielten Resultate mit jenen Zielen abgeglichen werden, die zuvor hinsichtlich Validierung und Verbesserung anvisiert wurden. Generell sollte immer ein Weg gefunden werden, um das Feedback des Publikums aufzuzeichnen (z. B. Audioaufzeichnung, Text). Die Bewertung der 'Qualität' einer Tätigkeit erfordert spezielle Kenntnisse und Hilfsmittel und kann auch in Form einer externen Bewertung geschehen, an der die verschiedenen Akteure auf die ein oder andere Weise teilnehmen. Abschliessend kann es angebracht und sinnvoll sein, eine Bewertung in verschiedenen Phasen vorzusehen (Zwischen- und Endbewertung) und diese langfristig in bestimmten Abständen zu wiederholen.
+
+----
+
+Class-id: opere

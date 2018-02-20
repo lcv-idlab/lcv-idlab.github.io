@@ -6,9 +6,9 @@ Description:
 
 Fruire il patrimonio artistico attraverso i propri sensi permette di limitare il ricorso alla mediazione rispettando allo stesso tempo le capacit&#224; del pubblico.
 
-Le persone ipovedenti possono essere in grado di fruire delle opere anche visivamente se hanno la possibilità di osservarle da molto vicino, di utilizzare gli ausili necessari a migliorare la visione (lenti d’ingrandimento tradizionali o su smartphone, pile, ecc.) e se le (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: informazioni relative alle opere) sono trasmesse in maniera adeguata.
+Le persone ipovedenti possono essere in grado di fruire delle opere anche visivamente se hanno la possibilità di osservarle da molto vicino, di utilizzare gli ausili necessari a migliorare la visione (lenti d’ingrandimento tradizionali o su smartphone, pile, ecc.) e se le (link: kit/comunicazione/design#favorire-l-identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: informazioni relative alle opere) sono trasmesse in maniera adeguata.
 
-Per permettere l’avvicinamento e l’utilizzo degli ausili e far fronte allo stesso tempo alle esigenze istituzionali (assicurazione e conservazione), un (link: kit/orientation/guidare-il-visitatore text: accompagnamento) da parte del personale museale è sicuramente suggerito.
+Per permettere l’avvicinamento e l’utilizzo degli ausili e far fronte allo stesso tempo alle esigenze istituzionali (assicurazione e conservazione), un (link: kit/orientamento/guidare-il-visitatore text: accompagnamento) da parte del personale museale è sicuramente suggerito.
 
 Nei casi in cui ciò non fosse possibile, è fondamentale segnalare le problematiche conservative e assicurative al pubblico. Allo stesso tempo i guardasala devono essere (link: kit/comunicazione/relazione-con-il-pubblico text: sensibilizzati) alle necessità del pubblico per evitare interventi e proibizioni non strettamente necessarie. 
 
@@ -45,7 +45,7 @@ Article:
     
     Tuttavia, in alcuni casi il tatto può non essere sufficientemente d’aiuto, da una parte perché il livello della sensibilità tattile è molto variabile e dipende da diversi fattori (es. la tipologia del problema visivo o il momento in cui il problema si è manifestato), dall’altra perché alcune opere, per esempio in virtù del formato, sono percepibili solo parzialmente o richiedono un determinato procedimento per essere toccate (es. per le sculture, le mani dei visitatori possono essere spostate dall’apice alla base o viceversa, mentre per le opere bidimensionali, dal primo piano allo sfondo o viceversa).
     
-    Per questi motivi è fondamentale che l’esplorazione tattile sia sempre (link: kit/orientation/guidare-il-visitatore text: guidata) e integrata alla (link: kit/opere/descrizione text: descrizione): trovare una corrispondenza tra le percezioni sensoriali favorisce la comprensione dell’opera. Anche il confronto con una sola opera può richiedere tempi lunghi: lo sforzo di attenzione e concentrazione è alto poiché oltre alle descrizioni, il visitatore deve elaborare le informazioni tattili e trasformare tutto in immagini mentali.
+    Per questi motivi è fondamentale che l’esplorazione tattile sia sempre (link: kit/orientamento/guidare-il-visitatore text: guidata) e integrata alla (link: kit/opere/descrizione text: descrizione): trovare una corrispondenza tra le percezioni sensoriali favorisce la comprensione dell’opera. Anche il confronto con una sola opera può richiedere tempi lunghi: lo sforzo di attenzione e concentrazione è alto poiché oltre alle descrizioni, il visitatore deve elaborare le informazioni tattili e trasformare tutto in immagini mentali.
     
     Inoltre, soffermarsi su un gran numero di opere può generare confusione e difficoltà nell’elaborazione delle informazioni. Per far fronte allo stesso tempo alle necessità delle istituzioni e del pubblico, effettuare una selezione delle opere è consigliabile. Il numero di opere è variabile e dipende anche dall’attività di mediazione proposta: indicativamente per una visita guidata con integrazioni sensoriali della durata di due ore è raccomandabile approfondire 4-5 opere.
     
@@ -84,7 +84,7 @@ Article:
   option_type: three
   section_title: Illuminazione
   content: |
-    Per favorire l’accesso alle opere, una buona (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: illuminazione degli spazi) e delle opere è molto importante, tuttavia l’esposizione a una fonte di luce diretta può potenzialmente arrecare danni alle opere esposte.
+    Per favorire l’accesso alle opere, una buona (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: illuminazione degli spazi) e delle opere è molto importante, tuttavia l’esposizione a una fonte di luce diretta può potenzialmente arrecare danni alle opere esposte.
     
     Per essere percepite dal pubblico di riferimento è però necessario siano ben illuminate, meglio se attraverso luce diffusa. Non è necessario però esagerare: il bianco assoluto può anche creare abbagliamento ostacolando la visione residua.
     Sebbene le luci direzionali siano sconsigliate (es. spot), quando presenti si invita a inclinarle a 60 gradi per evitare ombre sulle opere o riflessi sulle superfici che potrebbero ostacolare e confondere i visitatori. Le lampade alogene sono sconsigliate proprio perché producono forti contrasti. Un’illuminazione mirata con luce più forte sugli oggetti esposti o sulle bacheche, è funzionale solo se ben direzionata.
@@ -93,14 +93,14 @@ Article:
 - 
   option_type: three
   section_title: Colorazione delle pareti
-  content: "Per la colorazione delle pareti degli spazi espositivi valgono le stesse indicazioni suggerite per gli (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: spazi comuni). Oltre a essere d’aiuto all’orientamento, dipingere le pareti e il soffitto con un solo colore chiaro e tendente al bianco, favorisce l’identificazione e la visibilità delle opere esposte."
+  content: "Per la colorazione delle pareti degli spazi espositivi valgono le stesse indicazioni suggerite per gli (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: spazi comuni). Oltre a essere d’aiuto all’orientamento, dipingere le pareti e il soffitto con un solo colore chiaro e tendente al bianco, favorisce l’identificazione e la visibilità delle opere esposte."
 - 
   option_type: three
   section_title: >
     Posizionamento delle opere e delle
     relative informazioni
   content: |
-    Per favorire l’identificazione e l’osservazione delle opere esposte, nonché la consultazione dei contenuti fruibili nello spazio espositivo quali per esempio le introduzioni alle mostre e le didascalie, si consiglia di (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilit�-della-comunicazione-visiva-per-le-persone-ipovedenti text: posizionarle) ad altezza occhi o poco più in basso, perché altrimenti, anche se leggibili, non sarebbero percepite e identificate dal pubblico di riferimento.
+    Per favorire l’identificazione e l’osservazione delle opere esposte, nonché la consultazione dei contenuti fruibili nello spazio espositivo quali per esempio le introduzioni alle mostre e le didascalie, si consiglia di (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: posizionarle) ad altezza occhi o poco più in basso, perché altrimenti, anche se leggibili, non sarebbero percepite e identificate dal pubblico di riferimento.
     
     Come per i testi a muro si consiglia di mantenere la mezzaria a 150 cm e di non collocare le opere oltre i 200 cm di altezza. Per ciò che concerne le didascalie, la mezzaria non dovrebbe essere sopra i 140 cm e sotto i 90 cm.
     
@@ -109,7 +109,7 @@ Article:
   option_type: three
   section_title: Sonoro
   content: |
-    Oltre a essere importante per l’(link: kit/orientation/adattare-il-museo#elementi-d'arredo text: orientamento), curare gli aspetti sonori può essere fondamentale per favorire la fruizione di opere audio o audiovisive. Quando presenti, gli elementi audio devono essere adeguatamente segnalati e se possibile fruibili tramite cuffie.
+    Oltre a essere importante per l’(link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: orientamento), curare gli aspetti sonori può essere fondamentale per favorire la fruizione di opere audio o audiovisive. Quando presenti, gli elementi audio devono essere adeguatamente segnalati e se possibile fruibili tramite cuffie.
     
     Il suono deve essere pulito, di buona qualità, esente da rumori di fondo e sintetico nell’esposizione dei contenuti. Per limitare effetti di riverbero e cattiva diffusione del suono, si suggerisce di utilizzare materiali assorbenti al suolo e al soffitto e rivestimenti isolanti sui muri.
     La quantità di decibel consigliati per una sala variano da 40 a 50 db. Quando non è possibile disporre di cuffie, perseguire sempre un basso volume sonoro nelle sale in modo da non essere troppo invasivo o troppo debole.

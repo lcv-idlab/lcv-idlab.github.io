@@ -12,10 +12,10 @@ Il layout è gestito con (link: http://neat.bourbon.io/ popup: yes text: Neat).
 Main: 
 
 **SUPSI
-Scuola universitaria professionale della Svizzera italiana
-Dipartimento ambiente costruzioni e design**
+Fachhochschule Südschweiz
+Departement Umwelt, Bau und Design**
 
-Laboratorio cultura visiva
+Labor für visuelle Kultur
 
 Campus Trevano
 CH-6952 Canobbio

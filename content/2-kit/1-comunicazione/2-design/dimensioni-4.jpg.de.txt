@@ -1,0 +1,1 @@
+Alt: 'Die Abbildung zeigt die optimale Textgrösse für das Format A2. Höhe mindestens 20 pt, Zeilenabstand 30 pt.'

@@ -1,0 +1,42 @@
+Title: Die selbständige Besichtigung
+
+----
+
+Description: Attraverso lo sviluppo di accorgimenti specifici è possibile favorire notevolmente l’autonomia di visita del pubblico ipovedente. Zwar ist eine Begleitung durch das Museumspersonal in jedem Fall wünschenswert, doch die Umsetzung der empfohlenen Massnahmen ermöglicht es dem blinden und sehbehinderten Publikum, das Museum in Begleitung einer sehenden Vertrauensperson selbstständig zu besichtigen, ohne gezwungenermassen auf das Museumspersonal zurückgreifen zu müssen. Damit die BesucherInnen das Museum selbstständig nutzen können, ist es von besonderer Bedeutung, das Museum anzupassen und ein inklusives Design für die visuelle Kommunikation zu entwickeln. Per favorire l’accesso alle opere è particolarmente importante disporre di audioguide descrittive.
+
+----
+
+Article: 
+
+- 
+  section_title: ""
+  content: |
+    Zwar bleibt das (link: kit/percorsi/visita-guidata-multisensoriale text: Angebot multisensorischer Führungen) Angebot multisensorischer Führungen prioritär, doch die Einführung spezieller Massnahmen kann die selbstständige Besichtigung durch das sehbehinderte Publikum beträchtlich fördern.
+    
+    Zwar ist eine Begleitung durch das Museumspersonal in jedem Fall wünschenswert, doch die Umsetzung der empfohlenen Massnahmen ermöglicht es dem blinden und sehbehinderten Publikum, das Museum in Begleitung einer sehenden Vertrauensperson selbstständig zu besichtigen, ohne gezwungenermassen auf das Museumspersonal zurückgreifen zu müssen. Damit die BesucherInnen das Museum selbstständig nutzen können, ist es von besonderer Bedeutung, das Museum anzupassen und ein inklusives Design für die visuelle Kommunikation zu entwickeln.
+    
+    Um den Zugang zu den Kunstwerken zu erleichtern, ist der Einsatz von Audioguides mit entsprechenden Beschreibungen zentral. Um einen geeigneten Audioguide einsetzen zu können, sollte ein spezielles Gerät zur Verfügung stehen, dessen Tasten mit Nummern in Reliefausführung versehen sind und einen hohen Farbkontrast besitzen. Die entsprechenden Nummern an den Wänden müssen sich neben den ausgewählten Kunstwerken befinden und ebenfalls in grosser Schrift mit hohem Farbkontrast dargestellt sein. Alternativ dazu sollte eine App verfügbar sein, die über das Smartphone heruntergeladen und genutzt werden kann, sodass die Audiobeschreibungen auch auf Distanz angehört werden können.
+    
+    Die Audioguides müssen dabei nicht sämtliche Werke beschreiben, die in der Ausstellung präsent sind, vielmehr kann dem Publikum eine Auswahl angeboten werden. Dabei sollte eines bedacht werden: Auch wenn ein geeignetes Hilfsmittel gefunden wurde, so ist diese Lösung zwar für ein eingeschränkt sehbehindertes Publikum nützlich, löst aber das Problem für blinde Menschen nicht vollständig, da diese in jedem Falle die Begleitung einer Vertrauensperson benötigen, und sei es auch nur, um zu erkennen, wo sich das per Audioguide beschriebene Kunstwerk befindet.
+  option_type: plain
+
+----
+
+Links-to-kit: 
+
+- 
+  kit: relazione-con-il-pubblico
+- 
+  kit: design
+- 
+  kit: website
+- 
+  kit: descrizione
+- 
+  kit: guidare-il-visitatore
+- 
+  kit: adattare-il-museo
+
+----
+
+Links-to-resources: 

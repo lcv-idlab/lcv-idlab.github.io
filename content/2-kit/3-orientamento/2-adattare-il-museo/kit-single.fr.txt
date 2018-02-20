@@ -6,7 +6,7 @@ Description:
 
 Pour favoriser l’orientation et en particulier la mobilité des visiteurs ayant des problèmes de vue dans les espaces muséaux, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’ameublement des lieux et à l’agencement des expositions.
 
-Si un (link: kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: kit/orientation/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
+Si un (link: kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: kit/orientamento/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
 
 Pour les personnes aveugles ou fortement malvoyantes, même si ces mesures peuvent favoriser l’orientation et la mobilité, elles ne résolvent pas entièrement le problème : dans ce cas, prévoir d’agir aussi sur la dimension humaine est essentiel.
 

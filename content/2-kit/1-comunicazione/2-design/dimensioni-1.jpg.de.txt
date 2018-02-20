@@ -1,0 +1,1 @@
+Alt: 'Die Abbildung zeigt die optimale Textgrösse für ein Bildunterschriften-Format. Abmessungen des Bogens 12 x 12 cm, Höhe mindestens 14 pt, Zeilenabstand 21 pt.'

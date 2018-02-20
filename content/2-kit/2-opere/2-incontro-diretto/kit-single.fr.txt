@@ -6,9 +6,9 @@ Description:
 
 Accéder au patrimoine artistique par ses propres sens permet de limiter le recours à la médiation en respectant en même temps les capacités du public.
 
-Les personnes malvoyantes peuvent être en mesure de percevoir les œuvres même visuellement si elles ont la possibilité de les observer de très près, d’utiliser les aides nécessaires pour améliorer la vue (loupes traditionnelles ou sur smartphone, lampes, etc.) et si les (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: nformations relatives aux œuvres) sont transmises de manière adéquate.
+Les personnes malvoyantes peuvent être en mesure de percevoir les œuvres même visuellement si elles ont la possibilité de les observer de très près, d’utiliser les aides nécessaires pour améliorer la vue (loupes traditionnelles ou sur smartphone, lampes, etc.) et si les (link: kit/comunicazione/design#favorire-l-identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: informations relatives aux œuvres) sont transmises de manière adéquate.
 
-Pour permettre l’approche et l’utilisation des aides et respecter en même temps les exigences institutionnelles (assurance et conservation), un (link: kit/orientation/guidare-il-visitatore text: accompagnement ) du personnel du musée est sans aucun doute la solution la plus appropriée.
+Pour permettre l’approche et l’utilisation des aides et respecter en même temps les exigences institutionnelles (assurance et conservation), un (link: kit/orientamento/guidare-il-visitatore text: accompagnement ) du personnel du musée est sans aucun doute la solution la plus appropriée.
 
 Lorsque cela n’est pas possible, il est fondamental de signaler les problèmes de conservation et d’assurance. En même temps, les gardiens de salle doivent être (link: kit/comunicazione/relazione-con-il-pubblico text: sensibilisés) aux besoins du public pour éviter des interventions et des interdictions non strictement nécessaires.
 
@@ -47,7 +47,7 @@ Article:
     
     Toutefois, dans certains cas, le toucher peut ne pas être suffisant comme aide, d’une part parce que le niveau de la sensibilité tactile est très variable et dépend de différents facteurs (p. ex. le type de problème visuel ou le moment où le problème s’est manifesté), de l’autre parce que certaines œuvres, par exemple du fait de leur format, ne sont perceptibles que partiellement ou exigent une procédure déterminée pour être touchées (p. ex. pour les sculptures, les mains des visiteurs peuvent être déplacées du sommet à la base ou inversement, tandis que pour les œuvres bidimensionnelles, le déplacement doit se faire du premier plan à l’arrière-plan ou inversement).
     
-    Pour ces raisons, il est fondamental que l’exploration tactile soit toujours  (link: kit/orientation/guidare-il-visitatore text: guidée ) et intégrée à la  (link: kit/opere/descrizione text: description): le fait de trouver une correspondance entre les perceptions sensorielles favorise la compréhension de l’œuvre. Le rapport même avec une seule œuvre peut exiger beaucoup de temps : l’effort d’attention et de concentration est élevé, car, en plus des descriptions, le visiteur doit élaborer les informations tactiles et transformer le tout en images mentales.
+    Pour ces raisons, il est fondamental que l’exploration tactile soit toujours  (link: kit/orientamento/guidare-il-visitatore text: guidée ) et intégrée à la  (link: kit/opere/descrizione text: description): le fait de trouver une correspondance entre les perceptions sensorielles favorise la compréhension de l’œuvre. Le rapport même avec une seule œuvre peut exiger beaucoup de temps : l’effort d’attention et de concentration est élevé, car, en plus des descriptions, le visiteur doit élaborer les informations tactiles et transformer le tout en images mentales.
     
     En outre, s’arrêter sur un grand nombre d’œuvres peut créer de la confusion et des difficultés d’élaboration des informations. Pour répondre à la fois aux besoins des institutions et du public, il est conseillé d’opérer une sélection des œuvres. Le nombre d’œuvres varie également en fonction l’activité de médiation proposée : à titre indicatif, pour une visite guidée avec des compléments sensoriels d’une durée de deux heures, il est conseillé d’approfondir 4-5 œuvres.
     
@@ -87,7 +87,7 @@ Article:
   option_type: three
   section_title: Éclairage
   content: |
-    Pour favoriser l’accès aux œuvres, un bon (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: éclairage des espaces) et des œuvres est très important, toutefois l’exposition à une source de lumière directe peut potentiellement causer des dommages aux œuvres exposées.
+    Pour favoriser l’accès aux œuvres, un bon (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: éclairage des espaces) et des œuvres est très important, toutefois l’exposition à une source de lumière directe peut potentiellement causer des dommages aux œuvres exposées.
     
     Pour être perçues par le public de référence, il est cependant nécessaire qu’elles soient bien éclairées, de préférence au moyen d’une lumière diffuse. Cependant, il ne faut pas exagérer : le blanc absolu peut aussi créer un éblouissement qui gêne la vue résiduelle.
     
@@ -97,7 +97,7 @@ Article:
 - 
   option_type: three
   section_title: Coloration des murs
-  content: "Pour la coloration des murs des espaces d’exposition, les suggestions  fournies pour les (link: kit/orientation/adattare-il-museo#elementi-d'arredo text: espaces communs) communs s’appliquent. En plus d’aider l’orientation, le fait de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc favorise l’identification et la visibilité des œuvres exposées."
+  content: "Pour la coloration des murs des espaces d’exposition, les suggestions  fournies pour les (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: espaces communs) communs s’appliquent. En plus d’aider l’orientation, le fait de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc favorise l’identification et la visibilité des œuvres exposées."
 - 
   option_type: three
   section_title: >
@@ -113,7 +113,7 @@ Article:
   option_type: three
   section_title: Sonore
   content: |
-    En plus d’être important pour l’(link: kit/orientation/adattare-il-museo#elementi-d'arredo text: l’orientation), le fait de soigner les aspects sonores peut être fondamental pour favoriser la perception d’œuvres audio ou audiovisuelles. Quand ils sont présents, les éléments audio doivent être signalés de façon appropriée et, si possible, être accessibles au moyen d’écouteurs.
+    En plus d’être important pour l’(link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: l’orientation), le fait de soigner les aspects sonores peut être fondamental pour favoriser la perception d’œuvres audio ou audiovisuelles. Quand ils sont présents, les éléments audio doivent être signalés de façon appropriée et, si possible, être accessibles au moyen d’écouteurs.
     
     Le son doit être clair, de bonne qualité, dépourvu de bruit de fond et synthétique dans l’exposition des contenus. Pour limiter des effets de réverbération et de mauvaise diffusion du son, nous suggérons d’utiliser des matériaux absorbants au sol et au plafond et des revêtements isolants sur les murs.
     La quantité de décibels conseillée pour une salle va de 40 à 50 db. Quand il n’est pas possible de disposer d’écouteurs, régler toujours le volume sonore dans les salles de façon à ce qu’il ne soit ni trop invasif ni trop faible.

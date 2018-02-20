@@ -58,7 +58,7 @@ Article:
     non è un’opzione ma una necessità.
     L’udito, il tatto, l’olfatto e il
     gusto, sono i sensi a disposizione per
-    percepire il mondo circostante devono
+    percepire il mondo circostante e devono
     poter essere attivati anche per fruire
     del museo e delle opere d’arte. Per le
     persone ipovedenti, inoltre, poter
@@ -80,7 +80,7 @@ Article:
   option_type: one
   section_title: Adattare l’accoglienza
   content: |
-    **Adattare l’accoglienza in funzione delle necessità del pubblico è il punto di partenza per favorire l’accessibilità del museo. In particolare fornire prima della visita tutte le informazioni necessarie ai visitatori, permette alle persone con disabilità visiva di sentirsi coinvolte e benvenute al museo. Per farlo, è in particolare necessario comunicare in maniera efficace sia attraverso il sito (link: /kit/comunicazione/website text: **web**) del museo che di persona. Inoltre, per far sentire il pubblico a proprio agio e in sicurezza, si consiglia di mettere a disposizione una persona che possa, se necessario, (link: /kit/orientation/guidare-il-visitatore text: accompagnare) fisicamente le persone cieche e ipovedenti attraverso il museo, (link: /kit/opere/descrizione text: descrivere)  loro le opere e gli spazi oltre che guidarle nell’ (link: /kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: esplorazione tattile) delle opere, quando è data la possibilità di toccarle.**
+    **Adattare l’accoglienza in funzione delle necessità del pubblico è il punto di partenza per favorire l’accessibilità del museo. In particolare fornire prima della visita tutte le informazioni necessarie ai visitatori, permette alle persone con disabilità visiva di sentirsi coinvolte e benvenute al museo. Per farlo, è in particolare necessario comunicare in maniera efficace sia attraverso il sito (link: it/kit/comunicazione/website text: **web**) del museo che di persona. Inoltre, per far sentire il pubblico a proprio agio e in sicurezza, si consiglia di mettere a disposizione una persona che possa, se necessario, (link: it/kit/orientamento/guidare-il-visitatore text: accompagnare) fisicamente le persone cieche e ipovedenti attraverso il museo, (link: it/kit/opere/descrizione text: descrivere)  loro le opere e gli spazi oltre che guidarle nell’ (link: it/kit/opere/incontro-diretto#permettere-l-esplorazione-tattile text: esplorazione tattile) delle opere, quando è data la possibilità di toccarle.**
     
     Le informazioni da fornire prima della visita:
 - 

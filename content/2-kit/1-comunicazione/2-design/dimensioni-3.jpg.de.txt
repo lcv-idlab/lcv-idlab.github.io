@@ -1,0 +1,1 @@
+Alt: 'Die Abbildung zeigt die optimale Textgrösse für das Format A4. Höhe mindestens 14 pt, Zeilenabstand 21 pt.'

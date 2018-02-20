@@ -1,4 +1,4 @@
-Title: Etablir un rapport avec le public
+Title: Établir un rapport avec le public
 
 ----
 
@@ -98,7 +98,7 @@ Article:
   option_type: one
   section_title: Adapter l’accueil
   content: |
-    **Adapter l’accueil en fonction des besoins du public est le point de départ pour favoriser l’accessibilité du musée. En particulier, le fait de fournir avant la visite toutes les informations nécessaires aux visiteurs, permet aux handicapés visuels de se sentir impliqués et bienvenus au musée. Pour ce faire, il est nécessaire en particulier de communiquer de manière efficace aussi bien sur le  (link: /kit/comunicazione/website text: **site web **) du musée qu’en personne. En outre, pour que le public se sente à l’aise et en sécurité, il est conseillé de mettre à disposition une personne pouvant, si nécessaire,  (link: /kit/orientation/guidare-il-visitatore text: guider) physiquement les personnes aveugles et malvoyantes à travers le musée, leur (link: /kit/opere/descrizione text: décrire)  les œuvres et les espaces et les guider dans  (link: /kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: l’exploration tactile) des œuvres, quand il existe la possibilité de les toucher.**
+    **Adapter l’accueil en fonction des besoins du public est le point de départ pour favoriser l’accessibilité du musée. En particulier, le fait de fournir avant la visite toutes les informations nécessaires aux visiteurs, permet aux handicapés visuels de se sentir impliqués et bienvenus au musée. Pour ce faire, il est nécessaire en particulier de communiquer de manière efficace aussi bien sur le  (link: fr/kit/comunicazione/website text: **site web **) du musée qu’en personne. En outre, pour que le public se sente à l’aise et en sécurité, il est conseillé de mettre à disposition une personne pouvant, si nécessaire,  (link: fr/kit/orientamento/guidare-il-visitatore text: guider) physiquement les personnes aveugles et malvoyantes à travers le musée, leur (link: fr/kit/opere/descrizione text: décrire)  les œuvres et les espaces et les guider dans  (link: fr/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: l’exploration tactile) des œuvres, quand il existe la possibilité de les toucher.**
     
     Les informations à fournir avant la visite :
 - 

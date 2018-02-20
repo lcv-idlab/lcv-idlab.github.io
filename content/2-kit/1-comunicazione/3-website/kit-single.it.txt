@@ -61,7 +61,7 @@ Article:
     
     Un altro aspetto importante è che tutti gli elementi, anche quelli di natura visiva come per esempio le immagini o gli elementi di navigazione, devono avere un testo alternativo che li descriva; un'icona di navigazione (per esempio il menu, o una freccia per tornare alla pagina precedente) se non adeguatamente descritta nel codice, non è infatti leggibile dal lettore vocale e risulta dunque non fruibile dagli utenti ciechi.
     
-    La descrizione stessa deve evitare le ridondanze; nella descrizione di un'immagine non è necessario dire che “L’immagine selezionata mostra una persona …” perché tramite il tag `<img>` che la pagina HTML usa per visualizzare l’immagine stessa già viene indicato al lettore vocale la sua natura, rendendo pertanto inutile la (link: http://mci.supsi.ch/it/kit/opere/descrizione text: descrizione aggiuntiva).
+    La descrizione stessa deve evitare le ridondanze; nella descrizione di un'immagine non è necessario dire che “L’immagine selezionata mostra una persona …” perché tramite il tag `<img>` che la pagina HTML usa per visualizzare l’immagine stessa già viene indicato al lettore vocale la sua natura, rendendo pertanto inutile la (link: /it/kit/opere/descrizione text: descrizione aggiuntiva).
     
     Per rendere accessibile la gerarchia nella pagina stessa, bisogna utilizzare correttamente i tag `<h1>`, `<h2>`, ecc. Il titolo principale della pagina deve essere indicato dal tag `<h1>` e deve essere usato una volta sola per pagina. Il tag `<h2>` è destinato al sottotitolo e gli altri a seguire per importanza (`<h1>` … `<h6>`).
     
@@ -70,7 +70,7 @@ Article:
 - 
   section_title: Per le persone ipovedenti
   content: |
-    le tipologie di problema visivo sono molto variegate e ognuna richiederebbe un accorgimento specifico, a volte opposto o in contrasto con le altre tipologie. Molte sono le applicazioni, dispositivi e programmi che supportano le persone ipovedenti nella fruizione del web (e della lettura in generale), e ognuno è specifico alla patologia riscontrata. Oltre a tenere conto delle linee guida per un (link: http://mci.supsi.ch/it/kit/comunicazione/design text: design inclusivo per la comunicazione visiva) è bene prendere in considerazione alcuni ulteriori elementi specifici per il web.
+    le tipologie di problema visivo sono molto variegate e ognuna richiederebbe un accorgimento specifico, a volte opposto o in contrasto con le altre tipologie. Molte sono le applicazioni, dispositivi e programmi che supportano le persone ipovedenti nella fruizione del web (e della lettura in generale), e ognuno è specifico alla patologia riscontrata. Oltre a tenere conto delle linee guida per un (link: it/kit/comunicazione/design text: design inclusivo per la comunicazione visiva) è bene prendere in considerazione alcuni ulteriori elementi specifici per il web.
     
     In primo luogo, il sito web deve essere “responsive”, cioè adattarsi e riposizionare gli elementi della pagina in funzione del dispositivo utilizzato (spazio a disposizione e dimensione dello schermo).
     
@@ -121,7 +121,7 @@ Article:
     
     La forma visiva e contenutistica scelta per rappresentare le diverse informazioni presenti, è bene rimanga consistente e simile quando riportata in altre parti del sito, così da riconoscere velocemente il tipo di contenuto e agevolare e semplificare la navigazione, rendendo l’accessibilità alle informazioni più diretta.
     
-    Per essere fruibili anche alle persone ipovedenti, è importante che tutti i contenuti visibili sulla parte visuale del sito, siano essi testuali, immagini o multimediali, siano presentati nel rispetto delle regole per un (link: http://mci.supsi.ch/it/kit/comunicazione/design text: design inclusivo). Gli aspetti legati al design, se utilizzati coerentemente per tutto il sito, possono inoltre rafforzare la suddivisione e la gerarchia dei contenuti favorendone ulteriormente la fruizione.
+    Per essere fruibili anche alle persone ipovedenti, è importante che tutti i contenuti visibili sulla parte visuale del sito, siano essi testuali, immagini o multimediali, siano presentati nel rispetto delle regole per un (link: it/kit/comunicazione/design text: design inclusivo). Gli aspetti legati al design, se utilizzati coerentemente per tutto il sito, possono inoltre rafforzare la suddivisione e la gerarchia dei contenuti favorendone ulteriormente la fruizione.
   option_type: one
 - 
   section_title: >
@@ -132,7 +132,7 @@ Article:
     
     (image: diagramma_usabilita.jpg class: one-column gallery diagramma alt: 'Il diagramma illustra come usabilità, standard web e tecnologie assistive rendono l’esperienza accessibile' caption: Il diagramma illustra come usabilità, standard web e tecnologie assistive rendono l’esperienza accessibile)
     
-    Per verificare la qualità di un sito web, sono presenti numerosi standard per l’accessibilità (link: https://www.w3.org text: W3C target: blank), anche specifici per persone ipovedenti (vedi referenze bibliografiche). Per ciò che concerne l’analisi specifica del livello di accessibilità dei siti web dei musei, è possibile inoltre fare riferimento ai criteri di accessibilità identificati in occasione delle (link: http://mci.supci.ch/it/risorse/analisi-istituzionali text: analisi istituzionali) e agli strumenti di analisi suggeriti nella risorsa.
+    Per verificare la qualità di un sito web, sono presenti numerosi standard per l’accessibilità (link: https://www.w3.org text: W3C target: blank), anche specifici per persone ipovedenti (vedi referenze bibliografiche). Per ciò che concerne l’analisi specifica del livello di accessibilità dei siti web dei musei, è possibile inoltre fare riferimento ai criteri di accessibilità identificati in occasione delle (link: it/risorse/analisi-istituzionali text: analisi istituzionali) e agli strumenti di analisi suggeriti nella risorsa.
   option_type: one
 
 ----

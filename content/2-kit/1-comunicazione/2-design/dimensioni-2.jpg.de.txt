@@ -1,0 +1,1 @@
+Alt: 'Die Abbildung zeigt die optimale Textgrösse für das Format A5. Höhe mindestens 12 pt, Zeilenabstand 18 pt.'

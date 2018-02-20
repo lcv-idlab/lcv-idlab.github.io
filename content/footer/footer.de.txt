@@ -1,0 +1,12 @@
+Title: footer
+
+----
+
+Author: 
+
+Vermittlung Kultur Inklusion.
+Labor für visuelle Kultur (SUPSI)
+
+----
+
+License: Die gesamte Dokumentation von Mediation – Kultur – Inklusion ist unter einer (link: http://creativecommons.org/licenses/by-sa/4.0/ text: Creative Commons Lizenz CCBY 4.0 international rel: license target: _blank) freigegeben und kann von jedermann für beliebige Zwecke verteilt und weitergegeben werden.

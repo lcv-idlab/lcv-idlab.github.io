@@ -1,0 +1,1 @@
+Alt: 'Die Abbildung zeigt die optimale Textgrösse für das Format F4. Höhe mindestens 100 pt, Zeilenabstand 150 pt.'
