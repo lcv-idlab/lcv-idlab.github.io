@@ -18,4 +18,8 @@ Verify: Chaque fois qu’une activité de communication incluant un public de ha
 
 ----
 
-Class_id: comunicazione
+Class-id: comunicazione
+
+----
+
+Url-key: comunicazione

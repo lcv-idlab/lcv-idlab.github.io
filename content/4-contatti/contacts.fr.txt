@@ -2,21 +2,6 @@ Title: contacts
 
 ----
 
-Contacts: 
-
-- 
-  name: Valeria
-  surname: Donnarumma
-  email: valeria.donnarumma@supsi.ch
-  phone: +41 (0)58 666 63 48
-- 
-  name: Jean-Pierre
-  surname: Candeloro
-  email: jeanpierre.candeloro@supsi.ch
-  phone: +41 (0)58 666 63 90
-
-----
-
 Colophon: 
 
 Questo sito è scritto in XHTML, PHP, JS con SASS. I contenuti sono gestiti con (link: https://getkirby.com popup: yes text: Kirby), CMS basato su files.
@@ -34,5 +19,6 @@ Laboratorio cultura visiva
 
 Campus Trevano
 CH-6952 Canobbio
-+41 (0)58 666 63 00
++41 (0)58 666 62 81
 (link: http://www.supsi.ch text: www.supsi.ch popup: yes)
+(email: info.mci@supsi.ch)

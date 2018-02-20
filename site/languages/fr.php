@@ -27,6 +27,6 @@
 
 	// kit path single
 	l::set('related-kits', 'Fishes du kit afférentes');
-	l::set('related-resources', 'Ressources');
+	l::set('related-resources', 'Resources');
 
 ?>

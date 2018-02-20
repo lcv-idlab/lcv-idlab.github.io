@@ -9,6 +9,7 @@
 		@extend %bold-weight;
 		border-top: 1px solid color(grey);
 		padding-top: 1rem;
+		margin-bottom: 1rem;
 	}
 	li {
 		padding-top: 0rem;
@@ -18,20 +19,14 @@
 			@include omega(2n);
 		}
 
-		@include media(max-width 320px 2) {
-			@include span-columns(2);
-			@include omega(1n);
-			padding-top: 1rem;
-		}
-
 		@include media($small) {
 			@include span-columns(4/3);
 			@include omega(3n);
 		}
 
 		@include media(min-width 601px max-width 720px 8) {
-			@include span-columns(8/3);
-			@include omega(3n);
+			@include span-columns(8/4);
+			@include omega(4n);
 		}
 
 		@include media(min-width 721px max-width 840px 8) {
@@ -45,8 +40,8 @@
 		}
 
 		@include media($desktop) {
-			@include span-columns(12/5);
-			@include omega(5n);
+			@include span-columns(12/6);
+			@include omega(6n);
 		}
 
 		img {
