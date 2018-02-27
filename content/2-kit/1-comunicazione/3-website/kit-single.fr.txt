@@ -44,6 +44,59 @@ Article:
     Aussi, en plus des textes, images et vidéos présents sur une page, il existe également une quantité de contenus cachés (métadonnées), de mots-clefs et de codes qui permettent la communication entre les applications, la traçabilité des contenus dans les moteurs de recherche et l’échange des données entre programmes afin qu’ils puissent s’adapter aux différents utilisateurs et améliorer ainsi l’expérience d’utilisation. Pouvoir écouter un texte écrit sur une page web est un exemple d’échange de données entre applications (page html – lecteur vocal), qui permet également aux personnes aveugles et malvoyantes d’accéder à des contenus numériques.
   option_type: one
 - 
+  option_type: one
+  section_title: Les utilisateurs et leurs besoins
+  content: ""
+- 
+  option_type: three
+  section_title: >
+    Pour les personnes aveugles ou fortement
+    malvoyantes
+  content: |
+    l’utilisation est entièrement déterminée dans ce cas par la structure de la page HTML qui est lue par le dispositif de lecture audio auquel recourt l’utilisateur. Toute la partie graphique et visuelle présente sur la page est traduite dans une description (pour autant qu’elle soit intégrée dans le code). Pour être accessible, la structure HTML de la page doit respecter et utiliser correctement les éléments à disposition du langage. En particulier, le (link: https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5 text: HTML5 target: _blank) met à disposition des éléments spécifiques et univoques qui permettent de communiquer et d’indiquer leur type de contenu.
+    
+    Citons-en quelques-uns : le tag `<ul>` qui indique une liste d’éléments, `<article>` un article (comme dans un journal) avec titre (`<header>`), `<time>` contenant une date et/ou une heure, `<nav>` une collection de liens pour la navigation et ainsi de suite.
+    
+    Grâce à ces contenants sémantiques et à la structure hiérarchique de la page, les personnes aveugles peuvent naviguer facilement avec les différents programmes et dispositifs de lecture vocale, en se déplaçant selon leur type d’intérêt, au moyen des liens de la page ou de la barre de navigation.
+    
+    Pour ce faire, la programmation de la page doit être faite correctement. Nous suggérons d’essayer de reléguer au tag générique `<div>` (qui ne contient aucune information sémantique) la fonction de structurer le code et d’y appliquer le layout graphique (via CSS).
+    
+    Un autre aspect important est que tous les éléments, même de nature visuelle, tels que par exemple les images ou les éléments de navigation, aient un texte alternatif de description ; en effet, une icône de navigation (par exemple le menu, ou une flèche pour revenir à la page précédente), si elle n’est pas décrite adéquatement dans le code, n’est pas lisible par le lecteur vocal et est donc inaccessible pour les utilisateurs aveugles.
+    
+    La description doit éviter les redondances ; dans la description d’une image, il n’est pas nécessaire de dire que “L’image sélectionnée montre une personne …” car le tag `<img>` que la page HTML utilise pour afficher l’image indique déjà au lecteur vocal sa nature, rendant par conséquent inutile la (link: fr/kit/opere/descrizione text: description supplémentaire).
+    
+    Pour rendre accessible la hiérarchie dans la page, il faut utiliser correctement les tags `<h1>`, `<h2>`, etc. Le titre principal de la page doit être indiqué par le tag `<h1>` et ne doit être utilisé qu’une seule fois par page. Le tag `<h2>` est destiné au sous-titre et les autres suivent par ordre d’importance (`<h1>` … `<h6>`).
+    
+    Certains éléments nécessaires pour la navigation ou la compréhension du contenu peuvent être ajoutés au code, mais si l’on ne souhaite pas leur présence visuelle dans la page, il suffit de “les cacher” au moyen de CSS.
+- 
+  option_type: three
+  section_title: Pour les personnes malvoyantes
+  content: |
+    les types de problèmes visuels sont très divers et chacun nécessiterait des mesures spécifiques, parfois contradictoires. Nombreuses sont les applications, dispositifs et programmes aidant les personnes malvoyantes dans l’utilisation d’Internet (et de la lecture en général), et chacun est spécifique à la pathologie concernée. En plus de tenir compte des directives pour un (link: fr/kit/comunicazione/design text: design inclusif pour la communication visuelle), il convient de prendre en considération certains éléments spécifiques supplémentaires pour le web.
+    
+    En premier lieu, le site web doit être “adaptatif”, c’est-à-dire s’adapter et redistribuer les éléments de la page en fonction du dispositif utilisé (espace disponible et taille de l’écran).
+    
+    Tout le contenu du site doit par ailleurs pouvoir être agrandi sur les dispositifs (s’assurer que cela fonctionne également sur tablette et smartphone) pour permettre de mieux voir images et textes. Du fait de cette exigence d’agrandissement, il doit être possible de faire défiler les éléments (en particulier le menu de navigation) quand ils sont agrandis. Aussi leur position dans la page ne doit-elle pas être fortuite, surtout en ce qui concerne les éléments-clés comme la navigation.
+    
+    La lecture occidentale de gauche à droite, du haut vers bas, donne la priorité à la partie gauche de la page, et il est donc important d’y placer les parties fondamentales qui, placées à droite, pourraient échapper au lecteur.
+- 
+  option_type: three
+  section_title: Pour les personnes voyantes
+  content: >
+    si une information numérique est
+    accessible pour les personnes aveugles
+    et malvoyantes, elle l’est également
+    pour les personnes voyantes. Les
+    indications fournies sont valables pour
+    tout le public, car elles permettent à
+    n’importe quel type d’utilisateurs
+    d’avoir une expérience optimale. En
+    outre, l’application des standards web
+    et l’exhaustivité des informations
+    permettent l’échange de données,
+    augmentant ainsi également la
+    longévité d’un site.
+- 
   section_title: >
     Conception du site, structure et
     hiérarchie des contenus
@@ -81,61 +134,8 @@ Article:
     
     (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Le schéma illustre montre comment l’ergonomie, le standard web et les technologies d’assistance rendent l’expérience accessible)
     
-    Pour vérifier la qualité d’un site web, il existe de nombreux standards relatifs à l’accessibilité (link: https://www.w3.org text: W3C target: blank), même spécifiques pour personnes malvoyantes (voir références bibliographiques). En ce qui concerne l’analyse spécifique du niveau d’accessibilité des sites web des musées, il est possible par ailleurs de prendre comme référence les critères d’accessibilité identifiés à l’occasion des  (link: /risorse/analisi-istituzionali text: analyses institutionnelles) et les instruments d’analyse suggérés dans la ressource.
+    Pour vérifier la qualité d’un site web, il existe de nombreux standards relatifs à l’accessibilité (link: https://www.w3.org text: W3C target: blank), même spécifiques pour personnes malvoyantes (voir références bibliographiques). En ce qui concerne l’analyse spécifique du niveau d’accessibilité des sites web des musées, il est possible par ailleurs de prendre comme référence les critères d’accessibilité identifiés à l’occasion des  (link: fr/risorse/analisi-istituzionali text: analyses institutionnelles) et les instruments d’analyse suggérés dans la ressource.
   option_type: one
-- 
-  option_type: one
-  section_title: Les utilisateurs et leurs besoins
-  content: ""
-- 
-  option_type: three
-  section_title: >
-    Pour les personnes aveugles ou fortement
-    malvoyantes
-  content: |
-    l’utilisation est entièrement déterminée dans ce cas par la structure de la page HTML qui est lue par le dispositif de lecture audio auquel recourt l’utilisateur. Toute la partie graphique et visuelle présente sur la page est traduite dans une description (pour autant qu’elle soit intégrée dans le code). Pour être accessible, la structure HTML de la page doit respecter et utiliser correctement les éléments à disposition du langage. En particulier, le HTML5 met à disposition des éléments spécifiques et univoques qui permettent de communiquer et d’indiquer leur type de contenu.
-    
-    Citons-en quelques-uns : le tag `<ul>` qui indique une liste d’éléments, `<article>` un article (comme dans un journal) avec titre (`<header>`), `<time>` contenant une date et/ou une heure, `<nav>` une collection de liens pour la navigation et ainsi de suite.
-    
-    Grâce à ces contenants sémantiques et à la structure hiérarchique de la page, les personnes aveugles peuvent naviguer facilement avec les différents programmes et dispositifs de lecture vocale, en se déplaçant selon leur type d’intérêt, au moyen des liens de la page ou de la barre de navigation.
-    
-    Pour ce faire, la programmation de la page doit être faite correctement. Nous suggérons d’essayer de reléguer au tag générique `<div>` (qui ne contient aucune information sémantique) la fonction de structurer le code et d’y appliquer le layout graphique (via CSS).
-    
-    Un autre aspect important est que tous les éléments, même de nature visuelle, tels que par exemple les images ou les éléments de navigation, aient un texte alternatif de description ; en effet, une icône de navigation (par exemple le menu, ou une flèche pour revenir à la page précédente), si elle n’est pas décrite adéquatement dans le code, n’est pas lisible par le lecteur vocal et est donc inaccessible pour les utilisateurs aveugles.
-    
-    La description doit éviter les redondances ; dans la description d’une image, il n’est pas nécessaire de dire que “L’image sélectionnée montre une personne …” car le tag `<img>` que la page HTML utilise pour afficher l’image indique déjà au lecteur vocal sa nature, rendant par conséquent inutile la (link: kit/opere/descrizione text: description supplémentaire).
-    
-    Pour rendre accessible la hiérarchie dans la page, il faut utiliser correctement les tags `<h1>`, `<h2>`, etc. Le titre principal de la page doit être indiqué par le tag `<h1>` et ne doit être utilisé qu’une seule fois par page. Le tag `<h2>` est destiné au sous-titre et les autres suivent par ordre d’importance (`<h1>` … `<h6>`).
-    
-    Certains éléments nécessaires pour la navigation ou la compréhension du contenu peuvent être ajoutés au code, mais si l’on ne souhaite pas leur présence visuelle dans la page, il suffit de “les cacher” au moyen de CSS.
-- 
-  option_type: three
-  section_title: Pour les personnes malvoyantes
-  content: |
-    les types de problèmes visuels sont très divers et chacun nécessiterait des mesures spécifiques, parfois contradictoires. Nombreuses sont les applications, dispositifs et programmes aidant les personnes malvoyantes dans l’utilisation d’Internet (et de la lecture en général), et chacun est spécifique à la pathologie concernée. En plus de tenir compte des directives pour un (link: kit/comunicazione/design text: design inclusif pour la communication visuelle), il convient de prendre en considération certains éléments spécifiques supplémentaires pour le web.
-    
-    En premier lieu, le site web doit être “adaptatif”, c’est-à-dire s’adapter et redistribuer les éléments de la page en fonction du dispositif utilisé (espace disponible et taille de l’écran).
-    
-    Tout le contenu du site doit par ailleurs pouvoir être agrandi sur les dispositifs (s’assurer que cela fonctionne également sur tablette et smartphone) pour permettre de mieux voir images et textes. Du fait de cette exigence d’agrandissement, il doit être possible de faire défiler les éléments (en particulier le menu de navigation) quand ils sont agrandis. Aussi leur position dans la page ne doit-elle pas être fortuite, surtout en ce qui concerne les éléments-clés comme la navigation.
-    
-    La lecture occidentale de gauche à droite, du haut vers bas, donne la priorité à la partie gauche de la page, et il est donc important d’y placer les parties fondamentales qui, placées à droite, pourraient échapper au lecteur.
-- 
-  option_type: three
-  section_title: Pour les personnes voyantes
-  content: >
-    si une information numérique est
-    accessible pour les personnes aveugles
-    et malvoyantes, elle l’est également
-    pour les personnes voyantes. Les
-    indications fournies sont valables pour
-    tout le public, car elles permettent à
-    n’importe quel type d’utilisateurs
-    d’avoir une expérience optimale. En
-    outre, l’application des standards web
-    et l’exhaustivité des informations
-    permettent l’échange de données,
-    augmentant ainsi également la
-    longévité d’un site.
 
 ----
 

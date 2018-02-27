@@ -35,7 +35,7 @@ Article:
     
     Informationen über die Rechte behinderter Menschen sind beim  (link:  https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb.html text: Eidgenössischen Büro für die Gleichstellung von Menschen mit Behinderungen target: _blank)  erhältlich . Für detaillierte, spezifische Informationen zu Sehbehinderungen empfiehlt es sich, mit der zuständigen regionalen Sektion des Schweizer Blinden- und Sehbehindertenverbandes SBV (bzw. UNITAS für die italienische Schweiz) sowie mit dem Schweizerischen Zentralverein für das Blindenwesen SZB (Unione centrale svizzera per il bene dei ciechi UCBC) Kontakt aufzunehmen, das verfügbare Informationsmaterial zurate zu ziehen (von dem ein Grossteil online zugänglich ist) und an den gezielten, von den Verbänden regelmässig organisierten Sensibilisierungsmassnahmen teilzunehmen.
     
-    (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns link:  https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd.html target: _blank)
+    (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns link:  https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb.html target: _blank)
     
     (image: unione-centrale-svizzera-per-il-bene-dei-ciechi.jpg  alt: Logo unione centrale svizzera per il bene dei ciechi class: two-columns link: https://www.ucbc.ch/szb/ target: _blank)
     

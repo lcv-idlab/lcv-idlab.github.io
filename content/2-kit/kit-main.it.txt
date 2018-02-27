@@ -13,7 +13,7 @@ Le presenti linee guida hanno lo scopo di sostenere i professionisti nell’adoz
 Offerte sotto forma di kit operativo consultabile online, le linee guida costituiscono uno strumento di lavoro a libera disposizione di operatori museali e mediatori culturali.
 Le soluzioni proposte, sono state selezionate in virtù della loro efficacia nel favorire l’accessibilità e l’inclusione del pubblico di riferimento nella vita culturale e artistica, perché in grado di rispettare allo stesso tempo le necessità specifiche del pubblico e delle istituzioni museali e sulla base delle contenute implicazioni finanziarie e tecniche.
 
-A questo scopo, le soluzioni sono state sperimentate e valutate in collaborazione con UNITAS e i partner museali, nel quadro del progetto (link: progetto/abstract/it text: Mediazione Cultura Inclusione).
+A questo scopo, le soluzioni sono state sperimentate e valutate in collaborazione con UNITAS e i partner museali, nel quadro del progetto (link: it/progetto text: Mediazione Cultura Inclusione).
 Se l’implementazione integrata di tutte le soluzioni è auspicata, è possibile selezionare e applicare quelle più pertinenti per la propria istituzione. Per favorire questa libertà di utilizzo, le linee guida sono suddivise in 3 principali campi d’azione: comunicazione, opere d’arte, orientamento e mobilità.
 
 Sono altresì proposte 3 modalità di visita possibili: visita guidata multisensoriale, visita autonoma e fruizione delle opere a distanza, per ciascuna delle quali è possibile visualizzare una preselezione delle soluzioni necessarie.
@@ -89,4 +89,4 @@ Download-final-poster-pdfs:
 
 ----
 
-Class_id: kit
+Class-id: kit

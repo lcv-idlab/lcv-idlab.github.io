@@ -69,7 +69,7 @@ Article:
 - 
   section_title: Für sehbehinderte Menschen
   content: |
-    Die Arten der Sehbehinderungen sind sehr vielfältig, und für jede einzelne von ihnen sind spezielle Massnahmen notwendig, die manchmal im Gegensatz oder Kontrast zu anderen Arten stehen. Es gibt zahlreiche Anwendungen, Geräte und Programme zur Unterstützung sehbehinderter Menschen bei der Nutzung des Webs (und der Lektüre im Allgemeinen), die spezifisch auf das jeweilige Krankheitsbild abgestimmt sind. Neben den Leitlinien für ein (link: it/kit/comunicazione/design text: inklusives Design der visuellen Kommunikation) sollte man zusätzlich auch einige spezielle Web-Elemente berücksichtigen.
+    Die Arten der Sehbehinderungen sind sehr vielfältig, und für jede einzelne von ihnen sind spezielle Massnahmen notwendig, die manchmal im Gegensatz oder Kontrast zu anderen Arten stehen. Es gibt zahlreiche Anwendungen, Geräte und Programme zur Unterstützung sehbehinderter Menschen bei der Nutzung des Webs (und der Lektüre im Allgemeinen), die spezifisch auf das jeweilige Krankheitsbild abgestimmt sind. Neben den Leitlinien für ein (link: de/kit/comunicazione/design text: inklusives Design der visuellen Kommunikation) sollte man zusätzlich auch einige spezielle Web-Elemente berücksichtigen.
     
     Zuallererst muss die Website 'responsiv' sein, das heisst, sie muss sich anpassen und die Seiten-Elemente auf dem eingesetzten Endgerät jeweils neu positionieren (verfügbarer Raum und Bildschirmgrösse).
     
@@ -130,7 +130,7 @@ Article:
     
     (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Das Diagramm legt dar, auf welche Weise Benutzerfreundlichkeit, Webstandard und Hilfstechnologien die Zugänglichkeit der Nutzung sicherstellen.)
     
-    Um die Qualität einer Website zu überprüfen, gibt es zahlreiche (link: https://www.w3.org text: W3C-Zugänglichkeitsstandards  target: blank)sowie spezielle Standards für Sehbehinderte (siehe Literaturangaben). Was die spezifische Analyse des Zugänglichkeitsgrades einer Museums-Websites betrifft, kann man zudem auf Zugänglichkeitskriterien zurückgreifen, wie sie anlässlich (link: de/risorse/analisi-istituzionali text: institutioneller Analysen) festgelegt wurden, sowie auf die im beigefügten Zusatzmaterial empfohlenen Analyseinstrumente.
+    Um die Qualität einer Website zu überprüfen, gibt es zahlreiche (link: https://www.w3.org text: W3C-Zugänglichkeitsstandards  target: blank) sowie spezielle Standards für Sehbehinderte (siehe Literaturangaben). Was die spezifische Analyse des Zugänglichkeitsgrades einer Museums-Websites betrifft, kann man zudem auf Zugänglichkeitskriterien zurückgreifen, wie sie anlässlich (link: de/risorse/analisi-istituzionali text: institutioneller Analysen) festgelegt wurden, sowie auf die im beigefügten Zusatzmaterial empfohlenen Analyseinstrumente.
   option_type: one
 
 ----

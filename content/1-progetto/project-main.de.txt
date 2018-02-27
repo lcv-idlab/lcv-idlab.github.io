@@ -43,4 +43,4 @@ Paragraphs:
 
 ----
 
-Class-id: abstract
+Class-id: progetto
