@@ -1,0 +1,240 @@
+Title: Kunstwerke über die Sinne interpretieren
+
+----
+
+Description: 
+
+Durch Anwendung intersemiotischer Lösungen können visuelle Kunstwerke so vermittelt werden, dass auch Menschen ohne Sehsinn ein umfassendes multisensorisches Erlebnis erfahren können.
+
+Dies ist allerdings nur unter der Voraussetzung möglich, dass ein sehender Mensch die Kunstwerke interpretiert und seine visuellen Eindrücke mittels Analogie in andere Sinneswahrnehmungen übersetzt. Dies geschieht durch die Schaffung interaktiver Tätigkeiten der Kulturmediation, die neben dem Gehörsinn auch Tast-, Geschmacks- und Geruchssinn einbeziehen können.
+Der Prozess der Umwandlung von der Bildersprache in eine Sprache, die auf nicht-visuellen Sinneswahrnehmungen basiert, kann ästhetische und emotionale Eindrücke vermitteln und braucht dabei auch die Subjektivität nicht zu fürchten, solange er mit der objektiven Beschreibung des Werks übereinstimmt. Jede Mediation bringt persönliche Betrachtungen und Wahrnehmungen mit sich, wie sie für jede Art von Übertragungsprozess typisch sind.
+
+Die interpretierende Betrachtung muss also als wesentlicher Bestandteil des Kunstwerks angesehen werden; sie kann ein bereicherndes Gefühlserlebnis vermitteln, das sich mit den von ihr ausgelösten ästhetischen und emotionalen Auswirkungen deckt. Für (link: de/kit/percorsi/visita-guidata-multisensoriale text: multisensorische Führungen) ist daher der Einsatz eines multisensorischen Ansatzes empfehlenswert, der Informationen wissenschaftlicher Art (z. B. Geschichte und Kontext des Werks) mit Informationen subjektiver Natur (z. B. Gefühle, durch die visuelle Wahrnehmung hervorgerufene Eindrücke etc.) in einen Dialog bringt.
+
+Dass Menschen mit Sehbehinderungen ihre noch verfügbaren Sinne zur Wahrnehmung der Umgebung ergänzend einsetzen, ist für sie keine Entscheidung, sondern eine Notwendigkeit. Kunstschätze mithilfe dieser anderen Sinne zu erkunden, kann aber auch für sehende Menschen eine grosse Bereicherung darstellen, da sie die Werke so aus einer neuen Perspektive entdecken können.
+
+Die gleichzeitige Einbeziehung verschiedener Sinnesreize scheint die ideale Lösung für einen direkten und unmittelbaren Zugang zu Kunstwerken zu sein. Aber auch die Aktivierung von jeweils nur einem Sinn (z. B. Tast-, Geschmacks- oder Geruchssinn) kann effizient sein, vorausgesetzt, sie wird von einer angemessenen (link: de/kit/opere/descrizione text: Beschreibung) begleitet, die, wie bereits ausgeführt, der Ausgangspunkt für alle multisensorischen Aktivitäten ist.
+
+----
+
+Icon: interpretare-attraverso-i-segni.png
+
+----
+
+Article: 
+
+- 
+  section_title: Die Kunstwerke auswählen
+  content: |
+    **Die Kunstwerke, die für die Durchführung einer sensorischen Interpretation ausgewählt werden, müssen auch angemessen beschrieben werden; auch für diesen Fall gelten die Kriterien für die  (link: de/kit/opere/descrizione#selezionare-le-opere text: Auswahl der zu beschreibenden Werke).
+    Auch wenn potenziell jedes Kunstwerk in andere Wahrnehmungsarten übertragen werden kann, sind einige doch besser (oder in besonderem Masse) für eine bestimmte Art der Übertragung geeignet. Aus diesem Grund ist es wichtig, die Zweckdienlichkeit der Interpretation jedesmal neu zu bewerten. Zur Erleichterung der Auswahl können die folgenden Zusatzkriterien berücksichtigt werden.**
+  option_type: one
+- 
+  option_type: three
+  section_title: >
+    Originale, die nicht berührt werden
+    können
+  content: >
+    Bei der Durchführung von
+    Interpretationen, die über andere Sinne
+    genutzt werden können, ist die Auswahl
+    von Kunstwerken empfehlenswert, bei
+    denen eine taktile Erkundung nicht
+    erlaubt ist.
+- 
+  option_type: three
+  section_title: Format
+  content: |
+    Die multisensorische Interpretation ist besonders gut geeignet für die Übertragung von zweidimensionalen Kunstwerken (Gemälden, Fotografien, Drucken etc.) sowie von dreidimensionalen Objekten mit übergrossen Abmessungen, gleichgültig, ob es sich dabei um figurative oder abstrakte Werke handelt.
+    
+    Auch wenn die Möglichkeit besteht, Originalwerke zu berühren, sind die mit den Fingern wahrnehmbaren Informationen zwar sehr hilfreich für das Verständnis einiger Aspekte des Werks (z. B. Material oder Struktur), dennoch erlauben sie es den BesucherInnen nicht, sich über die eigene Sinneserfahrung ein vollständiges mentales Bild des Kunstwerks zu machen.
+- 
+  option_type: three
+  section_title: Art der Kunstwerke
+  content: >
+    In den meisten Fällen sind es die
+    Kunstwerke selbst, die ihre sensorische
+    Interpretation bestimmen. Die
+    sensorische Interpretation kann auch von
+    Elementen des Kunstwerks abhängen, die
+    der Mediator besonders hervorheben
+    möchte. So ist zum Beispiel ein aus
+    schwarzen Linien bestehendes abstraktes
+    Gemälde wenig geeignet, um gemimt oder
+    inszeniert zu werden, es kann jedoch
+    zwecks taktiler Erkundung in Reliefform
+    reproduziert werden.
+- 
+  option_type: one
+  section_title: Die möglichen Interpretationen
+  content: ""
+- 
+  option_type: two
+  section_title: Taktile Interpretation
+  content: |
+    **Dem Zielpublikum die Möglichkeit zu bieten, (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: Originalwerke zu berühren), ist natürlich von grundlegender Bedeutung. Ist dies nicht möglich oder für die Konstruktion mentaler Bilder (siehe oben) nicht hilfreich, kann der Tastsinn durch andere Hilfsmittel ergänzt werden.
+    Es existieren zahlreiche Arten, ein visuelles Kunstwerk mit dem Tastsinn zu erkunden. Um die passendste Art zu finden, ist es entscheidend, die Besonderheiten des Originalkunstwerks zu auszuloten und jene Elemente auszuwählen, die sich für eine taktile Erkundung am besten eignen. Die zuvor dargelegten Kriterien für die (link: de/kit/opere/descrizione#selezionare-gli-elementi text: Auswahl der zu beschreibenden Elemente) haben auch hier Gültigkeit. Hauptthema, Technik, Form und Komposition eines Werkes sind für diese Art der sensorischen Interpretation von besonderer Bedeutung. Nachfolgend sind die am einfachsten umzusetzenden Möglichkeiten dargestellt.**
+- 
+  option_type: three
+  section_title: Reliefbild
+  content: |
+    Das Reliefbild ist speziell für das Verständnis zweidimensionaler Werke sehr hilfreich (z. B. Gemälde, Drucke, Fotografien). Diese Darstellungsform bietet eine grafische Synthese des Originalbildes, bei der die Hauptelemente der Komposition als Relief ausgeführt sind und daher über den Tastsinn wahrgenommen werden können. Das Reliefbild ist ideal dafür geeignet, gestalterische Aspekte oder Kraftlinien des Bildes zu vermitteln oder besonders wichtige Details zu vergrössern.
+    
+    Die Herstellung von Reliefbildern ist eine gute Lösung, da diese relativ kostengünstig, problemlos anzufertigen und bei Ergänzung mit einer geeigneten Beschreibung sehr effizient für die Konstruktion mentaler Bilder sind.
+    Einige Hinweise für die Herstellung werden im Zusatzmaterial bereitgestellt (siehe (link: de/risorse/come-realizzare-un-diagramma-tattile-o-materico text: Wie man ein taktiles oder Materialbild herstellt)).
+- 
+  option_type: three
+  section_title: Materialbild
+  content: |
+    Hierbei handelt es sich um eine Variante des Reliefbildes (siehe oben). Beim Materialbild werden in das Bild zusätzlich unterschiedliche Materialien einbezogen. Dadurch wird das Bild zu einer Collage in Reliefausführung mit unterschiedlichen Beschaffenheiten und Strukturen.
+    
+    Das Materialbild ist ideal geeignet, um neben den Elementen der Komposition auch zusätzliche Informationen zu vermitteln (z. B. hinsichtlich Farben, Materialien oder Stil). Einige Hinweise zu seiner Herstellung werden im Zusatzmaterial folgenden Hilfsmittel bereitgestellt (siehe (link: de/risorse/come-realizzare-un-diagramma-tattile-o-materico text: Wie man ein taktiles oder Materialbild herstellt)).
+    (image: 01-interpretazioni-tattili.jpg class: two-columns gallery metrico)
+    (image: 02-interpretazioni-tattili.jpg class: two-columns gallery metrico)
+- 
+  option_type: three
+  section_title: Dreidimensionale Reproduktion
+  content: |
+    Sie eignet sich ideal für dreidimensionale Kunstwerke, bei denen eine taktile Erkundung des Originals nicht möglich ist oder deren grosse Abmessungen eine vollständige Wahrnehmung verhindern. Zudem kann sie gut für zweidimensionale Werke eingesetzt werden, bei denen die räumlichen Aspekte eine wichtige Stellung einnehmen (Tiefe, Perspektive etc.).
+    
+    Je nach Grösse des Originals empfiehlt sich eine Reproduktion im Massstab 1:1 oder als Miniatur. Letztere ist hilfreich, um bei Monumentalkunstwerken oder komplexen Installationen im Raum einen Gesamteindruck zu vermitteln.
+- 
+  option_type: three
+  section_title: Objekte in die Hand nehmen
+  content: |
+    Den BesucherInnen Objekte und Materialien in die Hand zu geben, die besondere Aspekte des Werks oder seines Schöpfungsprozesses vermitteln bzw. wachrufen, kann für ein besseres Verständnis des Werkes sehr nützlich sein.
+    
+    Hierzu kann auf die Arbeitswerkzeuge des Künstlers zurückgegriffen werden werden (Pinsel, Spatel, Leinwand, Kreide etc.) oder auf Objekte, die das Kunstwerk verkörpern oder aufgrund ihrer Beschaffenheit einen visuellen Aspekt oder ein Gefühl wachrufen können (z. B. Weichheit, Härte, Kälte oder Wärme).
+    (image: 03-interpretazioni-tattili.jpg class: two-columns gallery oggetti)
+    (image: 04-interpretazioni-tattili.jpg class: two-columns gallery oggetti)
+- 
+  option_type: two
+  section_title: Audio-Interpretationen
+  content: |
+    Ebenso wie die taktile Erkundung (am Original oder an Reproduktionen) ermöglicht die Audio-Interpretation es dem Publikum, Kunstschätze über die eigenen Sinne zu nutzen, und fördert zugleich die Konstruktion mentaler Bilder und das allgemeine Verständnis eines Werks.
+    
+    Die Wirkung von Audio-Interpretationen ist noch stärker (und inklusiver), wenn das Publikum in den Ausstellungsräumen über Lautsprecher Klänge und Musik anhören kann, die entlang dem Besichtigungsparcours angebracht sind. Diese Modalität sollte dem individuellen Zuhören mittels Audioguides oder anderen digitalen Hilfsmitteln vorgezogen werden.
+    
+    Weiterhin ist es wichtig, die Besonderheiten des Originalkunstwerkes auszuloten, um Elemente auszuwählen, die sich für eine Übertragung am besten eignen. Die zuvor dargestellten Kriterien zur (link: de/kit/opere/descrizione#selezionare-gli-elementi text: Auswahl der zu beschreibenden Elemente) sind zwar auch für diesen Fall gültig, doch von zentraler Bedeutung sind hier vor allem historischer und kultureller Kontext, Hauptthema, Technik, Form und Komposition des Werkes.
+    
+    Die Musikstücke und Klänge können aus dem bereits existierenden Angebot ausgewählt werden (z. B. den auf dem Markt erhältlichen Musikaufnahmen) oder eigens für die multisensorische Mediation aufgezeichnet werden. In letzterem Falle müssen unter Umständen zusätzliche Ressourcen in Anspruch genommen werden (z. B. die Mitarbeit von KünstlerInnen oder TechnikerInnen). Hierbei kommen die folgenden Modalitäten in Betracht.
+- 
+  option_type: three
+  section_title: Deskriptiv
+  content: |
+    Für eine beschreibende und didaktische Annäherung an das Bild können Klänge ausgewählt oder geschaffen werden, die deutlich an das Kunstwerk erinnern (z. B. Stimmen, Laute, Geräusche bewegter Gegenstände). Es handelt sich hierbei um eine quasi 'wortwörtliche' Klanginterpretation, die sich für die Übertragung figurativer Kunstwerke ideal eignet.
+    
+    Stellt das Werk beispielsweise einen sich nähernden Zug dar, ist das Hören des zugehörigen Geräusches sehr effizient, um zwei Dinge gleichzeitig zu fördern: zum einen das Verständnis dessen, was sich dem sehenden Publikum darbietet, und zum anderen Zeit- und Bewegungsaspekte, die der Künstler selbst in sein Kunstwerk aufgenommen hat.
+- 
+  option_type: three
+  section_title: Evokativ
+  content: |
+    Auch wenn keine offensichtliche oder logische Verbindung zum Kunstwerk existiert, kann die Auswahl oder Komposition von Musikstücken, die dem Publikum dargeboten werden, sehr effizient sein, um besondere Elemente wachzurufen, so zum Beispiel die geschichtliche Epoche, in der das Kunstwerk geschaffen wurde, oder auch Gefühle und Emotionen, die das Kunstwerk sehenden Menschen vermittelt.
+    
+    Ist das Werk zum Beispiel für die Barockzeit repräsentativ, kann das Anhören eines Musikstücks aus dieser Zeit es dem Publikum ermöglichen, die Üppigkeit und den Einfallsreichtum dieser Epoche auf eine andere Art wahrzunehmen.
+- 
+  option_type: three
+  section_title: Interpretativ
+  content: |
+    Musikstücke und Klänge können nicht nur deskriptiv oder evokativ wirken, sondern auch auch in ein interpretatives Konzept einbezogen werden. Diese Lösung ist besonders dann geeignet, wenn der Mediator Elemente, die die Wahrnehmung des Kunstwerks betreffen, aus einem historischen, ästhetischen oder philosophischen Blickwinkel präsentieren will.
+    
+    Diese Art der Klanginterpretation kann auch bei figurativen und abstrakten Kunstwerken zweckdienlich sein, da sie es ermöglicht, auch rein formale Elemente in Klänge zu übertragen.
+    
+    Um zum Beispiel Menschen mit Sehproblemen den Unterschied zwischen einem abstrakten und einem figurativen Werk verständlich zu machen, kann man ihnen parallel zwei gegensätzliche Klänge/Stücke vorführen: Für das figurative Kunstwerk ist ein Klang/Stück geeignet, das vom Publikum klar identifiziert werden kann, während für das abstrakte Werk ein evokatives, nicht klar identifizierbares Stück besser geeignet ist.
+    (image: 05-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
+    (image: 06-interpretazioni-sonore.jpg class: two-columns gallery interpretativa)
+- 
+  option_type: two
+  section_title: 'Physische Interpretationen: Mimik und Inszenierung'
+  content: '**Ein visuelles Kunstwerk mithilfe von Mimik oder einer Inszenierung zu interpretieren und dabei die Körper- und Theatersprache in die Mediationstätigkeit aufzunehmen, eignet sich besonders für figurative Kunstwerke, da bei ihnen Aufbau und Komposition, Posen und Gesten der dargestellten Figuren sowie die Materialbeschaffenheit von Kleidern oder anderen zur Szene gehörenden Objekten von besonderer Bedeutung sind. Die in einem Kunstwerk verkörperte Szene oder einige ihrer Elemente in der Realität zu reproduzieren, kann beim Publikum verschiedenes begünstigen: das Sich-Hinein-Versetzen, die Schaffung mentaler Bilder und das allgemeine Verständnis des Kunstwerks.**'
+- 
+  option_type: three
+  section_title: Gestik und Mimik
+  content: "Die BesucherInnen zu bitten, mit dem eigenen Körper die Gesten, Posen und Ausdrucksweisen der dargestellten menschlichen Gestalten nachzuahmen, ermöglicht es ihnen, diese Elemente 'am eigenen Leib' zu erfahren. Auch hierdurch wird der Rückgriff auf die verfügbaren Sinne gefördert, um sich dem Kunstwerk auf effiziente Weise zu nähern und es zu verstehen. Aufgrund ihrer ausgeprägten Einfachheit (notwendig ist lediglich das Mitwirken eines Mediators) erscheint diese Methode aus Kostensicht sehr vorteilhaft."
+- 
+  option_type: three
+  section_title: Inszenierung
+  content: |
+    Bei der Inszenierung eines Kunstwerks können die dargestellten Figuren dank ihrer Verkörperung durch einen Mediator (der kein Schauspieler zu sein braucht) zum Leben erweckt werden. Er nimmt die Posen der Figuren ein oder ahmt ihre Bewegungen nach, wobei er entsprechend gekleidet sein muss, um der verkörperten Gestalt möglichst ähnlich zu werden.
+    Der Mediator stellt eine Art Bindeglied zwischen Kunstwerk und Publikum dar: Menschen mit Sehproblemen können ihn mit dem Tastsinn erkunden und sich von seinen mündlichen Hinweisen führen lassen, um die Posen und Gebärden sowie die Besonderheiten der Kleidung und anderer Gegenstände bestmöglich wahrnehmen zu können.
+    
+    Sehbehinderte BesucherInnen können sich auch am visuellen Teil der Inszenierung erfreuen, der oft Anlass zu Staunen und freudiger Überraschung ist. An dieser Stelle sei daran erinnert, dass es nicht notwendig ist, das Kunstwerk in allen Details zu reproduzieren, um eine gute und effiziente Inszenierung durchzuführen. Wichtig ist, dass Kleidung und Gegenstände vor allem im Hinblick auf ihre Materialbeschaffenheit (Struktur und Volumen) ausgewählt werden, die der visuell wahrnehmbaren möglichst ähnlich sein sollte.
+    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'I partecipanti con problemi di vista ascoltano le indicazioni dei collaboratori SUPSI per mimare e assumere in prima persona la posizione della donna ritratta nell’opera. Un operatore SUPSI aiuta una di loro.')
+    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'In posa, abbigliati e agghindati con costumi e accessori, due collaboratori SUPSI mettono in scena un’opera della mostra.')
+- 
+  option_type: two
+  section_title: >
+    Interpretationen über Geschmack und
+    Geruch
+  content: |
+    Die ebenso spannende wie interaktive Übertragung eines visuellen Kunstwerks in Geruchs- und Geschmacksstimuli kann das Wahrnehmungsspektrum beim In-Kontakt-Treten mit dem Kunstwerk zusätzlich erweitern und bei den BesucherInnen Erinnerungen und Gefühle wachrufen, die mit ihrer ganz persönlichen Erlebniswelt in Verbindung stehen. Aus diesem Grund wird sie als besonders effiziente Lösung angesehen, um sich einem Kunstwerk emotional zu nähern.
+    
+    Da sich Gerüche und Geschmackseindrücke besonders intensiv auf die Wahrnehmung auswirken, sollten diese Aktivitäten jedesmal sorgfältig geplant werden. Auch sollte darauf geachtet werden, dass sie von den TeilnehmerInnen nicht als Belästigung empfunden werden oder ihnen körperliche Beschwerden verursachen.
+    
+    Daher ist es vor jeder Verkostung wichtig, die einzelnen Nahrungsmittel und die Zutaten jeder Speise zu erläutern und das Publikum zu bitten, eventuelle Unverträglichkeiten, Allergien, besondere Ernährungsweisen und Diätvorschriften anzugeben. Die Kriterien zur  (link: kit/opere/descrizione#selezionare-gli-elementi text: Auswahl der zu beschreibenden Elemente) gelten auch für diesen Fall, doch von zentraler Bedeutung sind für die Übertragung in Geschmacks- und Geruchselemente vor allem historischer und kultureller Kontext, Hauptthema, Technik, Form und Komposition des Werkes.
+    
+    Nahrungsmittel und Speisen können aus dem bereits existierenden Angebot (z. B. am Markt erhältliche, bereits zubereitete Produkte) ausgewählt werden oder eigens für die multisensorische Mediation hergestellt werden. In letzterem Falle müssen gegebenenfalls zusätzliche Ressourcen (z. B. die Mitarbeit eines Küchenchefs oder von Küchenpersonal) in Anspruch genommen werden.
+    
+    Dieser Übertragungsprozess bietet unendlich viele kreative und interpretative Möglichkeiten, von denen einige im Folgenden aufgeführt sind.
+- 
+  option_type: three
+  section_title: Deskriptiv
+  content: |
+    Für eine beschreibende und didaktische Annäherung an die Darstellung können Nahrungsmittel oder Inhaltsstoffe gewählt oder Speisen zubereitet werden, die auf klare Art und Weise an das Kunstwerk erinnern. Auch in diesem Fall handelt es sich um eine quasi 'wortwörtliche' Interpretation, die sich für die Übertragung figurativer Kunstwerke besonders gut eignet.
+    
+    Verkörpert das Kunstwerk zum Beispiel einen Korb voller Orangen, kann es sehr hilfreich sein, dem Publikum Orangen anzubieten, die es ertasten, riechen und probieren kann. Hierdurch fördert man das Verständnis der visuellen Elemente und macht sie über die anderen Sinne wahrnehmbar.
+- 
+  option_type: three
+  section_title: Evokativ
+  content: >
+    Auch wenn keine offensichtliche oder
+    logische Verbindung zum Kunstwerk
+    existiert, können bestimmte Gerüche
+    und Geschmackseindrücke angeboten
+    werden, die bei den BesucherInnen je
+    nach dem zu vermittelnden Thema
+    geografische oder besondere Orte (Markt,
+    Hafen, Stadt, Wald etc.), Epochen,
+    Gefühle oder Empfindungen (Frische,
+    Wärme, Feuchte, Weichheit, Rauheit
+    etc.) wachrufen und es ihnen
+    ermöglichen, das Kunstwerk oder einige
+    seiner Elemente auf eine andere Art
+    wahrzunehmen.
+- 
+  option_type: three
+  section_title: Interpretativ
+  content: |
+    Die vorgeschlagenen Gerüche und Geschmackseindrücke können nicht nur deskriptiv oder evokativ wirken, sondern in ein interpretatives Konzept einbezogen werden. Diese Lösung ist besonders effizient, wenn der Mediator Elemente, die die Wahrnehmung des Kunstwerkes betreffen, aus einem historischen, ästhetischen oder philosophischen Blickwinkel präsentieren will. Der interpretative Ansatz eignet sich für sowohl für figurative als auch für abstrakte Kunstwerke.
+    
+    Hierbei ist es besonders wichtig, die Nahrungsmittel, Aromastoffe und Speisen nicht nur nach ihrem Geruch oder Geschmack auszuwählen, sondern auch in Abhängigkeit von ihrer Konsistenz. Kombinationen aus Geschmack und Konsistenz – seien sie nun kontrastierend (z. B. starker Geschmack und zarte Konsistenz) oder harmonierend (z. B. milder Geschmack und zarte Konsistenz) – sind besonders effizient, um dem Publikum Beziehungen verständlich zu machen, die sich in dem Kunstwerk zwischen formellen und inhaltlichen Aspekten einstellen können.
+    
+    Will man beispielsweise die monumentale Marmorskulptur eines Kriegshelden in Aktion interpretieren, so können für die Vermittlung bestimmter formeller Aspekte (z. B. Material oder Farbe) zarte und kalte Konsistenzen, zur Vermittlung des Themas dagegen starke und scharfe Geschmacksrichtungen angeboten werden.
+    
+    (image: 09-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
+    
+    (image: 10-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: toccare-l-arte
+- 
+  kit: interpretazioni-sonore
+- 
+  kit: la-messa-in-scena
+- 
+  kit: degustare-l-arte
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: senseable-art
+- 
+  kit: >
+    la-visita-guidata-con-i-diagrammi-in-rilievo

@@ -1,0 +1,74 @@
+Title: Die BesucherInnen begleiten
+
+----
+
+Description: 
+
+Für blinde Menschen ist nicht nur eine Freude, sondern auch eine Notwendigkeit, eine sehende Person als Begleitung zu haben, die sie bei der Besichtigung führt.
+
+Ein Grossteil der sehbehinderten Menschen zieht eine solche persönliche Führung vor, und dies nicht nur im Hinblick auf die eigene Sicherheit und die der ausgestellten Kunstwerke, sondern auch, weil es den Besuch angenehmer macht.
+Um die Unabhängigkeit sehbehinderter Menschen zu fördern und zu vermeiden, dass sie für einen Museumsbesuch regelmässig von der Bereitschaft ihrer Bekannten, Freunde, Verwandten oder Freiwilligen abhängig sind, sollte das Museum eine Person zur Verfügung stellen, die die BesucherInnen auf Anfrage persönlich begleitet, ihnen die Kunstwerke und Räumlichkeiten des Museums (link: de/kit/opere/descrizione text: beschreibt) und sie bei der (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: taktilen Erkundung) der Werke anleiten kann, sofern es möglich ist, diese zu berühren.
+
+Hierzu ist es von grundlegender Bedeutung, dass das Museumspersonal auf geeignete Art und Weise (link: de/kit/comunicazione/relazione-con-il-pubblico text: sensibilisiert) wurde.
+
+Um die Autonomie von Sehbehinderten bei der Besichtigung noch weiter zu verbessern, ist es ferner möglich, punktuelle Massnahmen bezüglich (link: de/kit/orientamento/adattare-il-museo#elementi-d'arredo text: Inneneinrichtung) und Ausstattung der (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: Ausstellungsbereiche) umzusetzen.
+
+----
+
+Icon: accompagnare-il-visitatore.png
+
+----
+
+Article: 
+
+- 
+  section_title: Ein Serviceangebot anbieten
+  content: 'Die Autonomie des sehbehinderten Publikums während des Besuchs ist sehr unterschiedlich und hängt von verschiedenen Faktoren ab (z. B. von der Art der Sehbehinderung oder dem Moment, als diese erstmals aufgetreten ist). Daher ist es sehr wichtig, dass die BesucherInnen in die Lage versetzt werden, nach den eigenen Bedürfnissen und Anforderungen selbst zu entscheiden, ob und von wem sie während des Museumsbesuchs geführt werden wollen. Es geht also nicht darum, dem Publikum systematisch eine Begleitung anzubieten, sondern darum, einen solchen Service auf Anfrage bereitzustellen. Ist eine solche Unterstützung verfügbar, muss das Zielpublikum darüber auf (link: de/kit/comunicazione/relazione-con-il-pubblico#adattare-l’accoglienza text: geeignete Art und Weise informiert werden).'
+  option_type: one
+- 
+  section_title: Den Einsatz von Hilfsmitteln erlauben
+  content: 'Von zentraler Bedeutung ist es, dem sehbehinderten Publikum den (link: de/kit/comunicazione/relazione-con-il-pubblico#conoscere-le-necessita-e-le-aspettative text: Einsatz von Hilfsmitteln) zu erlauben, die die Nutzung des Museums und der Kunstwerke vereinfachen. Sollte für die Konservierung der ausgestellten Werke eine reale Gefahr bestehen (z. B. wenn sie ungeschützt auf dem Boden platziert sind), müssen die BesucherInnen unbedingt darauf hingewiesen werden. Eine Begleitung während des Besuchs anzubieten, ist in diesen Fällen noch wichtiger. Hierdurch kann nicht nur die Orientierung und die Mobilität des Publikums gefördert werden, sondern auch eine korrekte Konservierung der Kunstwerke gewährleistet werden (indem z. B. die Orientierung auch auf eventuell mitgenommene Führhunde blinder BesucherInnen ausgedehnt wird). In jedem Fall ist es von entscheidender Bedeutung, gemeinsam mit den BesucherInnen eine Lösung zu finden, um die Nutzung der Kunstwerke und des Museums zu fördern.'
+  option_type: three
+- 
+  option_type: one
+  section_title: Führen und beschreiben
+  content: >
+    Um das sehbehinderte Publikum
+    persönlich zu führen und ihm ein
+    Gefühl von Sicherheit zu vermitteln,
+    sind die folgenden Aspekte von
+    grundlegender Bedeutung.
+- 
+  option_type: three
+  section_title: >
+    Nachfragen, welche Art von Kontakt
+    gewünscht ist
+  content: |
+    Um die BesucherInnen persönlich zu begleiten, muss man ihnen einen physischen Kontakt anbieten, auf den sie sich für die Umgehung von Hindernissen und ein sicheres Vorankommen verlassen können. Viele Menschen ziehen es vor, sich selbst am Arm der Begleiterperson festzuhalten (statt festgehalten zu werden) und gemeinsam Seite an Seite mit ihr zu gehen. Diese Art von Kontakt wird als die komfortabelste, schnellste und diskreteste Form angesehen.
+    
+    Bei Gruppen mit mehreren sehbehinderten BesucherInnen ist es empfehlenswert, primär die blinden Menschen zu betreuen, da eingeschränkt sehbehinderte Personen hinsichtlich ihrer Fortbewegung generell autonomer sind. Bei Gruppen mit mehreren blinden BesucherInnen besteht ausserdem die Möglichkeit, sich in einer Art 'Gänsemarsch' fortzubewegen, wobei jeder Teilnehmende die rechte Hand auf die Schulter der vor ihm gehenden Person legt; diese Art der Fortbewegung schränkt jedoch die Bewegungsfreiheit des Einzelnen ein.
+    
+    Um eine individuell gestaltete Unterstützung anbieten zu können, ist es daher vorzuziehen, für jede blinde oder hochgradig sehbehinderte Person einen eigenen Begleiter vorzusehen.
+- 
+  option_type: three
+  section_title: Den Raum und den Weg beschreiben
+  content: |
+    Um sehbehinderten BesucherInnen ein Gefühl von Sicherheit zu vermitteln und dafür zu sorgen, dass sie sich wohlfühlen, ist es empfehlenswert, den Raum, in dem man sich befindet, und den eingeschlagenen Weg Schritt für Schritt mit Worten zu beschreiben und dabei eventuelle Hindernisse sowie Umbebung und Situationen vorwegzunehmen.
+    
+    Für eine geeignete Beschreibung kann auf dieselben Hinweise zurückgegriffen werden, die auch für die (link: de/kit/opere/descrizione text: Erläuterung von Kunstwerken) von Kunstwerken befolgt werden sollten, wobei die Beschreibung nun allerdings der Mobilität und der Orientierung der BesucherInnen dient. Daher sollte man vorrangig objektive Informationen geben und darüber hinaus bereit sein, auf eventuelle Fragen der BesucherInnen zu antworten und ihre Neugier hinsichtlich der Eindrücke zu stillen, die sie in den Räumlichkeiten über ihre anderen Sinne wahrgenommen haben.
+    
+    Von entscheidender Bedeutung sind Hinweise, die es den BesucherInnen ermöglichen vorauszusehen, was gleich passieren wird oder was sie gleich wahrnehmen werden (z. B. 'Jetzt gehen wir eine Treppe nach oben … der Handlauf befindet sich auf der rechten Seite … der erste Treppenabschnitt hat zehn Stufen, danach geht es weiter nach rechts über einen Treppenabsatz von rund zwei Quadratmetern, und anschliessend kommt ein weiterer Abschnitt mit zehn Stufen' oder 'Jetzt nehmen wir den Aufzug und fahren in den dritten Stock, wo sich die permanente Ausstellung befindet, die wir besichtigen wollen …' oder 'Jetzt sind wir in der Eingangshalle des Museums: Dieser Raum ist rund 20 m² gross, hat einen Holzboden und weisse Wände. Das Licht kommt von einem grossen Fenster auf unserer rechten Seite. Wenn wir geradeaus gehen, betreten wir den ersten Ausstellungssaal … Insgesamt gibt es vier Ausstellungssäle').
+    
+    (image: 01-accompagnare.jpg class: two-columns gallery spazio)
+    (image: 02-accompagnare.jpg class: two-columns gallery spazio)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: analisi-istituzionali

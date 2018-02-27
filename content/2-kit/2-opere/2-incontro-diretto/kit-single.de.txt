@@ -1,0 +1,169 @@
+Title: Den direkten Kontakt fördern
+
+----
+
+Description: 
+
+Die Nutzung von Kunstschätzen über die eigenen Sinne zu fördern, ermöglicht es, den Rückgriff auf die Mediation zu begrenzen und gleichzeitig die Fähigkeiten des Publikums zu wertschätzen.
+
+Sehbehinderte Menschen können Kunstwerke oft auch visuell nutzen, wenn sie diese aus sehr geringer Entfernung betrachten dürfen, besondere Sehhilfen verwenden können (herkömmliche oder Smartphone-Lupen, Taschenlampen etc.) oder wenn ihnen die (link: de/kit/comunicazione/design#favorire-l-identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: Informationen zu den Kunstwerken) auf geeignete Art vermittelt werden.
+
+Um das Herangehen an die Werke und den Einsatz dieser Hilfsmittel zu ermöglichen und zugleich den institutionellen Erfordernissen (Versicherung und Konservierung) gerecht zu werden, ist eine (link: de/kit/orientamento/guidare-il-visitatore text: Begleitung ) durch das Museumspersonal klar zu empfehlen.
+
+Sollte dies nicht möglich sein, muss das Publikum unbedingt auf die konservatorischen und versicherungstechnischen Aspekte hingewiesen werden. Gleichzeitig muss das Aufsichtspersonal für die Bedürfnisse des Publikums  (link: kit/comunicazione/relazione-con-il-pubblico text: sensibilisiert ) werden, um Eingriffe und Verbote, die nicht strikt notwendig sind, zu vermeiden.
+
+Blinden und hochgradig sehbehinderten Menschen wiederum ist ein direkter Zugang zu den Kunstwerken über den Tastsinn möglich. Die taktile Erkundung der Originalwerke gilt auch für nur eingeschränkt sehbehinderte Menschen als eine der effizientesten und emotional stärksten transversalen Lösungen, um das Kunstgut zugänglich zu machen. Der unmittelbare Zugang zu den Kunstwerken kann noch zusätzlich gefördert werden, indem das Publikum mit Sehbehinderungen Begegnungen mit lebenden Autoren erhält.
+
+----
+
+Icon: favorire-incontro-diretto.png
+
+----
+
+Article: 
+
+- 
+  option_type: one
+  section_title: Ein „Nähertreten“ möglich machen
+  content: |
+    Aus konservatorischen und versicherungstechnischen Gründen ist es den BesucherInnen im Allgemeinen untersagt, allzu nah an die ausgestellten Kunstwerke heranzutreten. In bestimmten Fällen sind Alarmvorrichtungen mit Sensoren, Stahlseile oder Podeste vorhanden, die zum Teil schlecht sichtbar und für das Publikum gefährlich werden können.
+    
+    Um die Wahrnehmung der Kunstwerke zu erleichtern, ist es entscheidend, dass sich das Publikum diesen möglichst weit nähern kann. Der für das sehende Publikum festgelegte Abstand muss dabei deutlich unterschritten werden. Sollte dies nicht möglich sein, ist es wichtig, Einrichtungselemente, mit denen die BesucherInnen auf Distanz gehalten werden sollen, gut sichtbar zu gestalten (z. B. durch Abdecken der Stahlseile mit Gewebe in stark kontrastierenden Farben).
+- 
+  option_type: one
+  section_title: Die Nutzung von Hilfsmitteln fördern
+  content: |
+    Das sehbehinderte Publikum muss bei der Betrachtung der Kunstwerke auf spezielle Hilfsmittel zurückgreifen können (z. B. Lupen oder Taschenlampen).
+    
+    Aus konservierungs- und versicherungstechnischen Gründen ist es den BesucherInnen jedoch oft nicht erlaubt, die verfügbaren Hilfsmittel zu verwenden. Da der Einsatz von herkömmlichen Lupen aber einen Standort in unmittelbarer Nähe des Werkes erfordern würde, besteht eine praktikable Lösung darin, das Werk mit dem eigenen Smartphone zu fotografieren und anschliessend am Bildschirm zu vergrössern.
+    
+    (image: 1-ascoltare-l-incisione.jpg class: two-columns gallery favorire)
+    (image: 2-interpretazioni-sonore.jpg class: two-columns gallery favorire)
+- 
+  option_type: one
+  section_title: Eine taktile Erkundung ermöglichen
+  content: |
+    Oft wird dem Zielpublikum eine taktile Erkundung der Kunstwerke verwehrt, um den institutionellen Erfordernissen (Versicherung und Konservierung) gerecht zu werden. Die taktile Erkundung zu fördern, würde jedoch eine direkte und emotionale Annäherung an das Kunstwerk ermöglichen.
+    
+    In bestimmten Fällen reicht der Tastsinn dazu jedoch nicht aus. Zum einen variiert die taktile Sensibilität stark und hängt von verschiedenen Faktoren ab (z. B. von der Art der Sehbehinderung oder von dem Moment, in dem diese erstmals aufgetreten ist), zum anderen können einige Kunstwerke (z. B. aufgrund ihres Formats) nur zum Teil wahrgenommen werden oder erfordern beim Berühren eine ganz bestimmte Vorgehensweise (bei Skulpturen können die Hände der BesucherInnen beispielsweise von der Spitze zur Basis geführt werden oder umgekehrt, bei zweidimensionalen Werken dagegen vom Vorder- zum Hintergrund oder umgekehrt).
+    
+    Aus diesem Grund sollte die taktile Erkundung stets (link: de/kit/orientamento/guidare-il-visitatore text: angeleitet) und durch eine (link: kit/opere/descrizione text: Beschreibung) ergänzt werden: Eine Übereinstimmung zwischen den verschiedenen Sinneswahrnehmungen zu finden, erleichtert das Verständnis des Kunstwerks. Schon die Auseinandersetzung mit nur einem einzigen Kunstwerk kann viel Zeit in Anspruch nehmen, denn es sind dabei hohe Aufmerksamkeit und Konzentration erforderlich, da die BesucherInnen neben den Beschreibungen auch die taktilen Informationen verarbeiten und in mentale Bilder umwandeln müssen.
+    
+    Auch die Beschäftigung mit einer grossen Anzahl von Kunstwerken kann zu Verwirrung und Problemen bei der Auswertung der erhaltenen Informationen führen. Um sowohl den Anforderungen des Museums als auch den Bedürfnissen des Publikums gerecht zu werden, ist es daher empfehlenswert, sich auf eine Auswahl an Werken zu beschränken. Die Zahl der Kunstwerke ist variabel und auch von der Art der vorgeschlagenen Mediationstätigkeit abhängig: Bei einer zweistündigen geführten Besichtigung mit sensorischen Ergänzungen sollten circa vier bis fünf Kunstwerke vertieft werden.
+    
+    Da die für eine taktile Erkundung (link: de/kit/opere/descrizione#selezionare-le-opere  text: ausgewählten Kunstwerke) angemessen beschrieben werden müssen, gelten für sie dieselben Kriterien wie für die Auswahl zu beschreibender Kunstwerke (siehe oben). Zur Erleichterung des Auswahlprozesses können die folgenden Zusatzkriterien eingesetzt werden.
+- 
+  option_type: three
+  section_title: Format
+  content: |
+    Kleine, dreidimensionale Kunstwerke sind für die taktile Erkundung am besten geeignet. Dank ihrem reduzierten Format lassen sie sich als Ganzes wahrnehmen und erleichtern dadurch sowohl das Verständnis von Form und verwendetem Material als auch die Entstehung mentaler Bilder.
+    
+    Grossformatige, dreidimensionale Werke können berührt werden, damit ihre Materialbeschaffenheit und ihre Abmessungen wahrgenommen werden können. Um ein vollständiges Verständnis für die Form eines Kunstwerks zu erzielen, ist es in diesem Fall jedoch notwendig, komplementäre Hilfsmittel einzusetzen (z. B.  (link: de/kit/opere/mediazione-multisenoriale#le-possibili-interpretazioni text: Reproduktionen im Miniaturformat)).
+    
+    Auch für zweidimensionale Kunstwerke, gleich ob klein- oder grossformatig, ist die taktile Erkundung ein interessantes Mittel, um die Materialität des Werkes wahrzunehmen. Konkrete Anhaltspunkte zum Dargestellten kann sie allerdings keine liefern. Hierzu können  (link: de/kit/opere/mediazione-multisenoriale#le-possibili-interpretazioni text: spezielle Hilfsmittel in Reliefausführung) entwickelt werden.
+- 
+  option_type: three
+  section_title: Konservierung
+  content: |
+    Für die taktile Erkundung vorzuziehen sind Kunstwerke, die aufgrund ihrer Materialbeschaffenheit mit blossen Händen berührt werden können, ohne dass ihre Konservierung darunter erheblich leidet. Diese Möglichkeit sollte jedoch auf sehbehinderte Menschen beschränkt bleiben. Ferner muss sichergestellt sein, dass sich alle BesucherInnen vor der taktilen Besichtigung die Hände waschen und sorgfältig abtrocknen.
+    
+    Ausserdem können dem Publikum Desinfektionsmittel und Papierhandtücher zur Verfügung gestellt werden, die unmittelbar vor der taktilen Erkundung verwendet werden müssen, um eventuelle Fett- und Schweissrückstände von den Händen zu entfernen. Falls bestimmte Bereiche des Kunstwerks besonders empfindlich sind, muss man die BesucherInnen darauf hinweisen und sie bitten, an diesen Stellen nur minimalen Druck auszuüben.
+    
+    Bei Gemälden auf Leinwand oder anderen flexiblen Materialien sollte eine feste Struktur unmittelbar hinter dem Objekt angebracht werden, um im Falle einer zu starken Druckausübung eine Beschädigung oder Deformation zu vermeiden. Bei Kunstwerken aus Holz sind lackierte Objekte zu bevorzugen, da beim Fehlen einer schützenden Lackschicht der Kontakt der Haut mit dem porösen Holz innerhalb kurzer Zeit zur Beschädigung des Materials führen könnte.
+    
+    Falls es keine Werke gibt, die mit blossen Händen berührt werden können, ist es auch möglich, Handschuhe zur Verfügung zu stellen. Dies behindert zwar die taktile Wahrnehmung von Materialqualität und Oberflächenstruktur, doch kann auf diese Weise immerhin noch die Form des Objekts wahrgenommen werden.
+    
+    (image: 3-esplorazione-tattile.jpg class: two-columns gallery conservazione)
+    (image: 4-esplorazione-tattile.jpg class: two-columns gallery conservazione)
+- 
+  option_type: one
+  section_title: Die Ausstattung anpassen
+  content: >
+    Durch eine korrekte Anpassung der
+    Ausstellungsräume können Sehbehinderte
+    in die Lage versetzt werden, Kunstwerke
+    eigenständig zu nutzen.
+- 
+  option_type: three
+  section_title: Beleuchtung
+  content: |
+    Um die Werke besser zugänglich zu machen, ist eine gute (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: Beleuchtung der Räume) und Objekte sehr wichtig. Allerdings kann die direkte Lichteinstrahlung zu Beschädigungen an den Kunstwerken führen.
+    
+    Um vom Zielpublikum wahrgenommen zu werden, müssen die Werke gut beleuchtet sein, am besten mit diffusem Licht. Dabei muss jedoch nicht übertrieben werden: Ein reines Weiss kann blenden und zu einer Beeinträchtigung des Restsehvermögens führen.
+    
+    Gerichtete Lichtquellen (z. B. Spots) sind nicht zu empfehlen; gegebenenfalls sollten sie auf 60° geneigt werden, um Schatten auf den Kunstwerken und Reflexionen auf den Oberflächen zu vermeiden, die die BesucherInnen behindern oder verwirren können. Auch der Einsatz von Halogenlampen ist nicht ratsam, da sie starke Kontraste schaffen. Eine gezielte Beleuchtung von Ausstellungsgegenständen und Vitrinen mit stärkerem Licht ist nur dann zweckmässig, wenn dieses korrekt ausgerichtet wird.
+    
+    Wichtig ist dabei, dass das für die Konservierung zuständige Personal die Beleuchtung der Kunstwerke von Mal zu Mal abwägt und dabei sowohl die Konservierung der Objekte als auch die Bedürfnisse der BesucherInnen im Auge behält. Sollte die Beleuchtung nicht ausreichen, um die Werke gut zu sehen, sollte den sehbehinderten Menschen der Einsatz von Taschenlampen ermöglicht werden.
+- 
+  option_type: three
+  section_title: Farbgebung der Wände
+  content: "Für die Farbe der Wände in den Ausstellungsräumen gelten dieselben Hinweise wie für die (link: de/ kit/orientamento/adattare-il-museo#elementi-d'arredo text: öffentlich zugänglichen Bereiche). Wände und Decken in Weiss oder einem hellen Farbton sind nicht nur für die Orientierung hilfreich, sondern fördern auch das Auffinden und die Sichtbarkeit der ausgestellten Werke."
+- 
+  option_type: three
+  section_title: >
+    Platzierung der Kunstwerke und der
+    zugehörigen Informationen
+  content: |
+    Um das Auffinden und die Betrachtung der ausgestellten Werke sowie das Zurateziehen der im Ausstellungsraum verfügbaren Informationen (z. B. Einführung zur Ausstellung oder Bildunterschriften) zu erleichtern, ist es empfehlenswert, diese auf Augenhöhe oder etwas darunter (link: de/kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: anzubringen). Andernfalls werden sie, auch wenn sie gut lesbar sind, vom Zielpublikum nicht wahrgenommen und erkannt.
+    
+    Wie bei den Wandbeschriftungen sollte auch hier die Mittellinie bei etwa 150 cm gehalten und die Kunstwerke nicht über 200 cm Höhe platziert werden. Bei Bildunterschriften sollte die Mittellinie nicht über 140 cm oder unter 90 cm liegen.
+    
+    Ausserdem ist es wichtig, eine Konzentration von Kunstwerken oder Informationen in den Bildunterschriften zu vermeiden und Letztere nah genug an den Kunstwerken anzubringen, sodass ihr Bezug unmittelbar deutlich wird; dies gilt sowohl für an der Wand befindliche Werke als auch für solche in den Vitrinen.
+- 
+  option_type: three
+  section_title: Audio
+  content: |
+    Die Qualität der Audio-Elemente ist nicht nur für eine bessere (link: de/kit/orientamento/adattare-il-museo#elementi-d'arredo text: Orientierung)wichtig, sondern auch entscheidend für die Nutzung der Kunstwerke, die Audio- oder audiovisuelle Elemente enthalten. Sofern Audio-Elemente vorhanden sind, sollten diese entsprechend ausgewiesen und wenn möglich über Kopfhörer nutzbar sein.
+    
+    Der Ton muss sauber und von guter Qualität sein, er darf keine Hintergrundgeräusche aufweisen, und die Darlegung der Inhalte muss auf knappe Art und Weise erfolgen. Um Nachhalleffekten und einer schlechten Schallstreuung vorzubeugen, ist es empfehlenswert, am Fussboden und an der Decke schallschluckende Materialien und an den Wänden Dämmverkleidungen zu verwenden.
+    Die für einen Ausstellungraum empfohlenen Dezibelwerte variieren zwischen 40 und 50 dB. Ist der Einsatz von Kopfhörern nicht möglich, sollte man in den Räumen eine relativ geringe Lautstärke anstreben, die weder zu invasiv noch zu schwach sein darf.
+- 
+  option_type: three
+  section_title: Glasscheiben und Vitrinen
+  content: >
+    Für den Schutz der Kunstwerke sind
+    diese zwar äusserst hilfreich,
+    allerdings erschweren ihre transparenten
+    Trennflächen – selbst bei
+    Entspiegelung – die Betrachtung der
+    Werke durch sehbehinderte Menschen. Die
+    von den Glasscheiben ausgehenden Reflexe
+    und Blendeffekte stellen echte Barrieren
+    für die Nutzung der Werke dar. Auf
+    ihren Einsatz sollte daher, wo möglich,
+    unbedingt verzichtet werden.
+- 
+  option_type: one
+  section_title: >
+    Die Begegnung mit den KünstlerInnen
+    fördern
+  content: |
+    Die Begegnung zwischen KünstlerInnen und Publikum ermöglicht es Menschen mit Sehbehinderungen, den künstlerischen Schöpfungsprozess hinter den Kulissen kennenzulernen, und dies sowohl im Hinblick auf menschliche und persönliche Gedanken und Ansichten (z. B. im mündlichen Dialog) als auch im Hinblick auf die konkrete Schaffung des Werks (z. B. in kreativen Workshops). Vollständig und authentisch können diese Elemente nur von den SchöpferInnen selbst übermittelt werden.
+    
+    Die KünstlerInnen können sich zudem an der '(link: de/kit/opere/mediazione-multisenoriale text: sensorischen Übertragung)' ihres visuellen Kunstwerks beteiligen und so die Interpretation des Objekts zu einem eigenständigen, über die anderen Sinne wahrnehmbaren Werk machen.
+    Begegnungen, Diskussionen und kreative Ateliers zu fördern und sie in eine (link: de/kit/percorsi/visita-guidata-multisensoriale text: multisensorische Führung) einzubinden, kann sowohl für die KünstlerInnen eine Bereicherung sein – sie erhalten so die Möglichkeit zu verstehen, wie ihre Werke auf andere Weise wahrgenommen oder reproduziert werden können – als auch für das Zielpublikum, das die Werke ganz direkt über die KünstlerInnen selbst erfahren kann.
+    
+    Es handelt sich hier um ganz besondere Gelegenheiten, bei denen es darum geht, den „Funken“, der ein Werk beseelt, zu erfassen und ihn über die anderen Sinne zu „erfühlen“. Dabei sollte man jedoch berücksichtigen, dass nicht alle KünstlerInnen zur Kulturmediation bereit sind.
+    Visuelle KünstlerInnen beschäftigen sich im Allgemeinen damit, ihre Gedanken über die Schaffung visueller Kunstwerke zu vermitteln, und überlassen die Entwicklung zusätzlicher Mediationen (Beschreibungen, sensorischer Übertragungen etc.) gerne anderen ExpertInnen.
+    
+    Doch auch in diesen Fällen ist es möglich, die KünstlerInnen, falls sie dazu bereit sind, einzubeziehen. Dies kann geschehen, indem man eine Zusammenarbeit mit dem Mediationspersonal aufbaut, das die KünstlerInnen bei Entwurf, Planung und Schaffung spezieller Aktivitäten und multisensorischer Hilfsmittel unterstützt.
+    
+    Bei einer Besichtigung der Ausstellungsräume in Begleitung des Künstlers ist ausserdem die Wahrscheinlichkeit grösser, die Originalkunstwerke – unter der direkten Aufsicht des Künstlers und mit Erlaubnis des Museums – berühren zu können.
+    
+    (image: 5-incontro-con-artista.jpg class: two-columns gallery artisti)
+    (image: 6-incontro-con-artista.jpg class: two-columns gallery artisti)
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: l-incontro-con-l-artista
+- 
+  kit: toccare-l-arte
+- 
+  kit: un-atelier-alla-scoperta-dell-incisione

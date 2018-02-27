@@ -1,0 +1,136 @@
+Title: Das Museum anpassen
+
+----
+
+Description: 
+
+Um BesucherInnen mit Sehproblemen die Orientierung und vor allem die Mobilität in den Museumsräumen zu erleichtern, kann punktuell Einfluss auf Aspekte der Inneneinrichtung und Ausstattung von Ausstellungen genommen werden.
+
+Ein angemessener (link: de/kit/comunicazione/relazione-con-il-pubblico text: Empfang) und eine (link: de/kit/orientamento/guidare-il-visitatore text: persönliche Begleitung) durch das Museumspersonal sind in jedem Fall wünschenswert. Aber auch die Entwicklung eines (link: de/kit/comunicazione/design text: inklusiven Designs) für die visuelle Kommunikation sowie der Einsatz gezielter Massnahmen zur Anpassung des Museums können Sehbehinderte in die Lage versetzen, sich selbständig zu orientieren und in den Räumen zu bewegen.
+
+Diese Massnahmen fördern zwar Orientierung und Mobilität, bei hochgradig Sehbehinderten und Blinden können sie das Problem jedoch nicht vollständig lösen. Hier ist von entscheidender Bedeutung, auch auf zwischenmenschliche Beziehungen zu setzen.
+
+Um eine selbständige Nutzung der Kunstwerke durch das sehbehinderte Publikum zu unterstützen, müssen jedoch weitere spezifische (link: de/kit/opere/incontro-diretto#adattare-l’allestimento  text: Massnahmen der Raumgestaltung) umgesetzt werden.
+
+----
+
+Icon: adattare-il-museo.png
+
+----
+
+Article: 
+
+- 
+  option_type: one
+  section_title: Ausräumung von Hindernissen
+  content: ""
+- 
+  option_type: three
+  section_title: Einrichtungselemente
+  content: |
+    Um die Mobilität der BesucherInnen in den Räumen des Museums zu fördern, ist es wichtig, in den Durchgangsbereichen auf die Aufstellung von Möbeln (z. B. Vitrinen) oder anderen Störfaktoren zu verzichten (vor allem wenn es sich um kantige Objekte handelt), da diese Elemente gefährlich sind und Unfälle verursachen können. Sollte dies nicht möglich sein, müssen die BesucherInnen unbedingt auf die Hindernisse aufmerksam gemacht werden.
+    
+    Dies kann verbal, aber auch durch Reliefmarkierungen am Boden geschehen, die sowohl über den Sehsinn (bei eingeschränkt Sehbehinderten) als auch über den Tastsinn (über die Sensibilität der Füsse und mit dem weissen Stock) wahrgenommen werden können.
+    (image: elementi_arredo.jpg class: gallery elementi)
+- 
+  option_type: three
+  section_title: Stufen und Höhenunterschiede am Boden
+  content: |
+    Ideal wäre es, Höhenunterschiede am Boden ganz zu vermeiden. Wenn dies nicht möglich ist, müssen die BesucherInnen unbedingt auf sie aufmerksam gemacht werden. Dies gilt insbesondere für minimale Höhenunterschiede (z. B. niedrige Stufen), denn da diese über Seh- und Tastsinn nur sehr schwer wahrnehmbar sind, bleiben sie schnell unbemerkt und können gefährliche Stürze verursachen.
+    
+    Nicht nur auf Stufen, sondern auch auf Treppen muss in geeigneter Art hingewiesen werden. Dies kann sowohl verbal als auch durch Reliefmarkierungen am Boden geschehen, die sowohl über den Sehsinn (bei eingeschränkt Sehbehinderten) als auch über den Tastsinn (über die Sensibilität der Füsse und mit dem weissen Stock) wahrgenommen werden können.
+    (image: gradini_dislivelli.jpg class: gallery gradini)
+- 
+  option_type: three
+  section_title: Transparente Oberflächen
+  content: |
+    Von lackierten oder reflektierenden Oberflächen sowie von Verglasungen ist abzuraten. Zum einen ist die konkrete Verletzungsgefahr bei einem Zusammenstoss mit dem Glas hoch, da durchsichtige Oberflächen nur schwer oder gar nicht wahrgenommen werden. Zum anderen erschweren diese den Sehvorgang zusätzlich, da die Reflexe das Restsehvermögen sehbehinderter Menschen unweigerlich beeinträchtigen.
+    
+    Vorhandene Glastüren dürfen nicht halb geschlossen sein. Falls sie nicht vollständig geöffnet bleiben können, sollten sie besser ganz geschlossen und auf geeignete Art gekennzeichnet werden. Ein Hinweis auf Glastüren kann zum einen verbal geschehen (dies ist für Binde oder hochgradig Sehbehinderte besonders wichtig) und zum anderen über grosse Markierungselemente in matter Ausführung mit intensiven Farbkontrasten.
+    (image: superfici_trasparenti.jpg class: gallery superfici)
+- 
+  option_type: one
+  section_title: Strukturelle Massnahmen
+  content: ""
+- 
+  option_type: three
+  section_title: Aufzüge
+  content: |
+    Ein speziell konzipierter Aufzug kann für Menschen mit Sehproblemen ein wichtiges Hilfsmittel der Orientierung und Mobilität sein. Damit ein Lift selbstständig genutzt werden kann, müssen die Tasten jedoch mit Zahlen in Reliefausführung und Brailleschrift ausgestattet sein. Ausserdem ist es notwendig, die Farb- und Materialkontraste zwischen den Zahlen und dem Hintergrund des Tastenfeldes zu maximieren.
+    
+    Falls der Aufzug über ein digitales System verfügt oder es nicht möglich ist, Tastenfelder in Reliefausführung zu integrieren, ist es auf jeden Fall ratsam, zwischen Stockwerknummer und entsprechender Taste einen möglichst starken Farbkontrast zu wählen sowie eine akustische Ansage vorzusehen.
+    
+    Eine Sprachausgabe kann, sofern vorhanden, hilfreich sein, da ein beleuchtetes digitales Tastenfeld nicht ausreichend ist.
+- 
+  option_type: three
+  section_title: Treppen und Handläufe
+  content: |
+    Um eine optimale Zugänglichkeit im Museum zu erreichen, wäre die Installation eines Aufzugs natürlich eine wünschenswerte Lösung. Die Mobilität der BesucherInnen mit Sehproblemen kann jedoch auch unterstützt werden, indem vorhandene Treppen beidseits mit Handläufen ausgestattet werden.
+    
+    Blinden und Sehbehinderten dient der Handlauf zur Orientierung und Wahrnehmung. Er ist ein wichtiges Hilfsmittel beim Benutzen von Treppen, unabhängig davon, ob dies selbständig oder in Begleitung sehender Personen geschieht. Die Anbringung von Handläufen ist daher wärmstens zu empfehlen.
+    
+    Ist der Handlauf auf ein schmiedeeisernes Geländer mit komplexen Mustern montiert, ist es empfehlenswert, den unteren Teil mit einem transparenten Material abzudecken, um eine zusätzliche Behinderung der Mobilität zu vermeiden, denn hier besteht die konkrete Gefahr, dass Kleidungsstücke, Taschen oder Ähnliches in den schmiedeeisernen Dekorationen hängen bleiben.
+    (image: scale_corrimani.jpg class: gallery corrimani)
+- 
+  option_type: three
+  section_title: Bodenbelag
+  content: |
+    Viele Museen haben ihren Sitz in historischen Gebäuden, die oft im Laufe der Jahre neu gestaltet wurden. In vielen Fällen ist der Bodenbelag daher nicht in allen Räumen gleich, sondern in jedem Ausstellungssaal ein anderer.
+    
+    Einerseits ist es nicht angebracht, für die Fussböden zu viele verschiedene Materialien zu verwenden, da dies BesucherInnen mit Sehproblemen verwirren kann. Andererseits können diese Unterschiede auch genutzt werden, um ihnen die Orientierung zu erleichtern.
+    
+    Unterschiedliche Bodenbeläge (Holz, Beton, Stein, Linoleum etc.) ermöglichen es dem Zielpublikum, sich beim Gehen per Tastsinn zu orientieren (über die Sensibilität der Füsse und mit dem weissen Stock).
+    
+    Oft bringen verschiedenartige Bodenbeläge auch Höhendifferenzen mit sich und lassen dadurch kleine Stufen und/oder leichte Unebenheiten entstehen. Hier ist empfehlenswert, diese, so gut es geht, zu beseitigen oder aber das Publikum auf sie hinzuweisen.
+- 
+  option_type: three
+  section_title: Reliefmarkierungen
+  content: |
+    Für die Mobilität und die Orientierung im Raum sind Reliefmarkierungen am Fussboden äusserst nützlich. In die Museumsstruktur lassen sich auf den begehbaren Oberflächen beispielsweise modulare Fussbodenelemente in Reliefausführung integrieren (aus Gummi oder anderen Materialien, die einen Farb- und Materialkontrast zum übrigen Bodenbelag aufweisen). Am Boden angebracht, ermöglichen sie es den BesucherInnen, sich per Tastsinn (über die Sensibilität der Füsse und mit dem weissen Stock) oder per Sehsinn zu orientieren.
+    
+    Derlei Markierungen empfehlen sich besonders für grössere Räume im Innen- und Aussenbereich des Museums, in denen nur eine begrenzte Anzahl von Richtungshinweisen gegeben werden kann. Bei ihrer Installation sollte daher berücksichtigt werden, welche potenziell nützlichen bzw. interessanten Ziele die BesucherInnen tatsächlich erreichen sollen.
+    
+    Die modularen Elemente können verwendet werden, um Besichtigungsprogramme zu schaffen, Richtungs- und Warnhinweise zu geben (z. B. Hinweise auf Gefahrenstellen, einen kreuzenden oder abbiegenden Weg, Toiletten oder zum vorsichtigen Weitergehen).
+- 
+  option_type: one
+  section_title: Einrichtungselemente
+  content: ""
+- 
+  option_type: three
+  section_title: Beleuchtung
+  content: |
+    Damit Sehbehinderte ein Museum und die dort ausgestellten Kunstwerke nutzen können, ist eine diffuse und indirekte Beleuchtung von Vorteil. Um die Lichtdiffusion zu erleichtern, sind Wände und Decken in hellen, zu Weiss tendierenden Farben empfehlenswert (ein reines Weiss sollte allerdings vermieden werden, da es Sehbehinderte blenden kann).
+    
+    In den (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: Ausstellungsräumen) sollten dieselben diffusen Lichtverhältnisse herrschen wie in den übrigen öffentlich zugänglichen Bereichen, wobei abrupte Lichtwechsel von einem Raum zum nächsten, aber auch eine komplette Abdunkelung von Räumen möglichst vermieden werden sollten, da diese bei den BesucherInnen ein Empfinden allgemeiner Unsicherheit hervorrufen.
+- 
+  option_type: three
+  section_title: Wandfarben
+  content: |
+    Es ist empfehlenswert, die Wände und Decken in nur einer einzigen hellen, zu Weiss tendierenden Farbe zu halten (ein reines Weiss sollte allerdings vermieden werden, da es Sehbehinderte blenden kann).
+    Auf diese Art lässt sich die Orientierung sehbehinderter Menschen im Raum unterstützen. Durch den starken Kontrast zum Boden und zu den Kunstwerken an der Wand fällt es ihnen leichter, die Raumbegrenzung durch die Wände sowie die (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: Positionierung der ausgestellten Werke) und Objekte wahrzunehmen.
+    
+    Darüber hinaus reflektieren helle Wände und Decken das Licht stärker und lassen dadurch diffuse, gleichmässig beleuchtete Zonen entstehen, die das Restsehvermögen sehbehinderter Menschen und damit ihre Orientierung im Raum unterstützen.
+- 
+  option_type: three
+  section_title: Sitzgelegenheiten
+  content: |
+    Eine Museumsbesichtigung ist selbst für sehende Menschen anstrengend, doch für sehbehinderte BesucherInnen gilt dies noch stärker.
+    
+    Während des gesamten Besichtigungsprogramms sollte man daher den BesucherInnen sowohl in den übrigen öffentlich zugänglichen Bereichen als auch in den Ausstellungsräumen Sitzgelegenheiten zur Verfügung stellen und darauf hinweisen, dass es diese gibt und wo sie sich befinden.
+    
+    Die Sitzgelegenheiten müssen leicht zu finden sein und dürfen den Durchgang nicht behindern.
+- 
+  option_type: three
+  section_title: Audio
+  content: 'Um die Orientierung im Raum zu erleichtern, ist es wichtig, die  (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: akustischen) Verhältnisse zu optimieren, indem störende Geräusche, die für den Museumsbesuch nicht notwendig sind, eliminiert werden (z. B. Luftentfeuchter, Heizung etc.).'
+
+----
+
+Pdf-article: 
+
+----
+
+Links-to-resources: 
+
+- 
+  kit: analisi-istituzionali
