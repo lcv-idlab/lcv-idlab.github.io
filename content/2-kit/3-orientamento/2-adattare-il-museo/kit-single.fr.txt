@@ -4,7 +4,7 @@ Title: Adapter le musée
 
 Description: 
 
-Pour favoriser l’orientation et en particulier la mobilité des visiteurs ayant des problèmes de vue dans les espaces muséaux, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’ameublement des lieux et à l’agencement des expositions.
+Pour favoriser l’orientation et en particulier la mobilité des visiteurs aveugles et malvoyantes dans les espaces muséaux, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’ameublement des lieux et à l’agencement des expositions.
 
 Si un (link: kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: kit/orientamento/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
 
@@ -112,7 +112,7 @@ Article:
   content: |
     Il est conseillé de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc (pas trop, cependant, parce que cela pourrait être éblouissant pour les personnes malvoyantes).
     
-    Cela favorise l’orientation pour les personnes malvoyantes qui, grâce au fort contraste avec les sols et avec les œuvres placées à mur, parviennent plus facilement à identifier les limites spatiales imposées par les murs ainsi que l’ (link: kit/opere/incontro-diretto#adattare-l’allestimento text: emplacement des œuvres) et des objets exposés.
+    Cela favorise l’orientation pour les personnes malvoyantes qui, grâce au fort contraste avec les sols et avec les œuvres placées à mur, parviennent plus facilement à identifier les limites spatiales imposées par les murs ainsi que l’(link: kit/opere/incontro-diretto#adattare-l’allestimento text: emplacement des œuvres) et des objets exposés.
     
     En outre, les murs et le plafond clairs reflètent davantage la lumière, en créant des zones éclairées de manière diffuse et homogène, en mesure de favoriser la vue résiduelle pour les personnes malvoyantes et donc l’orientation dans les espaces.
 - 

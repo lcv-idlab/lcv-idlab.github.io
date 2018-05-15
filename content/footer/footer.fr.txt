@@ -2,10 +2,7 @@ Title: footer
 
 ----
 
-Author: 
-
-Médiation Culture Inclusion.
-Laboratoire culture visuelle (SUPSI)
+Author: Médiation Culture Inclusion. Laboratoire culture visuelle (SUPSI)
 
 ----
 

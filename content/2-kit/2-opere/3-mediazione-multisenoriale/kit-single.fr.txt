@@ -6,12 +6,11 @@ Description:
 
 En s’appuyant sur solutions de nature intersémiotique, les œuvres d’art visuel peuvent être traduites pour offrir une expérience multisensorielle complète même aux personnes qui ne disposent pas du sens de la vue.
 
-Cela est possible à condition qu’une personne voyante les interprète et, par analogie, en traduise les impressions visuelles dans d’autres perceptions sensorielles à travers le développement d’activités de médiation culturelle interactives en mesure d’intégrer, en plus de l’ouïe, le toucher, le goût et l’odorat.
-Le processus de transposition du langage visuel à un langage fondé sur les perceptions sensorielles non visuelles est capable de créer des suggestions esthétiques et émotives, et, quand cela est cohérent avec une description objective de l’œuvre, il n’y a pas lieu de craindre la subjectivité. Chaque type de médiation comporte les considérations et les perceptions personnelles typiques de tout processus de traduction.
+Cela est possible à condition qu’une personne voyante les interprète et, par analogie, en traduise les impressions visuelles dans d’autres perceptions sensorielles à travers le développement d’activités de médiation culturelle interactives en mesure d’intégrer, en plus de l’ouïe, le toucher, le goût et l’odorat. Le processus de transposition du langage visuel à un langage fondé sur les perceptions sensorielles non visuelles est capable de créer des suggestions esthétiques et émotives, et, quand cela est cohérent avec une description objective de l’œuvre, il n’y a pas lieu de craindre la subjectivité. Chaque type de médiation comporte les considérations et les perceptions personnelles typiques de tout processus de traduction.
 
 La lecture d’interprétation doit donc être considérée comme une partie substantielle de l’œuvre d’art, capable de restituer une expérience émotivement enrichissante et cohérente avec les effets esthétiques et émotifs qui peuvent en découler. En ce sens, il est conseillé d’adopter une approche de nature multisensorielle, capable de faire dialoguer des informations de nature scientifique (p. ex. l’histoire et le contexte de l’œuvre) avec des informations de nature subjective (p. ex. les émotions, les sensations nées de la perception visuelle, etc.) à l’occasion d’une (link: kit/percorsi/visita-guidata-multisensoriale text: visite guidée multisensorielle).
 
-Pour les personnes porteuses d’un handicap visuel, le fait de se servir des autres sens disponibles pour percevoir le monde environnant n’est pas un choix, mais une nécessité. Le fait d’accéder au patrimoine à travers ces autres sens peut en outre se révéler particulièrement enrichissant pour les personnes sans handicap également, qui peuvent ainsi le découvrir à travers de nouvelles perspectives.
+Pour les personnes aveugles et malvoyantes, le fait de se servir des autres sens disponibles pour percevoir le monde environnant n’est pas un choix, mais une nécessité. Le fait d’accéder au patrimoine à travers ces autres sens peut en outre se révéler particulièrement enrichissant pour les personnes bien voyantes également, qui peuvent ainsi le découvrir à travers de nouvelles perspectives.
 
 Si l’intégration simultanée de plusieurs stimulations sensorielles semble être la solution idéale pour accéder aux œuvres de manière directe et immédiate, l’activation d’un sens à la fois (p. ex. toucher, ou goût, ou odorat) peut également être efficace, à condition qu’elle s’accompagne toujours d’une description adéquate qui, rappelons-le, est le point de départ de toute activité multisensorielle.
 
@@ -79,14 +78,14 @@ Article:
     
     La réalisation d’un schéma en relief est une bonne solution, car elle est peu coûteuse, facile à réaliser et efficace pour la construction d’images mentales si elle intégrée à une description adéquate.
     
-    Certaines indications pour sa réalisation sont fournies dans la ressource: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: comment réaliser un schéma tactile ou de matériaux ?).
+    Certaines indications pour sa réalisation sont fournies dans la ressource: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: comment réaliser un schéma tactile ou de matériaux ?)
 - 
   option_type: three
   section_title: Schéma de matériaux
   content: |
     C’est une variante du schéma en relief (voir ci-dessus). Il propose l’intégration de matériaux différents dans le schéma, constituant un collage en relief aux consistances et aux textures différentes.
     
-    Il est idéal pour transmettre des éléments supplémentaires (en plus de ceux qui concernent la composition), tels que des caractéristiques de couleur, de matière ou de style. Certaines indications pour sa réalisation sont fournies dans le document: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: Comment réaliser un schéma tactile ou de matériaux ?).
+    Il est idéal pour transmettre des éléments supplémentaires (en plus de ceux qui concernent la composition), tels que des caractéristiques de couleur, de matière ou de style. Certaines indications pour sa réalisation sont fournies dans le document: (link: risorse/come-realizzare-un-diagramma-tattile-o-materico text: Comment réaliser un schéma tactile ou de matériaux ?)
     (image: 01-interpretazioni-tattili.jpg class: two-columns gallery metrico)
     (image: 02-interpretazioni-tattili.jpg class: two-columns gallery metrico)
 - 
@@ -123,7 +122,7 @@ Article:
   option_type: three
   section_title: La description
   content: |
-    Pour une approche de l’image de type descriptif et pédagogique, il est possible de sélectionner ou de créer des sons (p. e.x. des voix, cris, bruits provoqués par des objets en mouvement, etc.) en mesure d’évoquer l’œuvre de manière évidente. Il s’agit d’une interprétation sonore quasi “littérale”, idéale pour traduire des œuvres de nature figurative.
+    Pour une approche de l’image de type descriptif et pédagogique, il est possible de sélectionner ou de créer des sons (p. ex. des voix, cris, bruits provoqués par des objets en mouvement, etc.) en mesure d’évoquer l’œuvre de manière évidente. Il s’agit d’une interprétation sonore quasi « littérale », idéale pour traduire des œuvres de nature figurative.
     
     Par exemple, si l’œuvre représente un train approchant, offrir le son de cet événement tel qu’il est perçu dans la réalité à travers l’ouïe peut être très efficace pour favoriser en même temps la compréhension aussi bien de ce qui s’offre à la vue que des aspects temporels et de mouvement construits par l’artiste dans l’œuvre.
 - 
@@ -171,7 +170,7 @@ Article:
   section_title: Mise en scène
   content: |
     Dans la mise en scène d’une œuvre, les sujets représentés peuvent prendre vie grâce à leur personnification par un médiateur (lequel ne doit pas forcément être un acteur), qui en prend la pose ou en reproduit le mouvement, habillé de façon à ressembler le plus possible au sujet représenté.
-    Il constitue un truchement entre l’œuvre et le public : les visiteurs ayant des problèmes de vue peuvent ainsi effectuer une exploration tactile du médiateur, en se faisant guider par ses indications verbales pour en percevoir au mieux la pose et les mouvements ainsi que les spécificités matérielles des vêtements et des accessoires.
+    Il constitue un truchement entre l’œuvre et le public : les visiteurs aveugles et malvoyantes peuvent ainsi effectuer une exploration tactile du médiateur, en se faisant guider par ses indications verbales pour en percevoir au mieux la pose et les mouvements ainsi que les spécificités matérielles des vêtements et des accessoires.
     
     Le visiteur malvoyant pourra profiter également de la partie visuelle de la mise en scène, souvent source d’émerveillement et de surprise amusée. Il convient de rappeler que, pour réaliser une mise en scène pertinente et efficace, il n’est pas nécessaire de reproduire l’œuvre dans tous ses détails : il est important de choisir les vêtements et des accessoires surtout sur la base de leur consistance matérielle (texture et volumes), qui doit être la plus proche possible de celle qui peut être perçue visuellement.
     

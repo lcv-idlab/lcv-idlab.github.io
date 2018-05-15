@@ -4,8 +4,7 @@ Title: Décrire les œuvres
 
 Description: 
 
-La solution la plus efficace que les musées d’art peuvent mettre en œuvre pour favoriser l’accès aux œuvres  d’art pour les personnes ayant des problèmes de vue est la réalisation de descriptions spécifiques.
-Même quand il n’existe pas de références visuelles pour créer des images mentales, les personnes aveugles et malvoyantes peuvent exploiter d’autres ressources sensorielles, à l’instar de l’ouïe.
+La solution la plus efficace que les musées d’art peuvent mettre en œuvre pour favoriser l’accès aux œuvres  d’art pour les personnes aveugles et malvoyantes est la réalisation de descriptions spécifiques. Même quand il n’existe pas de références visuelles pour créer des images mentales, les personnes aveugles et malvoyantes peuvent exploiter d’autres ressources sensorielles, à l’instar de l’ouïe.
 
 Pour stimuler ce processus, il est essentiel que les personnes voyantes racontent les œuvres, les circonstances et les contextes, en tenant compte de procédés spécifiques et en exploitant le potentiel de communication et d’évocation propre du langage parlé, d’ailleurs considéré depuis toujours comme un élément essentiel dans la rencontre avec l’art. Même quand d’autres solutions sont intégrées, la description des œuvres demeure un élément indispensable.
 
@@ -23,7 +22,7 @@ Article:
   content: |
     **Même si chaque œuvre d’art peut potentiellement être racontée et qu’il est souhaitable que les musées d’art élaborent des descriptions spécifiques pour toutes les œuvres exposées, en vue d’offrir au public affecté d’un handicap visuel la possibilité d’accéder au même nombre d’œuvres  que les personnes voyantes, le fait de procéder à une sélection des œuvres permet dans les faits de rendre le travail descriptif plus réaliste, non seulement pour les personnes qui élaborent les descriptions, mais surtout pour ceux qui les utilisent.**
     
-    Décrire de manière spécifique les œuvres exposées peut constituer une activité prenante pour les institutions muséales, mais il faut tenir compte du fait que, si pour les personnes voyantes la visite d’une exposition peut être fatigante, cette probabilité augmente pour les personnes ayant problèmes de vue : l’effort d’attention et de concentration est élevé, car en plus de l’écoute, le visiteur doit élaborer les descriptions et les transformer en images mentales, en puisant dans son propre système de perception sensorielle et d’élaboration personnelle et, pour celui qui en a la possibilité, dans sa mémoire visuelle. La rencontre avec même une seule œuvre peut donc exiger un temps plus long. En outre, s’arrêter sur un grand nombre d’œuvres peut créer de la confusion et des difficultés dans l’élaboration des informations. Il est par conséquent conseillé de concentrer les efforts de description sur un nombre limité d’œuvres. Ce nombre varie en fonction de différents facteurs, tels que, par exemple, la nature de l’activité de médiation proposée : à titre indicatif, pour une visite d’une heure et demie, il est souhaitable de décrire 5-6 œuvres, tandis que pour une visite avec intégrations sensorielles d’une durée de deux heures, il est conseillé d’approfondir 4-5 œuvres au maximum.
+    Décrire de manière spécifique les œuvres exposées peut constituer une activité prenante pour les institutions muséales, mais il faut tenir compte du fait que, si pour les personnes voyantes la visite d’une exposition peut être fatigante, cette probabilité augmente pour les personnes aveugles et malvoyantes : l’effort d’attention et de concentration est élevé, car en plus de l’écoute, le visiteur doit élaborer les descriptions et les transformer en images mentales, en puisant dans son propre système de perception sensorielle et d’élaboration personnelle et, pour celui qui en a la possibilité, dans sa mémoire visuelle. La rencontre avec même une seule œuvre peut donc exiger un temps plus long. En outre, s’arrêter sur un grand nombre d’œuvres peut créer de la confusion et des difficultés dans l’élaboration des informations. Il est par conséquent conseillé de concentrer les efforts de description sur un nombre limité d’œuvres. Ce nombre varie en fonction de différents facteurs, tels que, par exemple, la nature de l’activité de médiation proposée : à titre indicatif, pour une visite d’une heure et demie, il est souhaitable de décrire 5-6 œuvres, tandis que pour une visite avec intégrations sensorielles d’une durée de deux heures, il est conseillé d’approfondir 4-5 œuvres au maximum.
     
     Voici quelques critères pour opérer la sélection des œuvres à décrire :
 - 
@@ -85,7 +84,7 @@ Article:
   section_title: >
     Œuvres interprétables pour un accès
     multisensoriel
-  content: 'Certaines œuvres purement visuelles se prêtent mieux que d’autres à être interprétées pour offrir au public un accès multisensoriel. Il est conseillé, par conséquent, de décrire les œuvres qui se prêtent le mieux à la “(link: kit/opere/mediazione-multisenoriale text: traduction)” multisensorielle, en vue de la réalisation d’activités de médiation spécifiques.'
+  content: 'Certaines œuvres purement visuelles se prêtent mieux que d’autres à être interprétées pour offrir au public un accès multisensoriel. Il est conseillé, par conséquent, de décrire les œuvres qui se prêtent le mieux à la (link: kit/opere/mediazione-multisenoriale text: traduction) multisensorielle, en vue de la réalisation d’activités de médiation spécifiques.'
 - 
   option_type: three
   section_title: >
@@ -117,20 +116,20 @@ Article:
     être expliquée. Il vaut donc mieux
     mentionner d’abord l’élément en
     question puis en fournir la définition
-    correcte (p. ex. il vaut mieux dire
-    “… le jaune, le rouge et le bleu,
-    qui dans la théorie des couleurs sont
-    définis comme des couleurs primaires”
-    plutôt que “… les couleurs
+    correcte (p. ex. il vaut mieux dire «
+    … le jaune, le rouge et le bleu, qui
+    dans la théorie des couleurs sont
+    définis comme des couleurs primaires »
+    plutôt que « … les couleurs
     primaires, autrement dit le jaune, le
-    rouge et le bleu ”).
+    rouge et le bleu »).
 - 
   option_type: three
   section_title: Mots tabou
   content: |
-    Il peut arriver que la personne voyante, en toute bonne foi et par prévenance, évite d’utiliser certains mots ou certaines expressions par peur de gêner ou d’offenser son interlocuteur handicapé visuel. Toutefois, cette attitude peut être contre-productive et créer une sensation d’inadéquation chez la personne handicapée.
+    Il peut arriver que la personne voyante, en toute bonne foi et par prévenance, évite d’utiliser certains mots ou certaines expressions par peur de gêner ou d’offenser son interlocuteur avec un handicap visuel. Toutefois, cette attitude peut être contre-productive et créer une sensation d’inadéquation chez les personnes aveugles et malvoyantes.
     
-    Des termes comme “voir” ou “regarder” ne doivent pas être considérés comme tabou, mais doivent être utilisés librement, comme le fait d’ailleurs le public de référence lui-même. Pour cette même raison, les termes d’“aveugle” et “malvoyant” sont préférés au prudent “non voyant” : le “non” renvoie immédiatement à une déclinaison négative. Il est à noter que ces questions linguistiques dépendent beaucoup, outre la subjectivité des uns et des autres, de la zone géographique et culturelle.
+    Des termes comme « voir » ou « regarder » ne doivent pas être considérés comme tabou, mais doivent être utilisés librement, comme le fait d’ailleurs le public de référence lui-même. Pour cette même raison, les termes d’« aveugle » et « malvoyant » sont préférés au prudent « non voyant » : le « non » renvoie immédiatement à une déclinaison négative. Il est à noter que ces questions linguistiques dépendent beaucoup, outre la subjectivité des uns et des autres, de la zone géographique et culturelle.
 - 
   option_type: three
   section_title: Figures rhétoriques
@@ -147,10 +146,10 @@ Article:
     utilisée pour s’orienter dans les
     espaces physiques, est efficace aussi
     pour décrire la position des objets
-    dans l’espace de l’œuvre (p. ex.
-    “à 12 h 00 se trouve…”). Si
-    l’on utilise également les termes de
-    “droite” et de “gauche”, il est
+    dans l’espace de l’œuvre (p. ex. «
+    à 12 h 00 se trouve… »). Si l’on
+    utilise également les termes de «
+    droite » et de « gauche », il est
     important de spécifier par rapport à
     qui, la droite du public étant la
     gauche d’un élément hypothétique
@@ -234,7 +233,7 @@ Article:
     Pour décrire le sujet principal de l’œuvre, il convient de l’identifier : dans le cas d’œuvres figuratives, l’on se réfère habituellement à ce qui est représenté, tandis que dans le cas d’œuvres abstraites, il est possible qu’il soit de nature purement formelle ou conceptuelle.
     Une fois le sujet identifié, sa description doit être brève et suivre un certain ordre : traditionnellement du haut vers le bas et de la gauche du spectateur vers sa droite.
     
-    Il est possible, en outre, de décrire de l’extérieur vers l’intérieur. Les aspects formels (p. ex. couleurs, style) à commencer par les limites physiques de l’œuvre (p. ex. cadres) sont importants pour commencer la description, en se concentrant ensuite sur les détails (exemples : “C’est un tableau rectangulaire posé sur sa plus grande base. Au centre se trouve…” ou “C’est une sculpture qui se développe verticalement et représente…”).
+    Il est possible, en outre, de décrire de l’extérieur vers l’intérieur. Les aspects formels (p. ex. couleurs, style) à commencer par les limites physiques de l’œuvre (p. ex. cadres) sont importants pour commencer la description, en se concentrant ensuite sur les détails (exemples : « C’est un tableau rectangulaire posé sur sa plus grande base. Au centre se trouve… » ou « C’est une sculpture qui se développe verticalement et représente… »).
 - 
   option_type: three
   section_title: Technique, forme et composition
@@ -251,7 +250,7 @@ Article:
   option_type: one
   section_title: Choisir le support
   content: |
-    **Les descriptions peuvent être transmises au public présentant des problèmes de vue à travers différents supports. Si le développement intégré des supports permet au public de choisir celui qui convient le plus à ses besoins, la description fournie vocalement par un médiateur dans le cas d’une visite guidée ou au moyen d’enregistrements audio écoutables au moyen d’un dispositif (audioguide, application, ordinateur, etc.) doit être préférée, car elle est facile à mettre en œuvre, agréable et transversale, dans la mesure où elle peut être utilisée par de nombreux autres types de public.  **
+    **Les descriptions peuvent être transmises au public aveugle et malvoyant à travers différents supports. Si le développement intégré des supports permet au public de choisir celui qui convient le plus à ses besoins, la description fournie vocalement par un médiateur dans le cas d’une visite guidée ou au moyen d’enregistrements audio écoutables au moyen d’un dispositif (audioguide, application, ordinateur, etc.) doit être préférée, car elle est facile à mettre en œuvre, agréable et transversale, dans la mesure où elle peut être utilisée par de nombreux autres types de public.  **
     
     Il existe principalement quatre façons de transmettre la description d’une œuvre au public :
 - 

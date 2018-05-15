@@ -19,7 +19,7 @@ Article:
     
     Au niveau suisse, l’organisation à laquelle il est possible de s’adresser est la FSC, Fédération suisse des aveugles et malvoyants, qui compte 16 sections dans tout le Pays. L’unique section au sud des Alpes est l’UNITAS, Association des aveugles et malvoyants de la Suisse italienne. Il est conseillé de s’adresser aux organisations régionales également pour établir des contacts directs avec les personnes ayant des problèmes de vue. À ce propos, l’UNITAS organise régulièrement des événements de sensibilisation ciblés. En y participant, ainsi qu’en organisant des activités spécifiques au sein du musée concerné, il est possible d’activer des échanges interpersonnels enrichissants entre médiateurs et public, propres à favoriser davantage encore l’implication des deux parties de manière durable. Une fois le contact établi, communiquer directement au public une offre de médiation culturelle accessible, par exemple par téléphone ou bien par courrier électronique, est l’une des meilleures méthodes pour assurer une communication efficace. Il est en outre possible de signaler les événements culturels et les activités potentiellement intéressantes pour les personnes porteuses d’un handicap visuel à INFOUNITAS, magazine accessible géré par l’association elle-même.
     
-    En Suisse, il existe de (link: https://www.edi.admin.ch/edi/fr/home/fachstellen/bfeh/liens/organisations-suisses-d-aide-aux-personnes-handicapees.html target: _blank text: de nombreuses autres organisations ) auxquelles il est possible de s’adresser.
+    En Suisse, il existe de (link: https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd/link/organizzazioni-svizzere-per-le-persone-disabili.html target: _blank text: de nombreuses autres organisations ) auxquelles il est possible de s’adresser.
     
     
     (image: unitas-logo.jpg link: http://www.unitas.ch target: _blank alt: Logo Unitas class: two-columns target: _blank)
@@ -30,12 +30,12 @@ Article:
   option_type: one
   section_title: Connaître les besoins et les attentes
   content: |
-    **Connaître les besoins et les attentes du public de référence est très important pour mettre en œuvre des solutions efficaces. Il est donc essentiel que tout le personnel et, en particulier, les personnes au contact des utilisateurs (personnel d’accueil, de salle, de sécurité, médiateurs) soient sensibilisés aux droits reconnus et aux besoins des personnes porteuses d’un handicap visuel. Pour ce faire, en plus d’entrer en contact avec les organisations de référence et avec les personnes ayant des problèmes de vue, il est conseillé de s’informer en participant à des événements de sensibilisation, ainsi qu’en consultant la documentation déjà disponible. **
+    **Connaître les besoins et les attentes du public de référence est très important pour mettre en œuvre des solutions efficaces. Il est donc essentiel que tout le personnel et, en particulier, les personnes au contact des utilisateurs (personnel d’accueil, de salle, de sécurité, médiateurs) soient sensibilisés aux droits reconnus et aux besoins des personnes aveugles et malvoyantes. Pour ce faire, en plus d’entrer en contact avec les organisations de référence et avec les personnes aveugles et malvoyantes, il est conseillé de s’informer en participant à des événements de sensibilisation, ainsi qu’en consultant la documentation déjà disponible. **
     
     
-    Pour des informations concernant les droits des personnes handicapées, il est conseillé de s’adresser au Bureau fédéral de l’égalité pour les personnes handicapées ((link: https://www.edi.admin.ch/edi/fr/home/fachstellen/bfeh.html text: UFPD target: _blank)). Pour des approfondissements spécifiques concernant le handicap visuel, il est conseillé de prendre contact avec la section régionale de référence de la Fédération suisse des aveugles et malvoyants FSC (UNITAS pour la Suisse italienne), ainsi qu’avec l’UCBC, Union centrale suisse pour le bien des aveugles, de consulter la documentation disponible (on en trouve beaucoup en ligne aussi) et de participer à des événements de sensibilisation, proposés régulièrement par les organisations.
+    Pour des informations concernant les droits des personnes avec handicap, il est conseillé de s’adresser au Bureau fédéral de l’égalité pour les personnes handicapées ((link:  https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd.html text: UFPD target: _blank)). Pour des approfondissements spécifiques concernant le handicap visuel, il est conseillé de prendre contact avec la section régionale de référence de la Fédération suisse des aveugles et malvoyants FSC (UNITAS pour la Suisse italienne), ainsi qu’avec l’UCBC, Union centrale suisse pour le bien des aveugles, de consulter la documentation disponible (on en trouve beaucoup en ligne aussi) et de participer à des événements de sensibilisation, proposés régulièrement par les organisations.
     
-    (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns link:  https://www.edi.admin.ch/edi/fr/home/fachstellen/bfeh.html target: _blank)
+    (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns link:  https://www.edi.admin.ch/edi/it/home/fachstellen/ufpd.html target: _blank)
     
     (image: unione-centrale-svizzera-per-il-bene-dei-ciechi.jpg  alt: Logo unione centrale svizzera per il bene dei ciechi class: two-columns link: https://www.ucbc.ch/szb/ target: _blank)
     
@@ -59,12 +59,13 @@ Article:
     C’est un fait acquis cependant que les
     problèmes de vue affectent davantage
     les personnes de plus de 40 ans et que
-    le pourcentage de handicapés visuels
-    tend à augmenter avec l’âge.
+    le pourcentage des personnes aveugles ou
+    malvoyantes tend à augmenter avec
+    l’âge.
 - 
   option_type: three
   section_title: Problèmes visuels
-  content: 'Les formes de handicap visuel sont nombreuses et extrêmement diversifiées. Chaque personne “ne voit pas” de manière unique et spécifique. Le public handicapé visuel peut cependant se subdiviser en deux grandes catégories : les personnes aveugles, qui ne sont pas en mesure de voir, et les personnes malvoyantes, qui parviennent encore à voir quelque chose au moyen d’aides spécifiques. Deux autres distinctions peuvent en outre être faites en fonction du moment où le handicap s’est manifesté. Les personnes aveugles de naissance (qui sont peu nombreuses et en diminution) n’ont pas de souvenirs de nature visuelle. Par contre, celles qui le sont devenues au cours de leur vie peuvent s’appuyer sur des souvenirs visuels. Pour les personnes malvoyantes de naissance, les souvenirs visuels sont fragmentés, tandis que pour les personnes qui le sont devenues à un âge avancé (situation la plus commune et en augmentation), les souvenirs visuels sont souvent encore bien présents dans l’esprit. Il est important de connaître ces distinctions, pour pouvoir mettre en œuvre des solutions transversales souples, à même de s’adapter au public.'
+  content: 'Les formes de handicap visuel sont nombreuses et extrêmement diversifiées. Chaque personne « ne voit pas » de manière unique et spécifique. Le public avec handicap visuel peut cependant se subdiviser en deux grandes catégories : les personnes aveugles, qui ne sont pas en mesure de voir, et les personnes malvoyantes, qui parviennent encore à voir quelque chose au moyen d’aides spécifiques. Deux autres distinctions peuvent en outre être faites en fonction du moment où le handicap s’est manifesté. Les personnes aveugles de naissance (qui sont peu nombreuses et en diminution) n’ont pas de souvenirs de nature visuelle. Par contre, celles qui le sont devenues au cours de leur vie peuvent s’appuyer sur des souvenirs visuels. Pour les personnes malvoyantes de naissance, les souvenirs visuels sont fragmentés, tandis que pour les personnes qui le sont devenues à un âge avancé (situation la plus commune et en augmentation), les souvenirs visuels sont souvent encore bien présents dans l’esprit. Il est important de connaître ces distinctions, pour pouvoir mettre en œuvre des solutions transversales souples, à même de s’adapter au public.'
 - 
   option_type: three
   section_title: Utilisation des sens
@@ -87,7 +88,7 @@ Article:
   option_type: three
   section_title: Principaux moyens auxiliaires
   content: |
-    Dans un monde où la vue a le monopole, les handicapés visuels utilisent des aides en mesure de les guider et de leur permettre d’utiliser leurs autres sens disponibles pour percevoir les informations. Qu’il s’agisse de supports à l’orientation et à la mobilité (p. ex. accompagnateur voyant, chien-guide, canne blanche), d’aides informatiques pour accéder aux informations en ligne  (p. ex. lecteurs vocaux) ou de solutions en mesure d’exploiter leur résidu visuel (p. ex. macro-lecteurs, agrandissements au moyen de loupes ou photographies prises avec le téléphone portable, lampes de poche en mesure d’augmenter l’intensité lumineuse, possibilité de s’approcher de très près de l’objet à voir), ils doivent pouvoir être utilisés sans limitations pour profiter du musée et de ses œuvres de la façon prévue par la loi fédérale sur l’élimination des inégalités frappant les personnes handicapées ((link: https://www.admin.ch/opc/fr/classified-compilation/20002658/index.html text: LHand target: _blank)).
+    Dans un monde où la vue a le monopole, les personnes aveugles et malvoyantes utilisent des aides en mesure de les guider et de leur permettre d’utiliser leurs autres sens disponibles pour percevoir les informations. Qu’il s’agisse de supports à l’orientation et à la mobilité (p. ex. accompagnateur voyant, chien-guide, canne blanche), d’aides informatiques pour accéder aux informations en ligne  (p. ex. lecteurs vocaux) ou de solutions en mesure d’exploiter leur résidu visuel (p. ex. macro-lecteurs, agrandissements au moyen de loupes ou photographies prises avec le téléphone portable, lampes de poche en mesure d’augmenter l’intensité lumineuse, possibilité de s’approcher de très près de l’objet à voir), ils doivent pouvoir être utilisés sans limitations pour profiter du musée et de ses œuvres de la façon prévue par la loi fédérale sur l’élimination des inégalités frappant les personnes handicapées ((link: https://www.admin.ch/opc/it/classified-compilation/20002658/index.html text: LDis target: _blank)).
     
     En ce que concerne le domaine culturel et artistique, et en particulier celui des musées d’art du Tessin, les besoins et les attentes du public de référence ont été étudiés dans le cadre du projet MCI et synthétisés dans deux rapports librement accessibles :
     
@@ -98,7 +99,7 @@ Article:
   option_type: one
   section_title: Adapter l’accueil
   content: |
-    **Adapter l’accueil en fonction des besoins du public est le point de départ pour favoriser l’accessibilité du musée. En particulier, le fait de fournir avant la visite toutes les informations nécessaires aux visiteurs, permet aux handicapés visuels de se sentir impliqués et bienvenus au musée. Pour ce faire, il est nécessaire en particulier de communiquer de manière efficace aussi bien sur le  (link: fr/kit/comunicazione/website text: **site web **) du musée qu’en personne. En outre, pour que le public se sente à l’aise et en sécurité, il est conseillé de mettre à disposition une personne pouvant, si nécessaire,  (link: fr/kit/orientamento/guidare-il-visitatore text: guider) physiquement les personnes aveugles et malvoyantes à travers le musée, leur (link: fr/kit/opere/descrizione text: décrire)  les œuvres et les espaces et les guider dans  (link: fr/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: l’exploration tactile) des œuvres, quand il existe la possibilité de les toucher.**
+    **Adapter l’accueil en fonction des besoins du public est le point de départ pour favoriser l’accessibilité du musée. En particulier, le fait de fournir avant la visite toutes les informations nécessaires aux visiteurs, permet aux personnes aveugles et malvoyantes de se sentir impliqués et bienvenus au musée. Pour ce faire, il est nécessaire en particulier de communiquer de manière efficace aussi bien sur le  (link: fr/kit/comunicazione/website text: **site web **) du musée qu’en personne. En outre, pour que le public se sente à l’aise et en sécurité, il est conseillé de mettre à disposition une personne pouvant, si nécessaire,  (link: fr/kit/orientamento/guidare-il-visitatore text: guider) physiquement les personnes aveugles et malvoyantes à travers le musée, leur (link: fr/kit/opere/descrizione text: décrire)  les œuvres et les espaces et les guider dans  (link: fr/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: l’exploration tactile) des œuvres, quand il existe la possibilité de les toucher.**
     
     Les informations à fournir avant la visite :
 - 
@@ -119,10 +120,10 @@ Article:
     présence de barrières architecturales
     et/ou d’obstacles à la mobilité
     potentiellement dangereux pour les
-    handicapés visuels (p. ex. présence de
-    portes en verre, marches non signalées,
-    mobilier dans des zones de passage,
-    etc.)
+    personnes aveugles et malvoyantes (p.
+    ex. présence de portes en verre,
+    marches non signalées, mobilier dans
+    des zones de passage, etc.)
 - 
   option_type: three
   section_title: De facilitation

@@ -9,7 +9,7 @@ Statement:
 
 ----
 
-Main-subtitle: Rendre ton musée d’art accessible aussi aux personnes aveugles et malvoyantes est facile et durable. Consulte le kit pratique, choisi les solutions en fonction de tes exigences, adapte-les et réalise-les dans ton institution!
+Main-subtitle: Rendre ton musée d’art accessible aux personnes aveugles et malvoyantes est facile et durable. Consulte le kit pratique, choisis les solutions en fonction de tes exigences, adapte-les et réalise-les dans ton institution!
 
 ----
 
@@ -17,8 +17,8 @@ Kit-intro: Ces directives sont conçues comme des instruments « ouverts » dest
 
 ----
 
-Write-us: Partagez vos expériences avec nous!
+Write-us: Partage tes expériences avec nous!
 
 ----
 
-Write-us-button: Ecrivez-nous
+Write-us-button: Ecris-nous

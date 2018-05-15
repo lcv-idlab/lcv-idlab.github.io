@@ -14,8 +14,8 @@ Article:
 
 ----
 
-Verify: Chaque fois qu’une activité de communication incluant un public de handicapés visuels est organisée, il convient de prévoir également une évaluation de son efficacité, en comparant les résultats obtenus avec les objectifs fixés à travers des directives régissant la mise en œuvre de l’accessibilité. En général, nous suggérons de trouver toujours une façon pour recueillir l’opinion du public (cela peut se faire sous la forme d’entretiens, d’observations directes, d’enregistrements sonores, de questionnaires, etc.). En outre, l’évaluation de la “qualité” d’une activité, en plus d’exiger des connaissances et des instruments spécifiques, peut se présenter comme une activité externe impliquant les différentes parties prenantes de manière participative : cela permet une meilleure personnalisation et le développement d’une méthodologie inclusive. Enfin, il peut être utile et opportun de prévoir d’effectuer l’évaluation à différentes phases du développement du projet (intermédiaire et finale).
+Verify: Chaque fois qu’une activité de communication incluant un public aveugle et malvoyant est organisée, il convient de prévoir également une évaluation de son efficacité, en comparant les résultats obtenus avec les objectifs fixés à travers des directives régissant la mise en œuvre de l’accessibilité. En général, nous suggérons de trouver toujours une façon pour recueillir l’opinion du public (cela peut se faire sous la forme d’entretiens, d’observations directes, d’enregistrements sonores, de questionnaires, etc.). En outre, l’évaluation de la « qualité » d’une activité, en plus d’exiger des connaissances et des instruments spécifiques, peut se présenter comme une activité externe impliquant les différentes parties prenantes de manière participative : cela permet une meilleure personnalisation et le développement d’une méthodologie inclusive. Enfin, il peut être utile et opportun de prévoir d’effectuer l’évaluation à différentes phases du développement du projet (intermédiaire et finale).
 
 ----
 
-Class_id: comunicazione
+Class-id: comunicazione

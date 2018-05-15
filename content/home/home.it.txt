@@ -11,7 +11,7 @@ Statement:
 
 Main-subtitle: 
 
-Rendere il tuo museo d’arte accessibile anche alle persone cieche e ipovedenti è facile e sostenibile. 
+Rendere il tuo museo d’arte accessibile alle persone cieche e ipovedenti è facile e sostenibile. 
 Consulta il pratico kit, scegli le soluzioni secondo le tue esigenze, adattale e realizzale nella tua istituzione!
 
 ----
@@ -20,7 +20,7 @@ Kit-intro: Le presenti linee guida si costituiscono quali strumenti “aperti”
 
 ----
 
-Write-us: Condividete con noi le vostre esperienze!
+Write-us: Condividi con noi le tue esperienze!
 
 ----
 

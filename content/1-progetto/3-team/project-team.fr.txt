@@ -1,0 +1,630 @@
+Title: team
+
+----
+
+Text: 
+
+----
+
+People: 
+
+- 
+  name: Mariangela
+  surname: Agliati Ruggia
+  affiliation: >
+    Pinacoteca cantonale Giovanni Zuest,
+    Rancate
+  biography: >
+    Nata a Lugano, si laurea in storia
+    dell’arte nel 1985 all’Università
+    degli Studi di Perugia con una tesi sul
+    pittore ticinese Ernesto Fontana
+    (1837-1918). Rientrata in Ticino, è
+    incaricata di inventariare le opere
+    d’arte dello Stato del Canton Ticino
+    e, con un gruppo di studiosi, quelle
+    della Città di Lugano. Nel 1990 viene
+    chiamata a dirigere la Pinacoteca
+    cantonale Giovanni Zuest di Rancate,
+    dando negli anni successivi
+    un’impronta decisiva alla
+    valorizzazione della collezione. Avvia
+    inoltre un programma espositivo con una
+    connotazione ben precisa, che prevede
+    rassegne dedicate ad artisti ticinesi e
+    dell’area insubrica dal XV secolo al
+    XIX secolo. Ha curato numerose
+    pubblicazioni dedicate ad artisti
+    ticinesi e lombardi del XIX secolo.
+  image: mariangela_agliati.jpg
+  colophon: collaborazione
+- 
+  name: Michele
+  surname: Amadò
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver studiato pittura
+    all’Accademia di Belle Arti Lorenzo da
+    Viterbo, si è laureato in filosofia
+    all’Università degli Studi di Perugia
+    e ha conseguito il dottorato di ricerca
+    in filosofia presso l’Università
+    degli Studi di Roma Tor Vergata, con una
+    tesi sul linguaggio di/per Heidegger.
+    All’Università della Svizzera
+    italiana si è occupato di tecniche
+    espressive, semiotica, retorica e
+    traduzione semiotica ed è attualmente
+    docente di comunicazione visiva. Alla
+    SUPSI è professore di estetica e
+    comunicazione e responsabile di moduli
+    didattici presso i corsi di laurea in
+    Comunicazione visiva e Architettura
+    d’interni, dove si è occupato anche
+    di un modulo di progettazione sul tema
+    “Mobili per ciechi”. Ha una cospicua
+    esperienza di ricerca, tra cui si
+    ricorda il progetto “Immagini per
+    apprendere”, con Bruno Monguzzi. Ha
+    collaborato con il Museo d’Arte
+    Moderna della Città di Lugano, è
+    membro del comitato scientifico del
+    Museo delle Culture di Lugano, ha
+    pubblicato decine di saggi su contenuti
+    filosofici, artistici, semiotici,
+    retorici.
+  image: michele_amado.jpg
+  colophon: collaborazione
+- 
+  name: Massimo
+  surname: Botta
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Laurea in architettura e Dottorato di
+    ricerca in industrial design e
+    comunicazione multimediale presso il
+    Politecnico di Milano, ha lavorato
+    presso il Centro ricerche di Domus
+    Academy e presso Philips Design come
+    senior design consultant, sviluppando
+    ricerche sull’integrazione fra lo
+    sviluppo tecnologico e la progettazione
+    di nuovi prodotti, servizi e sistemi. Si
+    occupa di ricerca teorica e applicata
+    nei campi del design dell’interazione,
+    delle interfacce grafiche utente e dei
+    sistemi di visualizzazione
+    dell’informazione. Presso la SUPSI è
+    responsabile del Master of Advanced
+    Studies in Interaction Design e
+    dell’Interaction design lab. È autore
+    dei libri Multiple ways to design
+    research. Research cases that reshape
+    the design discipline (2009), Design
+    dell’informazione. Tassonomie per la
+    progettazione di sistemi grafici
+    auto-nomatici (2006) e L’ambiente
+    dell’apprendimento. Web design e
+    processi cognitivi (2006).
+  image: massimo_botta.jpg
+  colophon: collaborazione
+- 
+  name: Alessandra
+  surname: Brambilla
+  affiliation: >
+    Pinacoteca cantonale Giovanni Zuuest,
+    Rancate
+  biography: >
+    Laureata in lettere all’Università
+    degli Studi di Milano con una tesi in
+    storia dell’arte (“Rinascimento di
+    frontiera”), lavora dal 2007 presso la
+    Pinacoteca Zuest di Rancate, dove
+    ricopre il ruolo di collaboratrice
+    scientifica. Si occupa del coordinamento
+    scientifico e organizzativo delle mostre
+    e affianca la direttrice nelle varie
+    attività di gestione del museo. Ha
+    pubblicato articoli su riviste
+    specializzate e schede di catalogo. Fa
+    inoltre parte del gruppo operativo del
+    progetto cantonale “Sàmara. Il
+    patrimonio culturale digitale della
+    Svizzera italiana”.
+  image: alessandra_brambilla.jpg
+  colophon: collaborazione
+- 
+  name: Jean-Pierre
+  surname: Candeloro
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo gli studi in comunicazione di massa
+    e nuovi media, ha conseguito un
+    Dottorato di ricerca in scienze della
+    comunicazione presso l’Università
+    della Svizzera italiana (USI) con una
+    tesi sull’evoluzione del mezzo e dei
+    prodotti audiovisivi rispetto alle
+    tecnologie emergenti. Post-dottorato
+    presso l’Istituto media e giornalismo
+    dell’USI, ha collaborato con il
+    Dipartimento di storia e tutela dei beni
+    culturali dell’Università degli Studi
+    di Udine e la Scuola di documentario,
+    televisione e nuovi media ZeLIG di
+    Bolzano. Ha condotto e partecipato a
+    progetti di ricerca finanziati dal Fondo
+    nazionale svizzero (SNF), Unione
+    europea, Radiotelevisione Italiana
+    (RAI), Società svizzera di
+    radiotelevisione (SRG SSR Idée Suisse),
+    autorità cantonali e comunali. È
+    attivo in seno alla SUPSI in qualità di
+    responsabile del Laboratorio cultura
+    visiva del Dipartimento ambiente
+    costruzioni e design.
+  image: empty.jpg
+  colophon: coordinamento
+- 
+  name: Serena
+  surname: Cangiano
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: 'Ricercatrice presso il Laboratorio cultura visiva della SUPSI, docente e coordinatrice del Master in Interaction Design. Dopo il Dottorato presso l’Università Iuav di Venezia, Serena si occupa di open source, innovazione e format educativi su design e prototipazione (maind.supsi.ch, fablab.supsi.ch). Dal 2009 progetta e coordina workshop di programmazione, elettronica, digital fabrication, open design e data visualization. Dal 2013 coordina e segue lo sviluppo del progetto Re-programmed art: an open manifesto (reprogrammed-art.cc) e progetti di ricerca sulla comunicazione museale e le tecnologie interattive. Dal 2015 partecipa al progetto europeo DSI4EU Digital Social Innovation for Europe (digitalsocial.eu).'
+  image: serena_cangiano.jpg
+  colophon: collaborazione
+- 
+  name: Nicoletta
+  surname: Ossanna Cavadini
+  affiliation: m.a.x. museo, Chiasso
+  biography: "Direttrice del m.a.x.museo dal 2010. Laureata all’Università di Venezia ha conseguito il Dottorato di ricerca in storia dell’architettura e storia dell’arte presso il Politecnico federale di Zurigo con il direttore dell'Institut für Geschichte und Theorie der Architektur  (GTA) Werner Oechslin, e il Postdottorato presso la University of California di Los Angeles, sostenuto dal Fondo nazionale svizzero per la ricerca scientifica (FNS). Già oberassistentin in storia dell’architettura e storia dell’arte presso l’Accademia di architettura di Mendrisio dell’Università della Svizzera italiana, dal 2004 al 2012 è stata professore a contratto presso l’Università Cattolica di Milano e presso l’Università degli Studi dell’Insubria, sede di Como. Attualmente tiene lezioni di dottorato per l’Università dell’Insubria, sede di Varese, e partecipa a un programma di ricerca del FNS sui libri d’artista. Nel corso di questi anni ha svolto ricerche riguardanti l’architettura, l’arte e la grafica pubblicando molteplici saggi e libri sull’argomento e partecipando a convegni internazionali."
+  image: nicoletta_ossanna_cavadini.jpg
+  colophon: collaborazione
+- 
+  name: Ester
+  surname: Giner Cordero
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: "Dottorato all’Università politecnica di Valencia (UPV) in conservazione e restauro del patrimonio storico artistico con la tesi “Restauratori in Canton Ticino fra Ottocento e Novecento”. Laureata in belle arti alla facoltà di San Carlos dell'UPV di Valencia. Alla SUPSI insegna dal 2006 pratica di tecniche artistiche, storia e conservazione dei materiali cartacei e gestione delle collezioni per il Corso di laurea in Conservazione, per cui coordina anche gli stage curriculari degli studenti; è inoltre docente di disegno di osservazione per il Corso di Architettura d’interni e di tecniche di rilievo analogiche per il Corso di Architettura. Dal 2015 è parte del gruppo spagnolo di lavoro sulla conservazione dell’arte urbana dell'International Institute for Conservation of Historic and Artistic Works (IIC) e referente scientifico per la rivista digitale MURAL Street Art Conservation."
+  image: ester_giner.jpg
+  colophon: collaborazione
+- 
+  name: Vanessa
+  surname: De Luca
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Ricercatrice e designer presso il
+    Laboratorio cultura visiva della SUPSI,
+    si occupa di progetti nel settore del
+    design dell’interazione. Ha conseguito
+    il Dottorato al Politecnico di Milano in
+    Disegno industriale e Comunicazione
+    multimediale con una tesi sul game
+    design, dopo aver lavorato a Milano
+    nell’ambito del media advertising e
+    web design. Ha lavorato inoltre presso
+    la Triennale di Milano sulla proposta di
+    ricerca Sistema Design Italia nato nel
+    2007 sulla messa in rete dei musei e
+    distretti industriali italiani, nel 2015
+    sulla valorizzazione del Paesaggio
+    culturale alpino attraverso dati su
+    Wikipedia con il coinvolgimento di enti
+    pubblici e museali in Italia e in
+    Svizzera e dal 2010 con il Museo
+    cantonale di storia naturale di Lugano
+    su installazioni interattive e strategie
+    di sviluppo territoriale.
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Andrea
+  surname: Delucchi
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver conseguito il Diploma federale
+    di grafico presso il Centro scolastico
+    per le Industrie Artistiche (CSIA) di
+    Lugano, ha lavorato presso lo Studio
+    Woodtli Design+Communication AG a
+    Zurigo, partecipando a numerosi progetti
+    di allestimento e valorizzazione di
+    collezioni di musei nazionali e
+    internazionali. Dal 1995 fino al 2012 ha
+    lavorato in Ticino, curando esposizioni
+    per diversi musei ed enti (Museo
+    cantonale di storia naturale, Servizio
+    beni culturali a Casorella, Archivio di
+    Stato, Ufficio di dialettologia e
+    etnografia, Museo etnografico della
+    Valle di Muggio, ecc.) e collaborando
+    all’organizzazione di eventi. Dal 2013
+    lavora in qualità di art director
+    presso il Laboratorio cultura visiva e
+    il Servizio comunicazione istituzionale
+    della SUPSI.
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Heidrun
+  surname: Demo
+  affiliation: 'SUPSI - Dipartimento formazione e apprendimento'
+  biography: 'Formatrice al Dipartimento formazione apprendimento della SUPSI e ricercatrice alla facoltà di Scienze della formazione della Libera Università di Bolzano. Il suo ambito di ricerca ruota intorno ai temi della didattica e della pedagogia speciale: sull’autovalutazione e automiglioramento delle scuole in senso inclusivo, sulle metodologie didattiche per la realizzazione dell’inclusione e sulla comparazione internazionale dei diversi sistemi scolastici rispetto all’educazione di alunni con disabilità. Recentemente ha pubblicato: Didattica aperta e inclusione (2016), Didattica delle Differenze (a cura di, 2015) e con Edith Brugger-Paggi, Franziska Garber, Dario Ianes e Vanessa Macchia L’Index per l’inclusione nella pratica (2013).'
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Giulia
+  surname: Donnarumma
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver ottenuto il Diploma di
+    disegnatrice di arredamenti presso il
+    Centro scolastico per le Industrie
+    Artistiche (CSIA) di Lugano, ha studiato
+    comunicazione visiva alla SUPSI. I suoi
+    studi si sono indirizzati verso svariati
+    ambiti spaziando dalla progettazione
+    d’interni agli allestimenti, dalla
+    grafica tradizionale alla tipografia,
+    dalla prestampa all’illustrazione,
+    dalla fotografia al video. Nel 2006 è
+    stata coinvolta in molteplici attività
+    progettuali, tecniche e organizzative
+    collaborando alla produzione grafica del
+    Laboratorio cultura visiva della SUPSI.
+    Ha collaborato con diverse realtà
+    locali tra cui il Dicastero giovani ed
+    eventi di Lugano e la Radiotelevisione
+    svizzera (RSI). Attualmente è attiva in
+    seno alla SUPSI in qualità di
+    coordinatrice dell’area servizi e
+    designer grafica del Laboratorio cultura
+    visiva. Parallelamente porta avanti come
+    freelancer uno studio di comunicazione
+    visiva.
+  image: giulia_donnarumma.jpg
+  colophon: collaborazione
+- 
+  name: Valeria
+  surname: Donnarumma
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo gli studi in storia dell’arte
+    presso le Università di Losanna e
+    Parigi, ha ottenuto il Master in
+    Museologia presso l’Università di
+    Neuchâtel. Si è specializzata in
+    mediazione culturale sviluppando il
+    progetto di laurea sul tema
+    dell’accessibilità dei musei d’arte
+    per le persone con disabilità visive.
+    Collabora in seguito con la Città di
+    Lugano organizzando eventi culturali; in
+    particolare coordina il progetto Arte
+    Urbana Lugano tra il 2010 e il 2012. Da
+    gennaio 2012 a dicembre 2015, fonda e
+    dirige a Lugano la galleria d’arte ego
+    gallery. Oltre all’attività di
+    curatrice e di organizzatrice di eventi,
+    dal 2014 è attiva in seno alla SUPSI in
+    qualità di ricercatrice per il
+    Laboratorio cultura visiva dove svolge
+    anche l’attività di docente per i
+    corsi di laurea in Comunicazione visiva
+    e Architettura d’interni.
+  image: valeria_donnarumma.jpg
+  colophon: coordinamento
+- 
+  name: Mara
+  surname: Folini Ceccarelli
+  affiliation: >
+    Museo Comunale d’Arte Moderna e Museo
+    Castello San Materno, Ascona
+  biography: 'Laureata in storia dell’arte contemporanea all’Università La Sapienza di Roma, ha maturato un’esperienza decennale come registrar e curatrice indipendente per la Sovraintendenza ai Beni Culturali del Comune di Roma e, parallelamente, per il Museo Comunale d’Arte Moderna di Ascona, senza smettere la ricerca scientifica nell’ambito delle avanguardie storiche: è riconosciuta in particolare come specialista della russa Marianne Werefkin. Dal 2006 al 2007 è assistente del direttore dell’Istituto Svizzero di Roma. Dal 2008 dirige il Museo Comunale d’Arte Moderna di Ascona, con l’intento di valorizzare il patrimonio storico e culturale degli artisti, soprattutto nordeuropei, che nella prima metà del Novecento furono attratti o cercarono rifugio nella comunità del Monte Verità e, dal 2014, anche del nuovo Museo Castello San Materno - fondazione per la cultura Kurt e Barbara Alten -  con il mandato di conservare, promuovere e studiare le opere tra Otto e Novecento della collezione d’arte Alten.'
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Fabian
+  surname: Frei
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver frequentato la Scuola di
+    Economia di San Gallo e un corso
+    preliminare di design, ha proseguito i
+    suoi studi all’istituto HyperWerk di
+    Basilea, conclusisi con l’ottenimento
+    di un Bachelor in design
+    postindustriale. Ha continuato a vivere
+    a Basilea, lavorando come progettista
+    alla Open Interactive GmbH, per poi
+    associarsi al Laboratorio cultura visiva
+    della SUPSI nel ruolo di collaboratore
+    scientifico.
+  image: fabian_frei.jpg
+  colophon: collaborazione
+- 
+  name: Giancarlo
+  surname: Gianocca
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: 'Nel 2004 consegue il Bachelor in Comunicazione visiva presso la SUPSI. Dopo gli studi lavora per gli studi Sputnik di Lucerna e Lucasdesign di Giubiasco, collaborando a rilevanti progetti di corporate design. Dal 2008 collabora con Syndicom e crea l’evento Communico - Giornata del design e della comunicazione visiva. Nello stesso anno inizia il suo percorso professionale presso il Laboratorio cultura visiva progettando la nuova identità visiva della SUPSI. Dal 2013 è docente di grafica, infografica e illustrazione presso il Corso di laurea in Comunicazione visiva della SUPSI. Parallelamente continua la sua attività come freelancer collaborando con enti quali la Radiotelevisione svizzera e Prohelvetia.'
+  image: giancarlo_gianocca.jpg
+  colophon: collaborazione
+- 
+  name: Benedetta
+  surname: Giorgi
+  affiliation: MASILugano
+  biography: >
+    Laureata in lettere classiche presso
+    l’Università degli Studi di Pavia con
+    una tesi in etruscologia e archeologia
+    italica preromana, ha svolto alcuni
+    lavori in ambito archeologico
+    collaborando con l’Ufficio dei beni
+    culturali di Bellinzona. Nel 2002-03 ha
+    lavorato per il Museo Vincenzo Vela a
+    Ligornetto in qualità di collaboratrice
+    scientifica, in occasione della mostra
+    “Il ritratto femminile in Ticino.
+    1900-1970”. Dal 2000 al 2004 è stata
+    assistente del professor Carlo Bertelli
+    per l’insegnamento della storia
+    dell’arte presso l’Accademia di
+    architettura di Mendrisio. Dal 2004 al
+    2015 è stata collaboratrice scientifica
+    del Museo Cantonale d’Arte con
+    mansioni di responsabile dell’ufficio
+    stampa per la Svizzera e della
+    mediazione culturale. Da settembre 2015
+    è responsabile della mediazione
+    culturale del Museo d’arte della
+    Svizzera italiana e collabora con
+    LACedu, settore di mediazione culturale
+    del LAC Lugano Arte e Cultura.
+  image: benedetta_giorgi.jpg
+  colophon: collaborazione
+- 
+  name: Sara
+  surname: Giulivi
+  affiliation: 'SUPSI - Dipartimento formazione e apprendimento'
+  biography: >
+    Dottorato di ricerca in Linguistica
+    italiana presso l’Università di
+    Firenze, con una tesi nell’ambito
+    dell’acquisizione del linguaggio nel
+    bambino. Ha svolto in seguito attività
+    di ricerca nello stesso ambito presso i
+    laboratori Haskins (Yale University,
+    USA) e l’Università di Bologna. Ha
+    poi conseguito un Master in Didattica
+    della lingua e cultura italiana per
+    stranieri presso l’Università Ca’
+    Foscari di Venezia. Dal 2011 è
+    ricercatrice presso il Dipartimento
+    formazione e apprendimento della SUPSI,
+    dove si occupa del rapporto tra
+    apprendimento linguistico e dislessia, e
+    di pratiche inclusive nella scuola. È
+    inoltre docente di lingua italiana
+    presso la Franklin University
+    Switzerland. Ha inoltre un diploma di
+    formazione professionale per attori di
+    prosa conseguito presso il CTI di
+    Firenze ed ha collaborato al progetto
+    Mus-e Italia, finanziato dall’Unione
+    Europea e volto a favorire
+    l’integrazione nella scuola attraverso
+    i diversi linguaggi artistici.
+  image: sara_giulivi.jpg
+  colophon: collaborazione
+- 
+  name: Carole
+  surname: Haensler Huguet
+  affiliation: Museo Civico Villa dei Cedri, Bellinzona
+  biography: 'Dopo aver ottenuto la Licenza in storia dell’arte, archeologia e tedesco presso le Università di Neuchâtel e Losanna nel 1999, ha seguito corsi di formazione continua presso queste istituzioni e presso l’Istituto svizzero di pubbliche relazioni di Losanna. Ha lavorato come registrar, collaboratrice scientifica e project manager mostre, addetta stampa e alle relazioni pubbliche, traduttrice e redattrice indipendente fin dal 2002 per importanti musei e collezioni come la Fondazione Thyssen-Bornemisza di Lugano (oggi Omniarte GmbH, Zurigo e Thyssen-Bornemisza Art Contemporary - TBA21 -, Vienna), il Centro Paul Klee di Berna e il Centro d’arte contemporanea di Ginevra e ha collaborato ad esposizioni in diversi musei svizzeri. È specializzata in arte moderna e contemporanea ed in particolare nell’arte e la letteratura francese dell’Ottocento e nell’arte francese e tedesca del primo Novecento. Nel 2013 è stata nominata dalla Città di Bellinzona conservatrice del Museo Civico Villa dei Cedri con il compito di conservare e valorizzare il patrimonio artistico del museo.'
+  image: carole_haensler-huguet.jpg
+  colophon: collaborazione
+- 
+  name: Isabella
+  surname: Lenzo Massei
+  affiliation: >
+    LAC Lugano Arte e Cultura, Mediazione
+    Culturale
+  biography: |
+    Laureata in lettere all’Università di Losanna, ottiene un Master in Servizi educativi per il patrimonio artistico, dei musei storici e di arti visive all’Università Cattolica del Sacro Cuore di Milano. Ha lavorato presso gli archivi fotografici delle città di Bologna e Losanna e per la casa d’aste Christie’s International di Ginevra e Lugano. Dal 2003 lavora presso il Dicastero Attività Culturali di Lugano, per il quale ha collaborato alla realizzazione di esposizioni temporanee e alla gestione delle collezioni civiche. Ha collaborato inoltre con il Museo delle Culture nell’ambito della ricerca e dedicandosi all'organizzazione e alla gestione del progetto educativo e delle esposizioni "Dèibambini". Da gennaio 2007 è stata responsabile delle attività educative del Dicastero Attività Culturali, progettando e coordinando le attività didattiche del Museo delle Culture, del Museo d’Arte e del Museo di Villa Ciani. Da gennaio 2015 è responsabile del settore di mediazione culturale del LAC Lugano Arte e Cultura, che propone attività legate alle arti visive, alla musica, al teatro e alla danza.
+  image: isabella_lenzo.jpg
+  colophon: collaborazione
+- 
+  name: Lucia
+  surname: Leoni
+  affiliation: >
+    Associazione ciechi e ipovedenti della
+    svizzera italiana UNITAS, Casa Andreina,
+    Lugano
+  biography: >
+    Classe 1985, nata a Rivera, ipovedente,
+    socia Unitas. Dopo la maturità liceale
+    presso il Liceo Diocesano di Breganzona,
+    ha ottenuto un Bachelor of Science SUPSI
+    in Lavoro sociale nel 2012. Con un paio
+    di anni d’esperienze diverse in ambito
+    sociale, dal primo giugno 2014 lavora
+    presso il centro diurno Casa Andreina
+    della Unitas a Lugano in qualità di
+    animatrice-coordinatrice organizzando
+    regolarmente gite e visite museali e
+    artistiche per gli associati. Collabora
+    anche quale cameriera per il servizio
+    delle cene al buio organizzate
+    nell’ambito del progetto Moscacieca
+    della Unitas a Lugano.
+  image: lucia_leoni.jpg
+  colophon: collaborazione
+- 
+  name: Marco
+  surname: Lurati
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: "Elettronico multimediale di formazione, ha proseguito gli studi ottenendo il Bachelor of Science in Microtecnica presso la Berner Fachhochschule di Bienne (BFH-TI). Ha poi lavorato presso Sensoptic SA di Losone come ingegnere di laboratorio nella produzione e controllo della qualità di sensori ottici. Ha continuato con gli studi conseguendo il Master of Advanced Studies in Interaction Design alla SUPSI. Attualmente lavora presso il Laboratorio cultura visiva come collaboratore scientifico, con il ruolo di sviluppatore tecnico di progetti interattivi (digitali e fisici). Segue inoltre gli studenti di master presso l'Atelier Blumer all'Accademia di Architettura di Mendrisio."
+  image: marco_lurati.jpg
+  colophon: collaborazione
+- 
+  name: Michele
+  surname: Mainardi
+  affiliation: 'SUPSI - Dipartimento formazione e apprendimento'
+  biography: "Si laurea all’Università di Friburgo nel 1982 e ottiene nel 2010 il Dottorato di ricerca in Pedagogia specializzata, campo in cui ha realizzato numerosi progetti, ricerche e pubblicazioni acquisendo riconoscimenti sul piano nazionale e internazionale. Dal 1998 è professore e ricercatore alla SUPSI. Collabora con istituti accademici nazionali e internazionali; è docente all’Università di Friburgo, all’HEP-BeJu-Ne, all’Haute Ecole Spécialisée della Svizzera romanda (HES-SO); all’Alta Scuola Pedagogica (2001-2011); capogruppo del sostegno pedagogico presso le scuole dell'infanzia e le scuole elementari; ispettore dell’insegnamento speciale; formatore (1992-2001) e vicedirettore alla Scuola Magistrale di Locarno. È responsabile dell’area di azione pedagogica presso il Dipartimento scienze aziendali e sociali della SUPSI, esperto internazionale in pedagogia speciale e teorie dell’apprendimento, modelli educativi e formativi, organizzazioni socio educative e servizi alla persona. Nel settore privato non profit è presente in comitati operativi di enti impegnati nella realizzazione dell’integrazione sociale di persone con disabilità evolutive. È presente in comitati scientifici, editoriali e commissioni internazionali d’esperti nei settori di competenza. Dal 2012 dirige il Dipartimento formazione e apprendimento della SUPSI."
+  image: michele_mainardi.jpg
+  colophon: collaborazione
+- 
+  name: Sara
+  surname: Matasci
+  affiliation: Museo Vincenzo Vela, Ligornetto
+  biography: >
+    Dopo aver ottenuto il Diploma di docente
+    di scuola dell’infanzia, lavora nelle
+    scuole del Cantone Ticino per alcuni
+    anni. Frequenta corsi in museologia e
+    mediazione culturale presso
+    l’Università di Losanna e Neuchâtel
+    e una formazione in marketing culturale
+    presso Icom/Institute Culture Management
+    Communication a Parigi. Dal 1997 è
+    responsabile della mediazione culturale,
+    degli archivi, della biblioteca, della
+    fonoteca e registrar presso il Museo
+    Vincenzo Vela a Ligornetto. Ha ideato e
+    realizzato progetti di mediazione
+    culturale destinati a varie categorie di
+    pubblico. Dal 2002 opera in favore
+    dell’accessibilità culturale e
+    artistica per il pubblico con
+    disabilità visive, sensoriali e
+    mentali. Dal 2003 è membro di comitato
+    di Mediamus, associazione svizzera dei
+    mediatori culturali di museo.
+  image: sara_matasci.jpg
+  colophon: collaborazione
+- 
+  name: Elio
+  surname: Medici
+  affiliation: UNITAS
+  biography: 'Classe 1945, nato a S. Antonino, cieco, proprietario di un cane guida, socio Unitas. Entrato nel 1961 all’Institut de l’Asile des aveugles di Losanna dove ha imparato il braille, ha potuto poi, con il dovuto supporto, frequentare l’Ecole supérieure de commerce, sempre a Losanna, fino alla maturità. Dopo diverse esperienze in ambito bancario a Berna, Zurigo e Basilea, è ritornato in Ticino avendo trovato un posto di lavoro per la vendita telefonica È stato per diversi anni membro di comitato nonché vicepresidente della Unitas. Ha lavorato presso la Biblioteca Braille e del libro parlato e per il Servizio Informatico della Unitas: è stato un pioniere dell’informatica per ciechi nella Svizzera italiana. Pensionato dal 2011, lavora ancora a favore dell’associazione, partecipando attivamente alle sue attività.'
+  image: elio_medici.jpg
+  colophon: collaborazione
+- 
+  name: Virginia
+  surname: Moretti
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver ottenuto il Diploma in
+    Architettura presso il Politecnico
+    Federale di Losanna con un lavoro sulla
+    riconversione culturale di aree
+    industriali dismesse, svolge
+    l’attività di architetto in Italia,
+    Kuwait e Svizzera, occupandosi di
+    progetti a scala urbanistica, edifici
+    pubblici e residenziali,
+    ristrutturazioni interne e spazi
+    espositivi. Dal 2006 collabora con il
+    Corso di laurea in Architettura
+    d’interni della SUPSI e dal 2013 ha
+    assunto il ruolo di docente-ricercatrice
+    presso il Laboratorio cultura visiva.
+    Nella sua attività mette in relazione
+    le esperienze di ricerca con quelle
+    della didattica, attraverso la
+    conduzione di atelier di progettazione.
+    Ha sviluppato il progetto P.C.E. Parco
+    Ciani Exhibition Project, finalizzato a
+    realizzare un’esposizione
+    multisensoriale adatta ad un pubblico
+    con disabilità visive.
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Luca
+  surname: Morici
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Laureato in sociologia presso
+    l’Università degli Studi di Urbino,
+    ha collaborato con enti pubblici e non
+    profit in numerosi progetti di ricerca e
+    di intervento sociale nell’ambito
+    dell’inclusione di categorie
+    svantaggiate (disabilità, dipendenze,
+    immigrazione, devianza, disagio
+    giovanile). È stato responsabile della
+    comunicazione e della ricerca per il
+    Centro servizi per il volontariato della
+    Provincia di Como (2005/2010); si è
+    occupato di insegnamento e ricerca in
+    sociologia dei media e consumo
+    massmediale per la facoltà di scienze
+    della comunicazione dell’Università
+    della Svizzera italiana (1998/2006). Dal
+    2006 è docente e ricercatore presso il
+    Laboratorio cultura visiva della SUPSI
+    dove, oltre a insegnare sociologia
+    visuale e infografica nel Corso di
+    laurea in Comunicazione visiva,
+    collabora a progetti e ricerche
+    nell’ambito della comunicazione
+    visuale.
+  image: luca_morici.jpg
+  colophon: collaborazione
+- 
+  name: Claudio
+  surname: Mustacchi
+  affiliation: 'SUPSI - Dipartimento economia aziendale, sanità e sociale'
+  biography: "È docente ricercatore presso il Dipartimento conomia aziendale sanità e sociale della SUPSI dove insegna individuo e identità e animazione socioculturale. Studia filosofia a indirizzo psicologico e pedagogico all'Università degli Studi di Milano dove si laurea con una tesi sulle dinamiche di gruppo nella formazione internazionale. A Milano consegue la specializzazione in animazione teatrale alla scuola del Piccolo Teatro e la qualifica di terapeuta della psicomotricità all'Istituto Anne Marie Ville. Esercita le professioni di psicomotricista e animatore e collabora con l'Ufficio Franco Tedesco per la Gioventù fino al 1991. Entra poi nel gruppo di ricerca europeo sulla creatività della facoltà di pedagogia sociale della Fachhochschule (FHS) Amburgo, attività che lo porta a insegnare fra il 1993 e 1995 pedagogia del teatro nella FHS di Merseburg in Germania e a collaborare alle ricerche promosse dall'Unione Europea. Fra il 2001 e il 2010 è professore a contratto di pedagogia sociale all'Università degli Studi di Milano e di pedagogia dell'animazione all'Università di Milano Bicocca."
+  image: claudio_mustacchi.jpg
+  colophon: collaborazione
+- 
+  name: Giovanni
+  surname: Profeta
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: "Ha conseguito la Laurea magistrale in Comunicazione visiva e multimediale presso l’Università IUAV di Venezia. Presso l'Interaction Design Lab del Laboratorio cultura visiva della SUPSI, sviluppa progetti di ricerca applicata negli ambiti della visualizzazione delle informazioni e dell’interaction design. Dal 2012 è assistente del Master of Advanced Studies in Interaction Design. È inoltre stato docente di web design presso il Bachelor SUPSI in Comunicazione visiva. Attualmente frequenta il Corso di dottorato in Design presso il Politecnico di Milano."
+  image: giovanni_profeta.jpg
+  colophon: collaborazione
+- 
+  name: Lorena
+  surname: Rocca
+  affiliation: 'SUPSI - Dipartimento formazione e apprendimento'
+  biography: "Pedagogista di formazione, ottiene il Dottorato Uomo-ambiente all'Università di Padova e il Post-dottorato in Scienze della terra. Docente-ricercatrice e coordinatrice del settore ricerca presso il Dipartimento formazione e apprendimento della SUPSI, è responsabile dell’asse di ricerca SUPSI sui sistemi formativi ed educativi. Nel 2011 è visiting professor all'Università di Köln, nel 2010 all'Università di Caxias do Sul, nel 2009 all'Università di Würzburg. All'Università di Padova è docente aggregato di geografia e didattica, vice-coordinatrice del dottorato in geografia umana e fisica della Scuola Superiore di Studi storici, geografici e antropologici, responsabile della costituzione di un museo di Ateneo sulla ricerca geografica e coordina un team di ricerca internazionale e multidisciplinare  sul tema dei paesaggi sonori. È membro attivo del Gruppo Associazione dei Geografi Italiani (AGEI) in Geografia della Società dell’Informazione. Ha coordinato progetti di ricerca legati alle TIC, alla partecipazione e alla valorizzazione dei beni tangibili e intangibili delle comunità locali all’interno del sesto e del settimo programma quadro della ricerca scientifica (Comunità Europea)."
+  image: lorena_rocca.jpg
+  colophon: collaborazione
+- 
+  name: Viviana
+  surname: Rossi
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: >
+    Dopo aver conseguito il Diploma di
+    laurea triennale in Comunicazione e
+    didattica dell’arte all’Accademia di
+    belle arti a Bologna inizia a
+    collaborare con il Museo in Erba di
+    Bellinzona in veste di animatrice. Nel
+    2011 entra nello staff di mediazione
+    culturale del Dicastero Attività
+    Culturali della Città di Lugano e con
+    l’apertura del centro culturale LAC
+    Lugano Arte e Cultura prosegue
+    l’attività nel rinnovato settore di
+    mediazione culturale, in particolare per
+    LACedu. Dal 2017 è attiva in seno al
+    Laboratorio cultura visiva della SUPSI
+    in qualità di collaboratrice per il
+    progetto Mediazione Cultura Inclusione.
+    Parallelamente ha ripreso l’attività
+    di animazione didattico-creativa presso
+    il Museo in Erba a Lugano e
+    all’occasione collabora con le scuole
+    cantonali come supplente di storia
+    dell’arte.
+  image: empty.jpg
+  colophon: collaborazione
+- 
+  name: Valentina
+  surname: Meldi
+  affiliation: 'SUPSI - Dipartimento ambiente costruzioni e design'
+  biography: 'Nel 2015 consegue il Bachelor in Comunicazione visiva presso la SUPSI e successivamente inizia a lavorare in qualità di assistente presso il medesimo corso di laurea. Affianca i docenti nei corsi dell’area digitale: web, user interface, il progetto interdisciplinare Crossmedia: Orientation and Identity Design e Interaction Design.  Nel 2016 inizia a lavorare, sempre in qualità di assistente, presso il Laboratorio cultura visiva svolgendo vari compiti, dalla grafica tradizionale al photoshooting e video riprese.'
+  image: empty.jpg
+  colophon: collaborazione

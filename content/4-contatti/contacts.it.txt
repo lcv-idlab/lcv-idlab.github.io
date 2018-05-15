@@ -12,8 +12,8 @@ Il layout è gestito con (link: http://neat.bourbon.io/ popup: yes text: Neat).
 Main: 
 
 **SUPSI
-Scuola universitaria professionale della Svizzera italiana
-Dipartimento ambiente costruzioni e design**
+Scuola universitaria professionale
+della Svizzera Italiana**
 
 Laboratorio cultura visiva
 

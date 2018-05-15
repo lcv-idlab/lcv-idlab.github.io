@@ -12,17 +12,13 @@ Il layout è gestito con (link: http://neat.bourbon.io/ popup: yes text: Neat).
 Main: 
 
 **SUPSI
-Haute école spécialisée de la Suisse italienne
-Département environnement construction et design**
+Scuola universitaria professionale
+della Svizzera Italiana**
 
-Laboratoire culture visuelle
+Laboratorio cultura visiva
 
 Campus Trevano
 CH-6952 Canobbio
 +41 (0)58 666 62 81
 (link: http://www.supsi.ch text: www.supsi.ch popup: yes)
 (email: info.mci@supsi.ch)
-
-----
-
-Contacts: 

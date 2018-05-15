@@ -1,4 +1,4 @@
-Title: project
+Title: projet
 
 ----
 
@@ -49,7 +49,7 @@ Paragraphs:
     suisses et restitués dans un protocole
     opératoire librement accessible et
     fourni sous licences Creative Commons.
-    
+
 ----
 
-Class_id: abstract
+Class-id: abstract
