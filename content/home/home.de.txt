@@ -21,4 +21,4 @@ Write-us: Teilen Sie also Ihre Erfahrungen mit uns!
 
 ----
 
-Write-us-button: Schreiber Sei uns
+Write-us-button: Schreiben Sie uns

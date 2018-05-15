@@ -1,0 +1,36 @@
+Info: 
+
+----
+
+Title: Förderer
+
+----
+
+Sostenitori: 
+
+- 
+  name: 'Confederazione Svizzera (UFPD - Ufficio Federale per le pari opportunità delle persone con disabilità)'
+  logo: confederazione_svizzera.jpg
+- 
+  name: >
+    Cantone Ticino (Divisione dell Cultura e
+    degli Studi Universitari – Fondo
+    Swisslos)
+  logo: swisslos.jpg
+- 
+  name: >
+    Fondazione ing. Pasquale Lucchini di
+    Lugano
+  logo: fondazione_lucchini.jpg
+- 
+  name: 'Fondazione Lorenzo e Elsa Cattori- Stuerm'
+  logo: fondazione_cattori-studer.jpg
+- 
+  name: Fondazione Turismo Lago Maggiore
+  logo: fondazione_lago_maggiorei.jpg
+- 
+  name: Credit Suisse Foundation
+  logo: credit_suisse.jpg
+- 
+  name: Percento Culturale Migros
+  logo: migros_percento_culturale.jpg

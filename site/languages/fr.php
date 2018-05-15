@@ -11,6 +11,7 @@
 	l::set('promoted-by', 'promu par');
 	l::set('partners', 'partenaires');
 	l::set('supported-by', 'soutenu par');
+	l::set('colophon', 'colophon');
 
 	// kit main
 	l::set('kit', 'kit');
@@ -27,6 +28,6 @@
 
 	// kit path single
 	l::set('related-kits', 'Fishes du kit afférentes');
-	l::set('related-resources', 'Resources');
+	l::set('related-resources', 'Ressources');
 
 ?>

@@ -3,7 +3,7 @@
 <footer>
   <div class="contacts">
       <div id="author">
-        <?php echo page('footer')->author()->html() ?>
+        <?php echo page('footer')->author()->kt() ?>
       </div>
 
       <a href="mailto:info.mci@supsi.ch" class="link" id="contact-email">info.mci@supsi.ch</a>

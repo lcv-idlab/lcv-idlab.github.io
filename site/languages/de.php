@@ -6,22 +6,23 @@
 	l::set('404', 'Seite nicht gefunden');
 
 	// contacts
-	l::set('coordination', 'coordinamento');
-	l::set('in-collaboration-with', 'in collaborazione con');
-	l::set('promoted-by', 'promosso da');
-	l::set('partners', 'partner');
-	l::set('supported-by', 'sostenuto da');
+	l::set('coordination', 'Koordination');
+	l::set('in-collaboration-with', 'In Zusammenarbeit mit');
+	l::set('promoted-by', 'Gefördert von');
+	l::set('partners', 'Partner');
+	l::set('supported-by', 'Unterstützt von');
+	l::set('colophon', 'Impressum');
 
 	// kit main
-	l::set('kit', 'kit');
-	l::set('paths', 'percorsi');
+	l::set('kit', 'Kit');
+	l::set('paths', 'Programme');
 	l::set('more-text', 'mehr');
 	l::set('less-text', 'weniger');
 	l::set('download', 'Herunterladen');
 
 	// kit single
 	l::set('index', 'Inhaltsverzeichnis');
-	l::set('more', 'Weiterlesen');
+	l::set('more', 'Mehr lesen');
 	l::set('evaluate', 'Bewerten');
 	l::set('download-pdf-kit-single', "Artikel herunterladen");
 

@@ -2,7 +2,7 @@ Title: Mit dem Publikum in Kontakt treten
 
 ----
 
-Description: Die ersten Schritte, die Kunstmuseen unternehmen können, um Barrieren abzubauen und den Zugang zum Museum für Menschen mit Sehproblemen zu fördern, ist die Bereitstellung eines Kommunikationskanals; dies geschieht durch die Entwicklung kontinuierlicher Beziehungen und eines geeigneten Verhaltens zum Zielpublikum.
+Description: Der erste Schritt, den Kunstmuseen unternehmen können, um Barrieren abzubauen und den Zugang zum Museum für Menschen mit Sehproblemen zu fördern, ist die Bereitstellung eines Kommunikationskanals; dies geschieht durch die Entwicklung kontinuierlicher Beziehungen und eines geeigneten Verhaltens zum Zielpublikum.
 
 ----
 
@@ -13,13 +13,13 @@ Icon: relazionarsi-con-il-pubblico.png
 Article: 
 
 - 
-  section_title: Beziehungen entwickeln
+  section_title: Beziehungen aufbauen
   content: |
-    **Mit dem Publikum in Kontakt zu treten, ist unumgänglich, wenn man dessen Bedürfnisse und Erwartungen kennenlernen will. Dies ist auch ein entscheidender Aspekt, um das verfügbare kulturelle Mediationsangebot gezielt zu kommunizieren. Empfehlenswert ist hierzu die Schaffung kontinuierlicher institutioneller und interpersoneller Kommunikationskanäle.**
+    **Mit dem Publikum in Kontakt zu treten, ist unumgänglich, wenn man dessen Bedürfnisse und Erwartungen kennenlernen will. Die Kontaktaufnahme ist auch ein entscheidender Aspekt, um das verfügbare kulturelle Vermittlungsangebot gezielt zu kommunizieren. Empfehlenswert ist hierzu die Schaffung kontinuierlicher institutioneller und interpersoneller Kommunikationskanäle.**
     
-    Ein wichtiger Ansprechpartner in der Schweiz ist hierbei der Schweizer Blinden- und Sehbehindertenverband SBV (Federazione svizzera dei ciechi e deboli di vista FSC), der landesweit mit 16 Sektionen vertreten ist. Die einzige Sektion südlich der Alpen ist der Blinden- und Sehbehindertenverband der italienischen Schweiz UNITAS (Associazione ciechi e ipovedenti della Svizzera italiana). Um direkt mit Menschen mit Sehproblemen in Kontakt zu treten, ist es ratsam, sich an deren Regionalorganisationen zu wenden. Zu diesem Zweck organisiert die UNITAS regelmässig gezielte Sensibilisierungsmassnahmen. Die Teilnahme an diesen Veranstaltungen oder die Organisation spezieller Aktivitäten am eigenen Museum ermöglichen den Aufbau eines bereichernden interpersonellen Austauschs zwischen MediatorInnen und Publikum, der eine dauerhafte Einbeziehung der Beteiligten zusätzlich fördert. Nach diesem ersten Kontakt besteht eine hervorragende Methode für eine effiziente Kommunikation mit dem Publikum darin, das kulturelle Mediationsangebot, das man zugänglich machen will, direkt bekanntzugeben (z. B. telefonisch oder per E-Mail). Zusätzlich kann man Kulturveranstaltungen und Aktivitäten, die für Menschen mit Sehbehinderung unter Umständen interessant sind, der Zeitschrift INFOUNITAS mitteilen, die vom Verband herausgegeben wird und über ihn zugänglich ist.
+    Ein wichtiger Ansprechpartner in der Schweiz ist hierbei der Schweizer Blinden- und Sehbehindertenverband SBV (Federazione svizzera dei ciechi e deboli di vista FSC), der landesweit mit 16 Sektionen vertreten ist. Die einzige Sektion südlich der Alpen ist der Blinden- und Sehbehindertenverband der italienischen Schweiz UNITAS (Associazione ciechi e ipovedenti della Svizzera italiana). Um direkt mit Menschen mit Sehproblemen in Kontakt zu treten, ist es ratsam, sich an die entsprechenden Regionalorganisationen zu wenden. Zu diesem Zweck organisiert die UNITAS regelmässig gezielte Sensibilisierungsmassnahmen. Die Teilnahme an diesen Veranstaltungen oder die Organisation spezieller Aktivitäten am eigenen Museum ermöglichen den Aufbau eines bereichernden interpersonellen Austauschs zwischen Vermittlern und Publikum, der eine dauerhafte Einbeziehung der Beteiligten zusätzlich fördert. Eine sehr gute Methode, nach diesem ersten Kontakt effizient mit dem Publikum zu kommunizieren, besteht darin, das kulturelle Vermittlungsangebot, das man barrierefrei machen will, direkt bekanntzugeben (z. B. telefonisch oder per E-Mail). Kulturveranstaltungen und Aktivitäten, die für Menschen mit Sehbehinderung unter Umständen interessant sind, kann man zusätzlich der Zeitschrift INFOUNITAS mitteilen, diese wird vom Verband herausgegeben und ist über ihn zugänglich.
     
-    In der Schweiz gibt es darüber hinaus zahlreiche  (link: https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/links/behindertenorganisationen-schweiz.html target: _blank text: weitere Organisationen) , an die man sich wenden kann.
+    In der Schweiz gibt es darüber hinaus zahlreiche weitere  (text: Organisationen link: https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb/links/behindertenorganisationen-schweiz.html target: _blank), an die man sich wenden kann.
     
     
     (image: unitas-logo.jpg link: http://www.unitas.ch target: _blank alt: Logo Unitas class: two-columns target: _blank)
@@ -28,37 +28,37 @@ Article:
   option_type: one
 - 
   option_type: one
-  section_title: Die Bedürfnisse und Erwartungen kennen
+  section_title: Bedürfnisse und Erwartungen kennen
   content: |
-    **Um effiziente Lösungen umsetzen zu können, ist es sehr wichtig, die Bedürfnisse und Erwartungen des Zielpublikums zu kennen. Es ist daher von zentraler Bedeutung, dass das gesamte Personal und insbesondere die Personen, die mit den BenutzerInnen in Kontakt kommen (Empfangs-, Aufsichts- und Sicherheitspersonal, MediatorInnen), für die bestehenden Rechte und die Bedürfnisse von Menschen mit Sehbehinderungen sensibilisiert werden. Hierzu ist es zum einen ratsam, Kontakt zu den entsprechenden Organisationen und auch zu Personen mit Sehproblemen aufzunehmen. Um sich sachkundig zu machen, empfehlen sich zum anderen die Teilnahme an gezielten Treffen und Veranstaltungen sowie die Lektüre des bereits verfügbaren Informationsmaterials.**
+    **Um effiziente Lösungen umsetzen zu können, ist es sehr wichtig, die Bedürfnisse und Erwartungen des Zielpublikums zu kennen. Es ist daher von zentraler Bedeutung, dass das gesamte Personal und insbesondere die Personen, die mit den Benutzerinnen und Benutzern in Kontakt kommen (Empfangs-, Aufsichts-, Sicherheits- und Vermittlungspersonal), für die bestehenden Rechte und die Bedürfnisse von Menschen mit Sehbehinderung sensibilisiert werden. Hierzu ist es zum einen ratsam, Kontakt zu den entsprechenden Organisationen sowie zu Personen mit Sehproblemen aufzunehmen. Will man sich sachkundig machen, empfehlen sich zum anderen die Teilnahme an speziellen Treffen und Veranstaltungen sowie die Lektüre des bereits verfügbaren Informationsmaterials.**
     
     
-    Informationen über die Rechte behinderter Menschen sind beim  (link:  https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb.html text: Eidgenössischen Büro für die Gleichstellung von Menschen mit Behinderungen target: _blank)  erhältlich . Für detaillierte, spezifische Informationen zu Sehbehinderungen empfiehlt es sich, mit der zuständigen regionalen Sektion des Schweizer Blinden- und Sehbehindertenverbandes SBV (bzw. UNITAS für die italienische Schweiz) sowie mit dem Schweizerischen Zentralverein für das Blindenwesen SZB (Unione centrale svizzera per il bene dei ciechi UCBC) Kontakt aufzunehmen, das verfügbare Informationsmaterial zurate zu ziehen (von dem ein Grossteil online zugänglich ist) und an den gezielten, von den Verbänden regelmässig organisierten Sensibilisierungsmassnahmen teilzunehmen.
+    Informationen über die Rechte behinderter Menschen sind beim (link:  https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb.html text: Eidgenössischen Büro für die Gleichstellung von Menschen mit Behinderungen erhältlich target: _blank) . Für detaillierte, spezifische Informationen zu Sehbehinderungen empfiehlt es sich, mit der zuständigen regionalen Sektion des Schweizer Blinden- und Sehbehindertenverbandes SBV (bzw. UNITAS für die italienische Schweiz) sowie mit dem Schweizerischen Zentralverein für das Blindenwesen SZB (Unione centrale svizzera per il bene dei ciechi UCBC) Kontakt aufzunehmen. Zudem sollte man  das verfügbare Informationsmaterial zurate ziehen (von dem ein Grossteil online zugänglich ist) und an den speziellen Sensibilisierungsmassnahmen teilnehmen, die regelmässig von den Verbänden
     
     (image: ufficio-federale-pari-opportunita.jpg  alt: Logo ufficio federale pari opportunità class: two-columns link:  https://www.edi.admin.ch/edi/de/home/fachstellen/ebgb.html target: _blank)
     
     (image: unione-centrale-svizzera-per-il-bene-dei-ciechi.jpg  alt: Logo unione centrale svizzera per il bene dei ciechi class: two-columns link: https://www.ucbc.ch/szb/ target: _blank)
     
-    Für die Museen ist es äusserst wichtig, einige generelle Charakteristika des sehbehinderten Publikums zu kennen:
+    Für die Museen ist es äusserst wichtig, einige generelle Charakteristika des sehbehinderten Publikums zu kennen.
 - 
   option_type: three
   section_title: Zahlen
-  content: "Auch wenn keine präzisen Statistiken vorliegen, konnte der SZB schätzen, dass in der Schweiz rund 320'000 Menschen mit Sehbehinderungen leben. Eine genaue Schätzung wird dadurch erschwert, dass Menschen mit Sehproblemen diese nicht notwendigerweise einer Organisation oder Behörde mitteilen müssen. Entsprechende Informationen können daher erst dann gesammelt werden, wenn diese Menschen bestimmte Leistungen anfragen. Als gesichert gilt jedoch, dass vorwiegend Menschen über 40 Jahre von Sehproblemen betroffen sind und dass der Prozentanteil sehbehinderter Menschen mit zunehmendem Alter steigt."
+  content: "Auch wenn keine präzisen Statistiken vorliegen, schätzt der SZB, dass in der Schweiz rund 320'000 Menschen mit Sehbehinderung leben. Eine genaue Schätzung wird dadurch erschwert, dass Menschen mit Sehproblemen diese nicht notwendigerweise einer Organisation oder Behörde mitteilen müssen. Entsprechende Informationen können daher erst dann gesammelt werden, wenn diese Menschen bestimmte Leistungen anfragen. Als gesichert gilt jedoch, dass vorwiegend Menschen über 40 Jahre von Sehproblemen betroffen sind und dass der Prozentanteil sehbehinderter Menschen mit zunehmendem Alter steigt"
 - 
   option_type: three
   section_title: Sehprobleme
-  content: 'Es gibt zahlreiche und extrem unterschiedliche Ausprägungen von Sehbehinderungen. Das „Nicht-Sehen“ jedes Einzelnen ist immer einzigartig und spezifisch. Das Publikum mit Sehbehinderungen lässt sich jedoch in zwei grosse Kategorien unterteilen: blinde Menschen, die überhaupt nicht imstande sind zu sehen, und sehbehinderte Menschen, die mit speziellen Hilfsmitteln noch etwas wahrnehmen können. Zwei weitere Unterscheidungen betreffen den zeitlichen Moment, an dem die Behinderung erstmals aufgetreten ist. Von Geburt an blinde Menschen (von denen es nur wenige gibt und deren Zahl rückläufig ist) haben keine visuellen Erinnerungen. Menschen aber, die erst im Laufe ihres Lebens erblindet sind, können auf visuelle Erinnerungen zurückgreifen. Wer von Geburt an schlecht sieht, besitzt nur fragmentierte visuelle Erinnerungen; bei Menschen dagegen, die erst in hohem Alter schlechter sehen, sind die visuellen Erinnerungen mental oft noch sehr präsent (diese Situation ist häufiger anzutreffen und nimmt zu). Mit diesen Unterscheidungen vertraut zu sein, ist wichtig, um flexible, transversale Lösungen umzusetzen, die an das entsprechende Publikum angepasst werden können.'
+  content: 'Es gibt zahlreiche und extrem unterschiedliche Ausprägungen von Sehbehinderungen. Das „Nicht-Sehen“ jedes Einzelnen ist immer einzigartig und spezifisch. Das Publikum mit Sehbehinderungen lässt sich jedoch in zwei grosse Kategorien unterteilen: blinde Menschen, die überhaupt nicht imstande sind zu sehen, und sehbehinderte Menschen, die mit speziellen Hilfsmitteln noch gewisse Dinge wahrnehmen können. Zwei weitere Unterscheidungen betreffen den zeitlichen Moment, an dem die Behinderung erstmals aufgetreten ist. Von Geburt an blinde Menschen (von denen es nur wenige gibt und deren Zahl rückläufig ist) haben keine visuellen Erinnerungen. Menschen aber, die erst im Laufe ihres Lebens erblindet sind, können auf visuelle Erinnerungen zurückgreifen. Wer von Geburt an schlecht sieht, besitzt nur fragmentierte visuelle Erinnerungen; bei Menschen dagegen, die erst im hohen Alter schlechter sehen, sind die visuellen Erinnerungen mental oft noch sehr präsent (diese Situation ist häufiger anzutreffen und nimmt zu). Mit diesen Unterscheidungen vertraut zu sein, ist wichtig, um flexible, transversale Lösungen umzusetzen, die an das Zielpublikum angepasst werden können.'
 - 
   option_type: three
   section_title: Der Einsatz der Sinne
-  content: 'Für Menschen, die sich bei der Orientierung oder der Informationsaufnahme nicht auf ihren Sehsinn verlassen können, ist der Einsatz der anderen Sinne keine Option, sondern eine Notwendigkeit. Zur Wahrzunehmung ihrer Umgebung stehen ihnen Hör-, Tast-, Geruchs- und Geschmackssinn zur Verfügung, und diese müssen auch für die Erkundung eines Museums und seiner Kunstwerke eingesetzt werden. Die verbleibende Sehkraft nutzen zu können, ist für Sehbehinderte ebenso wichtig, wie diese mit anderen Sinneswahrnehmungen zu verbinden.'
+  content: 'Für Menschen, die sich bei der Orientierung oder der Informationsaufnahme nicht auf ihren Sehsinn verlassen können, ist der Einsatz der anderen Sinne keine Option, sondern eine Notwendigkeit. Zur Wahrnehmung ihrer Umgebung stehen ihnen Hör-, Tast-, Geruchs- und Geschmackssinn zur Verfügung, und diese müssen auch für die Erkundung eines Museums und seiner Kunstwerke eingesetzt werden. Die verbleibende Sehkraft nutzen zu können, ist für Sehbehinderte ebenso wichtig, wie diese mit anderen Sinneswahrnehmungen zu verbinden.'
 - 
   option_type: three
   section_title: Wichtigste Hilfsmittel
   content: |
-    In einer Welt, in der der Sehsinn eine Monopolstellung einnimmt, verwenden Menschen mit Sehbehinderungen Hilfsmittel, die ihnen Orientierung geben und mit denen sie die ihnen verfügbaren Sinne einsetzen können, um Informationen aufzunehmen. Dabei stehen ihnen verschiedene Hilfsmittel zur Verfügung: Orientierungs- und Mobilitätshilfen (z. B. sehende Begleitperson, Führhund, weisser Stock), Computerhilfsmittel, die einen Zugang zu den Informationen im Netz schaffen (z. B. Geräte mit Sprachausgabe), sowie Hilfsmittel, mit denen die verbleibende Sehfähigkeit genutzt werden kann (z. B. Bildschirm-Lesegeräte, Vergrösserungslupen, Smartphone-Fotos, elektrische Taschenlampen zur Steigerung der Helligkeit oder die Möglichkeit, sehr nah an den zu besichtigenden Gegenstand heranzugehen). Doch unabhängig davon, welche Hilfsmittel Verwendung finden, ihr Einsatz bei der Nutzung eines Museums und seiner Kunstwerke muss ohne Einschränkung möglich sein, so wie dies vom Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (link: https://www.admin.ch/opc/de/classified-compilation/20002658/index.html text: BehiG target: _blank) vorgesehen ist.
+    In einer Welt, in der der Sehsinn eine Monopolstellung einnimmt, verwenden Menschen mit Sehbehinderung bei der Informationsaufnahme diverse Hilfsmittel, die ihnen Orientierung geben und mit denen sie die ihnen verfügbaren Sinne einsetzen können. Dabei stehen ihnen verschiedene Hilfsmittel zur Verfügung: Orientierungs- und Mobilitätshilfen (z. B. sehende Begleitperson, Führhund, weisser Stock), Computerhilfsmittel, die einen Zugang zu den Informationen im Netz schaffen (z. B. Geräte mit Sprachausgabe), sowie Hilfsmittel, mit denen die verbleibende Sehfähigkeit genutzt werden kann (z. B. Bildschirm-Lesegeräte, Vergrösserungslupen, Smartphone-Fotos, elektrische Taschenlampen zur Steigerung der Helligkeit oder die Möglichkeit, sehr nah an den zu besichtigenden Gegenstand heranzugehen). Doch unabhängig davon, welche Hilfsmittel Verwendung finden, ihr Einsatz bei der Nutzung eines Museums und seiner Kunstwerke muss ohne Einschränkung möglich sein, so wie dies vom (link: https://www.admin.ch/opc/de/classified-compilation/20002658/index.html text: Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen  target: _blank) vorgesehen ist.
     
-    Im Rahmen des MCI-Projektes wurden die Bedürfnisse und Erwartungen des Zielpublikums für den Bereich Kunst und Kultur – und insbesondere die Kunstmuseen im Tessin – untersucht und in zwei frei zugänglichen Berichten zusammengefasst, deren Ergebnisse im Folgenden vorgestellt werden.
+    Im Rahmen des Projektes „Vermittlung Kultur Inklusion“ wurden die Bedürfnisse und Erwartungen des Zielpublikums für den Bereich Kunst und Kultur – und insbesondere für die Kunstmuseen im Tessin – untersucht und in zwei frei zugänglichen Berichten zusammengefasst, deren Ergebnisse im Folgenden vorgestellt werden.
     
     (image: esperienze-museali-01.jpg  alt: 'Immagine rappresentativa. Veduta panoramica di una sala espositiva con quadri alle pareti di diverse dimensioni. Una persona di spalle sta visitando la mostra.'  class: two-columns link: /risorse/indagine-preliminare)
     
@@ -67,27 +67,27 @@ Article:
   option_type: one
   section_title: Den Besucherempfang gestalten
   content: |
-    **Ein erster Schritt, um den Zugang zum Museum zu verbessern, besteht darin, den Empfang der BesucherInnen auch deren Bedürfnissen anzupassen. Menschen mit Sehbehinderungen fühlen sich im Museum vor allem dann miteinbezogen und willkommen, wenn dieses seinen BesucherInnen vor der Besichtigung alle notwendigen Informationen zur Verfügung stellt. Hierzu braucht es insbesondere eine effiziente Art der Kommunikation sowohl über die (link: de/kit/comunicazione/website text: **Museums-Website**) als auch auf persönlicher Ebene. Damit sich das Publikum sicher und auch wohl fühlt, sollte man ihm ausserdem eine Person zur Verfügung stellen, die Blinde und Sehbehinderte wenn nötig persönlich durch das Museum (link: de/kit/orientamento/guidare-il-visitatore text: begleitet), ihnen die Objekte und Umgebung (link: de/kit/opere/descrizione text: beschreibt ) und sie bei der  (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: taktilen Erkundung ) der Kunstwerke – sofern diese möglich ist – anleitet.**
+    **Ein erster Schritt, um die Barrierefreiheit eines Museums zu verbessern, besteht darin, den Empfang der Besucherinnen und Besucher deren Bedürfnissen anzupassen. Menschen mit Sehbehinderung fühlen sich im Museum vor allem dann mit einbezogen und willkommen, wenn dieses seinen Besucherinnen und Besuchern vor der Besichtigung alle notwendigen Informationen zur Verfügung stellt. Hierzu braucht es insbesondere eine effiziente Art der Kommunikation sowohl über die (link: de/kit/comunicazione/website text: **Museums-Website**) als auch auf persönlicher Ebene. Damit sich das Publikum sicher und auch wohl fühlt, sollte man blinden und sehbehinderten Menschen ausserdem eine Person zur Verfügung stellen, die sie wenn nötig persönlich durch das Museum (link: de/kit/orientamento/guidare-il-visitatore text: begleitet), ihnen Objekte und Umgebung (link: de/kit/opere/descrizione text: beschreibt ) und sie bei der  (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: taktilen Erkundung ) der Kunstwerke – sofern diese möglich ist – anleitet.**
     
-    Vor dem Besuch bereitzustellende Informationen:
+    Vor dem Museumsbesuch bereitzustellende Informationen:
 - 
   option_type: three
   section_title: Praktische Informationen
-  content: 'Vor dem Besuch ist es sehr wichtig, alle notwendigen praktischen Informationen bereitzustellen: Eintrittspreise und eventuelle Vergünstigungen, Eintrittsbedingungen, Öffnungszeiten, aktuelle Ausstellungen, geplante Mediationstätigkeiten, eventuelle Verbote (z. B. Mitnahme von Taschen und Rucksäcken in die Ausstellungsräume), Barrieren, Aspekte der Sicherheit der Kunstwerke (Konservierung und Versicherung) etc.'
+  content: 'Vor dem Museumsbesuch ist es sehr wichtig, alle notwendigen praktischen Informationen bereitzustellen: Eintrittspreise und eventuelle Vergünstigungen, Eintrittsbedingungen, Öffnungszeiten, aktuelle Ausstellungen, geplante Vermittlungstätigkeiten, eventuelle Verbote (z. B. Mitnahme von Taschen und Rucksäcken in die Ausstellungsräume), Barrieren, Aspekte der Sicherheit der Kunstwerke (Konservierung und Versicherung) etc.'
 - 
   option_type: three
   section_title: Informationen zur Orientierung
   content: >
-    Wesentlich ist es, die Anordnung und
-    Erreichbarkeit der Räumlichkeiten
-    innerhalb des Gebäudes zu erläutern
+    Die Anordnung und Erreichbarkeit der
+    Räumlichkeiten innerhalb des Gebäudes
+    sollten unbedingt erläutert werden
     (Ausstellungsräume, Cafeteria,
     Garderobe, Aufzug, Treppen, Rampen,
     Toiletten, Shop etc.). Ferner ist es
     wichtig, auf eventuelle architektonische
     Barrieren und/oder Einschränkungen der
     Mobilität hinzuweisen, die für
-    Menschen mit Sehbehinderungen eine
+    Menschen mit Sehbehinderung eine
     potenzielle Gefahr darstellen (z. B.
     Glastüren, nicht markierte Stufen,
     Möbel in Durchgangsbereichen).
@@ -99,20 +99,20 @@ Article:
     gegebenenfalls vorhandene
     Ausstattungselemente hinzuweisen, die
     der Mobilität und Orientierung sowie
-    dem Zugang zu Informationen und
-    Kunstwerken dienen (z. B.
-    Bezugspersonen, tragbare Hocker,
+    dem barrierefreien Zugang zu
+    Informationen und Kunstwerken dienen (z.
+    B. Bezugspersonen, tragbare Hocker,
     Rollstühle, Reliefkarten,
     Beschilderungen, Audioguides und anderes
-    Informationsmaterial, verfügbare
+    Informationsmaterial, barrierefreie
     Website und Newsletter, die
     Bereitstellung spezieller Hilfsmittel,
-    kulturelles Mediationsangebot oder die
-    Möglichkeit, die Originalkunstwerke
+    das kulturelle Vermittlungsangebot oder
+    die Möglichkeit, die Originalkunstwerke
     und/oder Reproduktionen zu berühren).
-    Eine sehende Begleitperson ist für
-    Menschen mit Sehbehinderungen oft nicht
-    nur eine Freude, sondern eine
+    Die Begleitung durch eine sehende Person
+    ist für Menschen mit Sehbehinderung oft
+    nicht nur eine Freude, sondern eine
     Notwendigkeit. Daher empfiehlt es sich,
     die Möglichkeit eines reduzierten
     Eintrittspreises für Begleitpersonen in

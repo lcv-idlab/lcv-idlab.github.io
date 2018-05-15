@@ -11,6 +11,7 @@
 	l::set('promoted-by', 'promosso da');
 	l::set('partners', 'partner');
 	l::set('supported-by', 'sostenuto da');
+	l::set('colophon', 'colophon');
 
 	// kit main
 	l::set('kit', 'kit');

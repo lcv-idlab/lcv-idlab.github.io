@@ -4,10 +4,9 @@ Title: Die Kunstwerke beschreiben
 
 Description: 
 
-Die effizienteste Art, wie Kunstmuseen für Sehbehinderte den Zugang zu Kunstwerken verbessern können, ist die Erstellung spezifischer Beschreibungen.
-Auch wenn keine visuellen Anhaltspunkte vorhanden sind, können Blinde und Sehbehinderte andere Sinnesressourcen (z. B. den Hörsinn) nutzen, um im Geist mentale Bilder zu schaffen.
+Die effizienteste Art, wie Kunstmuseen für sehbehinderte Menschen die Barrierefreiheit von Kunstwerken verbessern können, ist die Erstellung spezieller Beschreibungen. Auch wenn blinde und sehbehinderte Menschen nicht über visuelle Anhaltspunkte verfügen, können sie andere Sinnesressourcen (z. B. den Hörsinn) nutzen, um mentale Bilder zu schaffen.
 
-Um diesen Prozess zu stimulieren, ist es äusserst wichtig, dass sehende Personen ihnen Werke, Umgebung und Kontext 'erzählen'. Dabei sollten sie spezifische Massnahmen berücksichtigen und das kommunikative Potenzial der gesprochenen Sprache nutzen, das seit jeher als Dreh- und Angelpunkt bei der Begegnung mit der Kunst gilt. Selbst wenn weitere Lösungen hinzukommen, bleibt die Beschreibung der Kunstwerke ein unverzichtbares Element.
+Um diesen Prozess zu stimulieren, ist es äusserst wichtig, dass sehende Personen ihnen die Werke, deren Kontext und die Umgebung, in der sie stehen, „erzählen“. Dabei sollten sie spezifische Massnahmen berücksichtigen und das kommunikative Potenzial der gesprochenen Sprache nutzen, das bei der Begegnung mit der Kunst seit jeher als Dreh- und Angelpunkt gilt. Selbst wenn noch weitere Lösungen zur Anwendung kommen, bleibt die Beschreibung der Kunstwerke ein unverzichtbares Element.
 
 ----
 
@@ -19,17 +18,17 @@ Article:
 
 - 
   option_type: one
-  section_title: Selezionare le opere
+  section_title: Die Kunstwerke auswählen
   content: |
-    **Potenziell können alle Kunstwerke 'erzählt' werden, und es wäre natürlich wünschenswert, dass die Kunstmuseen für all ihre ausgestellten Werke spezielle Beschreibungen erarbeiten, sodass das sehbehinderte Publikum dieselbe Anzahl von Werken nutzen kann wie die sehenden BesucherInnen. Tatsächlich aber ermöglicht schon die Auswahl einer begrenzten Anzahl von Kunstwerken, die Arbeit des Beschreibens nachhaltiger zu machen, und dies nicht nur für die Verfasser der Beschreibungen, sondern vor allem auch für deren NutzerInnen.**
+    **Potenziell können alle Kunstwerke „erzählt“ werden, und natürlich wäre es wünschenswert, dass die Kunstmuseen für all ihre ausgestellten Werke spezielle Beschreibungen erarbeiten, sodass das sehbehinderte Publikum dieselbe Anzahl von Werken nutzen kann wie die sehenden Besucherinnen und Besucher. Tatsächlich aber ermöglicht es schon die Auswahl einer begrenzten Anzahl von Kunstwerken, das Beschreiben nachhaltiger zu machen, und dies nicht nur für die Verfasser der Beschreibungen, sondern vor allem auch für deren Nutzerinnen und Nutzer.**
     
-    Die ausgestellten Kunstwerke individuell und spezifisch zu beschreiben, kann für ein Museum eine sehr aufwendige Arbeit sein. In diesem Zusammenhang ist Folgendes zu berücksichtigen: Während der Besuch einer Ausstellung schon für sehende Menschen anstrengend werden kann, ist dies für Menschen mit Sehproblemen noch wahrscheinlicher, da sie, um aufmerksam und konzentriert zu bleiben, einen besonderen Kraftaufwand leisten. Sie müssen nämlich nicht nur zuhören, sondern die gehörten Beschreibungen auch noch ausarbeiten und in mentale Bilder umwandeln, wobei sie auf ihr eigenes System der Sinneswahrnehmung und individuellen Verarbeitung sowie auf eventuelle visuelle Erinnerungen zurückgreifen können bzw. müssen. Schon die Auseinandersetzung mit einem einzigen Kunstwerk kann daher viel Zeit in Anspruch nehmen. Sich mit einer grossen Anzahl von Kunstwerken zu beschäftigen, kann ausserdem zu Verwirrung und Problemen bei der Auswertung der erhaltenen Informationen führen. Daher ist es zu empfehlen, die Beschreibung auf eine begrenzte Anzahl von Werken zu konzentrieren. Diese Anzahl ist variabel und von verschiedenen Faktoren abhängig, wie zum Beispiel der Art der betreffenden Mediationstätigkeit: Bei einem anderthalbstündigen Besuch sollten fünf bis sechs Werke beschrieben werden, bei einem zweistündigen Besuch mit sensorischer Integration dagegen maximal vier bis fünf.
+    Die ausgestellten Kunstwerke individuell und spezifisch zu beschreiben, kann für ein Museum mit einem grossen Arbeitsaufwand verbunden sein. In diesem Zusammenhang ist Folgendes zu berücksichtigen: Während der Besuch einer Ausstellung schon für sehende Menschen anstrengend werden kann, ist dies für Menschen mit Sehproblemen noch wahrscheinlicher, da sie viel Kraft aufbringen müssen, um aufmerksam und konzentriert zu bleiben. Sie müssen nämlich nicht nur zuhören, sondern die gehörten Beschreibungen zudem noch aufarbeiten und in mentale Bilder umwandeln, wobei sie auf ihr eigenes System der Sinneswahrnehmung und individuellen Verarbeitung sowie auf eventuelle visuelle Erinnerungen zurückgreifen können bzw. müssen. Schon die Auseinandersetzung mit einem einzigen Kunstwerk kann daher viel Zeit in Anspruch nehmen. Sich mit einer grossen Anzahl von Kunstwerken zu beschäftigen, kann ausserdem zu Verwirrung und Problemen bei der Auswertung der erhaltenen Informationen führen. Daher empfiehlt es sich, die Beschreibung auf eine begrenzte Anzahl von Werken zu konzentrieren. Diese Anzahl ist variabel und von verschiedenen Faktoren abhängig, wie zum Beispiel der Art der betreffenden Vermittlungstätigkeit: Bei einem anderthalbstündigen Besuch sollten fünf bis sechs Werke beschrieben werden, bei einem zweistündigen Besuch mit sensorischer Integration dagegen maximal vier bis fünf.
     
     Bei der Auswahl der zu beschreibenden Kunstwerke sollten die folgenden Kriterien angewandt werden:
 - 
   option_type: three
   section_title: Kunstwerke der Sammlung
-  content: 'Kunstwerke aus der museumseigenen Sammlung auszuwählen, ermöglicht es in erster Linie, den Zugang zum Kunst- und Kulturschatz der eigenen Region zu fördern. Eine solche Auswahl erleichtert zudem das Beschreiben (für das die Originalkunstwerke physisch zur Verfügung stehen müssen), und sie erlaubt es, die geleistete Arbeit im Laufe der Zeit wiederzuverwenden und beim Einsatz der erarbeiteten Beschreibungen grössere Freiheit walten zu lassen. Im Falle temporärer Ausstellungen, bei denen sowohl Werke der eigenen Sammlung als auch Leihgaben gezeigt werden, ist es empfehlenswert, vorrangig die Werke aus der eigenen Sammlung zu wählen.'
+  content: 'Kunstwerke aus der museumseigenen Sammlung auszuwählen, ermöglicht es in erster Linie, den Zugang zum Kunst- und Kulturschatz der eigenen Region zu fördern. Eine solche Auswahl erleichtert zudem das Beschreiben (für das die Originalkunstwerke physisch zur Verfügung stehen müssen), und sie erlaubt es, die einmal geleistete Arbeit im Laufe der Zeit wiederzuverwenden und beim Einsatz der erarbeiteten Beschreibungen grössere Freiheit walten zu lassen. Im Falle temporärer Ausstellungen, bei denen sowohl Werke der eigenen Sammlung als auch Leihgaben gezeigt werden, ist es empfehlenswert, vorrangig Werke aus der eigenen Sammlung zu wählen.'
 - 
   option_type: three
   section_title: Repräsentative Kunstwerke
@@ -40,9 +39,9 @@ Article:
     Beschreibungen entwickelt werden. In
     diesem Fall ist es angebracht, bei der
     Auswahl der Werke zu berücksichtigen,
-    was hinsichtlich Repräsentationswert,
-    Bedeutung und Zugehörigkeit der Werke
-    zu inhaltlichen Kernbereichen
+    was genau hinsichtlich ihres
+    Repräsentationswertes, ihrer Bedeutung
+    und ihrer inhaltlichen Zugehörigkeit
     hervorgehoben werden soll. Dieses
     letztere Kriterium ist auch bei einer
     späteren Auswahl von Werken der
@@ -52,23 +51,25 @@ Article:
   section_title: >
     Kunstwerke, die sich mit anderen Sinnen
     erforschen lassen
-  content: 'Befinden sich unter den verfügbaren Kunstwerken Objekte, die berührt oder mit anderen Sinnen (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: erforscht) werden können, sollten diese in die Auswahl aufgenommen werden. Ziel ist es dabei, multisensorische Mediationstätigkeiten einzuführen, die eine direkte Begegnung mit den Werken ermöglichen.'
+  content: 'Befinden sich unter den verfügbaren Kunstwerken Objekte, die (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: berührt) oder mit anderen Sinnen erforscht werden können, sollten diese in die Auswahl aufgenommen werden. Ziel ist es dabei, multisensorische Vermittlungstätigkeiten einzuführen, die eine direkte Begegnung mit den Werken ermöglichen.'
 - 
   option_type: three
-  section_title: Werke lebender Künstler
-  content: 'Stammen einige der zur Verfügung stehenden Kunstwerke von noch lebenden Künstlern, die das Publikum mit Sehproblemen eventuell anlässlich einer Mediationstätigkeit  (link: de/kit/opere/incontro-diretto#favorire-l’incontro-con-gli-artisti text: persönlich treffen) könnte, ist es empfehlenswert, diese Werke in die Auswahl miteinzubeziehen.'
+  section_title: >
+    Werke lebender Künstlerinnen und
+    Künstler
+  content: 'Stammen einige der zur Verfügung stehenden Kunstwerke von noch lebenden Kunstschaffenden, die das Publikum mit Sehproblemen eventuell anlässlich einer Vermittlungstätigkeit (link: de/kit/opere/incontro-diretto#favorire-l’incontro-con-gli-artisti text: persönlich treffen) könnte, empfiehlt es sich, diese Werke in die Auswahl einzubeziehen.'
 - 
   option_type: three
   section_title: >
     Werke, die sich im Rahmen einer
     multisensorischen Nutzung interpretieren
     lassen
-  content: 'Wenn es darum geht, dem Publikum eine multisensorische Nutzung zu ermöglichen, eignen sich bestimmte rein visuelle Kunstwerke besser als andere zur Interpretation. Für die Entwicklung spezifischer Mediationstätigkeiten ist es daher empfehlenswert, solche Werke zu beschreiben, die sich am besten für eine multisensorische “(link: kit/opere/mediazione-multisenoriale text: Übertragung)” eignen.'
+  content: 'Wenn es darum geht, dem Publikum eine multisensorische Nutzung zu ermöglichen, eignen sich bestimmte rein visuelle Kunstwerke besser als andere zur Interpretation. Für die Entwicklung spezifischer Vermittlungstätigkeiten ist es daher empfehlenswert, solche Werke zu beschreiben, die sich am besten für eine multisensorische (link: de/kit/opere/mediazione-multisenoriale text: Übertragung ) eignen.'
 - 
   option_type: three
   section_title: Standort innerhalb der Ausstellung
   content: |
-    Sollen die Beschreibungen innerhalb der Ausstellungsräume zu Gehör gebracht werden, sollte man die zu beschreibenden Werke auch mit Rücksicht auf ihren Standort im Raum auswählen. Das zu analysierende Objekt sollte bevorzugt von freiem Raum umgeben sein, dies sowohl bei einer Platzierung an der Wand (um die Sichtbarkeit des Kunstwerkes und die Orientierung zu fördern) als auch in dem für die BesucherInnen vorgesehenen Raum des Stehenbleibens und Betrachtens (um das Verweilen und die Mobilität zu erleichtern). Bei geführten Besichtigungen ist es ferner empfehlenswert, Stühle bereitzustellen, damit sich das Publikum vor das Kunstwerk setzen kann, sowie weitere Hilfsmittel (Tische, Pulte etc.) vorzusehen, auf denen das Material für multisensorische Tätigkeiten abgelegt werden kann.
+    Sollen die Beschreibungen innerhalb der Ausstellungsräume zu Gehör gebracht werden, sollte man die zu beschreibenden Werke auch mit Rücksicht auf ihren Standort auswählen. Das zu analysierende Objekt sollte bevorzugt von freiem Raum umgeben sein, dies gilt sowohl bei einer Platzierung an der Wand (um die Sichtbarkeit des Kunstwerkes und die Orientierung zu fördern) als auch in dem für die Besucherinnen und Besucher vorgesehenen Raum des Stehenbleibens und Betrachtens (um das Verweilen und die Mobilität zu erleichtern). Bei geführten Besichtigungen ist es ferner empfehlenswert, Stühle bereitzustellen, damit sich das Publikum vor das Kunstwerk setzen kann, sowie weitere Hilfsmittel (Tische, Pulte etc.) vorzusehen, auf denen das Material für multisensorische Tätigkeiten abgelegt werden kann.
     
     (image: esempio-di-attivita-01.jpg class: two-columns gallery selezione)
     (image: esempio-di-attivita-02.jpg class: two-columns gallery selezione)
@@ -78,20 +79,35 @@ Article:
     Die Sprache auf angemessene Art
     einsetzen
   content: |
-    **Schon die an ein sehendes Publikum gerichtete Erläuterung eines Kunstwerks fordert von der Führungsperson eine ausgeprägte Anpassungsfähigkeit an die verschiedenen BesucherInnen. Für Adressaten mit Sehproblemen gilt dies umso mehr, und hier sollte die Analyse des Bildes und die Gestaltung seiner Beschreibung besonders gut durchdacht sein, um die mentale Visualisierung des Bildes zu fördern: Zu viele Details oder lange, komplexe Sätze machen diese Phase kompliziert. **
+    **Schon die an ein sehendes Publikum gerichtete Erläuterung eines Kunstwerks fordert von der Führungsperson eine ausgeprägte Anpassungsfähigkeit an die verschiedenen Besucherinnen und Besucher. Für Adressaten mit Sehproblemen gilt dies umso mehr, und hier sollte die Analyse des Bildes und die Gestaltung seiner Beschreibung besonders gut durchdacht sein, um die mentale Visualisierung des Bildes zu fördern: Zu viele Details oder lange, komplexe Sätze machen dieses Vorhaben kompliziert.**
     
     Für einen angemessenen Einsatz der Sprache sollte man daher die folgenden Aspekte berücksichtigen:
 - 
   option_type: three
   section_title: Sprachregister und Terminologie
-  content: "Um das Verständnis und die Erarbeitung der bereitgestellten Inhalte zu erleichtern, ist eine umgangssprachliche Ausdrucksweise vorzuziehen, die nur bei Bedarf mit technischen Begriffen oder Fachausdrücken ergänzt werden sollte, deren Bedeutung allerdings stets erläutert werden muss. Am besten wird zunächst das betreffende Element genannt und erst anschliessend seine korrekte Definition (also besser '… Gelb, Rot und Blau, die in der Farbtheorie Grundfarben genannt werden' und nicht 'die Grundfarben, das heisst Gelb, Rot und Blau')."
+  content: >
+    Um dem Publikum das Verständnis und die
+    Erarbeitung der bereitgestellten Inhalte
+    zu erleichtern, ist eine
+    umgangssprachliche Ausdrucksweise
+    vorzuziehen. Nur bei Bedarf sollten
+    technische Begriffe oder Fachausdrücke
+    ergänzend eingesetzt werden, deren
+    Bedeutung allerdings stets erläutert
+    werden muss. Am besten wird zunächst
+    das betreffende Element genannt und erst
+    anschliessend seine korrekte Definition
+    (also besser „Gelb, Rot und Blau, die
+    in der Farbtheorie Grundfarben genannt
+    werden“ und nicht „die Grundfarben,
+    das heisst Gelb, Rot und Blau“).
 - 
   option_type: three
   section_title: Tabuworte
   content: |
-    Es kann vorkommen, dass Sehende es – in gutem Glauben oder aus Rücksichtnahme – vermeiden, bestimmte Wörter oder Redensarten zu verwenden, aus Angst, den sehbehinderten Gesprächspartner in Verlegenheit zu bringen oder zu kränken. Dieses Verhalten kann jedoch kontraproduktiv sein, da es bei einem Sehbehinderten unter Umständen ein Gefühl der Unangemessenheit entstehen lässt.
+    In gutem Glauben oder aus Rücksichtnahme vermeiden sehende Menschen es bisweilen, bestimmte Wörter oder Redensarten zu verwenden, aus Angst, den sehbehinderten Gesprächspartner in Verlegenheit zu bringen oder zu kränken. Dieses Verhalten kann jedoch kontraproduktiv sein, da es bei einem sehbehinderten Gegenüber unter Umständen ein Gefühl der Unangemessenheit hervorruft.
     
-    Begriffe wie 'sehen' oder 'anschauen' sind nicht als tabu einzustufen, sondern sollten frei verwendet werden, so wie es übrigens auch das Zielpublikum selbst tut. In diesem Sinne sind auch Begriffe wie 'Blinder' oder 'Sehbehinderter' dem vorsichtigen 'Nicht-Sehender' vorzuziehen, da das 'Nicht-' unmittelbar auf eine negative Bedeutung verweist. Hierbei ist zu berücksichtigen, dass diese sprachlichen Aspekte nicht nur vom subjektiven Empfinden des Einzelnen abhängen, sondern auch sehr stark von geografisch-kulturellen Zugehörigkeiten.
+    Begriffe wie „sehen“ oder „anschauen“ sind nicht als tabu einzustufen, sondern sollten frei verwendet werden, so wie es übrigens auch das Zielpublikum selbst tut. In diesem Sinne sind auch Begriffe wie „blind“ oder „sehbehindert“ dem vorsichtigen „nicht-sehend“ vorzuziehen, da das „Nicht „ unmittelbar auf eine negative Bedeutung verweist. Hierbei ist zu berücksichtigen, dass diese sprachlichen Aspekte nicht nur vom subjektiven Empfinden des Einzelnen abhängen, sondern auch sehr stark von geografisch-kulturellen Zugehörigkeiten.
 - 
   option_type: three
   section_title: Rhetorische Figuren
@@ -105,31 +121,44 @@ Article:
     charakterisieren. Sie reduzieren die
     Vieldeutigkeit der Objekte und
     kennzeichnen den künstlerischen
-    Charakter eines Werkes. Es ist jedoch
-    empfehlenswert, sie nur sparsam
-    einzusetzen, um den BesucherInnen für
-    die Konstruktion mentaler Bilder
-    genügend Raum zu geben.
+    Charakter eines Werkes. Sie sollten
+    jedoch nur sparsam eingesetzt werden, um
+    den Besucherinnen und Besuchern für die
+    Konstruktion mentaler Bilder genügend
+    Raum zu geben.
 - 
   option_type: three
   section_title: Orientierung
-  content: "Die Uhrzeit-Methode, die oft verwendet wird, um sich im Raum zu orientieren, ist auch nützlich, um die Position von Elementen innerhalb eines Kunstwerks zu beschreiben (z.B. 'auf zwölf Uhr befindet sich …'). Werden auch die Begriffe 'rechts' und 'links' verwendet, ist es wichtig anzugeben, in Bezug zu wem, da die rechte Seite des Publikums der linken Seite eines im Kunstwerk dargestellten Elements entspricht."
+  content: >
+    Die Uhrzeit-Methode, die oft verwendet
+    wird, um sich im Raum zu orientieren,
+    ist auch nützlich, um die Position von
+    Elementen innerhalb eines Kunstwerks zu
+    beschreiben (z.B. „auf zwölf Uhr
+    befindet sich…“). Werden zudem die
+    Begriffe „rechts“ und „links“
+    verwendet, ist es wichtig anzugeben, in
+    Bezug zu wem, da die rechte Seite des
+    Publikums der linken Seite eines im
+    Kunstwerk dargestellten Elements
+    entspricht.
 - 
   option_type: three
   section_title: Der Einsatz der Stimme
   content: >
-    Sich an einen Blinden oder
-    Sehbehinderten zu wenden, erfordert
-    nicht unbedingt eine wesentliche
-    Anpassung der eigenen Sprechweise. Im
-    Rahmen einer geführten Besichtigung
-    oder anderer Aktivitäten, die mehr oder
-    weniger lange Sprechmomente umfassen,
-    lässt sich das Zuhören jedoch
-    verständlicher und angenehmer
-    gestalten, indem man die Worte deutlich
-    ausspricht und den Klang der Stimme an
-    die jeweilige Situation anpasst.
+    Sich an einen blinden oder
+    sehbehinderten Menschen zu wenden,
+    erfordert nicht unbedingt eine
+    wesentliche Anpassung der eigenen
+    Sprechweise. Im Rahmen einer geführten
+    Besichtigung oder anderer Aktivitäten,
+    die mehr oder weniger lange
+    Sprechmomente umfassen, lässt sich das
+    Zuhören jedoch verständlicher und
+    angenehmer gestalten, indem man die
+    Worte deutlich ausspricht und den Klang
+    der Stimme an die jeweilige Situation
+    anpasst.
 - 
   option_type: three
   section_title: Leserhythmus
@@ -146,32 +175,32 @@ Article:
   option_type: one
   section_title: Die Elemente auswählen
   content: |
-    **Bei der Beschreibung eines Kunstwerks ist der Raum, den man den unterschiedlichen Aspekten des Werks zugesteht, einerseits abhängig von der Art des Kunstwerks und andererseits von dem für die Beschreibung verwendeten Hilfsmittel (siehe unten). Um die BesucherInnen nicht zu überfordern, was zu ihrer Ermüdung oder einem Verlust an Interesse führen würde, und um die Schaffung mentaler Bilder zu fördern, ist es von zentraler Bedeutung, die Anzahl der zu übermittelnden Informationen einzuschränken, indem man sich auf wichtige Informationen konzentriert und eine genaue Reihenfolge bei der Darlegung der Inhalte einhält.**
+    **Bei der Beschreibung eines Kunstwerks ist der Raum, den man den unterschiedlichen Aspekten des Werks zugesteht, einerseits abhängig von der Art des Kunstwerks und andererseits von dem Hilfsmittel, das für seine Beschreibung verwendet wird (siehe unten). Um die Besucherinnen und Besucher nicht zu überfordern, was zu ihrer Ermüdung oder nachlassendem Interesse führen würde, und um die Schaffung mentaler Bilder zu fördern, ist es von zentraler Bedeutung, die Anzahl der zu übermittelnden Informationen einzuschränken. Hierzu sollte man sich auf wichtige Informationen konzentrieren und eine genaue Reihenfolge bei der Darlegung der Inhalte einhalten.**
     
-    Nachfolgend sind diese Informationen aufgeführt, in Kategorien zusammengefasst und chronologisch geordnet:
+    Nachfolgend finden Sie die genannten Informationen; diese sind in Kategorien zusammengefasst und chronologisch geordnet:
 - 
   option_type: three
   section_title: Räumlicher Kontext
   content: >
-    Den Raum, in dem sich die Werke
-    befinden, beschreiben (z. B. Weite und
+    Beschreiben Sie den Raum, in dem sich
+    die Werke befinden (z. B. Weite und
     Höhe des Raums, Art der Beleuchtung,
-    Dichte der Ausstattung etc.) und die
-    Position der Werke innerhalb des
-    Ausstellungsraums erläutern.
+    Dichte der Ausstattung etc.), und
+    erläutern Sie die Position der Werke
+    innerhalb des Ausstellungsraums.
 - 
   option_type: three
   section_title: Allgemeine Informationen
   content: >
-    Den Namen des Künstlers, den Titel des
-    Kunstwerks sowie dessen Entstehungsjahr,
-    Herkunft, Ort der Aufbewahrung,
-    verwendete Technik und Abmessungen
-    angeben.
+    Nennen Sie den Namen des Künstlers, den
+    Titel des Kunstwerks sowie dessen
+    Entstehungsjahr, Herkunft und Ort der
+    Aufbewahrung sowie die verwendete
+    Technik und die Abmessungen.
 - 
   option_type: three
   section_title: Biografische Hinweise
-  content: 'Informationen zum Künstler bereitstellen, z. B. Nationalität, Geburts- und eventuelles Todesdatum, Ausbildung, Zugehörigkeit zu einer künstlerischen Bewegung und besondere Stilmerkmale.'
+  content: 'Stellen Sie Informationen zum Künstler bereit, z. B. Nationalität, Geburts- und eventuelles Todesdatum, Ausbildung, Zugehörigkeit zu einer künstlerischen Bewegung und besondere Stilmerkmale.'
 - 
   option_type: three
   section_title: Historisch-kultureller Kontext
@@ -184,18 +213,42 @@ Article:
 - 
   option_type: three
   section_title: Hauptthema
-  content: |
-    Um das Hauptthema eines Werks beschreiben zu können, ist es zunächst einmal nötig, dieses zu identifizieren. Bei figurativen Kunstwerken bezieht sich das Hauptthema für gewöhnlich auf das Dargestellte, bei abstrakten Werken dagegen kann es auch rein formeller oder konzeptueller Natur sein. Nachdem man das Hauptthema ausgemacht hat, sollte seine Beschreibung kurz gehalten werden und einem grundsätzlichen Schema folgen.
-    
-    Traditionell wird die Beschreibung von oben nach unten und von der linken Seite des Betrachters aus nach rechts entwickelt. Ferner kann man auch von aussen nach innen beschreiben. Für den Beginn der Beschreibung sind die formellen Aspekte wichtig (z. B. Farben, Stil), angefangen bei den physischen Grenzen des Kunstwerks (z. B. Rahmen). Im Anschluss kann auf die Details eingegangen werden (z. B. 'Dieses Gemälde ist rechteckig und ruht auf seiner längeren Seite. In der Mitte dargestellt ist ...' oder 'Diese Skulptur ist vertikal ausgerichtet, sie zeigt …').
+  content: >
+    Um das Hauptthema eines Werks
+    beschreiben zu können, ist es zunächst
+    einmal nötig, dieses zu identifizieren.
+    Bei figurativen Kunstwerken bezieht sich
+    das Hauptthema für gewöhnlich auf das
+    Dargestellte, bei abstrakten Werken
+    dagegen kann es auch rein formeller oder
+    konzeptueller Natur sein. Nachdem man
+    das Hauptthema ausgemacht hat, sollte
+    seine Beschreibung kurz gehalten werden
+    und einem grundsätzlichen Schema
+    folgen. Traditionell wird die
+    Beschreibung von oben nach unten und von
+    der linken Seite des Betrachters aus
+    nach rechts entwickelt. Ferner kann man
+    auch von aussen nach innen beschreiben.
+    Für den Beginn der Beschreibung sind
+    die formellen Aspekte wichtig (z. B.
+    Farben, Stil), angefangen bei den
+    physischen Grenzen des Kunstwerks (z. B.
+    Rahmen). Im Anschluss kann auf die
+    Details eingegangen werden (z. B.
+    „Dieses Gemälde ist rechteckig und
+    ruht auf seiner längeren Seite. In der
+    Mitte dargestellt ist ...“ oder
+    „Diese Skulptur ist vertikal
+    ausgerichtet, sie zeigt…“).
 - 
   option_type: three
   section_title: Technik, Form und Komposition
   content: >
     Beschrieben werden auch Formen, Licht,
     Farben, Proportionen, Dimensionen,
-    Umgang mit dem Raum (bildhaft für die
-    zweidimensionale, figurative Kunst),
+    Umgang mit dem Raum (bildlich in der
+    zweidimensionalen figurativen Kunst),
     Materialität und verwendete Technik.
     Diese kompositorischen und technischen
     Aspekte sind vorzugsweise
@@ -207,32 +260,35 @@ Article:
   option_type: three
   section_title: Symbolischer und evokativer Kommentar
   content: |
-    Ein Kommentar symbolischer und evokativer Natur wird von den BesucherInnen besonders geschätzt, da er ihnen – wenn auch auf subjektive Weise – gleich mehreres vermitteln kann: die Absicht des Künstlers, mögliche psychische und emotionale Auswirkungen auf sehende Betrachter, den künstlerischen Charakter des Werks und seine Einzigartigkeit.
+    Ein Kommentar symbolischer und evokativer Natur wird von den Besucherinnen und Besuchern besonders geschätzt, da er ihnen – wenn auch auf subjektive Weise – gleich mehreres vermitteln kann: die Absicht des Künstlers, mögliche psychische und emotionale Auswirkungen auf sehende Betrachter, den künstlerischen Charakter des Werks und seine Einzigartigkeit.
+    
     (image: selezionare-gli-elementi-01.jpg class: two-columns gallery elementi)
     (image: selezionare-gli-elementi-02.jpg class: two-columns gallery elementi)
 - 
   option_type: one
   section_title: Die Hilfsmittel wählen
   content: |
-    **Bei den Beschreibungen für ein Publikum mit Sehproblemen können verschiedene Hilfsmittel eingesetzt werden. Eine integrierte Entwicklung der Hilfsmittel ermöglicht es dem Publikum, das Hilfsmittel auszuwählen, das seinen Bedürfnissen am besten entspricht. Vorzuziehen sind jedoch die gesprochene Beschreibung durch einen Mediator im Falle geführter Besichtigungen sowie Sprachaufzeichnungen, die mit speziellen Geräten (Audioguides, Apps, Computer etc.) angehört werden können. Diese sind leicht einsetzbar, nachhaltig, für die BesucherInnen angenehm sowie transversal anwendbar, da sie auch von vielen anderen Publikumsarten genutzt werden können.**
+    **Bei den Beschreibungen für ein Publikum mit Sehproblemen können verschiedene Hilfsmittel eingesetzt werden. Eine integrierte Entwicklung der Hilfsmittel ermöglicht es dem Publikum, dasjenige Hilfsmittel auszuwählen, das seinen Bedürfnissen am besten entspricht. Vorzuziehen sind jedoch zum einen die gesprochene Beschreibung durch einen Vermittler im Falle geführter Besichtigungen und zum anderen Sprachaufzeichnungen, die mit speziellen Geräten (Audioguides, Apps, Computer etc.) angehört werden können. Letztere sind leicht einsetzbar, nachhaltig, für die Besucherinnen und Besucher angenehm sowie transversal anwendbar, da sie auch von vielen anderen Publikumsarten genutzt werden können. **
     
-    Generell existieren die vier folgenden Arten, um die Beschreibung eines Kunstwerks an das Publikum zu vermitteln:
+    Generell existieren die fünf folgenden Arten, um die Beschreibung eines Kunstwerks an das Publikum zu vermitteln:
 - 
   option_type: three
-  section_title: Texte in Brailleschrift für Blinde
+  section_title: >
+    Texte in Brailleschrift für blinde
+    Menschen
   content: |
-    Blinden Menschen Texte in Brailleschrift vorzulegen, kann sehr hilfreich sein, um kurze Informationen (z. B. Bildunterschriften) zu übermitteln.
+    Texte in Brailleschrift anzubieten, kann sehr hilfreich sein, um blinden Menschen kurze Informationen (z. B. Bildunterschriften) zu übermitteln.
     Anders verhält es sich bei längeren Texten, da das Lesen mit den Fingern unter Umständen viel Zeit beanspruchen kann. Ausserdem gibt es immer weniger Menschen, die die Brailleschrift korrekt lesen können. In den meisten Fällen sind die neuen Technologien effizienter, um Menschen mit Sehproblemen Zugang zu Informationen zu verschaffen.
 - 
   option_type: three
   section_title: >
     Texte in grossen Buchstaben für
-    Sehbehinderte
-  content: 'Sehbehinderten Menschen (link: de/kit/comunicazione/design text: Texte mit besonders grossen Buchstaben) vorzulegen, kann sehr effizient sein, um kurze Informationen (z. B. Bildunterschriften) zu übermitteln. Auch hier verhält es sich bei langen Texten anders. Zum einen kann das Lesen unter Umständen viel Zeit beanspruchen, und zum anderen sind die neuen Technologien in den meisten Fällen effizienter, um Menschen mit Sehproblemen Zugang zu Informationen zu verschaffen.'
+    sehbehinderte Menschen
+  content: '(link: de/kit/comunicazione/design text: Texte in besonders grossen Buchstaben anzubieten) ), kann sehr effizient sein, um sehbehinderten Menschen kurze Informationen (z. B. Bildunterschriften) zu übermitteln. Auch hier verhält es sich bei langen Texten anders. Zum einen kann das Lesen unter Umständen viel Zeit beanspruchen, zum anderen sind die neuen Technologien in den meisten Fällen effizienter, um Menschen mit Sehproblemen Zugang zu Informationen zu verschaffen.'
 - 
   option_type: three
   section_title: Texte im digitalen Format
-  content: 'Durch eine (link: kit/comunicazione/website  text: digitale Übermittlung ) schriftlicher Beschreibungen können die Inhalte über Hilfsmittel (z. B. die auf allen Computern oder Smartphones verfügbaren Anwendungen mit Sprachausgabe) auch von Menschen mit Sehproblemen genutzt werden. Die digitalen Texte können auf diesen Hilfsmitteln zusätzlich mithilfe von Vergrösserungsfunktionen visuell angepasst werden, sodass alle individuellen Bedürfnisse befriedigt werden. Doch auch wenn die Stimmen auf den Geräten mit Sprachausgabe der menschlichen Stimme immer ähnlicher werden, bleiben die elektronischen Stimmen doch nach wie vor relativ kalt und unpersönlich.'
+  content: 'Durch eine (link: de/kit/comunicazione/website  text: digitale Übermittlung ) schriftlicher Beschreibungen können die Inhalte über bestimmte Hilfsmittel (z. B. die auf allen Computern oder Smartphones verfügbaren Anwendungen mit Sprachausgabe) auch von Menschen mit Sehproblemen genutzt werden. Die digitalen Texte können auf diesen Hilfsmitteln zusätzlich mithilfe von Vergrösserungsfunktionen visuell angepasst werden, sodass alle individuellen Bedürfnisse befriedigt werden. Doch auch wenn die Ansagen auf den Geräten mit Sprachausgabe der menschlichen Stimme immer ähnlicher werden, bleiben die elektronischen Stimmen doch nach wie vor relativ kalt und unpersönlich.'
 - 
   option_type: three
   section_title: Gesprochene Sprache durch einen Menschen
@@ -241,8 +297,8 @@ Article:
     die mündliche Beschreibung als eine der
     besten Lösungen empfunden. Neben dem
     Anhören einer echten menschlichen
-    Stimme kann das Publikum zusätzlich den
-    Mediator befragen und um zusätzliche
+    Stimme kann das Publikum den Vermittler
+    zudem befragen und um zusätzliche
     Informationen oder Erklärungen bitten.
     Dies ist auch für den
     zwischenmenschlichen Austausch und das
@@ -251,11 +307,12 @@ Article:
   option_type: three
   section_title: Sprachaufzeichnungen
   content: |
-    Auch wenn Beschreibungen, die von einem Mediator vorgelesen und aufgezeichnet wurden und für die Sprachwiedergabe bestimmt sind, nicht an einen direkten mündlichen Vortrag heranreichen, sind sie doch für eine Nutzung auf Distanz (z. B. im Web) oder im Museum (z. B. Audioguide, Apps für Smartphones) interessant.
+    Beschreibungen, die von einem Vermittler vorgelesen und aufgezeichnet wurden und für die Sprachwiedergabe bestimmt sind, reichen zwar nicht an einen direkten mündlichen Vortrag heran, sind aber für eine Nutzung auf Distanz (z. B. im Web) oder auch im Museum (z. B. Audioguide, Apps für Smartphones) interessant.
     
     Aufzeichnungen, die in verschiedene Vertiefungsebenen strukturiert sind, ermöglichen zudem eine gewisse Autonomie beim Umgang mit den Inhalten: Man kann die Aufzeichnung stoppen, interessante Passagen mehrmals anhören oder sich bestimmte Passagen, die man anhören möchte, gezielt heraussuchen.
     
     Bei Sprachaufzeichnungen, die auf mehreren Ebenen organisiert sind, können die Werke zudem stärker vertieft werden. Die angepassten Audioguides müssen jedoch nicht zwangsläufig sämtliche in der Ausstellung vorhandenen Kunstwerke beschreiben, vielmehr kann dem Publikum auch hier eine Auswahl angeboten werden.
+    
     (image: scegliere-il-supporto-01.jpg class: two-columns gallery supporto)
     (image: scegliere-il-supporto-02.jpg class: two-columns gallery supporto)
 

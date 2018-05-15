@@ -2,10 +2,7 @@ Title: footer
 
 ----
 
-Author: 
-
-Vermittlung Kultur Inklusion.
-Labor für visuelle Kultur (SUPSI)
+Author: Vermittlung Kultur Inklusion. (link: http://www.supsi.ch/lcv text: Labor für visuelle Kultur (SUPSI) target: _blank)
 
 ----
 

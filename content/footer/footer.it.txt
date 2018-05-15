@@ -4,8 +4,8 @@ Title: footer
 
 Author: 
 
-Mediazione Cultura Inclusione.
-Laboratorio cultura visiva (SUPSI)
+Mediazione Cultura Inclusione
+(link: http://www.supsi.ch/lcv text: Laboratorio cultura visiva [SUPSI] target: _blank)
 
 ----
 

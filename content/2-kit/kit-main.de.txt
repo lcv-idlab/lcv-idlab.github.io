@@ -1,4 +1,4 @@
-Title: kit
+Title: Kit
 
 ----
 
@@ -10,11 +10,13 @@ Description:
 
 Die vorliegenden Leitlinien sollen professionelle Dienstleister dabei unterstützen, effiziente und einfach anpassbare Lösungen einzuführen, mit denen Kunstmuseen für sehbehinderte Menschen zugänglicher werden können.
 
-Diese Leitlinien, die als online einsehbares Toolkit angeboten werden, sind also ein für Museumsbetreiber und Kulturmediatoren frei verfügbares Hilfsmittel.
-Ausgewählt wurden die hier präsentierten Lösungen nach ihrer Effizienz hinsichtlich der Frage, inwieweit sie die Zugänglichkeit von Museen und die Inklusion des Zielpublikums in das Kunst- und Kulturleben zu fördern vermögen, da sie auf Grundlage ihrer finanziellen und technischen Implikationen imstande sind, die besonderen Bedürfnisse des Publikums ebenso zu berücksichtigen wie die Erfordernisse der Museumseinrichtungen.
+Diese Leitlinien werden als online einsehbares Toolkit angeboten und sind ein frei verfügbares Hilfsmittel für Museumsbetreiber und Kulturvermittler. 
 
-Zu diesem Zweck wurden die Lösungen in Zusammenarbeit mit der UNITAS und den Partnermuseen im Rahmen des  (link: de/progetto/abstract/it text: Projekts) getestet und bewertet.
-Wenn gewünscht, kann man sämtliche Lösungen integriert einsetzen oder aber nur die Lösungen, die sich für die eigene Institution am besten eignen, auswählen und umsetzen. Um diese Flexibilität in der Anwendung zu fördern, sind die Leitlinien in drei Haupttätigkeitsfelder unterteilt: Kommunikation, Kunstwerke und Orientierung/Mobilität.
+Ausgewählt wurden die hier präsentierten Lösungen nach ihrer Effizienz bezüglich der Frage, inwieweit sie die Barrierefreiheit von Museen und die Inklusion eines sehbehinderten Publikums in das Kunst- und Kulturleben zu fördern vermögen, da sie aufgrund ihrer finanziellen und technischen Implikationen sowohl die besonderen Bedürfnisse des Publikums als auch die Erfordernisse der Museumseinrichtungen berücksichtigen.
+
+Zu diesem Zweck wurden die Lösungen in Zusammenarbeit mit der UNITAS und den Partnermuseen im Rahmen des Projekts (link: de/progetto text: Mediazione Cultura Inclusione) getestet und bewertet.
+
+Wenn gewünscht, können sämtliche Lösungen integriert eingesetzt werden; es ist aber auch möglich, nur diejenigen Lösungen auszuwählen und umzusetzen, die sich für die eigene Institution am besten eignen. Um diese Flexibilität in der Anwendung zu fördern, sind die Leitlinien in drei Haupttätigkeitsfelder unterteilt: Kommunikation – Kunstwerke – Orientierung und Mobilität.
 
 Ferner werden drei mögliche Besuchstypen präsentiert: die multisensorische Führung, die eigenständige Besichtigung und die Nutzung von Kunstwerken auf Distanz. Für jeden dieser Besuchstypen kann jeweils eine Vorauswahl der benötigten Lösungen angezeigt werden.
 

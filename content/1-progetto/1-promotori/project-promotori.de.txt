@@ -1,0 +1,69 @@
+Title: Initiatoren
+
+----
+
+Promotori: 
+
+- 
+  name: SUPSI
+  place: Canobbio
+  url: http://www.supsi.ch
+  description: >
+    La Scuola universitaria professionale
+    della Svizzera italiana (SUPSI) è una
+    delle nove Scuole universitarie
+    professionali (SUP) riconosciute dalla
+    Confederazione Svizzera. Fondata su
+    diritto federale, la SUPSI offre più di
+    trenta corsi di laurea caratterizzati da
+    un insegnamento d’avanguardia che
+    unisce all’istruzione
+    teorico-scientifica classica un
+    orientamento professionale. Grande
+    attenzione è dedicata alla ricerca,
+    svolta in settori chiave attraverso
+    progetti acquisiti in modo competitivo
+    presso le grandi agenzie europee e
+    nazionali o su mandato di aziende e
+    istituzioni. Il progetto Mediazione
+    Cultura Inclusione è promosso dal
+    Laboratorio cultura visiva del
+    Dipartimento ambiente costruzioni e
+    design (DACD), in collaborazione con il
+    Dipartimento formazione e apprendimento
+    (DFA) e il Dipartimento economia
+    aziendale, sanità e sociale (DEASS).
+  logo: logo_supsi.jpg
+  colophon: promotore
+  logo_footer: footer_logo_supsi.jpg
+- 
+  name: Unitas
+  place: Tenero
+  url: http://www.unitas.ch
+  description: >
+    L’Associazione ciechi e ipovedenti
+    della Svizzera italiana (UNITAS),
+    sezione unica per la Svizzera italiana
+    della Federazione svizzera dei ciechi e
+    deboli di vista (FSC), si occupa della
+    salvaguardia degli interessi sociali,
+    giuridici, economici e culturali delle
+    persone cieche e ipovedenti e dei loro
+    parenti stretti; della gestione di
+    istituzioni e servizi, nonché della
+    promozione e dell’organizzazione di
+    attività che si indirizzano a persone
+    cieche e ipovedenti e che coinvolgano
+    nel limite del possibile i soci stessi;
+    dell’incoraggiamento
+    dell’integrazione professionale e
+    sociale delle persone cieche e
+    ipovedenti; dello svolgimento, coi mezzi
+    più appropriati, di un’efficace
+    sensibilizzazione per far comprendere le
+    necessità e le esigenze delle persone
+    cieche e ipovedenti alla popolazione,
+    all’economia e alle autorità.
+  logo: logo_unitas.jpg
+  colophon: promotore
+  logo_footer: footer_logo_unitas.jpg

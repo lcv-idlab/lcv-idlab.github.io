@@ -1,14 +1,14 @@
-Title: Digitale Daten zugänglich machen
+Title: Digitale Daten barrierefrei zugänglich machen
 
 ----
 
 Description: 
 
-Allen Menschen die Möglichkeit zu bieten, Informationen und in digitaler Form verbreitete Kulturangebote zu nutzen, gewinnt in unserer Zeit zunehmend an Bedeutung. Um insbesondere Menschen mit Sehproblemen den Zugang zu digitalen Informationen zu erleichtern, ist es zunächst einmal nötig, die wichtigsten Hilfsmittel, die den NutzerInnen zur Verfügung stehen, zu kennen und ihre Funktionsweise zu verstehen.
+In unserer Zeit wird die Forderung immer dringlicher, allen Menschen die Möglichkeit zu bieten, Informationen und in digitaler Form verbreitete Kulturangebote zu nutzen. Will man Menschen mit Sehproblemen den Zugang zu digitalen Informationen erleichtern, ist es zunächst nötig, die wichtigsten Hilfsmittel, die den Nutzerinnen und Nutzern zur Verfügung stehen, zu kennen und ihre Funktionsweise zu verstehen.
 
-Die digitale Zugänglichkeit hängt stets von den speziellen Bedürfnissen der NutzerInnen ab. So nutzen Blinde und hochgradig Sehbehinderte ausschliesslich die hinter dem visuellen Teil einer Website stehende (HTML-)Struktur; hierzu verwenden sie die Tastatur (Interaktion über den Tastsinn) sowie Geräte zur Sprachausgabe (Interaktion mittels Sprache und Tastsinn). Sehende und eingeschränkt Sehbehinderte dagegen vertrauen sich ausschliesslich dem visuellen Bereich der Website an, ohne den dahinterstehenden Teil zu beachten.
+Die digitale Barrierefreiheit hängt stets von den speziellen Bedürfnissen der Nutzerinnen und Nutzer ab. So nutzen blinde und hochgradig sehbehinderte Menschen ausschliesslich die hinter dem visuellen Teil einer Website stehende (HTML-)Struktur; hierzu verwenden sie die Tastatur (Interaktion über den Tastsinn) sowie Geräte zur Sprachausgabe (Interaktion mittels Sprache und Tastsinn). Sehende und eingeschränkt sehbehinderte Menschen dagegen vertrauen sich ausschliesslich dem visuellen Bereich der Website an, ohne den dahinterstehenden Teil zu beachten.
 
-In beiden Fällen aber sind die zu übermittelnden Informationen dieselben und es braucht Klarheit bei der Navigation sowie der Nutzung der Inhalte. Daher müssen sowohl Hintergrundstruktur (HTML) als auch visueller Teil (Design für die visuelle Kommunikation) gepflegt werden und korrekt funktionieren.
+In beiden Fällen aber sind die zu übermittelnden Informationen dieselben, und es braucht Klarheit bei der Navigation sowie der Nutzung der Inhalte. Daher müssen sowohl Hintergrundstruktur (HTML) als auch visueller Teil (Design für die visuelle Kommunikation) gepflegt werden und korrekt funktionieren.
 
 Im Folgenden werden nicht nur Hinweise zum Entwurf einer barrierefreien Website präsentiert, sondern auch Werkzeuge, mit denen überprüft werden kann, wie barrierefrei eine bereits existierende Website ist.
 
@@ -23,57 +23,62 @@ Article:
 - 
   section_title: Die Hilfsmittel
   content: |
-    Bei den Geräten, die Menschen mit Sehproblemen für einen Zugang zu digitalen Inhalten verwenden (z. B. Tablets, Computer, Smartphones), handelt es sich zunehmend um Ausführungen mit Touchscreen. Dies schränkt die Möglichkeit, über den Tastsinn zu interagieren (Tasten und Buchstaben müssen mit den Fingern erkannt werden), immer stärker ein. Für blinde Menschen ist der Einsatz von Tastatur und Audiofunktionen (z. B. bei Geräten mit Sprachausgabe) besonders wichtig, da diese es, sofern vorhanden, auch diesem Publikum erlauben, die entsprechenden Inhalte zu nutzen. Daher kann die Aktivierung der folgenden Gerätefunktionen hilfreich sein.
+    Bei den Geräten, die Menschen mit Sehproblemen für den Zugang zu digitalen Inhalten verwenden (z. B. Tablets, Computer, Smartphones), handelt es sich zunehmend um Ausführungen mit Touchscreen. Dies schränkt die Möglichkeit, mittels Tastatur über den Tastsinn zu interagieren (Tasten und Buchstaben müssen mit den Fingern erkannt werden), immer stärker ein. Für blinde Menschen ist der Einsatz von Tastatur und Audiofunktionen (z. B. bei Geräten mit Sprachausgabe) besonders wichtig, denn mithilfe dieser Vorrichtungen, sofern vorhanden, können auch sie die entsprechenden Inhalte nutzen. Daher kann die Aktivierung der folgenden Gerätefunktionen hilfreich sein:
     
     * Vergrösserung der Schrift eines Textes
     * Farbeinstellungen
-    * Verwendung eines Gerätes mit Sprachausgabe
+    * Sprachausgabe
     * Bilderkennung und Übertragung in Sprachform
     * Farb- und Lichtquellen-Erkennung
     * Strichcode-Scannen
     
-    Apple zum Beispiel hat bereits vor einigen Jahren eine Community namens AppleVis gegründet (Empowering blind and low-vision users of Apple products and related applications), die eine Reihe von zum Grossteil kostenlosen Apps für unterschiedlichste Anwendungsgebiete anbietet.
+    Apple zum Beispiel hat bereits vor einigen Jahren eine Community namens AppleVis gegründet (Empowering blind and low-vision users of Apple products and related applications), die eine Reihe von zumeist kostenlosen Apps für unterschiedlichste Anwendungsgebiete anbietet.
     
-    Beim Einsatz eines Computers muss man eines bedenken: Der Zugang zu Informationen über Geräte mit Sprachausgabe wird in erster Linie erst durch die Navigation per Tastatur möglich. Blinde Menschen verwenden keine Maus: Dieser Aspekt muss bei der Planung berücksichtigt werden.
+    Beim Einsatz eines Computers ist eines zu bedenken: Der Zugang zu Informationen über Geräte mit Sprachausgabe wird in erster Linie erst durch die Navigation per Tastatur möglich. Blinde Menschen verwenden keine Maus: Dieser Aspekt muss bei der Planung berücksichtigt werden.
   option_type: one
 - 
-  section_title: Die Planung der Zugänglichkeit
+  section_title: Die Planung der Barrierefreiheit
   content: |
-    Im Laufe der vergangenen Jahre hat sich die Nutzung des Webs stark weiterentwickelt und beschränkt sich nicht mehr auf das blosse Aufrufen von Inhalten am Computerbildschirm. Heute muss man beim Anlegen einer Website mit bedenken, dass die Inhalte später auf einer Vielzahl verschiedener Geräte angezeigt werden (z. B. Smartphones, Tablets, Spielkonsolen, Smart-TVs, IoT-Plattformen, Smartwatches). In diesem Zusammenhang spricht man von 'responsivem Design', also einer Web-Gestaltung, mit der sich die digitalen Inhalte an unterschiedliche Formate und Geräte anpassen lassen. Darüber hinaus ermöglichen es die meisten heutigen Anwendungen, Inhalte über die sozialen Netzwerke mit einer Vielzahl von NutzerInnen zu teilen, wodurch es zu einer Multiplikation der Verbreitungsmöglichkeiten und damit auch der Sichtbarkeit kommt.
+    Im Laufe der vergangenen Jahre hat sich die Nutzung des Webs stark weiterentwickelt und beschränkt sich nicht mehr auf das blosse Aufrufen von Inhalten am Computerbildschirm. Heute muss man beim Anlegen einer Website mit bedenken, dass die Inhalte später auf einer Vielzahl verschiedener Geräte angezeigt werden (z. B. Smartphones, Tablets, Spielkonsolen, Smart-TVs, IoT-Plattformen, Smartwatches). In diesem Zusammenhang spricht man von „responsivem Design”, also einer Web-Gestaltung, mit der sich die digitalen Inhalte an unterschiedliche Formate und Geräte anpassen lassen. Darüber hinaus ermöglichen es die meisten heutigen Anwendungen, Inhalte über die sozialen Netzwerke mit einer Vielzahl von Nutzerinnen und Nutzern zu teilen, wodurch es zu einer Multiplikation der Verbreitungsmöglichkeiten und damit auch der Sichtbarkeit kommt.
     
-    Aus diesem Grund existieren neben den auf einer Seite vorhandenen Texten, Bildern oder Videos auch eine Reihe von verborgenen Inhalten (Metadaten), Schlüsselwörtern und Codes. Diese ermöglichen nicht nur die Kommunikation der Anwendungen untereinander sowie die Rückverfolgbarkeit der Inhalte in den Suchmaschinen, sondern auch den Austausch der Daten zwischen Programmen, die sich an die unterschiedlichen NutzerInnen anpassen und damit die Nutzungsqualität verbessern können. Dass man den geschriebenen Text einer Website anhören kann, ist ein Beispiel für den Datenaustausch zwischen Anwendungen (HTML-Seite – Gerät mit Sprachausgabe), der auch Blinden und Sehbehinderten einen Zugang zu digitalen Inhalten ermöglicht.
+    Aus diesem Grund existieren neben den auf einer Seite vorhandenen Texten, Bildern oder Videos auch eine Reihe von verborgenen Inhalten (Metadaten), Schlüsselwörtern und Codes. Diese ermöglichen nicht nur die Kommunikation der Anwendungen untereinander sowie die Rückverfolgbarkeit der Inhalte in den Suchmaschinen, sondern auch den Austausch der Daten zwischen Programmen, die sich an die unterschiedlichen Nutzerinnen und Nutzer anpassen und damit die Nutzungsqualität verbessern können. Dass man den geschriebenen Text einer Website anhören kann, ist ein Beispiel für einen Datenaustausch zwischen Anwendungen (HTML-Seite – Gerät mit Sprachausgabe), der auch blinden und sehbehinderten Menschen einen Zugang zu digitalen Inhalten ermöglicht.
   option_type: one
 - 
-  section_title: Die NutzerInnen und ihre Bedürfnisse
+  section_title: >
+    Die Nutzerinnen und Nutzer und ihre
+    Bedürfnisse
   content: ""
   option_type: one
 - 
-  section_title: Für Blinde und hochgradig Sehbehinderte
+  section_title: >
+    Für blinde und hochgradig sehbehinderte
+    Menschen
   content: |
-    In ihrem Fall wird die Nutzung voll und ganz von der Struktur der HTML-Seite bestimmt, die vom Sprachausgaben-Gerät des Benutzers gelesen wird. Der gesamte grafische und visuelle Teil der Website wird (sofern im Code vorhanden) in eine Beschreibung übersetzt. Die HTML-Struktur der Seite muss, um zugänglich zu sein, die in dieser Sprache vorhandenen Elemente berücksichtigen und korrekt einsetzen. Insbesondere (link: https://developer.mozilla.org/de/docs/Web/HTML/HTML5 text: HTML5 target: blank) stellt spezielle und eindeutige Elemente zur Verfügung, die es erlauben, die Art der vorhandenen Inhalte zu kommunizieren und anzuzeigen.
+    In ihrem Fall wird die Nutzung voll und ganz von der Struktur der HTML-Seite bestimmt, die vom Sprachausgaben-Gerät des Benutzers gelesen wird. Der gesamte grafische und visuelle Teil der Website wird (sofern im Code vorhanden) in eine Beschreibung übersetzt. Die HTML-Struktur der Seite muss, um barrierefrei zu sein, die in dieser Sprache vorhandenen Elemente berücksichtigen und korrekt einsetzen. Insbesondere (link: https://developer.mozilla.org/de/docs/Web/HTML/HTML5 text: HTML5 target: blank) stellt spezielle und eindeutige Elemente zur Verfügung, die es erlauben, die Art der vorhandenen Inhalte zu kommunizieren und anzuzeigen.
     
-    Zum besseren Verständnis seien hier einige dieser Elemente genannt: Der Tag `<ul>` verweist auf eine Liste von Elementen; `<article>` ist ein Artikel (wie in einer Zeitung) einschliesslich des Kopfes (`<header>`) mit Titel und Inhalt; `<time>` beinhaltet Datum und/oder Uhrzeit, `<nav>` eine Reihe von Links für die Navigation etc.
+    Zum besseren Verständnis seien hier einige dieser Elemente genannt: Der Tag `<ul>` verweist auf eine Liste von Elementen; `<article>` bezeichnet einen Artikel (wie in einer Zeitung) einschliesslich des Kopfes (`<header>`) mit Titel und Inhalt; `<time>` beinhaltet Datum und/oder Uhrzeit, `<nav>` eine Reihe von Links für die Navigation etc.
     
-    Dank dieser semantischen „Behälter“ und der hierarchischen Seitenstruktur ist die Navigation mithilfe verschiedener Programme und Geräte mit Sprachausgabe auch für blinde Menschen problemlos möglich, indem sie sich je nach Interessengebiet über die Links der Seite oder die Navigationsleiste bewegen.
+    Dank dieser semantischen „Behälter“ und der hierarchischen Seitenstruktur ist die Navigation mithilfe verschiedener Programme und Geräte mit Sprachausgabe auch für blinde Menschen problemlos möglich, sie bewegen sich dabei je nach Interessengebiet über die Links der Seite oder die Navigationsleiste.
     
-    Damit dies machbar wird, muss die Programmierung der Seite korrekt durchgeführt sein. Als Tipp sollte man versuchen, dem allgemeinen Tag `<div>`, der keinerlei semantische Informationen beinhaltet, eine Funktion zur Strukturierung des Codes zuzuweisen, sodass das grafische Layout (mithilfe von CSS) umgesetzt werden kann.
+    Damit dies machbar wird, muss die Programmierung der Seite korrekt durchgeführt sein. Als Tipp sollte man versuchen, dem allgemeinen Tag `<div>`, der keinerlei semantische Informationen beinhaltet, eine Funktion zur Strukturierung des Codes zuzuweisen, sodass das grafische Layout (mithilfe von CSS - Cascading Style Sheets) umgesetzt werden kann.
     
-    Ein weiterer wichtiger Punkt: Alle Elemente – auch visuelle, wie z. B. Abbildungen oder Navigationselemente – müssen einen Alternativtext besitzen, der sie beschreibt. So kann ein Navigations-Icon (z. B. das Menü oder ein Pfeil für die Rückkehr zur vorherigen Seite), das im Code nicht entsprechend beschrieben ist, von einem Gerät mit Sprachausgabe nicht gelesen und folglich von Blinden auch nicht genutzt werden.
+    Ein weiterer wichtiger Punkt: Alle Elemente – auch visuelle, wie z. B. Abbildungen oder Navigationselemente – müssen einen Alternativtext besitzen, der sie beschreibt. So kann ein Navigations-Icon (z. B. das Menü oder ein Pfeil für die Rückkehr zur vorherigen Seite), das im Code nicht entsprechend beschrieben ist, von einem Gerät mit Sprachausgabe nicht gelesen und folglich von blinden Menschen auch nicht genutzt werden.
     
-    Die Beschreibung muss Redundanzen vermeiden. So ist ein Satz wie 'Die gewählte Abbildung zeigt eine Person...' zur Beschreibung einer Abbildung nicht notwendig, da der Tag `<img>`, den die HTML-Seite zum Anzeigen der Abbildung verwendet, dem Gerät mit Sprachausgabe bereits anzeigt, um welchen Typ es sich handelt, wodurch eine (link: de/kit/opere/descrizione text: zusätzliche Beschreibung) überflüssig wird.
     
-    Um die Hierarchie einer Seite zugänglich zu machen, muss man die Tags `<h1>`, `<h2>` etc. korrekt einsetzen. Die Hauptüberschrift der Seite muss mit dem Tag `<h1>` angegeben werden und darf nur einmal pro Seite verwendet werden. Der Tag `<h2>` ist für die Unterüberschrift bestimmt, die übrigen folgen nach Wichtigkeit geordnet (`<h1>` … `<h6>`).
+    Die Beschreibung muss Redundanzen vermeiden. So ist ein Satz wie „Die gewählte Abbildung zeigt eine Person...” zur Beschreibung einer Abbildung nicht notwendig, da der Tag `<img>`, den die HTML-Seite zum Anzeigen der Abbildung verwendet, dem Gerät mit Sprachausgabe bereits anzeigt, um welchen Typ es sich handelt, wodurch eine (link: de/kit/opere/descrizione text: zusätzliche Beschreibung) überflüssig wird.
     
-    Einige Elemente, die für die Navigation oder das Verständnis des Inhalts notwendig sind, können in den Code eingefügt werden. Wenn allerdings gewünscht ist, dass sie auf der Seite nicht sichtbar sind, reicht es aus, sie mit CSS zu 'verbergen'.
+    Um die Hierarchie einer Seite barrierefrei zu machen, muss man die Tags `<h1>`, `<h2>` etc. korrekt einsetzen. Die Hauptüberschrift der Seite muss mit dem Tag `<h1>` angegeben werden und darf nur einmal pro Seite verwendet werden. Der Tag `<h2>` ist für die Unterüberschrift bestimmt, die übrigen folgen nach Wichtigkeit geordnet (`<h1>` … `<h6>`).
+    
+    Einige Elemente, die für die Navigation oder das Verständnis des Inhalts notwendig sind, können in den Code eingefügt werden. Wenn allerdings gewünscht ist, dass sie auf der Seite nicht sichtbar sind, reicht es aus, sie mit CSS zu „verbergen”.
   option_type: three
 - 
   section_title: Für sehbehinderte Menschen
   content: |
-    Die Arten der Sehbehinderungen sind sehr vielfältig, und für jede einzelne von ihnen sind spezielle Massnahmen notwendig, die manchmal im Gegensatz oder Kontrast zu anderen Arten stehen. Es gibt zahlreiche Anwendungen, Geräte und Programme zur Unterstützung sehbehinderter Menschen bei der Nutzung des Webs (und der Lektüre im Allgemeinen), die spezifisch auf das jeweilige Krankheitsbild abgestimmt sind. Neben den Leitlinien für ein (link: de/kit/comunicazione/design text: inklusives Design der visuellen Kommunikation) sollte man zusätzlich auch einige spezielle Web-Elemente berücksichtigen.
+    Die Arten der Sehbehinderungen sind sehr vielfältig, und für jede einzelne von ihnen sind spezielle Massnahmen notwendig, die manchmal im Gegensatz oder Kontrast zu anderen Arten stehen. Es gibt zahlreiche Anwendungen, Geräte und Programme zur Unterstützung sehbehinderter Menschen bei der Nutzung des Webs (und der Lektüre im Allgemeinen), die spezifisch auf das jeweilige Krankheitsbild abgestimmt sind. Neben den Leitlinien für ein (link: de/kit/comunicazione/design text: inklusives Design der visuellen Kommunikation) sollte man aber zusätzlich auch einige spezielle Web-Elemente berücksichtigen.
     
-    Zuallererst muss die Website 'responsiv' sein, das heisst, sie muss sich anpassen und die Seiten-Elemente auf dem eingesetzten Endgerät jeweils neu positionieren (verfügbarer Raum und Bildschirmgrösse).
+    Zuallererst muss die Website „responsiv“ sein, das heisst, sie muss sich an das eingesetzte Endgerät anpassen und die Seiten-Elemente dort jeweils neu positionieren (je nach verfügbarem Raum und Bildschirmgrösse).
     
-    Damit Abbildungen und Texte besser sichtbar werden, muss der gesamte Inhalt der Website auf den Endgeräten auch vergrössert werden können (auch auf Tablets und Smartphones muss das einwandfreie Funktionieren sichergestellt sein). In der Folge müssen die vergrösserten Elemente (insbesondere das Navigationsmenü) gescrollt werden können. Ihre Position auf der Seite darf daher nicht zufällig gewählt werden, was vor allem Schlüssel-Elemente wie die der Navigation betrifft.
+    Damit Abbildungen und Texte besser sichtbar werden, muss der gesamte Inhalt der Website auf den Endgeräten auch vergrössert werden können (auch auf Tablets und Smartphones muss das einwandfreie Funktionieren sichergestellt sein). In der Folge müssen die vergrösserten Elemente (insbesondere das Navigationsmenü) gescrollt werden können. Ihre Position auf der Seite darf daher nicht zufällig gewählt werden, dies betrifft vor allem Schlüssel-Elemente wie die der Navigation.
     
     Das westliche Lesesystem – von links nach rechts und von oben nach unten – rückt den linken Teil der Seite in den Vordergrund. Es ist daher wichtig, grundlegende Elemente in diesem Bereich zu positionieren, da sie bei einer Anordnung im rechten Teil übersehen werden könnten.
   option_type: three
@@ -81,9 +86,10 @@ Article:
   section_title: Für sehende Menschen
   content: >
     Wenn eine digitale Information für
-    Blinde und Sehbehinderte zugänglich
-    ist, dann ist sie es auch für Sehende.
-    Die genannten Hinweise und Erwägungen
+    blinde und sehbehinderte Menschen
+    zugänglich ist, dann ist sie es auch
+    für sehende Nutzerinnen und Nutzer. Die
+    genannten Hinweise und Erwägungen
     gelten daher für das gesamte Publikum,
     da sie allen Besuchertypen eine optimale
     Nutzung garantieren. Darüber hinaus
@@ -100,37 +106,34 @@ Article:
   content: |
     Die zu übermittelnden und zu veröffentlichenden Informationen können vielfältiger Natur sein (z. B. Ausstellungen, Messen, Events, Archive, Interviews, Rezensionen, Treffen, Kooperationen, Workshops, Sponsoren, Kontakte, Kalender, Einschreibungen, News). Für ihre Verbreitung lassen sich verschiedenste Arten von Elementen einsetzen (z. B. Abbildungen, Texte, Formulare, Videos, Links, Listen).
     
-    Um für das Zielpublikum problemlos nutzbar und gut verständlich (zugänglich) zu sein, muss die Website klar, vollständig und eindeutig strukturiert und organisiert sein.
+    Damit die Website für das Zielpublikum problemlos nutzbar und gut verständlich (barrierefrei) wird, muss sie klar und vollständig sowie eindeutig strukturiert und organisiert sein.
     
     Der erste Schritt, um Ordnung in die zu veröffentlichenden Informationen zu bringen, besteht daher darin, die Struktur der Website zu planen. Hierdurch lässt sich eine Karte kreieren, die für die folgenden Punkte unerlässlich ist: Mit ihr kann man 1.) alle Inhalte, die für die verschiedenen Bereiche notwendig sind, anlegen oder wiederherstellen, 2.) eine Sprache für die visuelle Kommunikation schaffen (Design) und 3.) die Website selbst implementieren (Schreiben des Codes). Diese drei Arbeitsschritte müssen unbedingt in der angegebenen Reihenfolge ausgeführt werden, da sie jeweils kaskadenartig voneinander abhängig sind.
     
     Die logische Karte definiert die Hierarchie der Inhalte: von den allgemeineren Makrobereichen bis hin zu den einzelnen Inhalten für die Unterbereiche. Als Ausgangspunkt unterteilt man den Inhalt zunächst in immer spezifischere logische Typen und weist diese dann als Punkte und Unterpunkte der Hauptbereiche aus.
     
-    Inhalte, die man stärker hervorheben will, müssen eher 'an der Oberfläche' bleiben, sodass sie schneller erreichbar sind, während sich die weniger wichtigen Inhalte weiter 'in der Tiefe' befinden können. Um einzuschätzen, wie weit die Informationen von der Oberfläche entfernt sind, reicht es aus, die 'Klicks' zu zählen, die notwendig sind, um sie von der Startseite der Website aus zu erreichen.
+    Inhalte, die man stärker hervorheben will, müssen eher „an der Oberfläche” bleiben, sodass sie schneller erreichbar sind, während sich die weniger wichtigen Inhalte weiter „in der Tiefe” befinden können. Will man einschätzen, wie weit die Informationen von der Oberfläche entfernt sind, reicht es aus, die „Klicks” zu zählen, die notwendig sind, um sie von der Startseite der Website aus zu erreichen.
     
-    Natürlich kann nicht alles 'an der Oberfläche' bleiben, vielmehr muss man eine Auswahl treffen und eine Hierarchie festlegen, die mit der übereinstimmt, die die NutzerInnen beim Besuch der Website wahrnehmen. Die Hierarchie gibt eine unmittelbare Auskunft darüber, welche Bedeutung den einzelnen Inhalten von den GestalterInnen und BetreiberInnen einer Website beigemessen wird.
-  option_type: one
-- 
-  section_title: Forma e contenuti
-  content: |
-    Die Qualität und Vollständigkeit sowie der Spezialisierungs- bzw. Verallgemeinerungsgrad der Inhalte müssen das Informationsbedürfnis der NutzerInnen befriedigen und im Hinblick auf die Sprache und die Verlässlichkeit der Inhalte verständlich sein.
+    Natürlich kann nicht alles „an der Oberfläche” bleiben, vielmehr muss man eine Auswahl treffen und eine Hierarchie festlegen, die mit der übereinstimmt, die die Nutzerinnen und Nutzer beim Besuch der Website wahrnehmen. Die Hierarchie gibt unmittelbar Auskunft darüber, welche Bedeutung den einzelnen Inhalten von den Gestaltern und Betreibern einer Website beigemessen wird.
     
-    Die gewählten Abbildungen und Icons müssen lesbar und nutzbar sowie schlüssig und aussagekräftig sein, was die dargestellten Inhalte und die für die Website gewählte grafische Ausdrucksform betrifft. Eine Website im Vergleich zu anderen einzigartig zu gestalten und sie durch ästhetische und wahrnehmungsbezogene Entscheidungen von anderen unterscheidbar zu machen, ermöglicht angenehme und interessante Navigationserfahrungen und verbessert somit die Effizienz der Kommunikation.
+    Die Qualität und Vollständigkeit sowie der Spezialisierungs- bzw. Verallgemeinerungsgrad der Inhalte müssen das Informationsbedürfnis der Nutzerinnen und Nutzer befriedigen und im Hinblick auf die Sprache und die Verlässlichkeit der Inhalte verständlich sein.
     
-    Die zur Darstellung der vorhandenen Informationen gewählte visuelle und inhaltliche Form sollte zu den anderen Bereichen der Website passen, damit der Typ des Inhalts rasch erkennbar, die Navigation vereinfacht und der Zugang zu den Informationen unmittelbarer wird.
+    Die gewählten Abbildungen und Icons müssen gut lesbar und nutzbar sowie schlüssig und aussagekräftig sein, was die dargestellten Inhalte und die für die Website gewählte grafische Ausdrucksform betrifft. Ist eine Website im Vergleich zu anderen einzigartig gestaltet und wurde sie durch ästhetische und wahrnehmungsbezogene Entscheidungen von anderen unterscheidbar gemacht, ermöglicht dies angenehme und interessante Navigationserfahrungen und verbessert somit die Effizienz der Kommunikation.
+    
+    Die visuelle und inhaltliche Form, die man zur Darstellung der vorhandenen Informationen wählt, sollte zu den anderen Bereichen der Website passen, damit der Typ des Inhalts rasch erkennbar, die Navigation vereinfacht und der Zugang zu den Informationen unmittelbarer wird.
     
     Damit auch Menschen mit Sehbehinderungen sämtliche im visuellen Teil der Website sichtbaren Inhalte nutzen können, ist es wichtig, dass die Präsentation dieser Inhalte – gleich ob Texte, Abbildungen oder multimediale Elemente – unter Berücksichtigung der Regeln für ein inklusives Design geschieht. Ferner können Aspekte des Designs – wenn sie auf der gesamten Website kohärent umgesetzt werden – die hierarchische Gliederung der Inhalte unterstreichen und ihre Nutzung zusätzlich erleichtern.
   option_type: one
 - 
   section_title: >
-    Den Grad der Zugänglichkeit einer
+    Den Grad der Barrierefreiheit einer
     existierenden Website überprüfen
   content: |
-    Die heutige Gesellschaft ist immer stärker von verschiedensten Informationen, Ausdrucksformen und Medien unterschiedlicher Formate (Bilder, Audios und Videos) durchdrungen, die in der physischen und in der digitalen Realität verbreitet werden. Die ständige Weiterentwicklung der digitalen Welt macht es nicht einfach, ein Konzept zu finden, das für alle Arten von NutzerInnen und Geräten geeignet ist. Um die Qualität einer bereits existierenden Website zu überprüfen, können jedoch Kriterien zur Bewertung ihrer Zugänglichkeit verwendet werden. Anhand weiterer Kriterien lässt sich zudem feststellen, ob eine Interaktion hinsichtlich der Nutzererfahrungen zufriedenstellend und zugänglich ist (z. B. Benutzerfreundlichkeit).
+    Die heutige Gesellschaft ist immer stärker von verschiedensten Informationen, Ausdrucksformen und Medien unterschiedlicher Formate (Bilder, Audios und Videos) durchdrungen, die in der physischen und in der digitalen Realität verbreitet werden. Die ständige Weiterentwicklung der digitalen Welt macht es nicht einfach, ein Konzept zu finden, das für alle Arten von Nutzern und Geräten geeignet ist. Um die Qualität einer bereits existierenden Website zu überprüfen, können jedoch Kriterien zur Bewertung ihrer Barrierefreiheit verwendet werden. Anhand weiterer Kriterien lässt sich zudem feststellen, ob eine Interaktion hinsichtlich der Nutzererfahrungen zufriedenstellend und barrierefrei ist (z. B. Benutzerfreundlichkeit).
     
-    (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Das Diagramm legt dar, auf welche Weise Benutzerfreundlichkeit, Webstandard und Hilfstechnologien die Zugänglichkeit der Nutzung sicherstellen.)
+    (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Das Diagramm legt dar, auf welche Weise Benutzerfreundlichkeit, Webstandard und Hilfstechnologien die Barrierefreiheit bei der Nutzung sicherstellen.)
     
-    Um die Qualität einer Website zu überprüfen, gibt es zahlreiche (link: https://www.w3.org text: W3C-Zugänglichkeitsstandards  target: blank) sowie spezielle Standards für Sehbehinderte (siehe Literaturangaben). Was die spezifische Analyse des Zugänglichkeitsgrades einer Museums-Websites betrifft, kann man zudem auf Zugänglichkeitskriterien zurückgreifen, wie sie anlässlich (link: de/risorse/analisi-istituzionali text: institutioneller Analysen) festgelegt wurden, sowie auf die im beigefügten Zusatzmaterial empfohlenen Analyseinstrumente.
+    Um die Qualität einer Website zu überprüfen, gibt es bereits zahlreiche (link: https://www.w3.org text: W3C-Standards  target: blank) zur Barrierefreiheit sowie spezielle Standards für sehbehinderte Menschen (siehe Literaturangaben). Was die spezifische Analyse des Zugänglichkeitsgrades einer Museums-Websites betrifft, kann man zudem auf Zugänglichkeitskriterien zurückgreifen, wie sie anlässlich (link: de/risorse/analisi-istituzionali text: institutioneller Analysen) festgelegt wurden, sowie auf die im beigefügten Zusatzmaterial empfohlenen Analyseinstrumente.
   option_type: one
 
 ----

@@ -17,6 +17,14 @@ footer {
 
 			display: block;
 
+			a:link, a:visited, a:active {
+				border-bottom: none;
+			}
+
+			a:hover {
+				border-bottom: 1px solid;
+			}
+
 			@media screen and (min-width: $bp-medium) {
 				display: inline;
 			}

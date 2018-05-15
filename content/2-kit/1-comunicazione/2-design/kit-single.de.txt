@@ -4,12 +4,13 @@ Title: Inklusives Design
 
 Description: 
 
-Ein wichtiger Schritt, um die Kommunikation mit blinden und sehbehinderten Menschen zu ermöglichen, besteht darin, Informationen zu praktischen Aspekten, Orientierung oder Inhalten zugänglich zu machen. Die Entwicklung eines inklusiven Designs für die visuelle Kommunikation ermöglicht es in den meisten Fällen, sowohl für sehende BesucherInnen als auch für Menschen mit Sehproblemen eine effiziente und leicht zugängliche Kommunikation bereitzustellen, sei es in gedruckter oder digitaler Form (z. B. Museums-Website).
+Will man die Kommunikation mit blinden und sehbehinderten Menschen ermöglichen, besteht ein wichtiger Schritt darin, Informationen zu praktischen Fragen, zu Orientierung und Inhalten barrierefrei zugänglich zu machen. Die Entwicklung eines inklusiven Designs für die visuelle Kommunikation ermöglicht es in den meisten Fällen, sowohl für sehende Besucherinnen und Besucher als auch für Menschen mit Sehproblemen eine effiziente und leicht zugängliche Kommunikation bereitzustellen, sei es in gedruckter oder digitaler Form (z. B. Museums-Website).
 
-Alle Arten visueller Kommunikation dagegen sind für blinde und stark sehbehinderte Menschen wenig geeignet oder bleiben gänzlich ohne Auswirkungen: In ihrem Fall ist es von zentraler Bedeutung, auf andere, sehende Menschen, digitale Technologien (z. B. Geräte mit Sprachausgabe) oder Informationen in Reliefform zurückgreifen zu können.
-Die Entwicklung von Produkten in Reliefausführung ist geeignet, um kurze Inhalte (z. B. Bildunterschriften) zu übermitteln, den Zugang zu zweidimensionalen Kunstwerken zu fördern sowie die Orientierung und Mobilität im Raum zu erleichtern. Sollen dagegen detaillierte und umfassende Inhalte kommuniziert werden, kann die Reliefform nur schwerlich ebenso effizient und nachhaltig sein wie ein angemessener menschlicher Empfang und der strategische Einsatz digitaler Technologien.
+Für blinde und stark sehbehinderte Menschen dagegen sind alle Arten visueller Kommunikation wenig geeignet oder wirkungslos. In ihrem Fall ist es von zentraler Bedeutung, auf andere, sehende Menschen, digitale Technologien (z. B. Geräte mit Sprachausgabe) oder Informationen in Reliefform zurückgreifen zu können.
 
-Aus diesem Grund ist es empfehlenswert, transversale Lösungen zu erarbeiten und dabei mit gezielten Eingriffen auf mehreren Ebenen tätig zu werden. Zum einen sollten, wo möglich, alle notwendigen Massnahmen entwickelt oder angewandt werden, die die Lesbarkeit der Informationen in der gesamten visuellen Kommunikation verbessern. Zum anderen sollte eine komplementäre Kommunikation eingerichtet werden, in deren Mittelpunkt insbesondere die (link: de/kit/comunicazione/relazione-con-il-pubblico/ text: menschlichen Beziehungen) und die (link: de/kit/comunicazione/website text: digitale Kommunikation) stehen.
+Die Entwicklung von Produkten in Reliefausführung ist geeignet, um kurze Inhalte (z. B. Bildunterschriften) zu übermitteln, den barrierefreien Zugang zu zweidimensionalen Kunstwerken zu fördern sowie die Orientierung und Mobilität im Raum zu erleichtern. Sollen dagegen detaillierte und umfassende Inhalte kommuniziert werden, kann die Reliefform nur schwerlich ebenso effizient und nachhaltig sein wie ein angemessener (text: menschlicher Empfang link: de/kit/comunicazione/relazione-con-il-pubblico) oder der strategische Einsatz (text: digitaler Technologien link: de/kit/comunicazione/website).
+
+Aus diesem Grund empfiehlt es sich, transversale Lösungen zu erarbeiten und dabei mit gezielten Eingriffen auf mehreren Ebenen tätig zu werden. Zum einen sollten, wo möglich, alle notwendigen Massnahmen entwickelt oder angewandt werden, die die Lesbarkeit der Informationen in der gesamten visuellen Kommunikation verbessern. Zum anderen sollte eine komplementäre Kommunikation eingerichtet werden, in deren Mittelpunkt insbesondere die zwischenmenschlichen Beziehungen und die digitale Kommunikation stehen.
 
 ----
 
@@ -22,13 +23,13 @@ Article:
 - 
   option_type: one
   section_title: >
-    Das Auffinden und die Lesbarkeit der
-    visuellen Kommunikation für
+    Die Auffindbarkeit und die Lesbarkeit
+    der visuellen Kommunikation für
     sehbehinderte Menschen verbessern
   content: |
-    Um es sehbehinderten Menschen zu ermöglichen, Kommunikationsmittel zu nutzen, die ursprünglich für sehende Menschen bestimmt sind, müssen visuelle Information zunächst besser lesbar gemacht werden. Zu diesem Zweck gibt es bereits präzise Leitlinien, die für alle von den Museen verwendeten Hilfsmittel, ob in Papierformat oder digitaler Form, umsetzbar sind (Bildunterschriften, Wandbeschriftungen, Orientierungsschilder, Broschüren, Poster, Kataloge, Smartphone-Apps, Audioguides etc.).
+    Damit sehbehinderte Menschen Kommunikationsmittel nutzen können, die ursprünglich für sehende Menschen bestimmt sind, müssen visuelle Informationen zunächst besser lesbar gemacht werden. Zu diesem Zweck gibt es bereits präzise Leitlinien. Sie geben Auskunft darüber, wie herkömmliche Kommunikationsmittel – ob in Papierformat oder in digitaler Form – für sehbehinderte Menschen aufbereitet werden können (Bildunterschriften, Wandbeschriftungen, Orientierungsschilder, Broschüren, Poster, Kataloge, Smartphone-Apps, Audioguides etc.). Grundsätzlich sind alle Arten visueller Kommunikation für blinde und stark sehbehinderte Menschen wenig geeignet oder wirkungslos. Daher sollte eine komplementäre Kommunikation entwickelt werden, die besonders auf zwischenmenschliche Beziehungen sowie digitale Kommunikation ausgerichtet ist.
     
-    Werden diese Regeln streng und systematisch auf die gesamte institutionelle Kommunikation angewandt, schränken sie unter Umständen die kreativen Möglichkeiten der Designer ein, was sowohl für die visuelle Identität der Institution als auch für das sehende Publikum von Nachteil ist. Das Design der museumseigenen visuellen Kommunikation vollkommen neu zu gestalten, ist in vielen Fällen aber auch gar nicht notwendig. Vielmehr ist es möglich, das Design mithilfe spezieller Kunstgriffe so anzupassen, dass die Texte besser lesbar werden. Vorzugsweise werden also zunächst jene Hilfsmittel abgeändert, die die BesucherInnen im Museum informieren, orientieren, begleiten und führen (Website, Orientierungsschilder, Bildunterschriften etc.) und parallel dazu die Aspekte der (link: de/kit/orientamento/adattare-il-museo text: Inneneinrichtung und Ausstellungsausstattung) und (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen text: Ausstellungsausstattung) in Angriff genommen.
+    Werden diese Regeln streng und systematisch auf die gesamte institutionelle Kommunikation angewandt, schränken sie unter Umständen die kreativen Möglichkeiten der Designer ein, was sowohl für die visuelle Identität der Institution als auch für das sehende Publikum von Nachteil ist. Das Design der museumseigenen visuellen Kommunikation vollkommen neu zu gestalten, ist in vielen Fällen aber auch gar nicht notwendig. Vielmehr ist es möglich, das Design mithilfe spezieller Kunstgriffe so anzupassen, dass die Texte besser lesbar werden. Vorzugsweise werden zunächst jene Hilfsmittel abgeändert, die die Besucherinnen und Besucher im Museum informieren, orientieren, begleiten und führen (Website, Orientierungsschilder, Bildunterschriften etc.), parallel dazu können Aspekte der (link: de/kit/orientamento/adattare-il-museo text: Innenausstattung von Räumen ) und (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen text: Ausstellungen) in Angriff genommen werden.
 - 
   option_type: two
   section_title: >
@@ -41,7 +42,7 @@ Article:
   content: |
     Die Farbkontraste zwischen Inhalten (Texten und Abbildungen) und Hintergrund müssen deutlich und stark sein: Während der ideale Hintergrund für schwarze Elemente hell oder fast weiss ist, kann in einigen Fällen genau das Gegenteil angemessen sein (helle Elemente auf schwarzem Hintergrund).
     
-    Für die Gestaltung des Hintergrunds ist dringend abzuraten vom Einsatz von Farben mit wenig Kontrast zum Text sowie von mehreren Farben oder von Abbildungen. Diese erschweren sehbehinderten (und farbenblinden) Menschen das Identifizieren und Lesen der Informationen zusätzlich. Die Verwendung eines Hintergrunds ist daher nur dann zu empfehlen, wenn er klar von den geschriebenen Informationen getrennt ist.
+    Für die Gestaltung des Hintergrunds ist dringend davon abzuraten, Farben mit wenig Kontrast zum Text einzusetzen oder aber mehrere Farben oder Abbildungen zu verwenden. Diese erschweren sehbehinderten (und farbenblinden) Menschen das Identifizieren und Lesen der Informationen zusätzlich. Die Verwendung eines Hintergrunds ist daher nur dann zu empfehlen, wenn er klar von den geschriebenen Informationen getrennt ist.
     
     Sollte dies nicht möglich sein, ist es wichtig, die Texte möglichst stark zu vergrössern. Ferner können Textfelder mit grossen, weissen Rändern zwischen Hintergrund und Inhalten eingebaut werden.
     
@@ -57,11 +58,11 @@ Article:
   option_type: three
   section_title: Grösse
   content: |
-    Um für sehbehinderte Menschen lesbar zu sein, müssen die Abmessungen der Informationen (Texte und Abbildungen) weit über der Grösse liegen, die normalerweise für die Kommunikation mit Sehenden verwendet wird. Was beispielsweise den Text von Veröffentlichungen angeht, sollte die Schriftgrösse nicht unter 12 pt liegen, bei Bildunterschriften nicht unter 14 pt. Bei Grossformaten (z. B. Wandbeschriftungen oder Plakaten) ist es wichtig, 20 pt nicht zu unterschreiten.
+    Um für sehbehinderte Menschen lesbar zu sein, müssen die Abmessungen der Informationen (Texte und Abbildungen) weit über der Grösse liegen, die normalerweise für die Kommunikation mit sehenden Menschen verwendet wird. Was beispielsweise den Text von Veröffentlichungen angeht, sollte die Schriftgrösse nicht unter 12 pt liegen, bei Bildunterschriften nicht unter 14 pt. Bei Grossformaten (z. B. Wandbeschriftungen oder Plakaten) ist es wichtig, 20 pt nicht zu unterschreiten.
     
-    Erfolgt die Lektüre aus ca. einem Meter Abstand (z. B. bei Wandbeschriftungen), ist eine Schriftgrösse von mindestens 100 pt erforderlich, die mit jedem zusätzlichen Meter zum Betrachtungspunkt verdoppelt werden muss. Sollte dies nicht möglich sein, ist es empfehlenswert, entsprechende Saalbeschriftungen zu verwenden, auf denen die Informationen in grossen Schriftzeichen gedruckt sind (in diesem Fall ist es ebenso wie für die Audioguides wichtig, dass die entsprechenden Nummern an der Wand in grossen und klar erkennbaren Zeichen geschrieben sind). Die Bereitstellung der Inhalte in digitaler Form bietet sehbehinderten BesucherInnen eine zusätzliche Zugriffsmöglichkeit.
+    Erfolgt die Lektüre aus ca. einem Meter Abstand (z. B. bei Wandbeschriftungen), ist eine Schriftgrösse von mindestens 100 pt erforderlich, die mit jedem zusätzlichen Meter zum Betrachtungspunkt verdoppelt werden muss. Sollte dies nicht möglich sein, ist es empfehlenswert, entsprechende Saalbeschriftungen zu verwenden, auf denen die Informationen in grossen Schriftzeichen gedruckt sind (in diesem Fall ist es ebenso wie für die Audioguides wichtig, dass die entsprechenden Nummern an der Wand in grossen und klar erkennbaren Zeichen geschrieben sind). Die Bereitstellung der Inhalte in digitaler Form bietet sehbehinderten Besucherinnen und Besuchern eine zusätzliche Zugriffsmöglichkeit.
     
-    Sollte auch dies nicht möglich sein, sollte es dem Publikum erlaubt sein, mit dem eigenen Smartphone zu fotografieren, um die Inhalte auf dem Bildschirm vergrössern zu können. Denn anhand eines digitalen Hilfsmittels (Computer, Smartphone-Apps etc.) können die BenutzerInnen die visuellen Elemente bis zu den für sie idealen Abmessungen vergrössern. Der (link: de/kit/comunicazione/website text: digitale) Zugang zu Inhalten (insbesondere Texten) ist speziell für blinde Menschen sehr wichtig, da sie Informationen über Geräte mit Sprachausgabe selbstständig nutzen können.
+    Ist auch dies nicht möglich, sollte es dem Publikum erlaubt sein, mit dem eigenen Smartphone zu fotografieren, um die Inhalte auf dem Bildschirm vergrössern zu können. Denn anhand eines digitalen Hilfsmittels (Tablet, Smartphone-Apps etc.) können die Benutzerinnen und Besucher die visuellen Elemente bis zu den für sie idealen Abmessungen vergrössern. Der digitale (link: de/kit/comunicazione/website text: digitale) Zugang zu Inhalten (insbesondere Texten) ist speziell für blinde Menschen sehr wichtig, da sie Informationen über Geräte mit Sprachausgabe selbstständig nutzen können.
     
     (image: dimensioni-1.jpg class: gallery formati two-columns)
     (image: dimensioni-2.jpg class: gallery formati two-columns)
@@ -76,7 +77,7 @@ Article:
     
     Für eine Nutzung während des Museumsbesuchs müssen die Informationen auf Augenhöhe oder etwas unterhalb angebracht werden, da sie andernfalls selbst bei guter Lesbarkeit vom Zielpublikum nicht wahrgenommen bzw. erkannt werden. Speziell für Wandbeschriftungen ist es empfehlenswert, die Mittellinie bei etwa 150 cm zu halten und sie nicht über 200 cm Höhe zu platzieren.
     
-    Bei den Bildunterschriften sollte die Mittellinie nicht über 140 cm und nicht unter 90 cm Höhe liegen. Auch auf der (link: de/kit/comunicazione/website text: Website ) muss eine korrekte Positionierung der Informationen sichergestellt sein. Besonders wichtig ist dabei, dass dem Publikum die Verfügbarkeit der Informationen und der Hilfsmittel klar mitgeteilt wird.
+    Bei den Bildunterschriften sollte die Mittellinie nicht über 140 cm und nicht unter 90 cm Höhe liegen. Auch auf der (link: de/kit/comunicazione/website text: Website) muss eine korrekte Positionierung der Informationen sichergestellt sein. Besonders wichtig ist dabei, dass dem Publikum die Verfügbarkeit der Informationen und der Hilfsmittel klar mitgeteilt wird.
     
     (image: collocazione.jpg class: gallery collocazione)
 - 
@@ -106,15 +107,15 @@ Article:
   content: |
     Empfehlenswert ist auch die Verwendung von nur einer einzigen Schriftart. Römische Zahlen sollten vermieden werden; Grossbuchstaben und Ziffern dagegen müssen separat wiedergegeben und klar hervorgehoben werden. Der Einsatz von Grossbuchstaben sollte auf sehr kurze Texte beschränkt bleiben und ohne Kursivdruck und Unterstreichungen erfolgen.
     
-    Falls Wörter oder Sätze innerhalb eines Textes hervorgehoben werden müssen, ist der Fettdruck zu bevorzugen. Besonders wichtige Worte können auch eingerahmt werden. Zudem empfiehlt es sich, jeweils nur eine Textspalte zu verwenden.
+    Falls Wörter oder Sätze innerhalb eines Textes hervorgehoben werden müssen, ist Fettdruck zu bevorzugen. Besonders wichtige Worte können auch eingerahmt werden. Zudem empfiehlt es sich, jeweils nur eine Textspalte zu verwenden.
     
     Absätze müssen gut unterscheidbar und klar voneinander getrennt sein. Text im Blocksatz sollte vermieden werden, stattdessen wird der Text vorzugsweise links ausgerichtet, sodass sich das Auge ganz natürlich von einer Zeile zur nächsten bewegen kann.
     
     Ein Text auf einem vertikal ausgerichteten, schmalen und langen Träger (z. B. in Fahnen¬- oder Streifenform) ist für ein sehbehindertes Publikum nur schwer lesbar, da die Inhalte viele „künstliche“ Zeilenumbrüche aufweisen oder gar um 90° gedreht sind. Dies ist einem guten Überblick abträglich und kann sehbehinderten Menschen, die nur über ein eingeschränktes Gesichtsfeld verfügen, Probleme bereiten. Aus diesem Grund ist eine horizontale Ausrichtung der Texte vorzuziehen.
     
-    Für Veröffentlichungen ist es empfehlenswert, bei einer Schrifthöhe von 12 pt eine Anzahl von 62 Anschläge pro Zeile nicht zu überschreiten. Auch sollte die Textmenge pro Seite visuell keinen überladenen Eindruck machen. Hierzu sind Absätze mit jeweils maximal 20 Zeilen optimal. Für eine gute Lesbarkeit sollte ausserdem ein relativ grosser Zeilenabstand gewählt werden. Im Textverarbeitungsprogramm Word beispielsweise kann hierzu der Wert 1,5 eingegeben werden.
+    Für Veröffentlichungen ist es empfehlenswert, bei einer Schrifthöhe von 12 pt eine Anzahl von 62 Anschlägen pro Zeile nicht zu überschreiten. Auch sollte die Textmenge pro Seite visuell keinen überladenen Eindruck machen. Hierzu sind Absätze mit jeweils maximal 20 Zeilen optimal. Für eine gute Lesbarkeit sollte ausserdem ein relativ grosser Zeilenabstand gewählt werden. Im Textverarbeitungsprogramm Word beispielsweise kann hierzu der Wert 1,5 eingegeben werden.
     
-    Für grosse Formate ist es dagegen empfehlenswert, bei einer Schrifthöhe von 20 pt maximal 50 Anschläge pro Zeile zu verwenden und den Zeilenabstand mit dem Faktor 1,25 im Verhältnis zur Schrifthöhe zu steigern (bei Arial z. B. muss für die Schrifthöhe 20 pt ein Zeilenabstand von 25 pt vorgesehen werden).
+    Für grosse Formate dagegen empfiehlt es sich, bei einer Schrifthöhe von 20 pt maximal 50 Anschläge pro Zeile zu verwenden und den Zeilenabstand mit dem Faktor 1,25 im Verhältnis zur Schrifthöhe zu steigern (bei Arial z. B. muss für die Schrifthöhe 20 pt ein Zeilenabstand von 25 pt vorgesehen werden).
     
     (image: tipografia.jpg class: gallery tipografia)
 - 
@@ -126,20 +127,20 @@ Article:
   section_title: Abbildungen
   content: |
     Beinhaltet eine Kommunikation Abbildungen, sollten diese in Form und Inhalt klar, direkt und voneinander unterscheidbar sein. Komplexe Strukturen und Bildkompositionen sind möglichst zu vermeiden und die Zahl der darin enthaltenen Themen und Elemente auf ein Minimum zu reduzieren.
+    
     Für die Präsentation ein und desselben Konzeptes sollte immer dieselbe Abbildung verwendet werden. Hilfreich sind zumeist beigefügte Beschreibungen in Schriftform, die die visuellen Informationen besser verständlich machen.
     
     (image: immagini-1.jpg class: gallery immagini)
     (image: immagini-2.jpg class: gallery immagini)
 - 
   option_type: three
-  section_title: Piktogramme und Ikonen
+  section_title: Piktogramme und Icons
   content: |
-    Piktogramme und Ikonen sollen eine rasche und klare Kommunikation sicherstellen, ihr Ziel ist es, so selbsterklärend wie möglich zu sein. Am besten wird dies durch standardisierte Informationen gewährleistet, da ihre einfache Codierung auch vom Zielpublikum verstanden wird. Die Bedeutung der verwendeten Symbole muss klar ersichtlich sein: Die Piktogramme und Ikonen dürfen sich also nicht für verschiedene Deutungen eignen, sondern nur eine einzige, präzise Bedeutung besitzen.
+    Piktogramme und Icons sollen eine rasche und klare Kommunikation sicherstellen, ihr Ziel ist es, so selbsterklärend wie möglich zu sein. Am besten wird dies durch standardisierte Informationen gewährleistet, da ihre einfache Codierung auch vom Zielpublikum verstanden wird. Die Bedeutung der verwendeten Symbole muss dabei klar ersichtlich sein: Die Piktogramme und Icons dürfen sich also nicht für verschiedene Deutungen eignen, sondern nur eine einzige, präzise Bedeutung besitzen.
     
     Ihre grafische Darstellung muss ferner so einfach und direkt sein, dass sie eine rasche und klare Identifizierung ermöglicht.
     
-    Es ist zu empfehlen, nicht übermässig viele Piktogramme einzufügen. Vielmehr sollte ihre Anzahl begrenzt bleiben, und die Zeichen, die in den Ausstellungsräumen Verwendung finden, am Eingang des Museums mit ihrer jeweiligen Bedeutung erklärt werden. Dies gilt auch für gedruckte Publikationen; hier erleichtert eine Legende mit Zeichenerklärung die Verständlichkeit. Um rein visuelle Informationen verständlicher zu machen,  ist es hilfreich, ihnen Beschreibungen in Schriftform beizustellen.
-    
+    Es ist zu empfehlen, nicht übermässig viele Piktogramme einzufügen. Vielmehr sollte ihre Anzahl begrenzt bleiben. Die in den Ausstellungsräumen verwendeten Zeichen sollten zudem am Eingang des Museums erläutert werden. Dies gilt auch für gedruckte Publikationen; hier erleichtert eine Legende mit Zeichenerklärung die Verständlichkeit. Um rein visuelle Informationen verständlicher zu machen, ist es hilfreich, ihnen Beschreibungen in Schriftform beizustellen.
     
     (image: pittogrammi.jpg class: gallery pittogrammi)
 - 
@@ -148,7 +149,7 @@ Article:
     Eine gezielte Kommunikation für blinde
     und stark sehbehinderte Menschen
     entwickeln
-  content: 'Für blinde und stark sehbehinderte Menschen sind alle Arten der visuellen Kommunikation wenig geeignet oder bleiben gänzlich ohne Auswirkungen. Von besonderer Bedeutung sind hier Kommunikationsformen, die über die anderen Sinne genutzt werden können (insbesondere Gehör- und Tastsinn). Die Lektüre komplexer Reliefs wird zwar generell geschätzt, erfordert von den NutzerInnen aber viel Zeit. Ausserdem ist die Kenntnis der Brailleschrift immer weniger verbreitet, da zunehmend neue Technologien eingesetzt werden. Empfehlenswert ist daher die Entwicklung einer komplementären Kommunikation, in deren Mittelpunkt vor allem die (link: de/kit/comunicazione/relazione-con-il-pubblico text: menschlichen Beziehungen ) und die (link: de/kit/comunicazione/website text: digitale) Kommunikation stehen. Produkte in Reliefausführung sollten nur begrenzt Verwendung finden, so zur Übermittlung kurzer Inhalte (Bildunterschriften in Brailleschrift oder Nummern in Reliefform auf den Audioguides), für einen leichteren Zugang zu zweidimensionalen Kunstwerken sowie für eine bessere Orientierung und Mobilität im Raum.'
+  content: 'Für blinde und stark sehbehinderte Menschen sind alle Arten der visuellen Kommunikation wenig geeignet oder wirkungslos. Von besonderer Bedeutung sind hier Kommunikationsformen, die über die anderen Sinne genutzt werden können (insbesondere Gehör- und Tastsinn). Die Lektüre komplexer Reliefs wird zwar generell geschätzt, erfordert von den Nutzerinnen und Nutzern aber viel Zeit. Ausserdem ist die Kenntnis der Brailleschrift immer weniger verbreitet, da zunehmend neue Technologien eingesetzt werden. Empfehlenswert ist daher die Entwicklung einer komplementären Kommunikation, in deren Mittelpunkt vor allem die  (link: de/kit/comunicazione/relazione-con-il-pubblico text: zwischenmenschlichen Beziehungen ) und die (link: de/kit/comunicazione/website text: digitale) Kommunikation stehen. Produkte in Reliefausführung sollten nur begrenzt Verwendung finden, z. B. für die Übermittlung kurzer Inhalte (Bildunterschriften in Brailleschrift oder Nummern in Reliefform auf den Audioguides), für einen leichteren Zugang zu zweidimensionalen Kunstwerken sowie für eine bessere Orientierung und Mobilität im Raum.'
 
 ----
 

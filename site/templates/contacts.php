@@ -20,7 +20,7 @@
 	</div>
 
 	<section class="contacts-colophon">
-		<h2 class="title">colophon</h2>
+		<h2 class="title"><?php echo (l::get('colophon')) ?></h2>
 
 		<div class="colophon-container">
 
