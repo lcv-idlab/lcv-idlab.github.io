@@ -53,7 +53,7 @@ Download:
 
 ----
 
-Download-final-doc: Kit completo
+Download-final-doc: Komplettes Toolkit
 
 ----
 

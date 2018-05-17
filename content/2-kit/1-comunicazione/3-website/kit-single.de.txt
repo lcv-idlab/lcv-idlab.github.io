@@ -115,7 +115,11 @@ Article:
     Inhalte, die man stärker hervorheben will, müssen eher „an der Oberfläche” bleiben, sodass sie schneller erreichbar sind, während sich die weniger wichtigen Inhalte weiter „in der Tiefe” befinden können. Will man einschätzen, wie weit die Informationen von der Oberfläche entfernt sind, reicht es aus, die „Klicks” zu zählen, die notwendig sind, um sie von der Startseite der Website aus zu erreichen.
     
     Natürlich kann nicht alles „an der Oberfläche” bleiben, vielmehr muss man eine Auswahl treffen und eine Hierarchie festlegen, die mit der übereinstimmt, die die Nutzerinnen und Nutzer beim Besuch der Website wahrnehmen. Die Hierarchie gibt unmittelbar Auskunft darüber, welche Bedeutung den einzelnen Inhalten von den Gestaltern und Betreibern einer Website beigemessen wird.
-    
+  option_type: one
+- 
+  option_type: one
+  section_title: Form und Inhalt
+  content: |
     Die Qualität und Vollständigkeit sowie der Spezialisierungs- bzw. Verallgemeinerungsgrad der Inhalte müssen das Informationsbedürfnis der Nutzerinnen und Nutzer befriedigen und im Hinblick auf die Sprache und die Verlässlichkeit der Inhalte verständlich sein.
     
     Die gewählten Abbildungen und Icons müssen gut lesbar und nutzbar sowie schlüssig und aussagekräftig sein, was die dargestellten Inhalte und die für die Website gewählte grafische Ausdrucksform betrifft. Ist eine Website im Vergleich zu anderen einzigartig gestaltet und wurde sie durch ästhetische und wahrnehmungsbezogene Entscheidungen von anderen unterscheidbar gemacht, ermöglicht dies angenehme und interessante Navigationserfahrungen und verbessert somit die Effizienz der Kommunikation.
@@ -123,7 +127,6 @@ Article:
     Die visuelle und inhaltliche Form, die man zur Darstellung der vorhandenen Informationen wählt, sollte zu den anderen Bereichen der Website passen, damit der Typ des Inhalts rasch erkennbar, die Navigation vereinfacht und der Zugang zu den Informationen unmittelbarer wird.
     
     Damit auch Menschen mit Sehbehinderungen sämtliche im visuellen Teil der Website sichtbaren Inhalte nutzen können, ist es wichtig, dass die Präsentation dieser Inhalte – gleich ob Texte, Abbildungen oder multimediale Elemente – unter Berücksichtigung der Regeln für ein inklusives Design geschieht. Ferner können Aspekte des Designs – wenn sie auf der gesamten Website kohärent umgesetzt werden – die hierarchische Gliederung der Inhalte unterstreichen und ihre Nutzung zusätzlich erleichtern.
-  option_type: one
 - 
   section_title: >
     Den Grad der Barrierefreiheit einer

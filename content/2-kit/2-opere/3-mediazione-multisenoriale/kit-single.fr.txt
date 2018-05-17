@@ -24,7 +24,7 @@ Article:
 
 - 
   section_title: Sélectionner les œuvres
-  content: '**Dans la mesure où les œuvres à sélectionner pour en réaliser une interprétation sensorielle doivent également être décrites de façon adéquate, les critères de (link: kit/opere/descrizione#selezionare-le-opere text: sélection des œuvres) à décrire sont valables dans ce cas également. Si, potentiellement, toute œuvre peut être traduite dans d’autres perceptions, certaines s’y prêtent mieux que d’autres ou sont particulièrement appropriées pour un certain type de traduction. Aussi est-il important d’évaluer au cas par cas la pertinence de l’interprétation. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :**'
+  content: '**Dans la mesure où les œuvres à sélectionner pour en réaliser une interprétation sensorielle doivent également être décrites de façon adéquate, les critères de (link: fr/kit/opere/descrizione#selectionner-les-oeuvres text: sélection des œuvres) à décrire sont valables dans ce cas également. Si, potentiellement, toute œuvre peut être traduite dans d’autres perceptions, certaines s’y prêtent mieux que d’autres ou sont particulièrement appropriées pour un certain type de traduction. Aussi est-il important d’évaluer au cas par cas la pertinence de l’interprétation. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :**'
   option_type: one
 - 
   option_type: three
@@ -68,8 +68,8 @@ Article:
   option_type: two
   section_title: Interprétations tactiles
   content: |
-    **Si le fait d’offrir au public de référence la possibilité de (link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: toucher les œuvres originales) est fondamental, quand cela n’est pas possible ou quand cela est inefficace pour la construction d’images mentales (voir ci-dessus), il est possible d’intégrer le sens du toucher d’une autre façon.
-    Les possibilités d’interpréter tactilement une œuvre visuelle sont nombreuses et variées : pour identifier la plus appropriée, il est important d’examiner les caractéristiques de l’œuvre originale en sélectionnant les éléments qui se prêtent le plus à la traduction tactile. Si les critères de  (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour ce type d’interprétation sensorielle. Les solutions les plus faciles à mettre en œuvre sont :**
+    **Si le fait d’offrir au public de référence la possibilité de (link: fr/kit/opere/incontro-diretto#permettre-l-exploration-tactile text: toucher les œuvres originales) est fondamental, quand cela n’est pas possible ou quand cela est inefficace pour la construction d’images mentales (voir ci-dessus), il est possible d’intégrer le sens du toucher d’une autre façon.
+    Les possibilités d’interpréter tactilement une œuvre visuelle sont nombreuses et variées : pour identifier la plus appropriée, il est important d’examiner les caractéristiques de l’œuvre originale en sélectionnant les éléments qui se prêtent le plus à la traduction tactile. Si les critères de  (link: fr/kit/opere/descrizione#selectionner-les-elements text: sélection des éléments à décrire) valent également dans ce cas, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour ce type d’interprétation sensorielle. Les solutions les plus faciles à mettre en œuvre sont :**
 - 
   option_type: three
   section_title: Schéma en relief
@@ -113,7 +113,7 @@ Article:
     
     Son impact est encore plus incisif (et inclusif) quand il est possible d’écouter des sons et des morceaux musicaux dans les salles d’exposition à l’aide de haut-parleurs placés sur le parcours de visite. Cette modalité doit donc être préférée par rapport à l’écoute individuelle au moyen d’un audioguide ou d’autres dispositifs numériques.
     
-    En outre, il est important d’examiner les caractéristiques de l’œuvre originale pour sélectionner les éléments qui se prêtent le plus à la traduction sonore. Si les critères de (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants.
+    En outre, il est important d’examiner les caractéristiques de l’œuvre originale pour sélectionner les éléments qui se prêtent le plus à la traduction sonore. Si les critères de (link: fr/kit/opere/descrizione#selectionner-les-elements text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants.
     
     Les morceaux musicaux et les sons peuvent être sélectionnés parmi un corpus existant (p. ex. les enregistrements audio disponibles sur le marché) ou créés et enregistrés spécialement pour la médiation multisensorielle (dans ce cas, le recours à des ressources supplémentaires telles que par exemple l’intervention d’artistes, de techniciens du son, etc., est à prévoir).
     
@@ -186,7 +186,7 @@ Article:
     
     Les odeurs et les saveurs étant particulièrement incisives sur la perception, il est opportun de calibrer attentivement les interventions au cas par cas, en veillant à ne pas causer de gênes ou de troubles physiques aux participants.
     
-    Aussi, avant toute dégustation, est-il important de décrire les aliments ainsi que les ingrédients de chaque plat, et de demander au public de signaler, le cas échéant, intolérances, allergies ou régimes alimentaires spéciaux. Si les critères de (link: kit/opere/descrizione#selezionare-gli-elementi text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour être traduits en éléments gustatifs et olfactifs.
+    Aussi, avant toute dégustation, est-il important de décrire les aliments ainsi que les ingrédients de chaque plat, et de demander au public de signaler, le cas échéant, intolérances, allergies ou régimes alimentaires spéciaux. Si les critères de (link: fr/kit/opere/descrizione#selectionner-les-oeuvres text: sélection des éléments à décrire) valent également dans ce cas, le contexte historique et culturel, le sujet principal, la technique, la forme et la composition sont particulièrement importants pour être traduits en éléments gustatifs et olfactifs.
     
     Les aliments et les plats peuvent être sélectionnés parmi ceux déjà existants (p. ex. produits cuisinés préemballés et disponibles sur le marché) ou créés spécialement pour la médiation multisensorielle (dans ce cas, le recours à des ressources supplémentaires telles que par exemple l’intervention d’un chef, de personnel de restauration, etc., est à prévoir).
     

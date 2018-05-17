@@ -6,7 +6,7 @@ Description:
 
 Accéder au patrimoine artistique par ses propres sens permet de limiter le recours à la médiation en respectant en même temps les capacités du public.
 
-Les personnes malvoyantes peuvent être en mesure de percevoir les œuvres même visuellement si elles ont la possibilité de les observer de très près, d’utiliser les aides nécessaires pour améliorer la vue (loupes traditionnelles ou sur smartphone, lampes, etc.) et si les (link: kit/comunicazione/design#favorire-l-identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: informations relatives aux œuvres) sont transmises de manière adéquate.
+Les personnes malvoyantes peuvent être en mesure de percevoir les œuvres même visuellement si elles ont la possibilité de les observer de très près, d’utiliser les aides nécessaires pour améliorer la vue (loupes traditionnelles ou sur smartphone, lampes, etc.) et si les (link: fr/kit/comunicazione/design#favoriser-l-identification-et-la-lisibilite-de-la-communication-visuelle-pour-les-personnes-malvoyantes text: informations relatives aux œuvres) sont transmises de manière adéquate.
 
 Pour permettre l’approche et l’utilisation des aides et respecter en même temps les exigences institutionnelles (assurance et conservation), un (link: kit/orientamento/guidare-il-visitatore text: accompagnement ) du personnel du musée est sans aucun doute la solution la plus appropriée.
 
@@ -51,7 +51,7 @@ Article:
     
     En outre, s’arrêter sur un grand nombre d’œuvres peut créer de la confusion et des difficultés d’élaboration des informations. Pour répondre à la fois aux besoins des institutions et du public, il est conseillé d’opérer une sélection des œuvres. Le nombre d’œuvres varie également en fonction l’activité de médiation proposée : à titre indicatif, pour une visite guidée avec des compléments sensoriels d’une durée de deux heures, il est conseillé d’approfondir 4-5 œuvres.
     
-    Dans la mesure où les  (link: kit/opere/descrizione#selezionare-le-opere  text: œuvres à sélectionner) pour l’exploration tactile doivent également être décrites de façon adéquate, les critères de sélection des œuvres à décrire valent également dans ce cas. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :
+    Dans la mesure où les  (link: fr/kit/opere/descrizione#selectionner-les-oeuvres text: œuvres à sélectionner) pour l’exploration tactile doivent également être décrites de façon adéquate, les critères de sélection des œuvres à décrire valent également dans ce cas. Certains critères supplémentaires peuvent être pris en compte pour faciliter la sélection :
 - 
   option_type: three
   section_title: Format
@@ -87,7 +87,7 @@ Article:
   option_type: three
   section_title: Éclairage
   content: |
-    Pour favoriser l’accès aux œuvres, un bon (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: éclairage des espaces) et des œuvres est très important, toutefois l’exposition à une source de lumière directe peut potentiellement causer des dommages aux œuvres exposées.
+    Pour favoriser l’accès aux œuvres, un bon (link: fr/kit/orientamento/adattare-il-museo#eclairage text: éclairage des espaces) et des œuvres est très important, toutefois l’exposition à une source de lumière directe peut potentiellement causer des dommages aux œuvres exposées.
     
     Pour être perçues par le public de référence, il est cependant nécessaire qu’elles soient bien éclairées, de préférence au moyen d’une lumière diffuse. Cependant, il ne faut pas exagérer : le blanc absolu peut aussi créer un éblouissement qui gêne la vue résiduelle.
     
@@ -97,14 +97,14 @@ Article:
 - 
   option_type: three
   section_title: Coloration des murs
-  content: "Pour la coloration des murs des espaces d’exposition, les suggestions  fournies pour les (link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: espaces communs) communs s’appliquent. En plus d’aider l’orientation, le fait de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc favorise l’identification et la visibilité des œuvres exposées."
+  content: 'Pour la coloration des murs des espaces d’exposition, les suggestions  fournies pour les (link: fr/kit/orientamento/adattare-il-museo#elements-d-ameublement text: espaces communs) communs s’appliquent. En plus d’aider l’orientation, le fait de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc favorise l’identification et la visibilité des œuvres exposées.'
 - 
   option_type: three
   section_title: >
     Positionnement des œuvres et des
     informations correspondantes
   content: |
-    Pour favoriser l’identification et l’observation des œuvres exposées, ainsi que la consultation des contenus disponibles dans l’espace d’exposition, tels que par exemple les introductions aux expositions et les légendes, il est conseillé de les (link: kit/comunicazione/design#favorire-l’identificazione-e-la-leggibilit�-della-comunicazione-visiva-per-le-persone-ipovedenti text: placer) à la hauteur des yeux ou un peu plus bas, car sinon, même si elles sont lisibles, elles ne sont pas perçues et identifiées par le public de référence.
+    Pour favoriser l’identification et l’observation des œuvres exposées, ainsi que la consultation des contenus disponibles dans l’espace d’exposition, tels que par exemple les introductions aux expositions et les légendes, il est conseillé de les (link: fr/kit/comunicazione/design#favoriser-l-identification-et-la-lisibilite-de-la-communication-visuelle-pour-les-personnes-malvoyantes text: placer) à la hauteur des yeux ou un peu plus bas, car sinon, même si elles sont lisibles, elles ne sont pas perçues et identifiées par le public de référence.
     
     Comme pour les textes muraux, il est conseillé de maintenir la ligne médiane à 150 cm et de ne pas placer les œuvres à plus de 200 cm de hauteur. En ce qui concerne les légendes, la ligne médiane ne devrait pas être au-dessus de 140 cm ni au-dessous de 90 cm.
     
@@ -113,7 +113,7 @@ Article:
   option_type: three
   section_title: Sonore
   content: |
-    En plus d’être important pour l’(link: kit/orientamento/adattare-il-museo#elementi-d'arredo text: l’orientation), le fait de soigner les aspects sonores peut être fondamental pour favoriser la perception d’œuvres audio ou audiovisuelles. Quand ils sont présents, les éléments audio doivent être signalés de façon appropriée et, si possible, être accessibles au moyen d’écouteurs.
+    En plus d’être important pour l’(link: fr/kit/orientamento/adattare-il-museo#elements-d-ameublement text: l’orientation), le fait de soigner les aspects sonores peut être fondamental pour favoriser la perception d’œuvres audio ou audiovisuelles. Quand ils sont présents, les éléments audio doivent être signalés de façon appropriée et, si possible, être accessibles au moyen d’écouteurs.
     
     Le son doit être clair, de bonne qualité, dépourvu de bruit de fond et synthétique dans l’exposition des contenus. Pour limiter des effets de réverbération et de mauvaise diffusion du son, nous suggérons d’utiliser des matériaux absorbants au sol et au plafond et des revêtements isolants sur les murs.
     La quantité de décibels conseillée pour une salle va de 40 à 50 db. Quand il n’est pas possible de disposer d’écouteurs, régler toujours le volume sonore dans les salles de façon à ce qu’il ne soit ni trop invasif ni trop faible.

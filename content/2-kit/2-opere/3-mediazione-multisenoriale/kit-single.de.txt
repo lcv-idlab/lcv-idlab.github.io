@@ -27,7 +27,7 @@ Article:
 - 
   section_title: Die Kunstwerke auswählen
   content: |
-    **Auch die Kunstwerke, die für eine sensorische Interpretation ausgewählt werden, müssen angemessen beschrieben werden; für diesen Fall gelten wiederum dieselben Kriterien wie für die   (link: de/kit/opere/descrizione#selezionare-le-opere text: Auswahl der zu beschreibenden Werke).
+    **Auch die Kunstwerke, die für eine sensorische Interpretation ausgewählt werden, müssen angemessen beschrieben werden; für diesen Fall gelten wiederum dieselben Kriterien wie für die   (link: de/kit/opere/descrizione#die-kunstwerke-auswahlen text: Auswahl der zu beschreibenden Werke).
     Auch wenn potenziell jedes Kunstwerk in andere Wahrnehmungsarten übertragen werden kann, sind einige doch besser (oder in besonderem Masse) für eine bestimmte Art der Übertragung geeignet. Aus diesem Grund ist es wichtig, die Zweckdienlichkeit der Interpretation jedes Mal neu zu bewerten. Zur Erleichterung der Auswahl können die folgenden Zusatzkriterien berücksichtigt werden.**
   option_type: one
 - 
@@ -73,8 +73,8 @@ Article:
   option_type: two
   section_title: Taktile Interpretation
   content: |
-    **Natürlich ist es von grundlegender Bedeutung, dem Zielpublikum die Möglichkeit zu bieten,  (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: Originalwerke zu berühren). Ist dies nicht möglich oder für die Konstruktion mentaler Bilder (siehe oben) nicht hilfreich, kann der Tastsinn durch andere Hilfsmittel ergänzt werden.
-    Es existieren zahlreiche Arten, ein visuelles Kunstwerk mit dem Tastsinn zu erkunden. Um die hierfür passendste Art zu finden, ist es entscheidend, die Besonderheiten des Originalkunstwerks auszuloten und jene Elemente auszuwählen, die sich für eine taktile Erkundung am besten eignen. Die zuvor dargelegten Kriterien für die (link: de/kit/opere/descrizione#selezionare-gli-elementi text: Auswahl der zu beschreibenden Elemente ) haben auch hier Gültigkeit. Hauptthema, Technik, Form und Komposition eines Werkes sind für diese Art der sensorischen Interpretation von besonderer Bedeutung. Nachfolgend sind die am einfachsten umzusetzenden Möglichkeiten dargestellt.**
+    **Natürlich ist es von grundlegender Bedeutung, dem Zielpublikum die Möglichkeit zu bieten,  (link: de/kit/opere/incontro-diretto#eine-taktile-erkundung-ermoglichen text: Originalwerke zu berühren). Ist dies nicht möglich oder für die Konstruktion mentaler Bilder (siehe oben) nicht hilfreich, kann der Tastsinn durch andere Hilfsmittel ergänzt werden.
+    Es existieren zahlreiche Arten, ein visuelles Kunstwerk mit dem Tastsinn zu erkunden. Um die hierfür passendste Art zu finden, ist es entscheidend, die Besonderheiten des Originalkunstwerks auszuloten und jene Elemente auszuwählen, die sich für eine taktile Erkundung am besten eignen. Die zuvor dargelegten Kriterien für die (link: de/kit/opere/descrizione#die-kunstwerke-auswahlen text: Auswahl der zu beschreibenden Elemente ) haben auch hier Gültigkeit. Hauptthema, Technik, Form und Komposition eines Werkes sind für diese Art der sensorischen Interpretation von besonderer Bedeutung. Nachfolgend sind die am einfachsten umzusetzenden Möglichkeiten dargestellt.**
 - 
   option_type: three
   section_title: Reliefbild
@@ -118,7 +118,7 @@ Article:
     
     Die Wirkung von Audio-Interpretationen ist noch stärker (und inklusiver), wenn das Publikum in den Ausstellungsräumen über Lautsprecher Klänge und Musik anhören kann, die entlang des Besichtigungsrundganges angebracht sind. Diese Modalität ist dem individuellen Zuhören mittels Audioguides oder anderen digitalen Hilfsmitteln vorzuziehen.
     
-    Weiterhin ist es wichtig, die Besonderheiten des Originalkunstwerkes auszuloten, um Elemente auszuwählen, die sich für eine Übertragung am besten eignen. Die zuvor dargestellten Kriterien zur (link: de/kit/opere/descrizione#selezionare-gli-elementi text: Auswahl der zu beschreibenden Elemente) haben zwar auch in diesem Fall ihre Gültigkeit, doch von zentraler Bedeutung sind hier vor allem historischer und kultureller Kontext, Hauptthema, Technik, Form und Komposition des Werkes.
+    Weiterhin ist es wichtig, die Besonderheiten des Originalkunstwerkes auszuloten, um Elemente auszuwählen, die sich für eine Übertragung am besten eignen. Die zuvor dargestellten Kriterien zur (link: de/kit/opere/descrizione#die-kunstwerke-auswahlen text: Auswahl der zu beschreibenden Elemente) haben zwar auch in diesem Fall ihre Gültigkeit, doch von zentraler Bedeutung sind hier vor allem historischer und kultureller Kontext, Hauptthema, Technik, Form und Komposition des Werkes.
     
     Die Musikstücke und Klänge können aus dem bereits existierenden Angebot ausgewählt werden (z. B. auf dem Markt erhältliche Musikaufnahmen) oder eigens für die multisensorische Vermittlung aufgezeichnet werden. In letzterem Falle müssen unter Umständen zusätzliche Ressourcen in Anspruch genommen werden (z. B. die Mitarbeit von Künstlern oder Technikern). Für die Gestaltung von Audio-Interpretationen kommen die folgenden Modalitäten in Betracht.
 - 

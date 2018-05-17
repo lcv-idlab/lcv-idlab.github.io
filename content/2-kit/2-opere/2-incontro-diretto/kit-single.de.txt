@@ -6,7 +6,7 @@ Description:
 
 Wird das kulturelle Erbe möglichst barrierefrei präsentiert, sodass blinde und sehbehinderte Menschen es über ihre eigenen Sinne nutzen können, lässt sich der Rückgriff auf die persönliche Vermittlung begrenzen, während zugleich die Fähigkeiten des Publikums stärker wertgeschätzt werden.
 
-Sehbehinderte Menschen können Kunstwerke oft auch visuell nutzen, wenn sie diese aus sehr geringer Entfernung betrachten dürfen, wenn sie besondere Sehhilfen verwenden können (herkömmliche oder Smartphone-Lupen, Taschenlampen etc.) oder wenn ihnen die  (link: de/kit/comunicazione/design#favorire-l-identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: Informationen zu den Kunstwerken) auf geeignete Art vermittelt werden.
+Sehbehinderte Menschen können Kunstwerke oft auch visuell nutzen, wenn sie diese aus sehr geringer Entfernung betrachten dürfen, wenn sie besondere Sehhilfen verwenden können (herkömmliche oder Smartphone-Lupen, Taschenlampen etc.) oder wenn ihnen die  (link: de/kit/comunicazione/design#die-auffindbarkeit-und-die-lesbarkeit-der-visuellen-kommunikation-fur-sehbehinderte-menschen-verbessern text: Informationen zu den Kunstwerken) auf geeignete Art vermittelt werden.
 
 Will man das Herantreten an die Werke und den Einsatz dieser Hilfsmittel ermöglichen und zugleich den institutionellen Erfordernissen (Versicherung und Konservierung) gerecht werden, ist eine (link: de/kit/orientamento/guidare-il-visitatore text: Begleitung ) durch das Museumspersonal klar zu empfehlen.
 
@@ -50,16 +50,16 @@ Article:
     
     Auch die Beschäftigung mit einer grossen Anzahl von Kunstwerken kann zu Verwirrung und Problemen bei der Auswertung der erhaltenen Informationen führen. Um sowohl den Anforderungen des Museums als auch den Bedürfnissen des Publikums gerecht zu werden, ist es daher empfehlenswert, sich auf eine Auswahl an Werken zu beschränken. Die Anzahl der Kunstwerke ist dabei variabel und auch von der Art der vorgeschlagenen Vermittlungstätigkeit abhängig: Bei einer zweistündigen geführten Besichtigung mit sensorischen Ergänzungen sollten circa vier bis fünf Kunstwerke vertieft werden.
     
-    Da die für eine taktile Erkundung (link: de/kit/opere/descrizione#selezionare-le-opere  text: ausgewählten Kunstwerke) auch angemessen beschrieben werden müssen, gelten für sie dieselben Kriterien wie für die Auswahl zu beschreibender Kunstwerke (siehe oben). Um den Auswahlprozess zu erleichtern, können die folgenden Zusatzkriterien eingesetzt werden.
+    Da die für eine taktile Erkundung (link: de/kit/opere/descrizione#die-kunstwerke-auswahlen  text: ausgewählten Kunstwerke) auch angemessen beschrieben werden müssen, gelten für sie dieselben Kriterien wie für die Auswahl zu beschreibender Kunstwerke (siehe oben). Um den Auswahlprozess zu erleichtern, können die folgenden Zusatzkriterien eingesetzt werden.
 - 
   option_type: three
   section_title: Format
   content: |
     Kleine, dreidimensionale Kunstwerke sind für die taktile Erkundung am besten geeignet. Dank ihres reduzierten Formats lassen sie sich als Ganzes wahrnehmen und erleichtern dadurch sowohl das Verständnis von Form und verwendetem Material als auch die Entstehung mentaler Bilder.
     
-    Grossformatige, dreidimensionale Werke können ebenfalls berührt werden, damit ihre Materialbeschaffenheit und ihre Abmessungen wahrgenommen werden können. Um ein vollständiges Verständnis für die Form eines Kunstwerks zu erzielen, ist es in diesem Fall jedoch notwendig, komplementäre Hilfsmittel einzusetzen (z. B.  (link: de/kit/opere/mediazione-multisenoriale#le-possibili-interpretazioni text: Reproduktionen im Miniaturformat)).
+    Grossformatige, dreidimensionale Werke können ebenfalls berührt werden, damit ihre Materialbeschaffenheit und ihre Abmessungen wahrgenommen werden können. Um ein vollständiges Verständnis für die Form eines Kunstwerks zu erzielen, ist es in diesem Fall jedoch notwendig, komplementäre Hilfsmittel einzusetzen (z. B.  (link: de/kit/opere/mediazione-multisenoriale#die-moglichen-interpretationen text: Reproduktionen im Miniaturformat)).
     
-    Auch für zweidimensionale Kunstwerke, gleich ob klein- oder grossformatig, ist die taktile Erkundung ein interessantes Mittel, um die Materialität des Werkes wahrzunehmen. Konkrete Anhaltspunkte zum Dargestellten kann sie allerdings keine liefern. Hierzu können spezielle Hilfsmittel in  (link: de/kit/opere/mediazione-multisenoriale#le-possibili-interpretazioni text: Reliefausführung) entwickelt werden.
+    Auch für zweidimensionale Kunstwerke, gleich ob klein- oder grossformatig, ist die taktile Erkundung ein interessantes Mittel, um die Materialität des Werkes wahrzunehmen. Konkrete Anhaltspunkte zum Dargestellten kann sie allerdings keine liefern. Hierzu können spezielle Hilfsmittel in  (link: de/kit/opere/mediazione-multisenoriale#die-moglichen-interpretationen text: Reliefausführung) entwickelt werden.
 - 
   option_type: three
   section_title: Konservierung
@@ -86,7 +86,7 @@ Article:
   option_type: three
   section_title: Beleuchtung
   content: |
-    Um die Werke besser zugänglich zu machen, ist eine gute (link: de/kit/orientamento/adattare-il-museo#elementi-d'arredo text: Beleuchtung der Räume) und Objekte sehr wichtig. Allerdings kann die direkte Lichteinstrahlung zu Beschädigungen an den Kunstwerken führen.
+    Um die Werke besser zugänglich zu machen, ist eine gute (link: de/kit/orientamento/adattare-il-museo#einrichtungselemente text: Beleuchtung der Räume) und Objekte sehr wichtig. Allerdings kann die direkte Lichteinstrahlung zu Beschädigungen an den Kunstwerken führen.
     
     Um vom Zielpublikum wahrgenommen zu werden, müssen die Werke gut beleuchtet sein, am besten mit diffusem Licht. Dabei sollte jedoch nicht übertrieben werden: Ein reines Weiss kann blenden und zu einer Beeinträchtigung des Restsehvermögens führen.
     
@@ -96,14 +96,14 @@ Article:
 - 
   option_type: three
   section_title: Farbgebung der Wände
-  content: "Für die Farbe der Wände in den Ausstellungsräumen gelten dieselben Hinweise wie für die übrigen (link: de/ kit/orientamento/adattare-il-museo#elementi-d'arredo text: öffentlich zugänglichen Bereiche). Wände und Decken in Weiss oder einem hellen Farbton sind nicht nur für die Orientierung hilfreich, sondern fördern auch das Auffinden und die Sichtbarkeit der ausgestellten Werke."
+  content: 'Für die Farbe der Wände in den Ausstellungsräumen gelten dieselben Hinweise wie für die übrigen (link: de/kit/orientamento/adattare-il-museo#einrichtungselemente text: öffentlich zugänglichen Bereiche). Wände und Decken in Weiss oder einem hellen Farbton sind nicht nur für die Orientierung hilfreich, sondern fördern auch das Auffinden und die Sichtbarkeit der ausgestellten Werke.'
 - 
   option_type: three
   section_title: >
     Platzierung der Kunstwerke und der
     zugehörigen Informationen
   content: |
-    Damit die Besucherinnen und Besucher die ausgestellten Werke leichter auffinden und betrachten können und die im Ausstellungsraum verfügbaren Informationen (z. B.  (link: dekit/comunicazione/design#favorire-l'identificazione-e-la-leggibilita-della-comunicazione-visiva-per-le-persone-ipovedenti text: Einführung zur Ausstellung oder Bildunterschriften)) einfacher zurate ziehen können, ist es empfehlenswert, diese auf Augenhöhe oder etwas darunter anzubringen. Andernfalls werden sie, auch wenn sie gut lesbar sind, vom Zielpublikum nicht wahrgenommen und erkannt.
+    Damit die Besucherinnen und Besucher die ausgestellten Werke leichter auffinden und betrachten können und die im Ausstellungsraum verfügbaren Informationen (z. B.  (link: de/kit/comunicazione/design#die-auffindbarkeit-und-die-lesbarkeit-der-visuellen-kommunikation-fur-sehbehinderte-menschen-verbessern text: Einführung zur Ausstellung oder Bildunterschriften)) einfacher zurate ziehen können, ist es empfehlenswert, diese auf Augenhöhe oder etwas darunter anzubringen. Andernfalls werden sie, auch wenn sie gut lesbar sind, vom Zielpublikum nicht wahrgenommen und erkannt.
     
     Wie bei den Wandbeschriftungen sollte auch hier die Mittellinie bei etwa 150 cm gehalten und die Kunstwerke nicht über 200 cm Höhe platziert werden. Bei Bildunterschriften sollte die Mittellinie nicht über 140 cm oder unter 90 cm liegen.
     
@@ -112,7 +112,7 @@ Article:
   option_type: three
   section_title: Audio
   content: |
-    Die Qualität der Audio-Elemente ist nicht nur für eine bessere (link: de/kit/orientamento/adattare-il-museo#elementi-d'arredo text: Orientierung) wichtig, sondern auch dafür entscheidend, wie die Kunstwerke, die Audio- oder audiovisuelle Elemente enthalten, genutzt werden können. Sofern Audio-Elemente vorhanden sind, sollten diese entsprechend ausgewiesen und, wenn möglich, über Kopfhörer nutzbar sein.
+    Die Qualität der Audio-Elemente ist nicht nur für eine bessere (link: de/kit/orientamento/adattare-il-museo#einrichtungselemente text: Orientierung) wichtig, sondern auch dafür entscheidend, wie die Kunstwerke, die Audio- oder audiovisuelle Elemente enthalten, genutzt werden können. Sofern Audio-Elemente vorhanden sind, sollten diese entsprechend ausgewiesen und, wenn möglich, über Kopfhörer nutzbar sein.
     
     Der Ton muss sauber und von guter Qualität sein, er darf keine Hintergrundgeräusche aufweisen, und die Darlegung der Inhalte muss auf knappe Art und Weise erfolgen. Um Nachhalleffekten und einer schlechten Schallstreuung vorzubeugen, ist es empfehlenswert, am Fussboden und an der Decke schallschluckende Materialien und an den Wänden Dämmverkleidungen zu verwenden.
     Die für einen Ausstellungsraum empfohlenen Dezibelwerte variieren zwischen 40 und 50 dB. Ist der Einsatz von Kopfhörern nicht möglich, sollte man in den Räumen eine relativ geringe Lautstärke anstreben, die weder zu aufdringlich noch zu schwach sein darf.

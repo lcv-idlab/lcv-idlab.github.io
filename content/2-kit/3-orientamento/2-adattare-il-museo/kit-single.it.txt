@@ -6,11 +6,11 @@ Description:
 
 Per favorire l’orientamento e in particolare la mobilit&#224; negli spazi museali ai visitatori con problemi di vista è possibile intervenire in maniera puntuale su aspetti legati all’arredamento degli interni e all’allestimento delle mostre.
 
-Se un’adeguata (link: kit/comunicazione/relazione-con-il-pubblico text: accoglienza) e un (link: kit/orientamento/guidare-il-visitatore text: accompagnamento fisico) da parte del personale museale sono sempre auspicati, attraverso lo sviluppo di un (link: kit/comunicazione/design text: design inclusivo) per la comunicazione visiva e di accorgimenti mirati per adattare il museo, una persona ipovedente può essere in grado di orientarsi e spostarsi negli spazi in autonomia.
+Se un’adeguata (link: it/kit/comunicazione/relazione-con-il-pubblico text: accoglienza) e un (link: kit/orientamento/guidare-il-visitatore text: accompagnamento fisico) da parte del personale museale sono sempre auspicati, attraverso lo sviluppo di un (link: it/kit/comunicazione/design text: design inclusivo) per la comunicazione visiva e di accorgimenti mirati per adattare il museo, una persona ipovedente può essere in grado di orientarsi e spostarsi negli spazi in autonomia.
 
 Per le persone cieche o fortemente ipovedenti, sebbene tali accorgimenti possono favorire l’orientamento e la mobilità, tuttavia non risolvono completamente il problema: in questo caso agire anche sul fronte umano è essenziale.
 
-Per favorire una fruizione autonoma delle opere d’arte al pubblico ipovedente è necessario integrare degli (link: kit/opere/incontro-diretto#adattare-l’allestimento  text: accorgimenti ambientali) ancor più specifici.
+Per favorire una fruizione autonoma delle opere d’arte al pubblico ipovedente è necessario integrare degli (link: it/kit/opere/incontro-diretto#adattare-l’allestimento  text: accorgimenti ambientali) ancor più specifici.
 
 ----
 
@@ -98,13 +98,13 @@ Article:
   content: |
     Per favorire la fruizione del museo e delle opere esposte alle persone ipovedenti è preferibile disporre di un’illuminazione diffusa e indiretta. Per facilitare la diffusione della luce, si consiglia di dipingere le pareti e il soffitto con colori chiari e tendenti al bianco (non troppo però perché ciò potrebbe risultare abbagliante per le persone ipovedenti).
     
-    È bene inoltre che gli (link: kit/opere/incontro-diretto#adattare-l’allestimento text: spazi espositivi) godano delle stesse condizioni di luce diffusa degli spazi comuni, evitando quando possibile cambi bruschi di luce da una sala all’altra oltre che zone o sale completamente buie, che provocano una sensazione di insicurezza generale nei visitatori.
+    È bene inoltre che gli (link: it/kit/opere/incontro-diretto#adattare-l’allestimento text: spazi espositivi) godano delle stesse condizioni di luce diffusa degli spazi comuni, evitando quando possibile cambi bruschi di luce da una sala all’altra oltre che zone o sale completamente buie, che provocano una sensazione di insicurezza generale nei visitatori.
 - 
   option_type: three
   section_title: Colorazione delle pareti
   content: |
     È consigliabile dipingere le pareti e il soffitto con un solo colore chiaro e tendente al bianco (non troppo però perché ciò potrebbe risultare abbagliante per le persone ipovedenti).
-    Ciò favorisce l’orientamento per le persone ipovedenti, che, grazie anche al forte contrasto con i pavimenti e con le opere posizionate a muro, riescono più facilmente a identificare i limiti spaziali imposti dalle pareti nonché la (link: kit/opere/incontro-diretto#adattare-l’allestimento text: collocazione delle opere) e degli oggetti esposti.
+    Ciò favorisce l’orientamento per le persone ipovedenti, che, grazie anche al forte contrasto con i pavimenti e con le opere posizionate a muro, riescono più facilmente a identificare i limiti spaziali imposti dalle pareti nonché la (link: it/kit/opere/incontro-diretto#adattare-l’allestimento text: collocazione delle opere) e degli oggetti esposti.
     
     Inoltre le pareti e il soffitto chiari riflettono maggiormente la luce, creando zone illuminate in maniera diffusa e omogenea in grado di favorire ulteriormente la visione residua per le persone ipovedenti e dunque l’orientamento negli spazi.
 - 
@@ -118,7 +118,7 @@ Article:
 - 
   option_type: three
   section_title: Sonoro
-  content: 'Per favorire l’orientamento negli spazi, è importante ottimizzare le condizioni (link: kit/opere/incontro-diretto#adattare-l’allestimento text: sonore) evitando rumori e suoni disturbanti e non necessari alla visita (es. deumidificatori, riscaldamenti, ecc.).'
+  content: 'Per favorire l’orientamento negli spazi, è importante ottimizzare le condizioni (link: it/kit/opere/incontro-diretto#adattare-l’allestimento text: sonore) evitando rumori e suoni disturbanti e non necessari alla visita (es. deumidificatori, riscaldamenti, ecc.).'
 
 ----
 

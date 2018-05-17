@@ -26,7 +26,7 @@ Article:
 - 
   section_title: Selezionare le opere
   content: |
-    **Nella misura in cui le opere da selezionare per realizzarne un’interpretazione sensoriale devono anche essere descritte adeguatamente, i criteri per la (link: kit/opere/descrizione#selezionare-le-opere text: selezione delle opere) da descrivere valgono anche in questo caso.
+    **Nella misura in cui le opere da selezionare per realizzarne un’interpretazione sensoriale devono anche essere descritte adeguatamente, i criteri per la (link: it/kit/opere/descrizione#selezionare-le-opere text: selezione delle opere) da descrivere valgono anche in questo caso.
     Se potenzialmente ogni opera può essere tradotta in altre percezioni, alcune potrebbero prestarsi meglio di altre o essere particolarmente adatte a un certo tipo di traduzione. Per questo è importante valutare di volta in volta la pertinenza dell’interpretazione. Alcuni criteri aggiuntivi possono essere tenuti in considerazione per facilitare la selezione:**
   option_type: one
 - 
@@ -70,8 +70,8 @@ Article:
   option_type: two
   section_title: Interpretazioni tattili
   content: |
-    **Se offrire al pubblico di riferimento la possibilità di (link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: poter toccare le opere originali) è fondamentale, quando ciò non è possibile o inefficace alla costruzione di immagini mentali (vedi sopra), è possibile integrare il senso del tatto attraverso altri espedienti.
-    Le possibilità di interpretare tattilmente un’opera visiva sono numerose e variate: per individuare quella più adatta, è importante esaminare le peculiarità dell’opera originale selezionando gli elementi che più si prestano alla traduzione tattile. Se i criteri per la (link: kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere) valgono anche in questo caso, soggetto primario, tecnica, forma e composizione sono particolarmente rilevanti per questo tipo di interpretazione sensoriale. Le possibilità più facilmente realizzabili sono:**
+    **Se offrire al pubblico di riferimento la possibilità di (link: it/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: poter toccare le opere originali) è fondamentale, quando ciò non è possibile o inefficace alla costruzione di immagini mentali (vedi sopra), è possibile integrare il senso del tatto attraverso altri espedienti.
+    Le possibilità di interpretare tattilmente un’opera visiva sono numerose e variate: per individuare quella più adatta, è importante esaminare le peculiarità dell’opera originale selezionando gli elementi che più si prestano alla traduzione tattile. Se i criteri per la (link: it/kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere) valgono anche in questo caso, soggetto primario, tecnica, forma e composizione sono particolarmente rilevanti per questo tipo di interpretazione sensoriale. Le possibilità più facilmente realizzabili sono:**
 - 
   option_type: three
   section_title: Diagramma in rilievo
@@ -113,7 +113,7 @@ Article:
     
     Il suo impatto è ancor più incisivo (e inclusivo) quando è data la possibilità di ascoltare suoni e brani musicali nelle sale espositive con l’ausilio di altoparlanti collocati lungo il percorso di visita. Questa modalità è dunque da preferire all’ascolto individuale tramite audioguida o altri dispositivi digitali.
     
-    È importante inoltre esaminare le peculiarità dell’opera originale per selezionare gli elementi che più si prestano alla traduzione. Se i criteri per la (link: kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere) valgono anche in questo caso, contesto storico-culturale, soggetto primario, tecnica, forma e composizione, sono particolarmente rilevanti.
+    È importante inoltre esaminare le peculiarità dell’opera originale per selezionare gli elementi che più si prestano alla traduzione. Se i criteri per la (link: it/kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere) valgono anche in questo caso, contesto storico-culturale, soggetto primario, tecnica, forma e composizione, sono particolarmente rilevanti.
     
     I brani musicali e i suoni possono essere selezionati tra quelli già esistenti (es. registrazioni audio acquistabili sul mercato) o creati e registrati appositamente per la mediazione multisensoriale (in questo caso il ricorso a risorse supplementari come per esempio l’intervento di artisti, di tecnici del suono, ecc. è da prevedere). Le modalità possibili sono:
 - 
@@ -180,7 +180,7 @@ Article:
     Di natura coinvolgente e interattiva, la traduzione di un’opera visiva in stimolazioni olfattive e gustative può ampliare ulteriormente lo spettro percettivo con cui si entra in contatto con l’opera, favorendo nello spettatore l’affluire di ricordi o emozioni legate al vissuto intimo e personale. Per questo è considerata una soluzione particolarmente efficace per approcciare l’opera da un punto di vista emotivo.
     
     Essendo odori e sapori particolarmente incisivi sulla percezione, è opportuno calibrare attentamente di volta in volta gli interventi, assicurandosi di non arrecare fastidi o disturbi fisici ai partecipanti.
-    In questo senso, prima di ogni degustazione è importante descrivere gli alimenti come anche gli ingredienti di ogni pietanza, e chiedere al pubblico di segnalare eventuali intolleranze, allergie, regimi alimentari o diete particolari. Se i criteri per la (link: kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere)  valgono anche in questo caso, contesto-storico culturale, soggetto primario, tecnica, forma e composizione sono particolarmente rilevanti per essere tradotti in elementi gustativi e olfattivi.
+    In questo senso, prima di ogni degustazione è importante descrivere gli alimenti come anche gli ingredienti di ogni pietanza, e chiedere al pubblico di segnalare eventuali intolleranze, allergie, regimi alimentari o diete particolari. Se i criteri per la (link: it/kit/opere/descrizione#selezionare-gli-elementi text: selezione degli elementi da descrivere)  valgono anche in questo caso, contesto-storico culturale, soggetto primario, tecnica, forma e composizione sono particolarmente rilevanti per essere tradotti in elementi gustativi e olfattivi.
     
     Alimenti e pietanze possono essere selezionati tra quelli già esistenti (es. prodotti cucinati preconfezionati e acquistabili sul mercato) o creati appositamente per la mediazione multisensoriale (in questo caso il ricorso a risorse supplementari come per esempio l’intervento di uno chef, di addetti alla ristorazione, ecc. è da prevedere).
     Questo processo di trasposizione offre infinite possibilità creative e interpretative. Le modalità possibilità sono:
@@ -218,7 +218,6 @@ Article:
     Per esempio, per interpretare una scultura monumentale in marmo che rappresenta un eroe di guerra in azione, può essere opportuno proporre consistenze delicate e fredde per tradurre gli aspetti formali (es. materiale, colore, ecc.) e gusti forti e vibranti per tradurre il soggetto.
     
     (image: 09-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
-    
     (image: 10-interpretazioni-gustative.jpg class: two-columns gallery gustativo)
 
 ----

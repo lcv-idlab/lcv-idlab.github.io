@@ -66,11 +66,11 @@ Article:
 - 
   option_type: three
   section_title: Opere esplorabili con altri sensi
-  content: 'Se tra le opere a disposizione alcune possono essere (link: kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: toccate) o esplorate attraverso altri sensi, si consiglia di annoverarle nella selezione in vista della realizzazione di attività di mediazione multisensoriali che prevedono un incontro diretto con le opere.'
+  content: 'Se tra le opere a disposizione alcune possono essere (link: it/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: toccate) o esplorate attraverso altri sensi, si consiglia di annoverarle nella selezione in vista della realizzazione di attività di mediazione multisensoriali che prevedono un incontro diretto con le opere.'
 - 
   option_type: three
   section_title: Opere di artisti viventi
-  content: 'Se tra le opere a disposizione alcune sono realizzate da artisti viventi che il pubblico con problemi di vista potrebbe potenzialmente (link: kit/opere/incontro-diretto#favorire-l’incontro-con-gli-artisti text: incontrare di persona) in occasione di un’attività di mediazione, si consiglia di integrarle nella selezione.'
+  content: 'Se tra le opere a disposizione alcune sono realizzate da artisti viventi che il pubblico con problemi di vista potrebbe potenzialmente (link: it/kit/opere/incontro-diretto#favorire-l’incontro-con-gli-artisti text: incontrare di persona) in occasione di un’attività di mediazione, si consiglia di integrarle nella selezione.'
 - 
   option_type: three
   section_title: >

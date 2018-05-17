@@ -6,11 +6,11 @@ Description:
 
 Pour favoriser l’orientation et en particulier la mobilité des visiteurs aveugles et malvoyantes dans les espaces muséaux, il est possible d’intervenir de manière ponctuelle sur des aspects liés à l’ameublement des lieux et à l’agencement des expositions.
 
-Si un (link: kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: kit/orientamento/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
+Si un (link: fr/kit/comunicazione/relazione-con-il-pubblico text: accueil) adéquat et un (link: fr/kit/orientamento/guidare-il-visitatore text: accompagnement physique) par du personnel du musée sont toujours souhaités, par le développement d’un (link: fr/kit/comunicazione/design text: design inclusif) de communication visuelle et de mesures ciblées pour adapter le musée, une personne malvoyante peut être en mesure de s’orienter et de se déplacer dans les espaces de façon autonome.
 
 Pour les personnes aveugles ou fortement malvoyantes, même si ces mesures peuvent favoriser l’orientation et la mobilité, elles ne résolvent pas entièrement le problème : dans ce cas, prévoir d’agir aussi sur la dimension humaine est essentiel.
 
-Pour favoriser un accès autonome du public malvoyant aux œuvres d’art, il est nécessaire d’adopter des (link: kit/opere/incontro-diretto#adattare-l’allestimento  text: mesures d’aménagement) plus spécifiques encore.
+Pour favoriser un accès autonome du public malvoyant aux œuvres d’art, il est nécessaire d’adopter des (link: fr/kit/opere/incontro-diretto#adapter-l-agencement  text: mesures d’aménagement) plus spécifiques encore.
 
 ----
 
@@ -105,14 +105,14 @@ Article:
   content: |
     Pour favoriser la perception du musée et des œuvres exposées par les personnes malvoyantes, il est préférable de disposer d’un éclairage diffus et indirect. Pour faciliter la diffusion de la lumière, il est conseillé de peindre les murs et le plafond au moyen de couleurs claires et tendant au blanc (pas trop, cependant, parce que cela pourrait être éblouissant pour les personnes malvoyantes).
     
-    Il convient, en outre, que les (link: kit/opere/incontro-diretto#adattare-l’allestimento text: espaces d’exposition) jouissent des mêmes conditions de lumière diffuse que les espaces communs, en évitant dans la mesure du possible des changements brusques de lumière d’une salle à l’autre de même que des zones ou salles complètement obscures, qui provoquent une sensation d’insécurité générale chez les visiteurs.
+    Il convient, en outre, que les (link: fr/kit/opere/incontro-diretto#adapter-l-agencement text: espaces d’exposition) jouissent des mêmes conditions de lumière diffuse que les espaces communs, en évitant dans la mesure du possible des changements brusques de lumière d’une salle à l’autre de même que des zones ou salles complètement obscures, qui provoquent une sensation d’insécurité générale chez les visiteurs.
 - 
   option_type: three
   section_title: Coloration des murs
   content: |
     Il est conseillé de peindre les murs et le plafond avec une seule couleur claire et tendant au blanc (pas trop, cependant, parce que cela pourrait être éblouissant pour les personnes malvoyantes).
     
-    Cela favorise l’orientation pour les personnes malvoyantes qui, grâce au fort contraste avec les sols et avec les œuvres placées à mur, parviennent plus facilement à identifier les limites spatiales imposées par les murs ainsi que l’(link: kit/opere/incontro-diretto#adattare-l’allestimento text: emplacement des œuvres) et des objets exposés.
+    Cela favorise l’orientation pour les personnes malvoyantes qui, grâce au fort contraste avec les sols et avec les œuvres placées à mur, parviennent plus facilement à identifier les limites spatiales imposées par les murs ainsi que l’(link: fr/kit/opere/incontro-diretto#adapter-l-agencement text: emplacement des œuvres) et des objets exposés.
     
     En outre, les murs et le plafond clairs reflètent davantage la lumière, en créant des zones éclairées de manière diffuse et homogène, en mesure de favoriser la vue résiduelle pour les personnes malvoyantes et donc l’orientation dans les espaces.
 - 
@@ -127,7 +127,7 @@ Article:
 - 
   option_type: three
   section_title: Environnement sonore
-  content: 'Pour favoriser l’orientation dans les espaces, il est important d’optimiser les conditions (link: kit/opere/incontro-diretto#adattare-l’allestimento text: sonores), en évitant les bruits gênants et non nécessaires à la visite (p. ex. les déshumidificateurs, chauffage, etc.).'
+  content: 'Pour favoriser l’orientation dans les espaces, il est important d’optimiser les conditions (link: fr/kit/opere/incontro-diretto#adapter-l-agencement text: sonores), en évitant les bruits gênants et non nécessaires à la visite (p. ex. les déshumidificateurs, chauffage, etc.).'
 
 ----
 

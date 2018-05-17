@@ -51,13 +51,13 @@ Article:
   section_title: >
     Kunstwerke, die sich mit anderen Sinnen
     erforschen lassen
-  content: 'Befinden sich unter den verfügbaren Kunstwerken Objekte, die (link: de/kit/opere/incontro-diretto#permettere-l’esplorazione-tattile text: berührt) oder mit anderen Sinnen erforscht werden können, sollten diese in die Auswahl aufgenommen werden. Ziel ist es dabei, multisensorische Vermittlungstätigkeiten einzuführen, die eine direkte Begegnung mit den Werken ermöglichen.'
+  content: 'Befinden sich unter den verfügbaren Kunstwerken Objekte, die (link: de/kit/opere/incontro-diretto#eine-taktile-erkundung-ermoglichen text: berührt) oder mit anderen Sinnen erforscht werden können, sollten diese in die Auswahl aufgenommen werden. Ziel ist es dabei, multisensorische Vermittlungstätigkeiten einzuführen, die eine direkte Begegnung mit den Werken ermöglichen.'
 - 
   option_type: three
   section_title: >
     Werke lebender Künstlerinnen und
     Künstler
-  content: 'Stammen einige der zur Verfügung stehenden Kunstwerke von noch lebenden Kunstschaffenden, die das Publikum mit Sehproblemen eventuell anlässlich einer Vermittlungstätigkeit (link: de/kit/opere/incontro-diretto#favorire-l’incontro-con-gli-artisti text: persönlich treffen) könnte, empfiehlt es sich, diese Werke in die Auswahl einzubeziehen.'
+  content: 'Stammen einige der zur Verfügung stehenden Kunstwerke von noch lebenden Kunstschaffenden, die das Publikum mit Sehproblemen eventuell anlässlich einer Vermittlungstätigkeit (link: de/kit/opere/incontro-diretto#die-begegnung-mit-den-kunstlerinnen-und-kunstlern-fordern text: persönlich treffen) könnte, empfiehlt es sich, diese Werke in die Auswahl einzubeziehen.'
 - 
   option_type: three
   section_title: >
