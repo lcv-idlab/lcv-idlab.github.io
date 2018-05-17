@@ -10,7 +10,7 @@ Ein angemessener (link: de/kit/comunicazione/relazione-con-il-pubblico text: Emp
 
 Diese Massnahmen fördern Orientierung und Mobilität, können aber die Probleme hochgradig sehbehinderter und blinder Menschen nicht vollständig lösen. Hier ist es von entscheidender Bedeutung, auch auf zwischenmenschliche Beziehungen zu setzen.
 
-Um eine selbständige Nutzung der Kunstwerke durch das sehbehinderte Publikum zu unterstützen, müssen (link: de/kit/opere/incontro-diretto#adattare-l’allestimento  text: spezifischere Massnahmen der Raumgestaltung ) umgesetzt werden.
+Um eine selbständige Nutzung der Kunstwerke durch das sehbehinderte Publikum zu unterstützen, müssen (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen  text: spezifischere Massnahmen der Raumgestaltung ) umgesetzt werden.
 
 ----
 
@@ -101,14 +101,14 @@ Article:
   content: |
     Damit sehbehinderte Besucherinnen und Besucher ein Museum und die dort ausgestellten Kunstwerke nutzen können, ist eine diffuse und indirekte Beleuchtung von Vorteil. Um die Lichtdiffusion zu erleichtern, sind Wände und Decken in hellen, zu Weiss tendierenden Farben empfehlenswert (ein reines Weiss sollte allerdings vermieden werden, da es sehbehinderte Menschen blenden kann).
     
-    In den (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: Ausstellungsräumen) sollten dieselben diffusen Lichtverhältnisse herrschen wie in den übrigen öffentlich zugänglichen Bereichen, wobei abrupte Lichtwechsel von einem Raum zum nächsten, aber auch eine komplette Abdunkelung von Räumen möglichst vermieden werden sollten, da diese bei Besucherinnen und Besuchern mit Sehbehinderung ein Empfinden allgemeiner Unsicherheit hervorrufen.
+    In den (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen text: Ausstellungsräumen) sollten dieselben diffusen Lichtverhältnisse herrschen wie in den übrigen öffentlich zugänglichen Bereichen, wobei abrupte Lichtwechsel von einem Raum zum nächsten, aber auch eine komplette Abdunkelung von Räumen möglichst vermieden werden sollten, da diese bei Besucherinnen und Besuchern mit Sehbehinderung ein Empfinden allgemeiner Unsicherheit hervorrufen.
 - 
   option_type: three
   section_title: Wandfarben
   content: |
     Es ist empfehlenswert, die Wände und Decken in nur einer einzigen hellen, zu Weiss tendierenden Farbe zu halten (ein reines Weiss sollte allerdings vermieden werden, da es sehbehinderte Menschen blenden kann).
     
-    Auf diese Art lässt sich die Orientierung sehbehinderter Menschen im Raum unterstützen. Durch den starken Kontrast zum Boden und zu den Kunstwerken an der Wand fällt es ihnen leichter, die Raumbegrenzung durch die Wände sowie die (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: Positionierung) der ausgestellten Werke und Objekte wahrzunehmen.
+    Auf diese Art lässt sich die Orientierung sehbehinderter Menschen im Raum unterstützen. Durch den starken Kontrast zum Boden und zu den Kunstwerken an der Wand fällt es ihnen leichter, die Raumbegrenzung durch die Wände sowie die (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen text: Positionierung) der ausgestellten Werke und Objekte wahrzunehmen.
     
     Darüber hinaus reflektieren helle Wände und Decken das Licht stärker und lassen dadurch diffuse, gleichmässig beleuchtete Zonen entstehen, die das Restsehvermögen sehbehinderter Menschen und damit ihre Orientierung im Raum unterstützen.
 - 
@@ -123,7 +123,7 @@ Article:
 - 
   option_type: three
   section_title: Audio
-  content: 'Um die Orientierung im Raum zu erleichtern, ist es wichtig, die (link: de/kit/opere/incontro-diretto#adattare-l’allestimento text: akustischen) zu optimieren, indem störende Geräusche, die für den Museumsbesuch nicht notwendig sind, eliminiert werden (z. B. Luftentfeuchter, Heizung etc.).'
+  content: 'Um die Orientierung im Raum zu erleichtern, ist es wichtig, die (link: de/kit/opere/incontro-diretto#die-ausstattung-anpassen text: akustischen) zu optimieren, indem störende Geräusche, die für den Museumsbesuch nicht notwendig sind, eliminiert werden (z. B. Luftentfeuchter, Heizung etc.).'
 
 ----
 
