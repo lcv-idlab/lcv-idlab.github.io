@@ -74,8 +74,14 @@ Download-final-poster-img: mci_poster_it.png
 Download-final-poster-pdfs: 
 
 - 
-  pdf: mci_poster_ita.pdf
+  pdf: mci_poster_it.pdf
   lang: it
+- 
+  pdf: mci_poster_de.pdf
+  lang: de
+- 
+  pdf: mci_poster_fr.pdf
+  lang: fr
 
 ----
 

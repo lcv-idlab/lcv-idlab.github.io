@@ -9,10 +9,6 @@ Description: La tradizionale visita guidata al museo, se descrittiva, multisenso
 Article: 
 
 - 
-  option_type: plain
-  section_title: ""
-  content: '** La tradizionale visita guidata al museo, se descrittiva, multisensoriale e realizzata da un mediatore appositamente sensibilizzato, è ritenuta la modalità di visita più efficace, perché permette di integrare tutti gli aspetti ritenuti fondamentali per favorire l’accesso al museo e alle opere d’arte alle persone con problemi di vista, favorendo l’inclusione. Per realizzare una visita guidata accessibile è inoltre importante tenere conto di alcuni accorgimenti specifici in grado di rendere la visita guidata adatta al pubblico di riferimento.**'
-- 
   option_type: list
   section_title: Pubblico
   content: >

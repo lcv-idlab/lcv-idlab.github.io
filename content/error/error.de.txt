@@ -6,4 +6,4 @@ Text: La pagina richiesta non è disponibile.
 
 ----
 
-Subtitle: 
+Subtitle: Seite nicht gefunden

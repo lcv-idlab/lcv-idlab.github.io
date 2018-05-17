@@ -2,16 +2,12 @@ Title: Die multisensorische Führung
 
 ----
 
-Description: Die traditionelle Museumsführung, die von einem speziell sensibilisierten Mediator beschreibend und multisensorisch durchgeführt wird, gilt als effizienteste Form der Besichtigung für sehbehinderte Menschen. Sie ermöglicht es, alle grundlegenden Aspekte, die den Zugang zum Museum und seinen Kunstwerken fördern, einzubeziehen und so die Inklusion zu unterstützen. Um diesen Zugang zu verwirklichen, ist es ferner wichtig, einige besondere Aspekte zu berücksichtigen, mit denen eine Museumsführung an das Zielpublikum angepasst werden kann.
+Description: Die traditionelle Museumsführung, die von einem speziell sensibilisierten Vermittler beschreibend und multisensorisch durchgeführt wird, gilt als effizienteste Form der Besichtigung für sehbehinderte Menschen. Sie ermöglicht es, alle grundlegenden Aspekte, die die Barrierefreiheit des Museums und seiner Kunstwerken fördern, einzubeziehen und so die Inklusion zu unterstützen. Um diese Barrierefreiheit zu verwirklichen, ist es ferner wichtig, einige besondere Aspekte zu berücksichtigen, mit denen eine Museumsführung an das Zielpublikum angepasst werden kann.
 
 ----
 
 Article: 
 
-- 
-  option_type: plain
-  section_title: ""
-  content: '** Die traditionelle Museumsführung, die von einem speziell sensibilisierten Mediator beschreibend und multisensorisch durchgeführt wird, gilt als effizienteste Form der Besichtigung für sehbehinderte Menschen. Sie ermöglicht es, alle grundlegenden Aspekte, die den Zugang zum Museum und seinen Kunstwerken fördern, einzubeziehen und so die Inklusion zu unterstützen. Um diesen Zugang zu verwirklichen, ist es ferner wichtig, einige besondere Aspekte zu berücksichtigen, mit denen eine Museumsführung an das Zielpublikum angepasst werden kann.**'
 - 
   option_type: list
   section_title: Publikum
@@ -19,47 +15,47 @@ Article:
     Das eigene Publikum zu kennen, ist von
     zentraler Bedeutung, um eine Führung
     gezielt auf die Bedürfnisse der
-    BesucherInnen zuzuschneiden. Zur
-    Förderung der Inklusion sollten sich
-    unter den Teilnehmenden auch sehende
-    Personen befinden, die im Vorfeld über
-    die besondere Art der Führung
-    informiert wurden.
+    Besucherinnen und Besucher
+    zuzuschneiden. Zur Förderung der
+    Inklusion sollten sich unter den
+    Teilnehmenden auch sehende Personen
+    befinden, die im Vorfeld über die
+    besondere Art der Führung informiert
+    wurden.
 - 
   option_type: list
   section_title: Teilnehmerzahl
   content: |
-    Es ist empfehlenswert, die Zahl der Teilnehmenden gering zu halten, um lange Wartezeiten zu vermeiden, wie sie während einer Führung häufig auftreten, beispielsweise bei der Betrachtung von Originalkunstwerken aus unmittelbarer Nähe oder bei der taktilen Erkundung, die zumeist individuell geschehen. Um dieses Problem zu umgehen, ist es beim Einsatz von Reproduktionen ratsam, gleich mehrere anfertigen zu lassen, sodass die Objekte von mehreren BesucherInnen gleichzeitig genutzt werden können.
+    Es ist empfehlenswert, die Zahl der Teilnehmenden gering zu halten, um lange Wartezeiten zu vermeiden, wie sie während einer Führung häufig auftreten, beispielsweise bei der Betrachtung von Originalkunstwerken aus unmittelbarer Nähe oder bei der taktilen Erkundung, die beide zumeist individuell geschehen. Um dieses Problem zu umgehen, ist es beim Einsatz von Reproduktionen ratsam, gleich mehrere anfertigen zu lassen, sodass die Objekte von mehreren Besucherinnen und Besuchern gleichzeitig genutzt werden können.
     
-    In der kleinen Gruppe ist die Organisation der Führung auch für die NutzerInnen selbst bequemer und flüssiger. Eine reduzierte Teilnehmerzahl fördert zudem das gegenseitige Teilen, den Dialog und eine wechselseitige Bereicherung. Besteht die Gruppe ausschliesslich aus Blinden und hochgradig Sehbehinderten, sollten nicht mehr als vier Teilnehmende eingeplant werden. Gruppen mit Blinden und eingeschränkt Sehbehinderten sollten aus maximal sieben Personen mit Sehproblemen bestehen.
+    In der kleinen Gruppe ist die Organisation der Führung auch für die Nutzerinnen und Nutzer selbst angenehmer und flüssiger. Eine reduzierte Teilnehmerzahl fördert zudem das gegenseitige Teilen, den Dialog und eine wechselseitige Bereicherung. Besteht die Gruppe ausschliesslich aus blinden und hochgradig sehbehinderten Menschen, sollten nicht mehr als vier Teilnehmende eingeplant werden. Gruppen mit blinden und eingeschränkt sehbehinderten Menschen sollten aus maximal sieben Personen mit Sehproblemen bestehen.
 - 
   option_type: list
   section_title: Mitarbeiterzahl
   content: |
-    Die Zahl der MitarbeiterInnen, die man bei einer multisensorischen Führung miteinbeziehen sollte, ist abhängig von der Art der geplanten sensorischen Interpretation sowie der Art der Sehbehinderung der BesucherInnen.
+    Die Zahl der Mitarbeiterinnen und Mitarbeiter, die man bei einer multisensorischen Führung einbeziehen sollte, ist abhängig von der Art der geplanten sensorischen Interpretation sowie der Art der Sehbehinderung der Besucherinnen und Besucher.
     
-    Bei taktilen Erkundungen von Originalkunstwerken kann es sinnvoll sein, neben der Führungsperson, die die Beschreibung der Objekte vornimmt, auch das für die Objektkonservierung zuständige Personal miteinzubeziehen. Ferner können auch die anderen MitarbeiterInnen, die die Teilnehmenden auf ihrem Weg durch die Ausstellungsräume begleiten (Aufsichtspersonal, Freiwillige, AssistentInnen, technisches Personal etc.), behilflich sein und das für die Führung unter Umständen notwendige Material vorbereiten.
+    Bei taktilen Erkundungen von Originalkunstwerken kann es sinnvoll sein, neben der Führungsperson, die die Beschreibung der Objekte vornimmt, auch das für die Objektkonservierung zuständige Personal einzubeziehen. Dasselbe gilt für andere Mitarbeiterinnen und Mitarbeiter, die imstande sind, die Teilnehmenden auf ihrem Weg durch die Ausstellungsräume zu begleiten (Aufsichtspersonal, Freiwillige, Assistentinnen und Assistenten, technisches Personal etc.) und das für die Führung unter Umständen notwendige Material vorzubereiten.
 - 
   option_type: list
   section_title: Struktur
   content: |
-    Zu Beginn des Besuchs ist es wichtig, einige Informationen zum Museum bereitzustellen und seine Struktur und die Räumlichkeiten, in denen es sich befindet, zu beschreiben. Bevor man sich den Kunstwerken nähert, sollte der Inhalt der Ausstellung in allgemeiner Form erläutert werden (Themen, ausgestellte KünstlerInnen etc.), wobei auch einige quantitative Angaben von Nutzen sind (z. B. Die Ausstellung umfasst 387 Werke, darunter Gemälde, Skulpturen, Drucke und Fotografien).
+    Zu Beginn des Besuchs ist es wichtig, einige Informationen zum Museum bereitzustellen und seine Struktur sowie die Räumlichkeiten zu beschreiben. Bevor man sich den Kunstwerken nähert, sollte der Inhalt der Ausstellung in allgemeiner Form erläutert werden (Themen, ausgestellte Künstlerinnen und Künstler etc.), wobei auch einige quantitative Angaben von Nutzen sind (z. B. „Die Ausstellung umfasst 387 Werke, darunter Gemälde, Skulpturen, Drucke und Fotografien“).
     
-    Ausserdem ist es wichtig, dem Publikum vorab zu erklären, welche Kunstwerke während des Besuchs vertieft werden sollen und aus welchem Grund sie ausgewählt wurden. Ein Hinweis darauf, welche Sinne während der Besichtigung stimuliert werden und in welcher Reihenfolge dies geschieht, vermittelt den BesucherInnen ein Gefühl von Sicherheit und bewirkt, dass sie sich wohlfühlen.
-    Weiterhin ist es wichtig, sich den Werken einzeln und nacheinander zu nähern und dabei mit einer neutralen Beschreibung von jeweils circa fünf Minuten zu beginnen.
+    Ausserdem ist es wichtig, dem Publikum vorab zu erklären, welche Kunstwerke während des Besuchs vertieft werden sollen und aus welchem Grund sie ausgewählt wurden. Ein Hinweis darauf, welche Sinne während der Besichtigung stimuliert werden und in welcher Reihenfolge dies geschieht, vermittelt den Besucherinnen und Besuchern ein Gefühl von Sicherheit und bewirkt, dass sie sich wohlfühlen. Weiterhin ist es wesentlich, sich den Werken einzeln und nacheinander zu nähern und dabei mit einer neutralen Beschreibung von jeweils circa fünf Minuten zu beginnen.
     
-    Die sensorische Interpretation sollte generell gleich im Anschluss an die neutrale Beschreibung vorgenommen werden, bei einigen Werken kann sie jedoch auch zeitgleich erfolgen, denn bei der taktilen Erkundung von Originalen oder Reproduktionen ist es von grundlegender Bedeutung, eine Beschreibung dessen zu hören, was man gerade berührt, um dadurch eine Übereinstimmung zwischen den Sinnen herzustellen und das Verständnis des Kunstwerks zu erleichtern.
+    Die sensorische Interpretation sollte generell gleich im Anschluss an die neutrale Beschreibung vorgenommen werden, bei einigen Werken kann sie jedoch auch zeitgleich erfolgen, denn bei der taktilen Erkundung von Originalen oder Reproduktionen ist es von grundlegender Bedeutung, eine Beschreibung dessen zu hören, was man gerade berührt, um dadurch eine Übereinstimmung zwischen den verschiedenen Sinnen herzustellen und das Verständnis des Kunstwerks zu erleichtern.
     
     Für eine sensorische Annäherung können bis zu zehn Minuten erforderlich sein, eine Ausnahme stellt das Anhören von Klanginterpretationen dar. Da die Besuchenden in diesem Fall passiv bleiben, empfehlen wir hier eine Dauer von maximal fünf Minuten. Im Anschluss sollte ein – ebenfalls höchstens fünf Minuten dauernder – symbolisch evokativer Kommentar folgen.
     
-    Im Rahmen einer multisensorischen Führung ist es empfehlenswert, sich auf maximal fünf Kunstwerke zu beschränken und jedem von ihnen circa 20 Minuten zu widmen. Kreative Ateliers und Begegnungen mit lebenden KünstlerInnen sollten am besten im Anschluss an einen beschreibenden Besuch stattfinden. Zum einen können sie recht lang dauern und stellen eine eigene Mediationstätigkeit dar, zum anderen müssen sie in der Mehrzahl der Fälle ausserhalb der Ausstellungsräume organisiert werden.
+    Im Rahmen einer multisensorischen Führung ist es empfehlenswert, sich auf maximal fünf Kunstwerke zu beschränken und jedem von ihnen circa 20 Minuten zu widmen. Kreative Ateliers und Begegnungen mit lebenden Kunstschaffenden sollten am besten im Anschluss an einen beschreibenden Besuch stattfinden. Zum einen können sie recht lang dauern und stellen eine eigene Vermittlungstätigkeit dar, zum anderen müssen sie in der Mehrzahl der Fälle ausserhalb der Ausstellungsräume organisiert werden.
 - 
   option_type: list
   section_title: Dauer
   content: |
-    Damit eine multisensorische Besichtigung im Hinblick auf die Aufmerksamkeit und Konzentration der Teilnehmenden vertretbar bleibt, sollte sie – wie für sehende Menschen auch – circa eineinhalb Stunden, aber nicht länger als zwei Stunden dauern. Der Besuch muss den Bedürfnissen der Teilnehmenden auch in Bezug auf seine Länge gerecht werden.
+    Damit eine multisensorische Besichtigung im Hinblick auf die Aufmerksamkeit und Konzentration der Teilnehmenden akzeptabel bleibt, sollte sie – wie für sehende Menschen auch – circa eineinhalb Stunden, aber nicht länger als zwei Stunden dauern. Der Besuch muss den Bedürfnissen der Teilnehmenden auch in Bezug auf seine Länge gerecht werden.
     
-    Daher ist es besonders wichtig, keine Eile aufkommen zu lassen: Aufmerksam und konzentriert zu bleiben, verlangt von Blinden und Sehbehinderten eine grosse Anstrengung, da sie zusätzlich zu den Beschreibungen auch alle anderen Sinneswahrnehmungen verarbeiten und in mentale Bilder umsetzen müssen. Und auch die Mobilität braucht ihre Zeit, denn für Menschen mit Sehproblemen kann es längere Zeit in Anspruch nehmen, sich von einem Ausstellungsraum zum nächsten zu bewegen.
+    Daher ist es besonders wichtig, keine Eile aufkommen zu lassen: Aufmerksam und konzentriert zu bleiben, verlangt von blinden und sehbehinderten Menschen eine grosse Anstrengung, da sie zusätzlich zu den Beschreibungen auch alle anderen Sinneswahrnehmungen verarbeiten und in mentale Bilder umsetzen müssen. Und auch die Mobilität braucht ihre Zeit, denn für Menschen mit Sehproblemen kann es längere Zeit in Anspruch nehmen, sich von einem Ausstellungsraum zum nächsten zu bewegen.
     
     Bei einer multisensorischen Führung ist es daher angebracht, sich auf einige wenige Kunstwerke zu konzentrieren.
 - 
@@ -68,9 +64,9 @@ Article:
   content: |
     Um die Inklusion zu fördern und die Verbindung zwischen dem Wahrnehmen des Kunstwerks und dem Erfahren des Museumsraumes nicht abreissen zu lassen, ist es wichtig, die multisensorischen Tätigkeiten in den Rundgang und damit in die Ausstellungsräume zu integrieren.
     
-    In der Nähe der zu analysierenden Kunstwerke muss daher ausreichend Platz vorhanden sein, und unter Umständen müssen auch Möbel aufgestellt werden (z. B. Tische, Pulte, Stühle), auf denen sich die für den Besuch notwendigen Materialien ablegen lassen (z. B. Reproduktionen, Objekte).
+    In der Nähe der zu analysierenden Kunstwerke muss daher ausreichend Platz vorhanden sein, und unter Umständen müssen auch Möbel aufgestellt werden (z. B. Tische, Pulte, Stühle), auf denen sich die für den Besuch notwendigen Materialien ablegen lassen (z. B. Reproduktionen, Gegenstände).
     
-    Wo dies nur schwer möglich ist (z. B. bei Begegnungen mit KünstlerInnen oder bei kreativen Ateliers), kann die Aktivität in einem Raum in unmittelbarer Nähe zur eigentlichen Ausstellung stattfinden. In diesem Fall erscheint es noch wichtiger, während der Führung einer präzisen Struktur zu folgen (siehe oben), um bei den BesucherInnen keine Verwirrung zu stiften und um eine Verbindung zwischen Kunstwerk, Ausstellung und multisensorischen Aktivitäten herzustellen.
+    Wo dies nur schwer möglich ist (z. B. bei Begegnungen mit Kunstschaffenden oder bei kreativen Ateliers), kann die Aktivität in einem Raum in unmittelbarer Nähe zur eigentlichen Ausstellung stattfinden. In diesem Fall erscheint es noch wichtiger, während der Führung einer präzisen Struktur zu folgen (siehe oben), um bei den Besucherinnen und Besuchern keine Verwirrung zu erzeugen und um eine Verbindung zwischen Kunstwerk, Ausstellung und multisensorischen Aktivitäten herzustellen.
     
     Es sei daran erinnert, dass ein hoher Lautstärkepegel die Durchführung der Aktivität beeinträchtigen kann. Daher sollte ein Zeitraum gewählt werden, in dem der Besucherandrang im Museum geringer ist.
 - 
@@ -78,8 +74,8 @@ Article:
   section_title: Vergleich und Evaluation
   content: >
     Am Ende jedes Besuchs ist es sehr
-    wichtig, die BesucherInnen um ein
-    Feedback zu der durchgeführten
+    wichtig, die Besucherinnen und Besucher
+    um ein Feedback zu der durchgeführten
     Aktivität zu bitten, damit diese
     bewertet und weiter verbessert werden
     kann.

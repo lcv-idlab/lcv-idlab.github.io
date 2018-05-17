@@ -22,7 +22,7 @@
 
 	// kit single
 	l::set('index', 'Inhaltsverzeichnis');
-	l::set('more', 'Mehr lesen');
+	l::set('more', 'Weiterlesen');
 	l::set('evaluate', 'Bewerten');
 	l::set('download-pdf-kit-single', "Artikel herunterladen");
 

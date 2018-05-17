@@ -2,7 +2,7 @@ Title: Die Nutzung von Kunstwerken auf Distanz
 
 ----
 
-Description: La fruizione a distanza delle opere è una soluzione efficace per promuovere il contatto tra istituzioni museali e pubblico di riferimento e per permettere ai visitatori di accedere alle opere in maniera libera e autonoma, nel luogo e nel momento più adatti alle esigenze personali: per le persone con disabilità visiva spostarsi al museo può richiedere tempo e, molto spesso, è necessaria un’articolata organizzazione di trasporti, accompagnatori, autisti, ecc.
+Description: Die Nutzung von Kunstwerken auf Distanz ist eine effiziente Lösung, um den Kontakt zwischen dem Museum und seinem Zielpublikum zu fördern und es den Besucherinnen und Besuchern zu ermöglichen, die Werke selbstständig und nach eigenem Belieben zu nutzen – an dem Ort und in dem Moment, der ihren individuellen Bedürfnissen am besten gerecht wird, denn der Besuch eines Museums kann für Menschen mit Sehbehinderung eine gewisse Zeit beanspruchen und eine ausgefeilte Organisation hinsichtlich Transportmitteln, Begleitpersonen, Fahrern etc. erforderlich machen.
 
 ----
 
@@ -11,11 +11,9 @@ Article:
 - 
   section_title: ""
   content: |
-    Das Angebot an (link: kit/percorsi/visita-guidata-multisensoriale text: multisensorischen geführten Besichtigungen) sollte zwar immer prioritär sein, dennoch ist die Nutzung von Kunstwerken auf Distanz eine effiziente Lösung, um den Kontakt zwischen dem Museum und seinem Zielpublikum zu fördern und es den BesucherInnen zu ermöglichen, die Werke selbständig und nach eigenem Belieben zu nutzen – an dem Ort und in dem Moment, der ihren individuellen Bedürfnissen am besten gerecht wird, denn der Besuch eines Museums kann für Menschen mit Sehbehinderungen eine gewisse Zeit beanspruchen und eine ausgefeilte Organisation hinsichtlich Transportmitteln, Begleitpersonen, Fahrern etc. erforderlich machen.
+    Auch wenn eine solche Nutzung auf Distanz keine direkte Begegnung mit dem Originalkunstwerk und keinen zwischenmenschlichen Austausch oder Dialog zwischen Vermittlern und Nutzern ermöglicht, kann es hilfreich sein, die Beschreibungen der Werke und (für sehbehinderte Menschen) die hochauflösenden Abbildungen über die Museums-Website nutzen zu können.
     
-    Auch wenn eine solche Nutzung auf Distanz keine direkte Begegnung mit dem Originalkunstwerk und keinen zwischenmenschlichen Austausch oder Dialog zwischen MediatorInnen und NutzerInnen ermöglicht, kann es hilfreich sein, über die Museums-Website die Beschreibungen der Werke und (für sehbehinderte Menschen) die hochauflösenden Abbildungen nutzen zu können.
-    
-    Auch ermöglicht es dieser Ansatz besser, die NutzerInnen dazu zu veranlassen, persönlich ins Museum zu kommen und die Ausstellungen zu besichtigen.
+    Auch ermöglicht es dieser Ansatz besser, die Nutzerinnen und Nutzer dazu zu veranlassen, persönlich ins Museum zu kommen und die Ausstellungen zu besichtigen.
   option_type: plain
 
 ----

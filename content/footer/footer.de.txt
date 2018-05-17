@@ -2,8 +2,11 @@ Title: footer
 
 ----
 
-Author: Vermittlung Kultur Inklusion. (link: http://www.supsi.ch/lcv text: Labor für visuelle Kultur (SUPSI) target: _blank)
+Author: 
+
+Vermittlung Kultur Inklusion
+(link: http://www.supsi.ch/lcv text: Labor für visuelle Kultur &#40;SUPSI&#41; target: _blank)
 
 ----
 
-License: Die gesamte Dokumentation von Mediation – Kultur – Inklusion ist unter einer (link: http://creativecommons.org/licenses/by-sa/4.0/ text: Creative Commons Lizenz CCBY 4.0 international rel: license target: _blank) freigegeben und kann von jedermann für beliebige Zwecke verteilt und weitergegeben werden.
+License: Die gesamte Dokumentation von Vermittlung – Kultur – Inklusion wird mit einer Lizenz (link: http://creativecommons.org/licenses/by-sa/4.0/ text: Creative Commons Namensnennung rel: license target: _blank) vertrieben – Weitergabe unter den gleichen Bedingungen wie 4.0 International
