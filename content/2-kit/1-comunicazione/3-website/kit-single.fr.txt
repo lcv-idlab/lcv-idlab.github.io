@@ -44,46 +44,6 @@ Article:
     Aussi, en plus des textes, images et vidéos présents sur une page, il existe également une quantité de contenus cachés (métadonnées), de mots-clefs et de codes qui permettent la communication entre les applications, la traçabilité des contenus dans les moteurs de recherche et l’échange des données entre programmes afin qu’ils puissent s’adapter aux différents utilisateurs et améliorer ainsi l’expérience d’utilisation. Pouvoir écouter un texte écrit sur une page web est un exemple d’échange de données entre applications (page HTML – lecteur vocal), qui permet également aux personnes aveugles et malvoyantes d’accéder à des contenus numériques.
   option_type: one
 - 
-  section_title: >
-    Conception du site, structure et
-    hiérarchie des contenus
-  content: |
-    Les informations à transmettre et à publier peuvent être nombreuses (expositions, événements, archives, interviews, critiques, rencontres, collaborations, laboratoires, sponsors, contacts, calendriers, inscriptions, news, etc.) ; pour les présenter, il est possible de recourir à des éléments de différente nature, tels qu’images, textes, formulaires, vidéos, liens, listes, etc.
-    
-    Pour être clairement compréhensible (accessible) au public visé, un site doit être structuré et organisé de manière claire, complète et univoque.
-    
-    Aussi la conception de la structure du site est-elle la première étape pour organiser les informations à publier ; cela permet de créer une carte indispensable pour créer et récupérer les contenus nécessaires pour chaque domaine, pour créer le langage visuel de communication (design) et pour la mise en œuvre du site (écriture du code). La succession de ces trois opérations doit absolument se faire dans l’ordre indiqué, car elles dépendent l’une de l’autre en cascade.
-    
-    La carte logique définit la hiérarchie des contenus des macro-zones les plus génériques aux contenus individuels qui rempliront les différentes ramifications. Un bon point de départ consiste à regrouper les contenus par types de plus en plus spécifiques et logiques, en les indiquant comme divisions et subdivisions des zones principales.
-    
-    Les contenus à mettre en évidence doivent rester plus en « surface » de façon à être facilement accessibles, tandis que les contenus moins importants peuvent rester plus en « profondeur ». Pour évaluer si les informations sont plus ou moins en surface, il suffit de compter combien de fois il faut cliquer pour les atteindre depuis la page principale du site.
-    
-    Evidemment, tout ne peut pas être en surface, raison pour laquelle il faut faire un choix et définir une hiérarchie, que sera celle que l’utilisateur percevra en visitant le site. La hiérarchie communique directement l’importance attribuée à chaque contenu par le créateur et le responsable d’un site.
-  option_type: one
-- 
-  section_title: Forme et contenus
-  content: |
-    La qualité et l’exhaustivité, la spécialisation ou la généralisation des contenus doivent satisfaire la demande d’informations de l’utilisateur et être compréhensibles dans le langage et dans la fiabilité des contenus.
-    
-    Les images ou les icônes choisies doivent être lisibles et, de plus, cohérentes explicatives par rapport aux contenus présentés et au langage graphique choisi pour le site. En outre, le fait de rendre le site web unique par rapport aux autres sites existants en le distinguant par des choix esthétiques et perceptifs, permet de créer une expérience de navigation agréable et intéressante, en renforçant l’efficacité de la communication.
-    
-    La forme visuelle choisie pour représenter les différentes informations présentes doit rester cohérente avec celle des autres parties du site, de façon à permettre de reconnaître rapidement le type de contenu et à faciliter et simplifier la navigation, en rendant l’accès aux informations plus direct.
-    
-    Pour être accessibles aussi par les personnes malvoyantes, il est important que tous les contenus visibles dans la partie visuelle du site, qu’il s’agisse de texte, d’images ou de contenus multimédias, soient présentés dans le respect des règles pour un design inclusif. Les aspects liés au design, s’ils sont utilisés de façon cohérente pour tout le site, peuvent en outre renforcer la subdivision et la hiérarchie des contenus, ce qui en renforce davantage encore l’accessibilité.
-  option_type: one
-- 
-  section_title: >
-    Vérification du niveau
-    d’accessibilité d’un site web
-    existant
-  content: |
-    La société contemporaine est toujours plus imprégnée d’informations de différent type, de langages et de médias dans divers formats (images, sons et vidéos) distribués dans la réalité tangible et numérique. L’évolution du monde numérique ne rend pas simple une conception appropriée à tous les types d’utilisateurs et de supports. Les critères d’accessibilité permettent cependant de vérifier la qualité d’un site web déjà existant. Il existe par ailleurs d’autres critères permettant de vérifier si une interaction est satisfaisante et accessible du point de vue de l’expérience, par exemple l’ergonomie.
-    
-    (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Le schéma illustre montre comment l’ergonomie, le standard web et les technologies d’assistance rendent l’expérience accessible)
-    
-    Pour vérifier la qualité d’un site web, il existe de nombreux standards relatifs à l’accessibilité (link: https://www.w3.org text: W3C target: blank), même spécifiques pour personnes malvoyantes (voir références bibliographiques). En ce qui concerne l’analyse spécifique du niveau d’accessibilité des sites web des musées, il est possible par ailleurs de prendre comme référence les critères d’accessibilité identifiés à l’occasion des  (link: /risorse/analisi-istituzionali text: analyses institutionnelles) et les instruments d’analyse suggérés dans la ressource.
-  option_type: one
-- 
   option_type: one
   section_title: Les utilisateurs et leurs besoins
   content: ""
@@ -136,6 +96,46 @@ Article:
     permettent l’échange de données,
     augmentant ainsi également la
     longévité d’un site.
+- 
+  section_title: >
+    Conception du site, structure et
+    hiérarchie des contenus
+  content: |
+    Les informations à transmettre et à publier peuvent être nombreuses (expositions, événements, archives, interviews, critiques, rencontres, collaborations, laboratoires, sponsors, contacts, calendriers, inscriptions, news, etc.) ; pour les présenter, il est possible de recourir à des éléments de différente nature, tels qu’images, textes, formulaires, vidéos, liens, listes, etc.
+    
+    Pour être clairement compréhensible (accessible) au public visé, un site doit être structuré et organisé de manière claire, complète et univoque.
+    
+    Aussi la conception de la structure du site est-elle la première étape pour organiser les informations à publier ; cela permet de créer une carte indispensable pour créer et récupérer les contenus nécessaires pour chaque domaine, pour créer le langage visuel de communication (design) et pour la mise en œuvre du site (écriture du code). La succession de ces trois opérations doit absolument se faire dans l’ordre indiqué, car elles dépendent l’une de l’autre en cascade.
+    
+    La carte logique définit la hiérarchie des contenus des macro-zones les plus génériques aux contenus individuels qui rempliront les différentes ramifications. Un bon point de départ consiste à regrouper les contenus par types de plus en plus spécifiques et logiques, en les indiquant comme divisions et subdivisions des zones principales.
+    
+    Les contenus à mettre en évidence doivent rester plus en « surface » de façon à être facilement accessibles, tandis que les contenus moins importants peuvent rester plus en « profondeur ». Pour évaluer si les informations sont plus ou moins en surface, il suffit de compter combien de fois il faut cliquer pour les atteindre depuis la page principale du site.
+    
+    Evidemment, tout ne peut pas être en surface, raison pour laquelle il faut faire un choix et définir une hiérarchie, que sera celle que l’utilisateur percevra en visitant le site. La hiérarchie communique directement l’importance attribuée à chaque contenu par le créateur et le responsable d’un site.
+  option_type: one
+- 
+  section_title: Forme et contenus
+  content: |
+    La qualité et l’exhaustivité, la spécialisation ou la généralisation des contenus doivent satisfaire la demande d’informations de l’utilisateur et être compréhensibles dans le langage et dans la fiabilité des contenus.
+    
+    Les images ou les icônes choisies doivent être lisibles et, de plus, cohérentes explicatives par rapport aux contenus présentés et au langage graphique choisi pour le site. En outre, le fait de rendre le site web unique par rapport aux autres sites existants en le distinguant par des choix esthétiques et perceptifs, permet de créer une expérience de navigation agréable et intéressante, en renforçant l’efficacité de la communication.
+    
+    La forme visuelle choisie pour représenter les différentes informations présentes doit rester cohérente avec celle des autres parties du site, de façon à permettre de reconnaître rapidement le type de contenu et à faciliter et simplifier la navigation, en rendant l’accès aux informations plus direct.
+    
+    Pour être accessibles aussi par les personnes malvoyantes, il est important que tous les contenus visibles dans la partie visuelle du site, qu’il s’agisse de texte, d’images ou de contenus multimédias, soient présentés dans le respect des règles pour un design inclusif. Les aspects liés au design, s’ils sont utilisés de façon cohérente pour tout le site, peuvent en outre renforcer la subdivision et la hiérarchie des contenus, ce qui en renforce davantage encore l’accessibilité.
+  option_type: one
+- 
+  section_title: >
+    Vérification du niveau
+    d’accessibilité d’un site web
+    existant
+  content: |
+    La société contemporaine est toujours plus imprégnée d’informations de différent type, de langages et de médias dans divers formats (images, sons et vidéos) distribués dans la réalité tangible et numérique. L’évolution du monde numérique ne rend pas simple une conception appropriée à tous les types d’utilisateurs et de supports. Les critères d’accessibilité permettent cependant de vérifier la qualité d’un site web déjà existant. Il existe par ailleurs d’autres critères permettant de vérifier si une interaction est satisfaisante et accessible du point de vue de l’expérience, par exemple l’ergonomie.
+    
+    (image: diagramma_usabilita.jpg class: one-column gallery diagramma caption: Le schéma illustre montre comment l’ergonomie, le standard web et les technologies d’assistance rendent l’expérience accessible)
+    
+    Pour vérifier la qualité d’un site web, il existe de nombreux standards relatifs à l’accessibilité (link: https://www.w3.org text: W3C target: blank), même spécifiques pour personnes malvoyantes (voir références bibliographiques). En ce qui concerne l’analyse spécifique du niveau d’accessibilité des sites web des musées, il est possible par ailleurs de prendre comme référence les critères d’accessibilité identifiés à l’occasion des  (link: /risorse/analisi-istituzionali text: analyses institutionnelles) et les instruments d’analyse suggérés dans la ressource.
+  option_type: one
 
 ----
 

@@ -30,7 +30,7 @@ Article:
     Permettere l’utilizzo dei mezzi
     ausiliari
   content: 'È fondamentale consentire al pubblico con disabilità visiva l’(link: it/kit/comunicazione/relazione-con-il-pubblico#conoscere-le-necessit�-e-le-aspettative text: utilizzo dei mezzi ausiliari) in grado anche di facilitare la fruizione del museo e delle opere. Nei casi in cui sussista un reale pericolo per la conservazione delle opere esposte (es. quando posizionate a terra e non protette), si raccomanda di segnalare la problematica conservativa ai visitatori. Offrire un accompagnamento lungo il percorso di visita è in questi casi ancor più decisivo: oltre a orientare il pubblico favorendone la mobilità, permette di assicurare una corretta conservazione delle opere (es. orientando anche l’eventuale cane guida accompagnante il visitatore cieco). In ogni caso, è determinante trovare insieme al visitatore una soluzione in grado di favorire la fruizione delle opere e del museo.'
-  option_type: three
+  option_type: one
 - 
   option_type: one
   section_title: Guidare e descrivere

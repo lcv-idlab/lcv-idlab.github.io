@@ -45,8 +45,8 @@ Article:
   section_title: >
     Permettre l’utilisation des moyens
     auxiliaires
-  content: "Il est fondamental de permettre au public aveugle et malvoyant d'(link: fr/kit/comunicazione/relazione-con-il-pubblico#connaitre-les-besoins-et-les-attentes text: d’utiliser des moyens auxiliaires) propres à lui faciliter l’accès au musée et aux œuvres. S’il existe un réel danger pour la conservation des œuvres exposées (p. ex. quand elles sont placées au sol et non protégées), il est conseillé de signaler ce problème aux visiteurs. Le fait d’offrir un accompagnement sur le parcours de visite est, dans ce cas, plus important encore : en plus d’orienter le public en favorisant sa mobilité, cela permet d’assurer la bonne conservation des œuvres (p. ex. en orientant également l’éventuel chien-guide qui accompagne le visiteur aveugle). Dans tous les cas, il est déterminant de trouver, avec le visiteur, une solution en mesure de favoriser l’accès aux œuvres et au musée."
-  option_type: three
+  content: "Il est fondamental de permettre au public aveugle et malvoyant (link: fr/kit/comunicazione/relazione-con-il-pubblico#connaitre-les-besoins-et-les-attentes text: d'utiliser des moyens auxiliaires) propres à lui faciliter l’accès au musée et aux œuvres. S’il existe un réel danger pour la conservation des œuvres exposées (p. ex. quand elles sont placées au sol et non protégées), il est conseillé de signaler ce problème aux visiteurs. Le fait d’offrir un accompagnement sur le parcours de visite est, dans ce cas, plus important encore : en plus d’orienter le public en favorisant sa mobilité, cela permet d’assurer la bonne conservation des œuvres (p. ex. en orientant également l’éventuel chien-guide qui accompagne le visiteur aveugle). Dans tous les cas, il est déterminant de trouver, avec le visiteur, une solution en mesure de favoriser l’accès aux œuvres et au musée."
+  option_type: one
 - 
   option_type: one
   section_title: Guider et décrire

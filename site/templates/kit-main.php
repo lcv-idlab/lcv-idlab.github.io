@@ -79,8 +79,8 @@
 
 			<ul>
 				<li>
-					<?php $linkd = ""; foreach(page()->download_final_doc_pdfs()->toStructure() as $itemd) { if( $itemd->lang() == $site->language()->code()) { $linkd = page()->document($itemd->pdf())->url(); break; } else { $linkd = page()->document($itemd->pdf())->url(); }} ?>
-					<a href="<?php echo $linkd ?>" target="_blank"><img src="<?php echo page()->image(page()->download_final_doc_img())->url() ?>"></a>
+					<?php foreach(page()->download_final_doc_pdfs()->toStructure() as $itemd) { if( $itemd->lang() == $site->language()->code()) { break; }} ?>
+					<a href="<?php echo page()->document($itemd->pdf())->url(); ?>" target="_blank"><img src="<?php echo page()->image(page()->document_image())->url() ?>"></a>
 					<h3><?php echo page()->download_final_doc()?></h3>
 					<ul class="download_multi_lang">
 						<?php foreach(page()->download_final_doc_pdfs()->toStructure() as $itemdd): ?>
@@ -90,7 +90,7 @@
 				</li>
 				<li>
 					<?php $linkp = ""; foreach(page()->download_final_poster_pdfs()->toStructure() as $itemp) { if( $itemp->lang() == $site->language()->code()) { $linkp = page()->document($itemp->pdf())->url(); break; } else { $linkp = page()->document($itemp->pdf())->url(); } } ?>
-					<a href="<?php echo $linkp ?>" target="_blank"><img src="<?php echo page()->image(page()->download_final_poster_img())->url() ?>"></a>
+					<a href="<?php echo $linkp ?>" target="_blank"><img src="<?php echo page()->image(page()->poster_image())->url() ?>"></a>
 					<h3><?php echo page()->download_final_poster()?></h3>
 					<ul class="download_multi_lang">
 						<?php foreach(page()->download_final_poster_pdfs()->toStructure() as $itempp): ?>

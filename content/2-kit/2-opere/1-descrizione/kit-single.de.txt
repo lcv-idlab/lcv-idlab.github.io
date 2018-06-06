@@ -284,7 +284,7 @@ Article:
   section_title: >
     Texte in grossen Buchstaben für
     sehbehinderte Menschen
-  content: '(link: de/kit/comunicazione/design text: Texte in besonders grossen Buchstaben anzubieten) ), kann sehr effizient sein, um sehbehinderten Menschen kurze Informationen (z. B. Bildunterschriften) zu übermitteln. Auch hier verhält es sich bei langen Texten anders. Zum einen kann das Lesen unter Umständen viel Zeit beanspruchen, zum anderen sind die neuen Technologien in den meisten Fällen effizienter, um Menschen mit Sehproblemen Zugang zu Informationen zu verschaffen.'
+  content: '(link: de/kit/comunicazione/design text: Texte in besonders grossen Buchstaben anzubieten), kann sehr effizient sein, um sehbehinderten Menschen kurze Informationen (z. B. Bildunterschriften) zu übermitteln. Auch hier verhält es sich bei langen Texten anders. Zum einen kann das Lesen unter Umständen viel Zeit beanspruchen, zum anderen sind die neuen Technologien in den meisten Fällen effizienter, um Menschen mit Sehproblemen Zugang zu Informationen zu verschaffen.'
 - 
   option_type: three
   section_title: Texte im digitalen Format

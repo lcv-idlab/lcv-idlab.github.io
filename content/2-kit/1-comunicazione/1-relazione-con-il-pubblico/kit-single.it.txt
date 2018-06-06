@@ -144,7 +144,7 @@ Validation-pdf:
 
 ----
 
-Pdf-article: 
+Pdf-article: relazionarsi-con-il-pubblico.pdf
 
 ----
 

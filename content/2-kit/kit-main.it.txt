@@ -38,20 +38,7 @@ Pdf-poster: 6438607863671.pdf
 
 ----
 
-Download: 
-
-- 
-  name: Kit completo
-  doc: 4072376043476.pdf
-  img: screen-shot-2018-02-05-at-14.39.15.png
-
-----
-
 Download-final-doc: Kit completo
-
-----
-
-Download-final-doc-img: mci_kit_it.png
 
 ----
 
@@ -60,14 +47,11 @@ Download-final-doc-pdfs:
 - 
   pdf: mci_kit_it.pdf
   lang: it
+  cover: mci_kit_cover_document_it.jpg
 
 ----
 
 Download-final-poster: Poster
-
-----
-
-Download-final-poster-img: mci_poster_it.png
 
 ----
 
@@ -76,13 +60,24 @@ Download-final-poster-pdfs:
 - 
   pdf: mci_poster_it.pdf
   lang: it
+  cover: mci_kit_cover_poster_it.jpg
 - 
   pdf: mci_poster_de.pdf
   lang: de
+  cover: mci_kit_cover_poster_de.jpg
 - 
   pdf: mci_poster_fr.pdf
   lang: fr
+  cover: mci_kit_cover_poster_fr.jpg
 
 ----
 
 Class-id: kit
+
+----
+
+Document-image: mci_kit_cover_document_it.jpg
+
+----
+
+Poster-image: mci_kit_cover_poster_it.jpg

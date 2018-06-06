@@ -179,8 +179,8 @@ Article:
     
     Sehbehinderte Besucherinnen und Besucher können sich auch am visuellen Teil der Inszenierung erfreuen, der oft Anlass zu Staunen und freudiger Überraschung ist. An dieser Stelle sei daran erinnert, dass es nicht notwendig ist, das Kunstwerk in allen Details zu reproduzieren, um eine gute und effiziente Inszenierung durchzuführen. Wichtig ist, dass Kleidung und Gegenstände vor allem im Hinblick auf ihre Materialbeschaffenheit (Struktur und Volumen) ausgewählt werden, die der visuell wahrnehmbaren möglichst ähnlich sein sollte.
     
-    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'I partecipanti con problemi di vista ascoltano le indicazioni dei collaboratori SUPSI per mimare e assumere in prima persona la posizione della donna ritratta nell’opera. Un operatore SUPSI aiuta una di loro.')
-    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena alt: 'In posa, abbigliati e agghindati con costumi e accessori, due collaboratori SUPSI mettono in scena un’opera della mostra.')
+    (image: 07-interpretazioni-fisiche.jpg class: two-columns gallery scena)
+    (image: 08-interpretazioni-fisiche.jpg class: two-columns gallery scena)
 - 
   option_type: two
   section_title: >

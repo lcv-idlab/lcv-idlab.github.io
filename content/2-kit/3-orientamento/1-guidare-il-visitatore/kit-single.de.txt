@@ -28,7 +28,7 @@ Article:
 - 
   section_title: Den Einsatz von Hilfsmitteln erlauben
   content: 'Von zentraler Bedeutung ist es, dem sehbehinderten Publikum den (link: de/kit/comunicazione/relazione-con-il-pubblico#bedurfnisse-und-erwartungen-kennen text: Einsatz von Hilfsmitteln) zu erlauben, die die Nutzung des Museums und der Kunstwerke vereinfachen. Sollte für die Konservierung der ausgestellten Werke eine reale Gefahr bestehen (z. B. wenn sie ungeschützt auf dem Boden platziert sind), müssen die Besucherinnen und Besucher unbedingt darauf hingewiesen werden. In diesen Fällen ist es noch wichtiger, eine Begleitung während des Besuchs anzubieten. Hierdurch wird nicht nur die Orientierung und die Mobilität des Publikums gefördert, sondern auch eine korrekte Konservierung der Kunstwerke gewährleistet (indem z. B. die Orientierung auch auf eventuell mitgenommene Führhunde blinder Besucherinnen und Besucher ausgedehnt wird). In jedem Fall ist es von entscheidender Bedeutung, gemeinsam mit den Besucherinnen und Besuchern eine Lösung zu finden, um die Nutzung der Kunstwerke und des Museums zu fördern.'
-  option_type: three
+  option_type: one
 - 
   option_type: one
   section_title: Führen und beschreiben
