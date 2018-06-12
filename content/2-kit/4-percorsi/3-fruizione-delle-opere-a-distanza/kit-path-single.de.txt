@@ -35,3 +35,7 @@ Links-to-resources:
 
 - 
   kit: la-fruizione-a-distanza
+
+----
+
+Pdf-article: die-nutzung-von-kunstwerken-auf-distanz.pdf

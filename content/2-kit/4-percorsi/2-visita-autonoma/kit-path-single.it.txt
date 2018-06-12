@@ -41,3 +41,7 @@ Links-to-kit:
 ----
 
 Links-to-resources: 
+
+----
+
+Pdf-article: visitata-autonoma.pdf

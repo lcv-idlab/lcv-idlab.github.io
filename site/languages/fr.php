@@ -24,7 +24,7 @@
 	l::set('index', 'index');
 	l::set('more', 'Continuer à lire');
 	l::set('evaluate', 'Évaluer');
-	l::set('pdf-article', "télécharger la fiche");
+	l::set('download-pdf-kit-single', "Télécharger la fiche");
 
 	// kit path single
 	l::set('related-kits', 'Fishes du kit afférentes');

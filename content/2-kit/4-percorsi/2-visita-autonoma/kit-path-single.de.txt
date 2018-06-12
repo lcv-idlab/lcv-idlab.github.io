@@ -40,3 +40,7 @@ Links-to-kit:
 ----
 
 Links-to-resources: 
+
+----
+
+Pdf-article: die-selbstandige-besichtigung.pdf

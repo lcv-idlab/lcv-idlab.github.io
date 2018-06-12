@@ -55,6 +55,15 @@
 
 				<?php endforeach ?>
 
+				<!-- PDF of the article -->
+				<?php if(page()->pdf_article()->isNotEmpty()): ?>
+					<div class="section-h-line"></div>
+					<div class="section-container" id="container-button-article-pdf">
+						<h2><?php echo l::get('download-pdf-kit-single') ?></h2>
+						<a href="<?php echo page()->document(page()->pdf_article())->url() ?>" target="_blank"><div class="button"><?php echo page()->title() ?></div></a>
+					</div>
+				<?php endif ?>
+
 				</div>
 
 			</article>

@@ -112,3 +112,7 @@ Links-to-resources:
   kit: l-incontro-con-l-artista
 - 
   kit: toccare-l-arte
+
+----
+
+Pdf-article: die-multisensorische-fuhrung.pdf

@@ -37,3 +37,7 @@ Links-to-resources:
 
 - 
   kit: la-fruizione-a-distanza
+
+----
+
+Pdf-article: acces-aux-oeuvres-a-distance.pdf

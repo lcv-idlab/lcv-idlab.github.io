@@ -45,6 +45,11 @@ fields:
         type: markdown
         header1: h3
         header2: h4
+  pdf_article:
+    label: PDF dell'articolo
+    type: select
+    default: architecture
+    options: documents
   links_to_kit:
     label: Lista schede kit da selezionare
     type: structure
