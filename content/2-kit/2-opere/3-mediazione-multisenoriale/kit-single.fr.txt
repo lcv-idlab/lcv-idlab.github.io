@@ -230,7 +230,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: interpreter-a-travers-les-sens.pdf
 
 ----
 

@@ -154,7 +154,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: die-direkte-begegnung-mit-dem-kunstwerk-fordern.pdf
 
 ----
 

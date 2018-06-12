@@ -59,9 +59,9 @@ Article:
     
     Im Rahmen des Projektes „Vermittlung Kultur Inklusion“ wurden die Bedürfnisse und Erwartungen des Zielpublikums für den Bereich Kunst und Kultur – und insbesondere für die Kunstmuseen im Tessin – untersucht und in zwei frei zugänglichen Berichten zusammengefasst, deren Ergebnisse im Folgenden vorgestellt werden.
     
-    (image: esperienze-museali-01.jpg  alt: 'Immagine rappresentativa. Veduta panoramica di una sala espositiva con quadri alle pareti di diverse dimensioni. Una persona di spalle sta visitando la mostra.'  class: two-columns link: /risorse/indagine-preliminare)
+    (image: esperienze-museali-01.jpg  class: two-columns link: /risorse/indagine-preliminare)
     
-    (image: esperienze-museali-02.jpg  alt: Esperienza museale class: two-columns link: /risorse/indagine-in-profondita)
+    (image: esperienze-museali-02.jpg  class: two-columns link: /risorse/indagine-in-profondita)
 - 
   option_type: one
   section_title: Den Besucherempfang gestalten
@@ -131,7 +131,7 @@ Validation-pdf:
 
 ----
 
-Pdf-article: 
+Pdf-article: mit-dem-publikum-in-kontakt-treten.pdf
 
 ----
 

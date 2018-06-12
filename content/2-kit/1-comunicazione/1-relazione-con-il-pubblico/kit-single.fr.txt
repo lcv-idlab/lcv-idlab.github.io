@@ -167,7 +167,7 @@ Validation-pdf:
 
 ----
 
-Pdf-article: 
+Pdf-article: etablir-un-rapport-avec-le-public.pdf
 
 ----
 

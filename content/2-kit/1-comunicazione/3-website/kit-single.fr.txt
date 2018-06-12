@@ -139,7 +139,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: accessibilite-numerique.pdf
 
 ----
 

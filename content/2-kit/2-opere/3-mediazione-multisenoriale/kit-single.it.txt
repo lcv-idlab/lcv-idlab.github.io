@@ -222,7 +222,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: interpretare-attraverso-i-sensi.pdf
 
 ----
 

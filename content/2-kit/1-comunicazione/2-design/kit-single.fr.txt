@@ -157,7 +157,7 @@ Tools:
 
 ----
 
-Pdf-article: 
+Pdf-article: design-inclusif.pdf
 
 ----
 

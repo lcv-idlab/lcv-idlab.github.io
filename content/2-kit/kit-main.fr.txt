@@ -58,6 +58,12 @@ Download-final-doc-img: mci_kit_it.png
 Download-final-doc-pdfs: 
 
 - 
+  pdf: mci_kit_fr.pdf
+  lang: fr
+- 
+  pdf: mci_kit_de.pdf
+  lang: de
+- 
   pdf: mci_kit_it.pdf
   lang: it
 

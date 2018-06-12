@@ -292,7 +292,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: decrire-les-oeuvres.pdf
 
 ----
 

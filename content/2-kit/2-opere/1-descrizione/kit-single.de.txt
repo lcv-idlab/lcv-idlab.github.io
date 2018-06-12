@@ -318,7 +318,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: die-kunstwerke-auswahlen.pdf
 
 ----
 

@@ -154,7 +154,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: favoriser-la-rencontre-directe.pdf
 
 ----
 

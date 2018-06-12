@@ -137,7 +137,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: digitale-accessibile.pdf
 
 ----
 

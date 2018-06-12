@@ -131,7 +131,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: adapter-le-musee.pdf
 
 ----
 

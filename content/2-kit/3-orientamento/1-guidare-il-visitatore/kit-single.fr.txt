@@ -75,7 +75,7 @@ Article:
 
 ----
 
-Pdf-article: 
+Pdf-article: accompagner-le-visiteur.pdf
 
 ----
 
