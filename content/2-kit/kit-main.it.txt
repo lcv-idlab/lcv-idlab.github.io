@@ -54,9 +54,6 @@ Download-final-doc-pdfs:
 - 
   pdf: mci_kit_fr.pdf
   lang: fr
-- 
-  pdf: mci_kit_fr.pdf
-  lang: fr
 
 ----
 
