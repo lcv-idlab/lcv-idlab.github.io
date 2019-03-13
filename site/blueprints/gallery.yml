@@ -1,0 +1,29 @@
+// blueprint title (template title)
+title: gallery
+
+// page settings
+options:
+  delete: false
+  preview: true
+  status: true
+  template: false
+  url: false
+
+// subpages settings
+pages: false
+
+// file settings
+files: true
+  fields: 
+    alt:
+      label: Alt text
+      type: text
+
+// fields with their fields types and options
+fields:
+  title:
+    label: Titolo
+    type: text
+  gallery:
+    label: Galleria immagini
+    type: gallery

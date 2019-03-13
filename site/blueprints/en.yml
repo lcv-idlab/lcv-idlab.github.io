@@ -33,6 +33,9 @@ fields:
   paragraph:
     label: Contenuto
     type: textarea
+  button_text:
+    label: Testo bottone continua al sito
+    type: text
   license:
     label: Licenza in inglese
     type: textarea

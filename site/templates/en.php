@@ -8,7 +8,7 @@
 
 		<?php echo page()->paragraph()->kt() ?>
 
-		<a href="<?php echo site()->url() ?>" title="Visit the main site" class="button button-download">Visit the main site</a>
+		<a href="<?php echo site()->url() ?>" title="Visit the main site" class="button button-download"><?php echo page()->button_text() ?></a>
 
 	</div>
 
@@ -27,7 +27,7 @@
       <a href="mailto:info.mci@supsi.ch" class="link" id="contact-email">info.mci@supsi.ch</a>
 
       <div id="license">
-      	All the documentation of Mediation Culture Inclusion is distributed with the license <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - ShareAlike 4.0 International</a>
+      	<?php echo page()->license()->html() ?>
         <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license"><img alt="License Creative Commons" style="border-width:0" src="/assets/images/cc-by-sa.png" /></a>
       </div>
     </div>

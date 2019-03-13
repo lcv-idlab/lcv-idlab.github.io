@@ -18,8 +18,12 @@ The platform (link: http://www.mci.supsi.ch/it text: www.mci.supsi.ch) presents 
 
 ----
 
-License: All the documentation of Mediation Culture Inclusion is distributed with the license <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - ShareAlike 4.0 International</a>
+License: All the documentation of Mediation Culture Inclusion is distributed with the license <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution - ShareAlike 4.0 International</a>
 
 ----
 
 Page-title: Mediation Culture Inclusion
+
+----
+
+Button-text: Go to the main website
