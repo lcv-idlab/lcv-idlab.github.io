@@ -1,0 +1,25 @@
+Title: en
+
+----
+
+Subtitle: Art museums and visual disabilities: equal opportunities in the cultural life of Southern Switzerland
+
+----
+
+Paragraph: 
+
+The aim of the project "Mediation Culture Inclusion (MCI)" is to develop and validate easily scalable solutions capable of making the main art museums in Southern Switzerland accessible to people with visual impairments, thereby promoting free access to the cultural and artistic world.
+
+The project is designed as an action research to investigate and test measures and best practices of cultural mediation for people with visual impairments. These measures and practices are developed by the University of Applied Sciences and Arts of Southern Switzerland (SUPSI) in collaboration with the regional network of art museums (7 institutions) and Unitas (Association of the Blind and Visually Impaired). Local partners played a key role in the development, implementation, and verification of intervention solutions capable of meeting the real needs of people with visual disabilities in three specific fields of action: communication, enjoyment of works of art, and spatial orientation and mobility.
+
+The results of the research project and the good practices developed during the experiments have been pooled into an operational kit available online (released under Creative Commons licenses) and promoted nationwide, which likewise adopts the tools of storytelling and visual documentation. Intended as a free tool for museum operators and social and cultural mediators, the proposed solutions have been selected for their effectiveness in promoting accessibility and inclusivity in cultural and artistic life for the visually impaired people. This effectiveness is due to their ability to respect both the specific needs of members of the public with visual disabilities and those of museum institutions (implementation and scalability at low cost and with limited technical complexity).
+
+The platform (link: http://www.mci.supsi.ch/it text: www.mci.supsi.ch) presents all the results of the project (Italian, French, German) and was designed and built to be accessible to blind and partially sighted people.
+
+----
+
+License: All the documentation of Mediation Culture Inclusion is distributed with the license <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - ShareAlike 4.0 International</a>
+
+----
+
+Page-title: Mediation Culture Inclusion

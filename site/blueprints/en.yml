@@ -1,0 +1,38 @@
+// blueprint title (template title)
+title: en
+
+// page settings
+options:
+  delete: false
+  preview: true
+  status: true
+  template: false
+  url: true
+
+// subpages settings
+pages: false
+
+// file settings
+files:
+  fields: 
+    alt: 
+      label: Alt text
+      type: text
+
+// fields with their fields types and options
+fields:
+  title:
+    label: Titolo
+    type: text
+  page_title:
+    label: Titolo della pagina in ingelse
+    type: text
+  subtitle:
+    label: Sottotitolo
+    type: text
+  paragraph:
+    label: Contenuto
+    type: textarea
+  license:
+    label: Licenza in inglese
+    type: textarea

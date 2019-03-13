@@ -4,10 +4,6 @@
 <main>
 	<h1 class="title title-project"><?php echo page()->title() ?></h1>
 
-	<div class="abstract-lang-nav">
-		<h2 class="visuallyhidden">Scelta della lingua del testo descrittivo</h2>
-	</div>
-
 	<div class="abstact-content">
 	<?php foreach ( page()->paragraphs()->toStructure() as $content): ?>
 		<section>

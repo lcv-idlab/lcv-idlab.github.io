@@ -1,0 +1,23 @@
+//--- EN (English presentation of the project site url/en) ---//
+
+.en-intro {
+
+	@include outer-container();
+	@include pads(0 2 0 2);
+	margin-bottom: 5rem;
+
+	h2 {
+		margin-bottom: 3rem;
+	}
+
+	p {
+		margin-bottom: 1rem;
+	}
+
+	.button {
+		margin-top: 3rem;
+		@media screen and (min-width: 980px) {
+			@include span-columns(4);
+		}
+	}
+}
