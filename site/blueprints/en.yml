@@ -36,6 +36,9 @@ fields:
   button_text:
     label: Testo bottone continua al sito
     type: text
+  footer_title:
+    label: Titolo del footer
+    type: textarea
   license:
     label: Licenza in inglese
     type: textarea

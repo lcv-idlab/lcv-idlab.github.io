@@ -21,7 +21,8 @@
 <footer>
   <div class="contacts">
       <div id="author">
-        <?php echo page()->page_title()->html() ?>
+        <?php echo page()->page_title()->kt() ?></br>
+        <?php echo page()->footer_title()->kt() ?>
       </div>
 
       <a href="mailto:info.mci@supsi.ch" class="link" id="contact-email">info.mci@supsi.ch</a>

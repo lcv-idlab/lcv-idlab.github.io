@@ -27,3 +27,7 @@ Page-title: Mediation Culture Inclusion
 ----
 
 Button-text: Go to the main website
+
+----
+
+Footer-title: (link: http://www.supsi.ch/lcv text: Laboratory of visual culture &#40;SUPSI&#41; target: _blank)
